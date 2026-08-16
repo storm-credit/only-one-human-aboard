@@ -91,6 +91,17 @@ Promotion blockers:
 | C8 자신의 자녀는 모두 seeded-origin | PROVISIONAL | 가족 감정폭발 핵심 |
 | C8에게 특별능력/관리자권한 없음 | PROVISIONAL | chosen-one 방지 |
 | N과 C8은 서로 다른 인물 | PROVISIONAL | 보호대상=인간 조기예측 방지 |
+| C8-BR Work-First Family | PROVISIONAL | 42~47세 후보, water/reclamation 실무자 + 독립목표 가족. 정확 나이/성별/직급 미정 |
+| C8 배우자 / 17~19세 첫째 / 7~9세 둘째 | PROVISIONAL | 각자 독립목표. N의 친권서사와 차별화 |
+| Reveal 전 최소 3회 생활등장 | PROVISIONAL | worker → family → destination-resource. 개인 provenance 직접노출 금지 |
+| 공동양육/별거형 C8 가족 | REJECTED AS PRIMARY | P-S-N 친권/선택권 서사 중복 |
+| Blended family 전체채택 | CANDIDATE ELEMENT ONLY | Reveal 설명력은 강하나 과도한 테마설계 위험 |
+
+C8-BR Promotion blockers:
+1. Living World v0.2 직업/통근/주거 Regression
+2. C-full에서 Pre-Reveal 3회가 실제 rhythm을 해치지 않는지 확인
+3. Information Ladder에서 C8 provenance가 조기정답이 되지 않는지 확인
+4. water/reclamation 직업이 endgame 대체불가능 전문가로 변하지 않도록 유지
 
 ## Living World v0.2
 
