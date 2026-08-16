@@ -56,6 +56,11 @@
 - 핵심 7인 Role-level Bible
 - Chemistry/Relationship Matrix
 - 유일한 인간 C8 4안
+- **C8-B Family Autonomy / Pre-Reveal Appearance 4안 테스트 완료**
+- **C8-BR Work-First Family 추천 Hybrid 도출**
+
+관련 최신 문서:
+- `docs/characters/C8-B-FAMILY-AUTONOMY-PRE-REVEAL-TEST-v0.1.md`
 
 ## Living World
 - v0.1 8구획안
@@ -156,7 +161,7 @@ anchor 없이 Scan만으로 만든 존재:
 - 옛 synthetic cognition 기술의 의미가 수백 년 동안 희석
 - 대규모 정부 기억삭제 우선 폐기
 
-## H9R Destination — NEW CURRENT 1ST CANDIDATE
+## H9R Destination — CURRENT 1ST CANDIDATE
 `Quiet K-Dwarf System + Resource Triangle + Staged Settlement`
 
 ### Destination
@@ -276,26 +281,46 @@ P×S / S×N / P×R / P×D / P×O
 
 # C8 — Sole Natural-Origin Current 1st Candidate
 
-## C8-B — ‘자기 아이들은 모두 seeded-origin인 유일한 natural-origin 부모’
+## C8-BR — Work-First Family
 
-- 30대 후반~50대 평범한 부모 후보
-- 세계핵심 연구자/정치인 아님
-- 부모가 C8 임신 때 seed를 거부
-- C8은 오히려 부모의 결정을 위험하고 고집스러운 일로 생각했을 수 있음
-- 자신의 자녀에게는 표준 prenatal seed 선택
+기반:
+`C8-B 자기 아이들은 모두 seeded-origin인 유일한 natural-origin 부모`
 
-Reveal 뒤 옛 시스템은:
-- C8 = human
-- 배우자/자녀 = synthetic-origin
-으로 분류.
+현재 가족/생활 Hybrid 후보:
+- C8 나이 후보 `42~47세`
+- Habitat B water/reclamation maintenance 실무자 또는 교대반장
+- 관리자/최고기술자/유일한 전문가 아님
+- 배우자는 Habitat A 학교/공공서비스 운영직 후보, 자기 승진/통근 목표 보유
+- 첫째 `17~19세`, Spine/Outer Works 또는 Habitat C apprenticeship/독립생활 희망
+- 둘째 `7~9세`, 현재 학교/친구/생활권 잔류 희망
 
-핵심 감정:
-> `나만 인간이고 내 아이들은 아니라는 말을 왜 받아들여야 하지?`
+Reveal 전 개인욕망:
+> 가족이 서로 다른 방향으로 흩어지기 전에 어디에서 살지 결정하고 싶다.
 
-C8은 정답머신 금지.
-가족을 위해 human 지위를 이용하고 싶은 유혹/실수도 있어야 함.
+C8의 작은 결함:
+`가족을 지킨다`와 `가족을 한집에 묶어둔다`를 혼동할 수 있음.
 
-N(주인공 조카)과 C8은 현재 분리 추천.
+Reveal 전 최소 3회 등장 후보:
+1. 산업현장의 책임자/증인 — Worker, Not Mystery
+2. 통근/주거/첫째 진로 가족문제
+3. 도착준비로 수처리 예비설비가 bootstrap package 후보가 되며 현장 reliability 갈등
+
+중요 Guardrail:
+- C8 개인 prenatal provenance는 Reveal chain 후반 증거군
+- 이상한 뇌검사/신체/Legacy access/혈통 단서 금지
+- P와 즉시 친구/동지 금지
+- C8은 물 시스템의 천재나 대체불가능 기술자 아님
+- Reveal 뒤에도 배우자 직업, 첫째 진로, 둘째 학교, 실제 이주문제 계속 진행
+
+Stress Test:
+- Natural-Origin 제거 → 가족/직업/주거/H9R 서브플롯 유지: PASS
+- P 제거 → 독립 행동 유지: PASS
+- Reveal 전체 제거 → 장기 서브캐릭터 유지 가능: PASS
+- Co-parent형은 P-S-N 친권서사 중복으로 REJECT AS PRIMARY
+- Blended family 전체채택은 과도한 테마설계 위험으로 보류
+
+Status:
+`PROVISIONAL CHARACTER PRIORITY / NOT CANON`
 
 ---
 
@@ -363,6 +388,7 @@ N(주인공 조카)과 C8은 현재 분리 추천.
 - 회의실 정치화
 - 철학토론화
 - C8가 작품의 도덕적 정답머신이 되는 위험
+- C8 water/reclamation 직업이 endgame 편의적 핵심전문가가 되는 위험
 - Living World A/B/C가 도시/농민/노동자 카스트처럼 보이는 위험
 - H9R Resource Triangle가 태양계 개척물처럼 scope explosion하는 위험
 - Reward/유머/생활감 부족
@@ -371,11 +397,15 @@ N(주인공 조카)과 C8은 현재 분리 추천.
 
 # Immediate Next Work
 
-1. **C8-B Family Autonomy / Pre-Reveal Appearance Test**
-2. **Living World v0.2 population/economy/institution deeper pass**
-3. **Character Bible personality/dialogue preliminary**
-4. **C-full Act Architecture 5~8 Act**
-5. **H9R structural mass / propulsion-deceleration sanity regression**
-6. Sub-Act / Information Ladder / Foreshadow Ledger
+1. **Living World v0.2 population/economy/institution deeper pass**
+   - Habitat A/B/C 인구/통근/혼합직업 검증
+   - water/reclamation 및 학교/공공서비스 기관 배치
+   - 주거배정/이동/통근 제도
+   - 경제가 단순 중앙배급/현대 자본주의 복사본이 아닌지 4안 비교
+   - C8-BR 직업/가족 구조 Regression
+2. **Character Bible personality/dialogue preliminary**
+3. **C-full Act Architecture 5~8 Act**
+4. **H9R structural mass / propulsion-deceleration sanity regression**
+5. Sub-Act / Information Ladder / Foreshadow Ledger
 
 아직 어떤 새 설정도 CANON으로 승격하지 않는다.
