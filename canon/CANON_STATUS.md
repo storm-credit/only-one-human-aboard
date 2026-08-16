@@ -98,7 +98,7 @@ Promotion blockers:
 | Blended family 전체채택 | CANDIDATE ELEMENT ONLY | Reveal 설명력은 강하나 과도한 테마설계 위험 |
 
 C8-BR Promotion blockers:
-1. Living World v0.2 직업/통근/주거 Regression
+1. Living World v0.2 직업/통근/주거 Regression 1차 PASS — exact placement 미확정
 2. C-full에서 Pre-Reveal 3회가 실제 rhythm을 해치지 않는지 확인
 3. Information Ladder에서 C8 provenance가 조기정답이 되지 않는지 확인
 4. water/reclamation 직업이 endgame 대체불가능 전문가로 변하지 않도록 유지
@@ -116,6 +116,21 @@ C8-BR Promotion blockers:
 | Outer Works | PROVISIONAL | 외벽/방열/전력/위험정비 |
 | Founding Core / Legacy Decks | PROVISIONAL | 초기 거주/설비 잔존 |
 | Old Quarter | PROVISIONAL | 기존 구환을 Habitat A 내부로 축소 |
+| LW-E1 Layered Commons + Market City | PROVISIONAL | 기본생존=civic floor, 일상=화폐/시장, hard capacity=commons |
+| Habitat 간 직업/가족/계층 혼합 | PROVISIONAL | A/B/C는 특화산업의 비중 차이일 뿐 직업카스트 금지 |
+| cross-Habitat 통근/이주 일상화 | PROVISIONAL | hub-to-hub 30~60분, 일반 60~120분 후보. 교통 geometry 검증 전 NOT CANON |
+| 기본주거권 + regulated occupancy/lease/co-op 혼합 | PROVISIONAL | 완전 국가배급/완전자유 부동산 둘 다 회피 |
+| 돈으로 출생 capacity/사람지위/산소 생존권 직접구매 금지 | PROVISIONAL | hard capacity commons 원칙 |
+
+### Institutional Direction — PROVISIONAL
+- Ship Assembly / Civic Legislature
+- Habitat Councils
+- Capacity Forecast Office는 기술범위 계산, 배분결정 독점 금지
+- water/air/power/transit utilities 분산 운영
+- Continuity Service + Civic Courts
+- Habitat별 일반의료/학교 + 분산 전문기관
+- Archive Federation
+- Arrival Preparation Commission은 단일 명령기관보다 다기관 협상체 후보
 
 ### Social Networks — CANDIDATE/PROVISIONAL
 - Continuity Access Coalition
@@ -127,6 +142,13 @@ C8-BR Promotion blockers:
 - Civic Personhood Reform
 
 철학정당 하나가 사회 전체를 대표하지 않도록 이해관계 네트워크로 운영.
+
+Living World Promotion blockers:
+1. household/age distribution sanity check
+2. school/medical throughput rough model
+3. transit geometry/time sanity check
+4. A/B/C 각각 사건 regression으로 hidden caste 여부 검증
+5. housing economy 사건성 검증
 
 ## Reveal Fairness
 
@@ -151,6 +173,9 @@ C8-BR Promotion blockers:
 | 생명슬롯 시장거래가 기본제도 | REJECTED AS BASE | 과도한 디스토피아/계급화 |
 | 항상 한 명을 시스템이 자동 유지하는 Witness Protocol | REJECTED AS CURRENT PRIORITY | OH-D가 더 자연스러움. 완전 폐기 여부는 Freeze 전 재검증 |
 | 유년원/제작환/기억원을 각각 독립 거대 생활권으로 고정 | REJECTED AS CURRENT STRUCTURE | v0.2에서 기능을 Habitat 내부/산업망으로 분산 |
+| A=행정엘리트 / B=농민 / C=노동자 고정카스트 | REJECTED | Living World가 테마파크/계급도시로 굳음 |
+| 완전 중앙배급 경제 | REJECTED AS BASE | 생활자율성/시장사건 약화 |
+| 완전자유시장으로 hard capacity까지 구매 | REJECTED AS BASE | 폐쇄선 물리제약과 시민권 원칙 붕괴 |
 
 ## Promotion Rule
 
