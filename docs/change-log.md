@@ -152,3 +152,17 @@
 - World Rules Affected: 연속성 심사제도
 - Documents To Repair: Character Bible, Living World 기관 설계, Act Architecture
 - Status: PROVISIONAL CANDIDATE — Canon 금지
+
+## CHG-010 — H9 목적지를 ‘행성 vs 우주선’에서 staged system settlement로 정교화
+- Date: 2026-08-16
+- Change Location: H9 Destination / Arrival Resource Architecture
+- Previous: `이중유산 식민계획 + 우주선 고향화`, 남은 항해 약 10~15년이 1순위였으나 초기정착 자원과 선체해체의 실제 이득은 미정량.
+- New: `H9R Quiet K-Dwarf System + Resource Triangle + Staged Settlement`를 1순위 Hybrid로 추천. 목적지는 행성 하나가 아니라 거주가능 후보 행성 + 물/휘발성 자원천체 + 금속자원천체를 가진 별계. 남은 시간은 약 14년 후보. 선체 해체의 핵심 이득을 bulk 고철이 아니라 발전/방열/정밀제조/로봇/공정설비의 산업 bootstrap으로 정의. ship/orbit/surface/new-habitat의 연속적 선택을 유지.
+- Reason: 현지 ISRU가 가능한데도 선체를 뜯어야 하는 이유가 없으면 최종 갈등이 가짜가 되고, 반대로 행성정착을 강제하면 `우주선=고향`이 무의미해지기 때문.
+- Trigger / Evidence: `WL13-destination-resource-arrival-timeline-4-designs-v0.1.md` 4안 비교 및 Red Team. A Surface-First / B Resource Triangle / C Terminator / D Biosafety 비교에서 B가 장기성·사회갈등·비양자택일성 1위, A가 scope control 1위. A+B controlled Hybrid 추천.
+- Characters Affected: P, S, N, R, C8, 선박 전 시민, 향후 정착민
+- Acts Affected: 중반 감속준비부터 후반 도착/초기정착까지 전체 장기구조
+- Foreshadowing Affected: 목적지 관측자료, 식민용 detachable modules, 구식 mission law, 산업설비 해체, C8 분류의 법적 재등장
+- World Rules Affected: H9 목적지, ship resource economy, arrival timeline, population capacity, energy/heat, settlement law
+- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, Information Ladder, Foreshadow Ledger
+- Status: PROVISIONAL PRIORITY / NOT CANON — structural mass, propulsion/deceleration, Act regression 전 Freeze 금지
