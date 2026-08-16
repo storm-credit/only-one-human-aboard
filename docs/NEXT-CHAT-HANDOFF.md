@@ -1,323 +1,340 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
-> 이 문서는 대화 종료 위험 전에 새 채팅으로 안전하게 넘기기 위한 최신 롤링 인수인계다.
-> 현재는 계속 `DEEP DESIGN / NOT READY TO WRITE`다.
+> 롤링 인수인계. 현재 채팅이 길어질 경우 새 채팅에서 GitHub 정본을 직접 읽고 이어간다.
+> **현재는 DESIGN FREEZE를 통과했지만 CANON FREEZE / WRITING READY는 아직 아니다.**
 
 ---
 
-## 새 채팅용 프롬프트
+# 새 채팅용 시작 프롬프트
 
 프로젝트: 《우주선에는 인간이 한 명뿐이다》
 GitHub Repository: `storm-credit/only-one-human-aboard`
 
-이 프로젝트는 다른 소설/프로젝트와 완전히 독립적이다. 다른 프로젝트의 설정·캐릭터를 절대 가져오지 않는다.
+이 프로젝트는 다른 소설/프로젝트와 완전히 독립적이다. 다른 프로젝트 설정/캐릭터를 가져오지 않는다.
 
 너는 이 작품의 SF 총괄 기획자 + 미스터리 설계자 + 사회구조/AI 세계관 전문가 + 캐릭터 디렉터 + 장기 웹소설 구조 전문가 + 서사공학 전문가 + 연재 QA 담당자다.
 
-### 가장 먼저 GitHub Connector로 직접 읽을 파일
+## 가장 먼저 GitHub Connector로 직접 읽을 것
 1. `CLAUDE.md`
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `canon/CANON_STATUS.md`
 5. `docs/change-log.md`
 
-### 현재 작업 직결 필독
-6. `docs/act/C-FULL-ACT-ARCHITECTURE-4-DESIGNS-v0.1.md`
-7. `docs/qa/LIVING-WORLD-ABC-EVENT-REGRESSION-v0.1.md`
-8. `docs/world-logic/H9R-STRUCTURAL-MASS-PROPULSION-SANITY-v0.1.md`
-9. `docs/world-logic/INTERSTELLAR-RAM-SHIELD-4-DESIGNS-v0.1.md`
-10. `docs/world-logic/WL13-destination-resource-arrival-timeline-4-designs-v0.1.md`
-11. `docs/characters/C8-B-FAMILY-AUTONOMY-PRE-REVEAL-TEST-v0.1.md`
-12. `docs/design/04-living-world-population-economy-institutions-v0.1.md`
-13. `docs/characters/CHARACTER-PERSONALITY-VOICE-PRELIMINARY-v0.1.md`
-14. `docs/characters/CORE-CAST-BIBLE-v0.1.md`
-15. `docs/characters/CHEMISTRY-RELATIONSHIP-MATRIX-v0.1.md`
-16. `docs/qa/BIO-HUMAN-REVEAL-FAIRNESS-v0.1.md`
-17. `docs/world-logic/OH-D-UNSEEDED-BIRTH-STRESS-TEST-v0.1.md`
-18. `docs/qa/RB-B-STORY-ENGINE-REGRESSION-v0.1.md`
+사용자에게 내용을 다시 붙여넣으라고 요구하지 않는다.
 
-내용을 사용자에게 다시 붙여넣으라고 하지 말고 GitHub에서 직접 읽는다.
+## 현재 Canon Freeze 직결 필독
+6. `docs/design/WORLD-BIBLE-CONSOLIDATION-v0.1.md`
+7. `docs/characters/CHARACTER-BIBLE-CONSOLIDATION-AGE-4-DESIGNS-v0.1.md`
+8. `docs/characters/CHARACTER-MISSING-GAPS-4-DESIGN-PACK-v0.1.md`
+9. `docs/characters/PROTAGONIST-ORIGIN-4-DESIGNS-v0.1.md`
+10. `docs/act/C-FULL-H1-SUB-ACT-ARCHITECTURE-4-DESIGNS-v0.1.md`
+11. `docs/act/INFORMATION-LADDER-4-DESIGNS-v0.1.md`
+12. `docs/act/FORESHADOW-PAYOFF-LEDGER-4-DESIGNS-v0.1.md`
+13. `docs/act/TIME-ARCHITECTURE-ENDING-4-DESIGNS-v0.1.md`
+14. `docs/act/ENDING-BEAT-MAP-4-DESIGNS-v0.1.md`
+15. `docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
+16. `docs/qa/CANON-CONFLICT-CHECK-v0.1.md`
+17. `docs/qa/DESIGN-FREEZE-CHECKLIST-v0.1.md`
+18. `docs/qa/ENDING-COST-LEDGER-4-DESIGNS-v0.1.md`
+19. `docs/qa/ACT-NON-P-CAUSAL-REGRESSION-v0.1.md`
+20. `docs/qa/BIO-ORIGIN-REVEAL-WORDING-4-DESIGNS-v0.1.md`
+21. `docs/world-logic/WL11-HISTORY-REPAIR-v0.2-4-DESIGNS.md`
+22. `docs/world-logic/AGING-REJUVENATION-4-DESIGNS-v0.1.md`
+23. `docs/world-logic/ARRIVAL-TRANSITION-LEGAL-TRIGGER-4-DESIGNS-v0.1.md`
+24. `docs/world-logic/DEMOGRAPHY-UNIQUENESS-SANITY-v0.1.md`
+25. `docs/characters/C8-PUBLIC-IDENTITY-REFINEMENT-v0.2.md`
+26. `docs/design/LIVING-WORLD-FREEZE-SANITY-PACK-v0.1.md`
 
 ---
 
 # 절대 규칙
 
-현재는:
-`DEEP DESIGN / NOT READY TO WRITE`
+현재 Gate:
+- `DESIGN FREEZE = PASSED — 2026-08-17`
+- `CANON FREEZE = NOT PASSED`
+- `WRITING READY = BLOCKED`
+- `MANUSCRIPT = BLOCKED`
 
-`DESIGN FREEZE → CANON FREEZE → WRITING READY`
-전에는 절대 작성 금지:
+따라서 아직 금지:
 - 프롤로그
 - 1화
-- 본문
-- 샘플장면
+- 소설 본문
+- 샘플 장면
 - 긴 대사
 - 문체 테스트
 
-주요 설계는:
-`3~4안 → 비교 → 맹점/함정 → Hybrid → Red Team → 상태 판정`
+Design Freeze 이후에는 구조를 임의로 다시 브레인스토밍하지 않는다.
+구조를 바꾸려면:
+1. 새 P0/명확한 근거
+2. change-log
+3. 영향분석
+4. Red Team
+을 거친다.
 
-P0 하나라도 남으면 Freeze 금지.
-
-변경 시 `docs/change-log.md` 기록.
-의미 있는 결과는 GitHub 동기화.
-새 설정을 조용히 CANON으로 승격하지 않는다.
-
----
-
-# 현재 Gate
-
-- `WORLD LOGIC FREEZE = BLOCKED`
-- `CHARACTER DESIGN = PROVISIONAL / NEEDS ACT REGRESSION`
-- `LIVING WORLD = PROVISIONAL / HIDDEN-CASTE CONDITIONAL PASS`
-- `C-FULL ACT ARCHITECTURE = PROVISIONAL PRIORITY SELECTED`
-- `MANUSCRIPT = BLOCKED`
+`PROVISIONAL`은 아직 `CANON`이 아니다.
 
 ---
 
-# Current Best World Logic — ALL NOT CANON
+# Design Freeze 근거
+
+`docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
+- current blocking P0 = **0**
+- Reader Promise 20/100/200 regression PASS
+
+`docs/qa/CANON-CONFLICT-CHECK-v0.1.md`
+- latest priority models 간 current P0 contradiction 없음
+
+`docs/change-log.md`
+- CHG-026에서 DESIGN FREEZE PASS 기록
+
+---
+
+# Design-Frozen World Priorities — 전부 아직 PROVISIONAL
 
 ## H2R-A
-현재 시민 대부분은 실제 생물학적 인간형 몸/뇌를 가짐.
-차이는 `Natural/Bio-Origin Cognition` vs `Seeded/Synthetic-Origin Cognition`이라는 인지 발생 이력.
+실제 생물학적 인간형 몸/뇌 + cognitive origin만 구분.
+
+## Seed
+Developmental Connectomic Seed.
+초기 고차 자기모델/인지회로 형성에 computationally generated developmental prior를 제공.
+기억/성격/명령/원격조종/admin key 삽입 불가.
 
 ## H3/U-C
-자연임신/보조생식 모두 가능.
-임신 초기 Connectomic Seed가 표준 산전의료.
-Seed는 기억/성격/명령/원격조종/관리자키를 넣지 못함.
+자연임신/보조생식 모두 가능 + prenatal Seed 표준.
+Natural-origin은 full Seed-window deliberate refusal.
 
-## H4/RB-B
-Continuity Scan = 실행 가능한 영혼파일이 아니라 recovery map.
-정상 Restoration은 surviving neural anchor 필요.
+## RB-B
+Recovery Map + surviving neural anchor.
+Standalone soul-file 아님.
+
+## AG-H1
+손상복구는 현재 neural anchor 기준.
+옛 scan으로 젊은 시절 rollback 금지.
+건강수명은 늘지만 불멸 아님.
 
 ## H6
-인구 약 30만은 안전 capacity band 근사값.
-출생/복원/주거/의료가 물리적 수용력 경쟁.
+약 30만 capacity band + birth/restoration/housing/medical commons.
 
-## H7/OH-D
+## OH-D
 Rare Deliberate Unseeded Birth.
-역사상 예외는 가능하나 현재 살아 있는 확인 가능한 natural-origin은 한 명.
-시스템이 선택한 존재 아님.
+Exact-one protocol 없음.
+현재 active natural-origin=1은 demographic state.
 
-## H8
-Semantic Drift + Specialist Obsolescence + weak Archive Loss.
+## H8R-2
+원래 탑승자들은 몰살/기계업로드되지 않음.
+그들이 살고 자녀를 낳았고, 여러 세대에 걸쳐 Seeded birth가 의료표준이 됨.
+Natural-origin 세대는 노화로 감소.
 
 ## H9R
-`Quiet K-Dwarf System + Resource Triangle + Staged Settlement`
-- distance 약 12~14 ly 후보
-- habitable candidate planet + water/volatile body + metal/silicate body
-- 남은 약 14년 후보
-- ship-home / balanced / surface acceleration / new orbital habitat 연속적 경로
-- ship dismantling의 핵심 이득 = 고철이 아니라 산업 bootstrap 장비
+Quiet K-Dwarf System + Resource Triangle + Staged Settlement.
+약 12~14 ly 후보, 시작 시 system insertion까지 약 14년.
 
-## H9R-P1 — NEW
-`Dedicated Fusion Direct-Exhaust Drive`
+## H9R-P1
+Dedicated Fusion Direct-Exhaust Drive.
+약 13 ly / 0.03c / total ~447y sanity candidate.
+Civil grid와 propulsion 직접전력경쟁 금지.
 
-물리 sanity 후보:
-- distance midpoint 13 ly
-- cruise 약 0.03c
-- acceleration 약 14년, 약 0.002g
-- cruise 약 419년
-- deceleration 약 14년, 약 0.002g
-- total 약 447년
+## RS-H1
+Layered Ram Defense.
 
-기존 H9R 440~460년과 정합.
-
-중요 Repair:
-`감속이 생활전력 수 GW를 직접 빼앗는다` 설명은 우선 폐기/수정.
-성간 추진은 10^17~10^18 W급 후보 별도 direct-exhaust 계통.
-사회비용은:
-- thermal geometry
-- spares
-- manufacturing
-- labor
-- propellant
-- redundancy
-에서 발생.
-
-## RS-H1 — NEW
-`Layered Ram Defense`
-
-0.03c interstellar gas/dust protection:
-1. sparse forward sensors
-2. detached sacrificial shield train
-3. electromagnetic bow field
-4. integrated massive bow shield
-
-독자에게는 `전방 방호대` 정도로 단순 노출.
-combat system으로 전환 금지.
-
-inhabited dry complex mass는 low-10^12 kg class order 후보이나 정확값 Freeze 금지.
-
----
-
-# Character Current Best — ALL NOT CANON
-
-## P
-P-A + P-D 현장 연속성 심사관.
-중견 실무자 / 임시권리판정 / 제한적 현장파견 / 항고·재심 가능.
-결핍: 애매함을 견디지 못하고 판정하면 감정도 정리된다고 믿음.
-
-## Family F-A
-복원된 형제/자매 S + 조카 N.
-P가 N을 수년간 보호했고 S는 복원 후 친권 회복 요구.
-P가 S의 복원거부 취지 미제출 기록을 숨긴 후보.
-
-## R-B
-시민권 전문 대리인/변호사.
-P의 판정을 실제로 뒤집고 연속성 심사제도 권한 축소를 독립 추진.
-
-## C8-BR
-- C8 42~47세 후보
-- Habitat B water/reclamation 중견 실무자 후보
-- 최고기술자/관리자 아님
-- 배우자: Habitat A 학교/공공서비스 운영직 후보
-- 첫째 17~19세 apprenticeship/독립 희망
-- 둘째 7~9세 학교/친구 잔류 희망
-- C8 결함: 가족을 지키는 것과 모두 한집에 묶는 것을 혼동
-- Reveal 전 최소 3회 ordinary appearance
-- Natural-Origin/P/Reveal 제거 stress test PASS
-- origin + 핵심기술자 이중특별화 금지
-
-## Voice V-D
-Coping-Mechanism Register + restrained realism + selective banter.
-- P: clarify → narrow → decide
-- S: reconnect → normalize → push forward
-- N: evade → test boundary → regain control
-- R: public reframe/challenge / private observe/gossip/needle
-- M: absorb → delay → trade → preserve
-- D: triage → concretize → act
-- O: localize → humanize → mobilize
-- C8: practicalize → bargain → keep family together
-
-샘플 대사/긴 대사 작성 금지 유지.
+## ATL-H1
+Final Approach Transition Certification.
+T-30~T-10 기술준비와 T-10±1y binding legal transition을 분리.
+C8가 법 발동키가 아님.
 
 ---
 
 # Living World
 
-## LW-E1
-`Layered Commons + Market City`
+3 Large Habitats + Spine + Outer Works + Founding Core.
 
-- Civic Floor: 공기/물/기본식량/최소주거/기본교육·의료
-- Ordinary Market: 돈/임금/사업/상점/문화/더 나은 주거
-- Capacity Commons: 출생/reconstruction/Full Scan/산업전력 peak/선체질량 등
+`LW-E1 Layered Commons + Market City`.
 
-A/B/C는 직업카스트가 아니라 산업비중/풍경/생활리듬 차이.
+Sanity central candidates:
+- lifespan ~100~110y
+- births/permanent exits ~2.7k~3.1k/y
+- minors ~45k~55k
+- school age ~30k~36k
+- households ~120k~130k
+- ordinary cross-Habitat 60~120m
 
-교통 후보:
-- hub-to-hub 30~60분
-- 일반 cross-Habitat 60~120분
-- Outer Works 2~3h+
-
-### A/B/C Event Regression
-`LIVING-WORLD-ABC-EVENT-REGRESSION-v0.1.md`
-- A 12
-- B 12
-- C 12
-- Cross 6
-총 42사건.
-
-family/youth/service/white-collar/technical/medical/housing 모두 생성 가능.
-`HIDDEN CASTE = CONDITIONAL PASS`
-
-Sub-Act 실제 배치에서 재검증 필요.
+A/B/C hidden-caste 42-event regression PASS at design level.
 
 ---
 
-# C-full Current 1st Candidate
+# Character Current Priorities — 아직 PROVISIONAL
 
-`C-FULL-H1 — 7 Act Relationship / Social Escalation`
+## P
+- field continuity adjudicator P-A + P-D
+- `P-OA Ordinary Seeded-Origin Citizen`
+- start age ~39~43 candidate
+- special ontology protagonist 금지
 
-1. **Act 1 돌아온 사람들의 자리** — 1~28
-2. **Act 2 판정의 비용** — 29~58
-3. **Act 3 한 명이라는 숫자** — 59~88
-4. **Act 4 공개된 다음 날** — 89~122
-5. **Act 5 미래를 위해 현재를 뜯는 법** — 123~156
-6. **Act 6 두 고향** — 157~194
-7. **Act 7 도착은 판정이 아니다** — 195~230 후보
+## S
+restored sibling / N parent.
+Food/hospitality cooperative operations current career candidate.
 
-Exact boundaries/ending/story-year span NOT CANON.
+## N
+start ~11~12 → ~25~26 ending candidate.
+Youth: zero-g sport/games/music.
+Adult direction: creative/media technical production.
 
-### Reveal Timing Candidate
-- `BIO/NATURAL-ORIGIN ACTIVE COUNT = 1`: 약 55~65화
-- 이후 5~10화 안에 분류 의미 설명
-- C8 identity: 약 65~78화
+## R
+civic/continuity rights advocate.
+Ordinary household/partner + community performance hobby candidate.
 
-**Reveal 이후가 더 길다.**
-비밀 하나로 200화를 끌지 않는다.
+## M
+senior institution administrator, B retirement plan candidate.
 
-### Reveal Fairness
-단독 `생물학적 인간: 1` 화면 REJECT 우선.
-추천:
-- `CIVIC PERSONS ≈ 300,000`
-- `BIO-ORIGIN HUMAN LINEAGE = 1`
+## D
+field medical evaluator, community rehab long-term goal.
 
-선행 단서:
-1. Seed field
-2. old seeded-born human legal trace
-3. modern prenatal / old synthetic cognition terminology overlap
+## O
+Old Quarter friend/resident actor, building maintenance livelihood candidate.
 
----
+## C8-BR
+- ~42~47
+- Habitat B water/reclamation mid-level worker
+- spouse school operations candidate
+- first child 17~19, Spine logistics apprenticeship candidate
+- second child 7~9, future unfrozen
+- children seeded-origin
+- no admin key / prophecy / unique engineer status
 
-# Change Log Latest
-- CHG-010 H9R
-- CHG-011 C8-BR
-- CHG-012 LW-E1
-- CHG-013 Character Voice V-D
-- CHG-014 C-FULL-H1 7 Act
-- CHG-015 H9R-P1 + RS-H1 propulsion/shield repair
+Exact names/genders/ages are Canon Freeze tasks.
 
 ---
 
-# Current Open P0 / Freeze Blockers
+# C-full / Reveal
 
-1. C-FULL-H1 **Sub-Act Architecture** 미완료
-2. **Information Ladder**에서 Bio-Origin Reveal fairness 미검증
-3. OH-D/U-C 현재 1명 희귀성의 Act/복선 재검증
-4. H9R-P1/RS-H1 World Bible 최소기술규칙 consolidation
-5. exact story-time span 미확정
-6. Ending 4안 미완료
-7. Foreshadow/Payoff Ledger 미완료
-8. Final Canon conflict / Red Team / Stress Test / Freeze Checklist 미완료
+## 7 Acts
+1. 돌아온 사람들의 자리 ~1~28
+2. 판정의 비용 ~29~58
+3. 한 명이라는 숫자 ~59~88
+4. 공개된 다음 날 ~89~122
+5. 미래를 위해 현재를 뜯는 법 ~123~156
+6. 두 고향 ~157~194
+7. 도착은 판정이 아니다 ~195~230
 
-P1:
-- 판례집화
-- 회의실 정치화
-- 철학토론화
-- C8 정답머신화
-- C8 이중특별화
-- H9R scope explosion
-- economy RPG화
-- same-writer voice
-- hard-SF 설명과다
+## SUB-H1
+23 Sub-Acts Braided Consequence Relay.
+
+Current detailed Reveal:
+- Count ~53~58
+- Meaning ~59~66
+- C8 identity ~67~76
+- social consequence ~77~88
+
+Reveal 이후가 더 길어야 한다는 원칙은 Design-Frozen.
+
+## RW-H1
+Layered Legacy Audit:
+- current civic persons ≈300k
+- natural/bio-origin =1
+- seeded/synthetic-origin remainder
+- `human`은 founding-era legacy mapping
+
+단독 `REAL HUMANS:1`은 rejected.
 
 ---
 
-# NEXT WORK — 여기서 바로 시작
+# C8 Public Identity
 
-## 1순위
-**`C-FULL-H1 Sub-Act Architecture`**
+`ID-H1R Controlled Disclosure Under Re-identification Pressure`.
 
-먼저 3~4개의 Sub-Act 분할 방식 자체를 비교하고 바로 고정하지 않는다.
+- official identity initially private
+- Count=1 makes harmless historical/public traces re-identifying
+- speculation/false candidates/family collateral
+- C8 chooses limited factual confirmation
+- no convenient villain/system leak
 
-검증:
-- 7 Act 각각 2~4 Sub-Act로 실제 연재 리듬이 생기는가
-- 10~20화마다 reward/payoff가 있는가
-- case가 `조사→해결→reset`되지 않는가
-- P-S-N / P-R / C8 독립축이 계속 움직이는가
-- C8 Pre-Reveal 3회가 자연스럽게 배치되는가
-- 55~65 count Reveal / 65~78 C8 identity가 rushing/delay 둘 다 피하는가
-- A/B/C 42사건이 실제 분산되는가
-- P가 Living World 모든 사건에 직접 관여하지 않는가
-- Act 5 감속압력은 H9R-P1 repair를 사용하며 civil-power theft 설명을 되살리지 않는가
+---
 
-그다음 순서:
-2. Information Ladder
-3. Foreshadow / Payoff Ledger
-4. Time Architecture + Ending 4안
-5. World Bible / Character Bible Consolidation
-6. Full Red Team / Stress Test
-7. Freeze Checklist
+# Information / Foreshadow
 
-아직 어떤 설정도 CANON으로 승격하지 않는다.
+## IL-H1
+Distributed Staggered Knowledge.
+Count = legacy provenance + prenatal archive + current alive registry crosswalk.
+No single Truth Keeper.
+
+## FP-H1
+Mixed Signal Ledger.
+Hard clue + world residue + character tell + institutional residue + fair alternative interpretation + primer/mirror/MacGuffin.
+Most ordinary details are not clues.
+
+---
+
+# Time / Ending
+
+## T-H1
+Longitudinal Wave, total ~14 in-world years.
+Early dense, later time scale expands.
+
+## E-H1
+Costly Polycentric Arrival.
+
+## EC-H1
+Visible costs include ship redundancy loss / Old Quarter partial loss / surface delay / continuing capacity scarcity / family separation / new habitat delay / incomplete transition law.
+
+## EB-H1
+Braided Irreversible Arrival.
+System insertion late Act 7B, first limited deployment/foothold in 7C.
+No mature colony instantly at T0.
+
+---
+
+# Mandatory Arrival-Law Guardrail
+
+Old arrival law cannot simply erase ordinary ship citizenship of 299,999 citizens.
+Conflict may affect:
+- destination settler category
+- mission-reserved assets/trusts
+- transition registry
+- settlement jurisdiction
+- stewardship language
+and must be reconciled with strong current civic personhood law.
+
+---
+
+# Rejected/Superseded — 재사용 금지
+
+- adult mass artificial-substrate conversion
+- exact-one Witness/Origin Continuity Protocol
+- executable soul backup
+- routine age-reset immortality
+- obvious mechanical-body majority
+- 8 philosophy-biome sectors
+- A=elite/B=farmers/C=workers caste
+- civil-grid powered interstellar deceleration
+- ship-vs-planet binary
+- C8 mission/admin key
+- public C8 name via system dump/villain leak as primary
+- mature surface colony immediately at T0
+- one-human mystery delayed to 200 episodes
+
+---
+
+# 지금 이어서 할 작업 — CANON FREEZE PREPARATION
+
+1. **Canonical World Bible v1 draft**
+   - Design-Frozen priorities를 Exact / Elastic / Forbidden으로 정리
+2. **Canonical Character Bible v1 design pass**
+   - naming/gender/age/family chronology 3~4안 비교 후 선택
+3. **Canonical Act Bible v1**
+4. terminology/institution naming pass
+5. P-S secret record exact form/timing lock
+6. C8 re-identification historical trace exact lock
+7. current law vs arrival law wording lock
+8. Canon Conflict Check v0.2
+9. Canon Red Team
+10. CANON FREEZE decision
+
+그 전까지 소설 본문 절대 금지.
+
+---
+
+# 채팅 운영
+
+새 채팅이 필요해질 정도로 길어지기 전에 이 파일을 다시 업데이트한다.
+하지만 현재 채팅이 이미 새 채팅이라면 **또 이동하라고 하지 말고 여기서 계속 진행한다.**
