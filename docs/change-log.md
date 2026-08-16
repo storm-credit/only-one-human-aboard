@@ -180,3 +180,17 @@
 - World Rules Affected: 직접 변경 없음. U-C/OH-D/H9R과 Character-level 연결만 강화.
 - Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, Information Ladder, Character Bible, Living World institutions/economy
 - Status: PROVISIONAL CHARACTER PRIORITY / NOT CANON — Living World regression 및 Act placement 전 Freeze 금지
+
+## CHG-012 — Living World를 Layered Commons + Market City로 정교화
+- Date: 2026-08-16
+- Change Location: Living World v0.2 / Population / Economy / Institutions
+- Previous: 3 Habitat + Spine/Outer Works의 물리구조와 이해관계 네트워크는 있었지만, 실제 돈/주거/통근/기관/인구이동 구조는 미정. A/B/C가 각각 행정/농업/산업 카스트처럼 굳을 위험이 남아 있었음.
+- New: `LW-E1 Layered Commons + Market City`를 1순위 Hybrid로 추천. 기본 생존(공기/물/최소주거/기본교육·의료)은 시민권 floor, 일상생활은 화폐/임금/사업/시장, 출생·reconstruction·대량주거부피·산업전력 peak 같은 hard capacity는 civic commons로 관리. Habitat마다 모든 계층/직종/학교/병원/상업을 두고 특화는 비중 차이로 제한. cross-Habitat 통근/이주를 일상화하며 hub-to-hub 30~60분, 일반 door-to-door 60~120분 후보로 교통시간을 보정.
+- Reason: 완전 중앙배급은 사회 자율성과 생활감이 약하고, 완전 자유시장은 폐쇄우주선 수용력과 출생/복원 공공재 논리를 파괴함. 3 Habitat가 테마별 계급도시가 되지 않으려면 실제 노동·주거·교육 이동성이 필요.
+- Trigger / Evidence: `04-living-world-population-economy-institutions-v0.1.md` 4개 사회운영모델 비교 및 C8-BR Regression/Red Team.
+- Characters Affected: P/S/N/R/M/D/O/C8, 전 시민
+- Acts Affected: 전체. 특히 생활권 사건, Old Quarter, 목적지 준비, 출생/복원 capacity 정치
+- Foreshadowing Affected: 직접 Truth Reveal 변경 없음. Seed/History보다 생활세계 선행노출 강화
+- World Rules Affected: H6 population commons, housing, labor, utilities, mobility, civic institutions, H9R resource allocation
+- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, World Bible, Character Bible 직업/주거, transit sanity doc
+- Status: PROVISIONAL LIVING WORLD PRIORITY / NOT CANON — age/household, school/medical throughput, transit geometry, Habitat별 사건 regression 전 Freeze 금지
