@@ -30,7 +30,7 @@
 | 나머지는 합성기원 의식 계열 | PROVISIONAL | H2 기준 |
 | 대부분 자신을 인간으로 인식 | PROVISIONAL | 역사/언어 변화 검증 필요 |
 
-## Protagonist
+## Protagonist / Core Character Direction
 
 | Item | Status | Note |
 |---|---|---|
@@ -41,47 +41,39 @@
 | 주인공이 합성기원 인격 | CANDIDATE | 미확정 |
 | 주인공이 원본 없는 신규 인격 | CANDIDATE | 미확정 |
 
-## Truth Architecture
-
-| Item | Status | Note |
-|---|---|---|
-| 자발적 합성인지 계승/전환 역사 | PROVISIONAL | 기존 ‘인공기질 전환’ 표현을 정교화 |
-| 현재 시민은 수백 년간 새로 태어난 후손 사회 | PROVISIONAL | 핵심 방향 |
-| 구식 식민 프로토콜과 현재 인간 정의 충돌 | CANDIDATE | 최종부 후보, C8 관리자키 금지 |
-| 보호대상이 유일한 자연기원 인간 | CANDIDATE | 조기예측 위험 있음 |
-| 보존 인간 배아/생식세포 유전다양성 은행 | CANDIDATE | 이중유산 식민계획과 연결 가능, 필요량 미확정 |
-
-## World Logic — Current Best Hypotheses
+## Truth Architecture / World Logic
 
 | ID | Item | Status | Note |
 |---|---|---|---|
 | H2 | 생물학적 몸 + 합성기원 의식 | PROVISIONAL | 몸/뇌는 살아 있는 인간형 조직, 차이는 인지 발생 기원 |
 | H3/U-C | 자연임신·보조생식 모두 가능 + 임신 초기 Connectomic Seed 표준 | PROVISIONAL | 강제불임/전면 출산통제 불필요 |
-| H4/RB-B | Recovery Map + Surviving Neural Anchor | PROVISIONAL | Scan은 실행 가능한 영혼파일 아님. anchor 없는 존재는 Derived Person 후보 |
-| H6 | 시민 공동 수용량 + 출생/복원 자원 경쟁 | PROVISIONAL | 인구 약 30만 유지 엔진 |
-| H7/OH-D | Rare Deliberate Unseeded Birth | PROVISIONAL | 역사상 예외는 가능, 현재 살아 있는 확인 가능한 natural-origin이 한 명인 방향 |
-| H8 | Semantic Drift + Specialist Obsolescence + 약한 Archive Loss | PROVISIONAL | seeded prenatal medicine 자체는 비밀이 아님 |
-| H9/H9R | Quiet K-Dwarf System + Resource Triangle + Staged Settlement | PROVISIONAL | 약 14년 남음 후보. ship/orbit/surface 연속적 Trade-off. NOT CANON |
-| Tech-1 | 3개 대형 회전 Habitat + 비회전 중앙척추 | CANDIDATE | 치수/구조질량 검증 필요 |
-| Tech-2 | 핵융합 주전원 + 다중 비상전원 | CANDIDATE | 추진/발전 세부 미확정 |
+| H4/RB-B | Recovery Map + Surviving Neural Anchor | PROVISIONAL | Scan은 실행 가능한 영혼파일 아님 |
+| H6 | 시민 공동 수용량 + 출생/복원 자원 경쟁 | PROVISIONAL | 약 30만 capacity engine |
+| H7/OH-D | Rare Deliberate Unseeded Birth | PROVISIONAL | 현재 확인 가능한 natural-origin 1명 방향 |
+| H8 | Semantic Drift + Specialist Obsolescence + 약한 Archive Loss | PROVISIONAL | seeded prenatal medicine 자체는 비밀 아님 |
+| H9/H9R | Quiet K-Dwarf System + Resource Triangle + Staged Settlement | PROVISIONAL | 약 14년 남음 후보 |
+| H9R-P1 | Dedicated Fusion Direct-Exhaust Drive | PROVISIONAL | civil grid와 별도인 성간 추진계 후보 |
+| RS-H1 | Layered Ram Defense | PROVISIONAL | 전방 센서 + shield train + EM field + integrated bow shield |
+| Tech-1 | 3개 대형 회전 Habitat + 비회전 중앙척추 | CANDIDATE | 치수/구조질량 검증 계속 |
 | Tech-3 | 재생형 생명유지 + 비축 + 손실 존재 | PROVISIONAL | 완전 100% 폐쇄계 금지 |
-| Tech-4 | 물/원료/구조질량을 방사선 차폐에도 활용 | CANDIDATE | 정량 검증 필요 |
 
-## H9R Arrival / Resource — Current 1st Candidate
+### H9R Physics Candidate
+- distance midpoint: 약 13 ly 후보
+- cruise: 약 0.03c 후보
+- acceleration: 약 14년 / 약 0.002g
+- cruise: 약 419년
+- deceleration: 약 14년 / 약 0.002g
+- total: 약 447년 → 기존 440~460년 H9R과 정합
+- inhabited dry complex: low-10^12 kg class order 후보, 정확값 NOT FROZEN
+- propulsion scale은 civil grid보다 7~8 orders 큼
+- 따라서 `감속이 생활전력을 직접 뺏는다`는 설명은 우선 폐기/수정
+- 실제 사회비용은 thermal geometry / spares / manufacturing / labor / propellant / redundancy
 
-- 목적지: 약 12~14광년 거리의 조용한 K형 왜성계 후보.
-- 거주가능 후보 행성 + 물/휘발성 자원천체 + 금속자원천체의 `resource triangle`.
-- 남은 항해기간: 약 14년 후보.
-- 현재 장기 감속 단계 진입 후보.
-- 우주선 해체의 핵심 이득은 bulk 고철보다 `발전/방열/정밀제조/로봇/공정설비`의 산업 bootstrap.
-- ship 완전보존도 가능하지만 현지 산업 자립과 대규모 인구확장이 수십 년 느려지는 실제 비용을 가짐.
-- 선택지는 ship-home / balanced ship+orbit+surface / surface acceleration / new orbital habitat처럼 연속적이어야 함.
-
-Promotion blockers:
-1. 구조질량 order-of-magnitude 재검증
-2. 추진/감속 sanity check
-3. C-full Act에서 150~250화 rhythm regression
-4. C8 + old mission law가 chosen-one 구조가 아닌지 재검증
+### H9R / Ram Defense Guardrails
+- magsail을 trillion-kg ship의 공짜 주브레이크로 쓰지 않음
+- C8은 propulsion/ram shield 해결사가 아님
+- forward laser가 combat weapon engine으로 변하지 않게 제한
+- ram shield는 시민에게는 일상적으로 `전방 방호대` 정도로만 노출
 
 ## C8 — Sole Natural-Origin
 
@@ -90,120 +82,121 @@ Promotion blockers:
 | C8-B: 평범한 natural-origin 부모 | PROVISIONAL | 부모가 C8 임신 때 seed 거부 |
 | C8 자신의 자녀는 모두 seeded-origin | PROVISIONAL | 가족 감정폭발 핵심 |
 | C8에게 특별능력/관리자권한 없음 | PROVISIONAL | chosen-one 방지 |
-| N과 C8은 서로 다른 인물 | PROVISIONAL | 보호대상=인간 조기예측 방지 |
-| C8-BR Work-First Family | PROVISIONAL | 42~47세 후보, water/reclamation 실무자 + 독립목표 가족. 정확 나이/성별/직급 미정 |
-| C8 배우자 / 17~19세 첫째 / 7~9세 둘째 | PROVISIONAL | 각자 독립목표. N의 친권서사와 차별화 |
-| Reveal 전 최소 3회 생활등장 | PROVISIONAL | worker → family → destination-resource. 개인 provenance 직접노출 금지 |
-| 공동양육/별거형 C8 가족 | REJECTED AS PRIMARY | P-S-N 친권/선택권 서사 중복 |
-| Blended family 전체채택 | CANDIDATE ELEMENT ONLY | Reveal 설명력은 강하나 과도한 테마설계 위험 |
-
-C8-BR Promotion blockers:
-1. Living World v0.2 직업/통근/주거 Regression 1차 PASS — exact placement 미확정
-2. C-full에서 Pre-Reveal 3회가 실제 rhythm을 해치지 않는지 확인
-3. Information Ladder에서 C8 provenance가 조기정답이 되지 않는지 확인
-4. water/reclamation 직업이 endgame 대체불가능 전문가로 변하지 않도록 유지
+| N과 C8은 서로 다른 인물 | PROVISIONAL | 조기예측 방지 |
+| C8-BR Work-First Family | PROVISIONAL | 42~47세 후보, water/reclamation 중견 실무자 |
+| C8 배우자 / 17~19세 첫째 / 7~9세 둘째 | PROVISIONAL | 각자 독립목표 |
+| Reveal 전 최소 3회 생활등장 | PROVISIONAL | worker → family → destination-resource |
+| 공동양육/별거형 C8 가족 | REJECTED AS PRIMARY | P-S-N 친권서사 중복 |
+| Blended family 전체채택 | CANDIDATE ELEMENT ONLY | 과도한 테마설계 위험 |
 
 ## Living World v0.2
-
-아래 명칭/숫자는 가칭.
 
 | Item | Status | Note |
 |---|---|---|
 | Habitat A — Civic / Old Urban | PROVISIONAL | 약 10~12만 후보 |
 | Habitat B — Green / Watershed | PROVISIONAL | 약 9~10만 후보 |
 | Habitat C — Technical / Mixed Worker Residence | PROVISIONAL | 약 7~9만 후보 |
-| Non-Rotating Spine | PROVISIONAL | 교통/물류/무중력 작업 |
-| Outer Works | PROVISIONAL | 외벽/방열/전력/위험정비 |
-| Founding Core / Legacy Decks | PROVISIONAL | 초기 거주/설비 잔존 |
-| Old Quarter | PROVISIONAL | 기존 구환을 Habitat A 내부로 축소 |
-| LW-E1 Layered Commons + Market City | PROVISIONAL | 기본생존=civic floor, 일상=화폐/시장, hard capacity=commons |
-| Habitat 간 직업/가족/계층 혼합 | PROVISIONAL | A/B/C는 특화산업의 비중 차이일 뿐 직업카스트 금지 |
-| cross-Habitat 통근/이주 일상화 | PROVISIONAL | hub-to-hub 30~60분, 일반 60~120분 후보. 교통 geometry 검증 전 NOT CANON |
-| 기본주거권 + regulated occupancy/lease/co-op 혼합 | PROVISIONAL | 완전 국가배급/완전자유 부동산 둘 다 회피 |
-| 돈으로 출생 capacity/사람지위/산소 생존권 직접구매 금지 | PROVISIONAL | hard capacity commons 원칙 |
+| Non-Rotating Spine / Outer Works | PROVISIONAL | 교통/물류/외벽/방열/추진 유지 |
+| LW-E1 Layered Commons + Market City | PROVISIONAL | basic floor / ordinary market / capacity commons |
+| Habitat 간 직업/가족/계층 혼합 | PROVISIONAL | 특화는 비중 차이, 카스트 금지 |
+| cross-Habitat 통근/이주 일상화 | PROVISIONAL | hub 30~60m / door-to-door 60~120m 후보 |
+| 기본주거권 + occupancy/lease/co-op 혼합 | PROVISIONAL | 완전 배급/완전 자유부동산 회피 |
 
-### Institutional Direction — PROVISIONAL
-- Ship Assembly / Civic Legislature
-- Habitat Councils
-- Capacity Forecast Office는 기술범위 계산, 배분결정 독점 금지
-- water/air/power/transit utilities 분산 운영
-- Continuity Service + Civic Courts
-- Habitat별 일반의료/학교 + 분산 전문기관
-- Archive Federation
-- Arrival Preparation Commission은 단일 명령기관보다 다기관 협상체 후보
+### Living World QA
+`LIVING-WORLD-ABC-EVENT-REGRESSION-v0.1.md`에서:
+- A 12
+- B 12
+- C 12
+- Cross-Habitat 6
+총 42 사건 생성.
 
-### Social Networks — CANDIDATE/PROVISIONAL
-- Continuity Access Coalition
-- One-Life / Finality Networks
-- Body & Worker Autonomy Unions
-- Heritage / Origin Networks
-- Mission Continuity Bloc
-- Ship Home League
-- Civic Personhood Reform
+각 Habitat에서 family/youth/service/white-collar/technical/medical/housing 사건 생성 가능.
 
-철학정당 하나가 사회 전체를 대표하지 않도록 이해관계 네트워크로 운영.
+`HIDDEN CASTE RISK = CONDITIONAL PASS`
 
-Living World Promotion blockers:
-1. household/age distribution sanity check
-2. school/medical throughput rough model
-3. transit geometry/time sanity check
-4. A/B/C 각각 사건 regression으로 hidden caste 여부 검증
-5. housing economy 사건성 검증
+아직 Sub-Act 실제 배치에서 재검증 필요.
 
-## Character Personality / Voice — Preliminary
+## Character Personality / Voice
 
 | Item | Status | Note |
 |---|---|---|
-| V-D Coping-Mechanism Register | PROVISIONAL | 철학이 아니라 불편한 감정을 피하는 방식에서 목소리를 분리 |
-| restrained realism | PROVISIONAL | 모든 인물이 명대사/철학문장을 말하지 않게 함 |
-| selective banter | PROVISIONAL | 관계마다 제한적으로만 유머/말싸움 사용 |
-| catchphrase/대표명대사 기반 캐릭터화 | REJECTED AS BASE | 인공적·게임 캐릭터화 위험 |
-| 상시 introspective social-SF 대화 | REJECTED AS DEFAULT | 철학토론화 위험 |
+| V-D Coping-Mechanism Register | PROVISIONAL | 감정 회피/대처방식으로 voice 분리 |
+| restrained realism | PROVISIONAL | 명대사/철학문장 과다 금지 |
+| selective banter | PROVISIONAL | 관계마다 제한적 사용 |
+| catchphrase 기반 캐릭터화 | REJECTED AS BASE | 인공성 위험 |
+| 상시 철학대화 | REJECTED AS DEFAULT | 철학토론화 위험 |
 
-Voice direction:
-- P: clarify → narrow → decide / 감정을 절차로 바꿈
-- S: reconnect → normalize → push forward / 불안을 친밀함으로 밀어붙임
+- P: clarify → narrow → decide
+- S: reconnect → normalize → push forward
 - N: evade → test boundary → regain control
-- R: public=reframe/challenge, private=observe/gossip/needle
+- R: public reframe/challenge / private observe/gossip/needle
 - M: absorb → delay → trade → preserve
 - D: triage → concretize → act
 - O: localize → humanize → mobilize
 - C8: practicalize → bargain → keep family together
 
-Promotion blockers:
-1. C-full Act에서 독립목표와 voice가 실제로 분리되는지 검증
-2. Jargon Knowledge Map에서 모두 같은 세계관 용어를 완벽히 쓰지 않도록 검증
-3. 실제 집필 전 Dialogue QA 설계
+## C-full Act Architecture
+
+| Item | Status | Note |
+|---|---|---|
+| C-FULL-H1 Relationship / Social Escalation 7 Act | PROVISIONAL | 현재 1순위 |
+| Mystery-forward 6 Act | CANDIDATE SUPPORT | hook/reward timing만 일부 사용 |
+| Arrival-countdown 6 Act | CANDIDATE SUPPORT | time structure만 일부 사용 |
+| Civilization-network 8 Act | CANDIDATE SUPPORT | network distribution rule만 사용 |
+
+### C-FULL-H1 Candidate
+1. Act 1 `돌아온 사람들의 자리` — 1~28
+2. Act 2 `판정의 비용` — 29~58
+3. Act 3 `한 명이라는 숫자` — 59~88
+4. Act 4 `공개된 다음 날` — 89~122
+5. Act 5 `미래를 위해 현재를 뜯는 법` — 123~156
+6. Act 6 `두 고향` — 157~194
+7. Act 7 `도착은 판정이 아니다` — 195~230 후보
+
+Reveal candidate:
+- Bio/Natural-Origin active count = 1: 약 55~65화
+- 분류 의미: 공개 후 5~10화 안에 설명
+- C8 identity: 약 65~78화
+
+핵심:
+**Reveal 이후가 더 길다.**
+
+Exact episode boundaries / exact ending / exact story-year span은 NOT CANON.
 
 ## Reveal Fairness
 
 | Item | Status | Note |
 |---|---|---|
 | 단독 `생물학적 인간: 1` 화면 | REJECTED AS PRIMARY | 독자기만/용어장난 위험 |
-| `CIVIC PERSONS ≈ 300,000 / BIO-ORIGIN HUMAN LINEAGE = 1` 병기 | PROVISIONAL | 분류 자체가 문제임을 공정하게 제시 |
-| Seed field / 옛 seeded-born human 법률 / 기술용어 겹침 3종 선행단서 | PROVISIONAL | Act/복선 검증 필요 |
+| `CIVIC PERSONS ≈ 300,000 / BIO-ORIGIN HUMAN LINEAGE = 1` 병기 | PROVISIONAL | 분류 자체의 문제를 공정하게 제시 |
+| Seed field / old law / terminology overlap 3종 선행단서 | PROVISIONAL | Sub-Act/Info Ladder 검증 필요 |
 
 ## Rejected / Avoid
+- 사실 모두 VR/시뮬레이션 단일 반전
+- 인간 vs AI 단순전쟁
+- 선택받은 마지막 인간이 세계 구원
+- 상태창/초능력/기갑 전환
+- 200화 동안 인간 한 명 정체만 숨기기
+- 시민 전체 명백한 기계몸
+- 실시간 완전 의식백업
+- 세습 유일 인간 혈통
+- 생명슬롯 자유시장
+- 항상 한 명을 시스템이 자동 유지하는 Witness Protocol 우선안
+- A=엘리트 / B=농민 / C=노동자 카스트
+- 완전 중앙배급 경제
+- hard capacity까지 완전자유시장
 
-| Item | Status | Reason |
-|---|---|---|
-| 사실 모두 VR/시뮬레이션 단일 반전 | REJECTED | 단순 반전 의존 |
-| 인간 vs AI 단순전쟁 | REJECTED | 주제 축소 |
-| 선택받은 마지막 인간이 세계 구원 | REJECTED | 특권화/상투성 |
-| 상태창/초능력/기갑 전환 | REJECTED | 장르 변질 |
-| 200화 동안 인간 한 명 정체만 숨기기 | REJECTED | 장기 엔진 부재 |
-| 시민 전체가 명백한 기계몸 | REJECTED AS BASE | 의료 P0와 감정 거리감 |
-| 실시간 완전 의식백업 | REJECTED | 죽음 긴장감/연산 논리 붕괴 |
-| 세습 유일 인간 혈통 | REJECTED AS BASE | 선택받은 혈통 위험 |
-| 생명슬롯 시장거래가 기본제도 | REJECTED AS BASE | 과도한 디스토피아/계급화 |
-| 항상 한 명을 시스템이 자동 유지하는 Witness Protocol | REJECTED AS CURRENT PRIORITY | OH-D가 더 자연스러움. 완전 폐기 여부는 Freeze 전 재검증 |
-| 유년원/제작환/기억원을 각각 독립 거대 생활권으로 고정 | REJECTED AS CURRENT STRUCTURE | v0.2에서 기능을 Habitat 내부/산업망으로 분산 |
-| A=행정엘리트 / B=농민 / C=노동자 고정카스트 | REJECTED | Living World가 테마파크/계급도시로 굳음 |
-| 완전 중앙배급 경제 | REJECTED AS BASE | 생활자율성/시장사건 약화 |
-| 완전자유시장으로 hard capacity까지 구매 | REJECTED AS BASE | 폐쇄선 물리제약과 시민권 원칙 붕괴 |
+## Current Freeze Blockers
+1. Bio-Origin fairness를 Sub-Act / Information Ladder에서 검증
+2. OH-D/U-C의 현재 1명 희귀성을 장기 Act/복선에서 재검증
+3. H9R-P1 propulsion 최소규칙을 World Bible tech section에 정리
+4. RS-H1 정확 질량이 아니라 존재/기능 수준 최소규칙을 확정
+5. C-FULL-H1 Sub-Act regression
+6. exact Ending 4안
+7. Foreshadow/Payoff Ledger
+8. Character/World conflict check
 
 ## Promotion Rule
-
 `CANDIDATE → PROVISIONAL → CANON` 승격 조건:
 1. Reader Promise 훼손 없음
 2. 실제 사건 생성
