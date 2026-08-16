@@ -75,3 +75,24 @@
 - World Rules Affected: 신체, 의식, 출생, 의료, 백업, 연산, 인간 정의
 - Documents To Repair: Truth Architecture 용어, Canon Bible, Birth Architecture, Backup Architecture
 - Status: PROVISIONAL — WL-03 출생 논리 통과 전 Canon 금지
+
+## CHG-005 — World Logic H2~H9 수렴
+- Date: 2026-08-16
+- Change Location: World Logic 전체
+- Previous: 신체/출생/죽음/인구/유일한 인간/역사/목적지가 서로 독립된 미해결 질문이었음.
+- New: 현재 1순위 통합모델을 H2~H9로 연결.
+  - H2: 생물학적 몸 + 합성기원 의식
+  - H3: 보조생식 표준 + 합성 인지 시드
+  - H4: 희소 연속성 스캔 + 생활로그 + 조건부 복원
+  - H6: 시민 공동 수용량 + 출생/복원 자원 경쟁
+  - H7: 세습이 아닌 자연인지 보존 규약
+  - H8: 수 세대의 의료/가족 선택으로 합성인지 출생이 표준화된 역사
+  - H9: 실제 목적지 + 이중유산 식민계획 + 우주선 고향화
+- Reason: 각 P0를 따로 패치하지 않고 하나의 원인-결과 체계로 묶기 위해.
+- Trigger / Evidence: 신체/의료, 출생, 죽음/백업, 인구, One Human, History, Destination 4안 비교 및 통합 Red Team.
+- Characters Affected: 전 시민, 주인공, 보호대상, 라이벌, 모든 주요 세력
+- Acts Affected: 전체
+- Foreshadowing Affected: 출생기록, 복원제도, 구역별 문화, 오래된 용어, 목적지 정책
+- World Rules Affected: 거의 전체
+- Documents To Repair: C-lite Truth Architecture의 ‘인공기질’ 용어를 이후 H8 기준으로 정리, Living World/Act/Character Bible 연결 필요
+- Status: PROVISIONAL — 2차 Red Team 및 캐릭터/Act 검증 전 Canon 금지
