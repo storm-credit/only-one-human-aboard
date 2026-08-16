@@ -1,8 +1,11 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
-> 롤링 인수인계 문서. 대화가 길어지기 전에 갱신하고 사용자에게 새 채팅용 프롬프트로 제공한다.
+> 이 문서는 대화가 길어지기 전에 새 채팅으로 안전하게 넘기기 위한 롤링 인수인계다.
+> 새 채팅에서는 아래 프롬프트를 그대로 붙여넣고 GitHub 정본을 먼저 읽는다.
 
-## 새 채팅에서 그대로 붙여넣을 프롬프트
+---
+
+## 새 채팅용 프롬프트
 
 프로젝트: 《우주선에는 인간이 한 명뿐이다》
 Repository: `storm-credit/only-one-human-aboard`
@@ -11,166 +14,144 @@ Repository: `storm-credit/only-one-human-aboard`
 
 이 프로젝트는 다른 작품과 완전히 독립적이다. 다른 프로젝트 설정을 가져오지 않는다.
 
-## 절대 규칙
-- 현재는 `DEEP DESIGN / NOT READY TO WRITE`다.
-- `DESIGN FREEZE → CANON FREEZE → WRITING READY` 전까지 프롤로그, 1화, 샘플 장면, 긴 대사, 문체 테스트 포함 모든 소설 본문 집필 금지.
-- 설정집, 설계도, 세계관, Character Bible, Act/Sub-Act, 복선/회수, 장기 QA가 완성될 때까지 집필하지 않는다.
-- 주요 설계는 바로 확정하지 말고 3~4안 비교 → 함정 체크 → Hybrid → Red Team 순서로 검증한다.
+### 절대 규칙
+- 현재 상태는 `DEEP DESIGN / NOT READY TO WRITE`.
+- `DESIGN FREEZE → CANON FREEZE → WRITING READY` 전까지 프롤로그, 1화, 샘플장면, 긴 대사, 문체 테스트 포함 모든 본문 집필 금지.
+- 주요 설계는 바로 확정하지 말고 3~4안 비교 → 함정 체크 → Hybrid → Red Team.
 - P0 논리구멍 하나라도 남으면 Freeze 금지.
-- 변경 시 `docs/change-log.md`에 이전/변경/이유/영향을 기록한다.
-- `canon/CANON_STATUS.md`의 CANDIDATE / PROVISIONAL / CANON / REJECTED 상태를 지킨다.
-- 대화가 다시 길어지기 전에 이 문서를 갱신하고 사용자에게 새 채팅용 프롬프트를 먼저 제공한다.
+- `canon/CANON_STATUS.md`의 CANDIDATE / PROVISIONAL / CANON / REJECTED 상태를 구분.
+- 계획이 바뀌면 `docs/change-log.md`에 이전/변경/이유/영향을 기록.
+- 대화가 다시 길어지기 전에 이 `docs/NEXT-CHAT-HANDOFF.md`를 최신화하고 사용자에게 새 채팅용 프롬프트를 먼저 제공.
 
-## 반드시 먼저 읽을 GitHub 문서
+### 먼저 읽을 GitHub 파일
 1. `CLAUDE.md`
 2. `docs/current-work-status.md`
 3. `canon/CANON_STATUS.md`
 4. `docs/change-log.md`
 5. `docs/qa/WORLD-LOGIC-RED-TEAM-v0.2.md`
 6. `docs/world-logic/WL-REPAIR-v0.2-4-designs.md`
-7. `docs/world-logic/P0-CLOSURE-minimum-rules-v0.1.md`
-8. `docs/characters/PROTAGONIST-4-DESIGNS-v0.1.md`
-9. `docs/characters/PROTAGONIST-HYBRID-DEEPENING-v0.1.md`
-10. `docs/characters/CORE-CAST-BIBLE-v0.1.md`
-11. `docs/characters/CHEMISTRY-RELATIONSHIP-MATRIX-v0.1.md`
-12. `docs/design/WANTED-SCENES-30-v0.1.md`
-13. `docs/design/01-story-engine-v0.1.md`
-14. `docs/design/02-truth-architecture-c-lite-v0.1.md`
-15. `docs/design/03-living-world-v0.1.md`
+7. `docs/world-logic/OH-D-UNSEEDED-BIRTH-STRESS-TEST-v0.1.md`
+8. `docs/qa/BIO-HUMAN-REVEAL-FAIRNESS-v0.1.md`
+9. `docs/qa/RB-B-STORY-ENGINE-REGRESSION-v0.1.md`
+10. `docs/research/CONNECTOMIC-SEED-SCIENCE-BOUNDARY-v0.1.md`
+11. `docs/characters/PROTAGONIST-4-DESIGNS-v0.1.md`
+12. `docs/characters/PROTAGONIST-HYBRID-DEEPENING-v0.1.md`
+13. `docs/characters/CORE-CAST-BIBLE-v0.1.md`
+14. `docs/characters/CHEMISTRY-RELATIONSHIP-MATRIX-v0.1.md`
+15. `docs/characters/C8-ONE-HUMAN-4-DESIGNS-v0.1.md`
+16. `docs/design/WANTED-SCENES-30-v0.1.md`
+17. `docs/design/REWARD-PHYSICAL-PRESSURE-ENGINES-v0.1.md`
+18. `docs/design/03-living-world-v0.2.md`
 
-## 현재 상태
-`WORLD LOGIC FREEZE = BLOCKED`
-`CHARACTER DESIGN = IN PROGRESS`
-`MANUSCRIPT = BLOCKED`
+### 현재 Gate
+- `WORLD LOGIC FREEZE = BLOCKED`
+- `CHARACTER DESIGN = IN PROGRESS`
+- `LIVING WORLD v0.2 = PROVISIONAL`
+- `MANUSCRIPT = BLOCKED`
 
-World Logic v0.1에서 대부분 P0가 닫혔으나 Red Team v0.2가 핵심 P0를 다시 열었다. 이것은 실패가 아니라 의도된 QA 결과다.
+### 현재 핵심 1순위 후보 — 전부 미확정
 
-## 현재 World Logic 1순위 수리 후보 — 전부 PROVISIONAL/CANDIDATE
+#### World Logic
+- 시민 대부분은 실제 인간형 생물학적 몸/뇌와 실제 가족/성장을 가짐.
+- 차이는 `Natural/Bio-Origin Cognition` vs `Seeded/Synthetic-Origin Cognition`이라는 인지 발생 이력.
+- Seed는 단순 산전 자극이 아니라 **computationally generated connectomic growth prior**를 초기 뇌 발달에 적용하는 미래기술.
+- 기억/성격/충성/명령/원격조종/관리자키 삽입 불가.
+- 자연임신/보조생식 모두 가능하고, 임신 초기 Connectomic Seed가 수백 년 동안 평범한 표준 산전의료가 된 U-C 모델 우세.
+- Continuity Scan은 실행 가능한 영혼파일이 아니라 `recovery map`.
+- 정상 복원에는 원 neural anchor 필요. anchor 없이 만든 존재는 `Derived Person` 별도 범주 후보.
+- 현재 natural-origin 한 명은 항상 유지되는 Witness가 아니라 `OH-D Rare Deliberate Unseeded Birth` 후보가 우세.
+- 역사상 비시드 출생이 전혀 없었던 것은 아니며 **현재 살아 있는 확인 가능한 사람이 한 명**.
+- 본인은 비시드 출생 가족사는 알 수 있지만 그것이 옛 분류의 ‘유일한 인간’이라는 의미는 모르는 K2 후보.
+- 역사 지식은 중앙정부 삭제가 아니라 `Semantic Drift + Specialist Obsolescence + 약한 Archive Loss`.
+- 목적지는 실제 존재. 우주선은 이미 고향이 됐고 행성정착 속도와 우주선 보존은 연속적 자원 Trade-off.
 
-### H2R-A — Body / Origin
-- 시민 대부분은 실제 인간형 생물학적 몸/뇌와 진짜 가족/성장을 가진다.
-- 차이는 몸보다 `Natural/Bio-Origin Cognition` vs `Seeded/Synthetic-Origin Cognition`이라는 인지 발생 이력.
-- 현 사회에서는 둘 다 인간/사람.
-- ‘생물학적 인간 1명’은 옛 분류체계의 충격적 선언이며 작품은 그 분류가 30만 명의 삶보다 정당한지 질문해야 함.
-- **용어장난 위험 때문에 아직 P0 semantic guardrail 유지.**
+#### Reveal Fairness
+단독 `생물학적 인간: 1` 화면은 REJECT 우선.
+추천:
+- `CIVIC PERSONS ≈ 300,000`
+- `BIO-ORIGIN HUMAN LINEAGE = 1`
+처럼 두 분류를 함께 보여주고, 옛 분류의 의미가 문제임을 공정하게 제시.
 
-### H3 — Birth
-- 실제 부모 유전정보
-- 실제 배아/임신/출산/성장
-- seeded neurodevelopment가 수백 년 동안 표준 생식의학이 됨
+선행 단서 최소 3종:
+1. 출생기록 Seed field
+2. seeded-born human recognition 옛 법률 흔적
+3. 현대 산전의료와 옛 synthetic cognition 연구용어의 겹침
 
-### H4R / RB-B — Death / Restoration
-- Full Continuity Scan은 실행 가능한 영혼파일이 아니라 `continuity recovery map`.
-- 정상 법적 복원에는 살아 있거나 보존된 원 neural anchor가 필요.
-- 원 신경기질 없이 만든 존재는 가능하더라도 `Derived Person` 별도 범주 후보.
-- 완전 소멸은 실제 죽음 가능.
-
-### H6 — Population
-- 약 30만은 현재 근사값/안전운용대.
-- 출생과 복원이 같은 장기 자원을 경쟁.
-
-### H7 Repair — One Human
-기존 `항상 한 명 유지 Witness/Baseline Protocol` 우선순위 하락.
-
-현재 1순위 후보:
-`OH-D Rare Deliberate Unseeded Birth`
-- 역사적으로 natural-development 예외가 전혀 없었던 것은 아님.
-- 현재 살아 있는 확인 가능한 natural-origin이 한 명.
-- 시스템이 선택한 존재/왕족/관리자키/특별능력 없음.
-- 그 사람의 차이가 중요한 이유는 사회가 그것을 중요하게 만들기 때문.
-
-### H8 — History Knowledge
-추천 Hybrid:
-`Semantic Drift + Specialist Obsolescence + 약한 Archive Loss`
-- 기술 존재 자체는 완전 비밀 아님.
-- 현재에는 인간 생식의학으로 이해.
-- 옛 synthetic cognition 기술의 의미/분류가 수백 년 동안 희석.
-- 중앙정부 대규모 기억삭제는 우선 폐기.
-
-### H9 — Destination
-- 실제 목적지 존재
-- 우주선은 이미 30만의 고향
-- 식민 속도와 우주선 보존은 연속적 자원 Trade-off
-- 버튼 두 개식 윤리시험 금지
-
-## Red Team v0.2에서 재개방된 핵심 P0
-1. ‘생물학적 인간 1명’ 표현과 H2 생물학적 몸의 정합성
-2. 기록사회에서 옛 synthetic-origin 의미가 왜 상식이 아닌가
-3. 성인 복원 신체와 정상 아동 성장 규칙
-4. 현재 natural-origin이 한 명인 이유
-
-## Story Engine 결과
-- 40개 사건 생성 테스트 통과
-- 보고 싶은 장면 30개 테스트 통과
-- 30개 중 메인 미스터리 직접 연결 약 5~6개
-
-따라서 `메인 비밀 없으면 할 일이 없다` 위험은 현재 낮음.
-
-## Character Architecture 현재 1순위 후보
-
-### Protagonist
-`P-A 판정형 + P-D 구획이동형 일부`
+#### Protagonist
+`P-A 판정형 + P-D 구획이동형` Hybrid.
 가칭 `현장 연속성 심사관`.
-- 최고권력자 아님
-- 연속성 분쟁에서 임시 권리상태 판단
-- 구획/재난/이주에 제한적 현장 파견
-- 항고/재심 가능
+중견 실무자, 임시 권리판정, 제한적 현장파견, 항고/재심 가능.
 
 결핍:
 애매함을 견디지 못하고 판정하면 감정도 정리된다고 믿음.
 
-### Family F-A
+가족 F-A:
 - 복원된 형제/자매 S
-- 그 자녀인 조카 N
-- 사고 뒤 P가 N을 수년간 보호
-- S가 복원되어 친권 회복을 원함
+- 조카 N
+- 사고 후 P가 N을 수년간 보호
+- S 복원 후 친권 회복 요구
 
-P의 개인 비밀 후보:
-S가 생전 남긴 복원거부 취지의 미제출 기록을 발견했지만 공개하지 않음.
+P의 비밀 후보:
+S가 생전 남긴 복원거부 취지의 미제출 기록을 발견했으나 공개하지 않음.
 
-### Main Rival R-B
-시민권 전문 대리인/변호사.
-P의 임시판정을 반복 항고하고 연속성 심사제도의 권한 축소를 추구.
-P 없이도 집단소송/정치연대를 독립 진행.
+라이벌 R-B:
+시민권 전문 대리인/변호사. P의 판정을 실제로 뒤집고 연속성 심사제도 권한 축소를 독립적으로 추진.
 
-### Core Cast 후보
-- P 주인공
-- S 복원된 형제/자매
-- N 조카
-- R 시민권 라이벌
-- M 상사/스승
-- D 현장 의료평가관
-- O 구환 주민대표/오랜 친구
-- C8 유일한 natural-origin은 Act 2 이후 진입 후보
+#### C8 Sole Natural-Origin
+현재 1순위 `C8-B`:
+- 30대 후반~50대의 평범한 부모
+- 부모가 C8 임신 때 seed를 거부
+- C8은 오히려 부모 결정을 위험한 고집으로 생각했을 수 있음
+- 자기 자녀에게는 모두 표준 seeded prenatal care 선택
+- Reveal 뒤 옛 시스템은 C8만 human, 배우자/자녀는 synthetic-origin으로 분류
+- 핵심 감정: `나만 인간이고 내 아이들은 아니라는 말을 왜 받아들여야 하지?`
+- 특별능력/관리자권한 없음
+- 주인공 조카 N과 C8은 분리 추천
 
-중요:
-N과 C8을 현재 분리 추천. 모든 비밀이 주인공 가족에 몰리는 인공성을 줄인다.
+#### Living World v0.2
+3개의 거대 회전 Habitat + Spine/Outer Works.
+- Habitat A: Civic / Old Urban
+- Habitat B: Green / Watershed
+- Habitat C: Technical / Mixed Worker Residence
+- Non-Rotating Spine: 교통/물류/무중력 작업
+- Outer Works: 외벽/방열/전력/위험정비
+- Founding Core/Legacy Decks: 초기 거주/설비 잔존
 
-## Chemistry 1차 PASS
-강한 관계:
-P×S / S×N / P×R / P×D / P×O
+v0.1의 독립 `유년원`, `제작환`, `기억원`은 REJECT 추천.
+`구환`은 Habitat A의 Old Quarter로 축소.
 
-## 새로 발견된 약점
-- 물리적 위기/긴장 리듬이 부족할 수 있음
-- 즐거운 승리/보상 장면 부족
-- C8 유일한 인간의 개인욕망/직업/관계가 아직 비어 있음
-- 사건해결사 판례집화/회의실 정치화/철학토론화 계속 감시
+사회집단은 철학정당이 아니라 이해관계 기반 네트워크로 재구성.
 
-## 바로 이어서 할 작업
-순서:
-1. `OH-D Rare Unseeded Birth Stress Test`
-   - 왜 현재 한 명만 남을 만큼 희귀한가
-   - 통제사회 없이 가능한가
-   - 누가 왜 시도했고 어떻게 성공했는가
-2. `BIO HUMAN Reveal Fairness Test`
-   - 제목/첫 Reveal이 용어장난이 되지 않는지
-3. `RB-B Restoration Regression Test`
-   - 기존 40개 사건을 유지/수정/폐기 분류
-4. `C8 유일한 인간 Character 4안`
-   - 특별역할보다 평범한 개인욕망부터
-5. Reward Engine + Physical Pressure Engine 보강
-6. Character Bible 심화
-7. C-full Act/Sub-Act/Information Ladder
+### 이미 통과한 내구성 테스트
+- 40개 사건 생성 테스트 PASS
+- 30개 보고 싶은 장면 PASS
+- 메인 미스터리 직접 연결 약 5~6개뿐이어도 장면 작동
+- RB-B 복원규칙 적용 후 40개 사건 중 약 27 유지 / 10 수정 / 3 재설계 → Story Engine PASS
+- Chemistry: P×S / S×N / P×R / P×D / P×O 강함
+- Non-combat physical pressure 6개 + reward 8개 확보
+
+### 아직 중요한 위험
+- ‘Bio-Origin Human’ 표현이 끝까지 용어장난처럼 보이지 않아야 함
+- OH-D/U-C의 현재 1명 희귀성은 Act/사회설계에서도 검증 필요
+- C8가 작품의 도덕적 정답머신이 되면 안 됨
+- 사건해결사 판례집/회의실 정치/철학토론화 계속 감시
+- Habitat A/B/C가 도시/농민/노동자 카스트처럼 보이면 안 됨
+- 목적지 남은 항해기간/초기정착 자원모델 아직 미확정
+
+### 바로 이어서 할 작업
+**1순위부터 순서대로 진행:**
+1. `Destination Resource & Arrival Timeline 4안`
+   - 어디로 가는가
+   - 왜 가는가
+   - 얼마나 남았는가
+   - 실제 거주가능성
+   - 착륙/초기정착 자원
+   - 우주선 보존과 식민 가속 Trade-off
+2. `C8-B Family Autonomy / Pre-Reveal Appearance Test`
+3. Living World v0.2 인구/경제/기관 Deep Pass
+4. Character Bible 성격/대사 Preliminary
+5. C-full 5~8 Act Architecture
+6. Sub-Act / Information Ladder / Foreshadow Ledger
 
 아직 어떤 새 설정도 CANON으로 승격하지 않는다.
-GitHub를 현재 상태의 정본 저장소로 사용하며 의미 있는 결과는 반드시 동기화한다.
+GitHub를 현재 프로젝트 정본 저장소로 사용하고 의미 있는 설계는 계속 동기화한다.
