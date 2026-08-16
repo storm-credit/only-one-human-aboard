@@ -6,6 +6,11 @@
 ## Status
 `DEEP DESIGN / NOT READY TO WRITE`
 
+## Writing Gate
+`DESIGN FREEZE → CANON FREEZE → WRITING READY` 전 원고/프롤로그/1화/샘플장면/긴 대사 집필 금지.
+
+---
+
 ## Completed
 - 기본 콘셉트/금지 방향
 - Reader Promise 후보
@@ -17,108 +22,218 @@
 - D Living World 1차 테스트
 - 생활권 8개/사회철학 7개 후보
 - World Logic P0 Harness
-- WL01-02 신체/의료 4안 → H2
-- WL03 출생 4안 → H3
-- WL05-06 죽음/백업 4안 → H4
-- WL07 인구 구조 → H6
-- WL10 유일한 인간 4안 → H7
-- WL11 역사 4안 → H8
-- WL12 목적지 4안 → H9
-- WL08-09 우주선/에너지/연산/생태 1차 기술모델
-- 30만 인구 우주선 규모 Quant Stress Test
+- WL01-02 신체/의료 4안
+- WL03 출생 4안
+- WL05-06 죽음/백업 4안
+- WL07 인구 구조
+- WL10 유일한 인간 4안
+- WL11 역사 4안
+- WL12 목적지 4안
+- WL08-09 우주선/에너지/연산/생태 기술모델
+- 30만 우주선 Quant Stress Test
 - World Logic Integrated Red Team v0.1
 - P0 Closure Minimum Rules v0.1
-- Red Team / Reference Matrix / Canon Registry / Change Log 구축
+- **World Logic Red Team v0.2**
+- **재개방 P0 4개 수리안 4-way 비교**
+- **주인공 Deep Design 4안**
+- **P-A/P-D Hybrid 직업·가족·라이벌 4안**
+- **핵심 7인 Role-level Character Bible**
+- **Chemistry / Relationship Matrix 1차**
+- **보고 싶은 장면 30개 테스트 통과**
+- rolling `NEXT-CHAT-HANDOFF.md` 구축
 
-## Current Integrated Model — PROVISIONAL
+---
 
-### H2 Body / Mind
-시민 대부분은 실제 인간형 생물학적 몸과 살아 있는 뇌를 가진다. 차이는 몸의 재질이 아니라 **의식의 발생 기원**.
+# Story Engine Verdict
 
-### H3 Birth
-부모의 실제 유전정보로 배아를 만들고, 표준 보조생식 과정에서 합성 인지 시드가 초기 신경발달을 점화. 실제 임신/출산/영아기/아동기/육아가 존재.
+40개 사건 + 30개 장면 테스트에서 메인 미스터리 없이도:
+- 가족
+- 복원/연속성
+- 구획 탐험
+- 자원
+- 세력
+- 제도 후폭풍
+이 독립 작동.
 
-### H4 Death / Backup
-현재 의식은 각자의 살아 있는 뇌에서 작동. 실시간 완전백업은 없음. 저빈도 Full Continuity Scan + 생활로그 + 조건부 사후복원.
+`장편 사건 부족` 위험은 크게 완화.
 
-### H6 Population
-약 30만은 안전 수용범위의 현재값. 신규출생과 복원은 같은 주거/식량/의료/신체 자원을 두고 경쟁.
+남은 핵심 위험:
+- 사건해결사 판례집화
+- 회의실 정치화
+- 철학토론화
+- 물리적 긴장 리듬 부족
 
-### H7 One Human
-세습 혈통이 아니라, 합성인지 출생 전환 당시 만들어진 역사적 타협. 자연기원 인격이 없을 때 다음 정상 출생 중 하나에서 인지 시드를 생략하는 방식이 현재 1순위.
+---
 
-### H8 History
-인간은 어느 날 전멸한 것이 아니다. 부모들이 의료/복원상의 이점 때문에 seeded birth를 선택하고, 그 아이들이 다시 부모가 되는 수 세대 동안 ‘태어나는 방식’이 바뀜. 합성기원 시민은 침입자/복제품이 아니라 현재 인류의 후손사회.
+# World Logic — Current Candidate Stack
 
-### H9 Destination
-목적지는 실제 존재하고 거주 가능성이 있으나 낙원은 아님. 원래 식민계획과 달리 우주선은 이미 고향/문명이 됨. 빠른 행성식민과 우주선의 완전보존을 동시에 최대화할 수 없어 최종 자원·가치 충돌 발생.
+## H2R-A — Body / Origin
+현재 1순위 유지안:
+- 시민들은 살아 있는 인간형 생물학적 몸/뇌와 진짜 가족/성장을 가짐.
+- 차이는 `Natural/Bio-Origin Cognition` vs `Seeded/Synthetic-Origin Cognition`이라는 **인지 발생 이력**.
+- 현재 시민사회에서는 둘 다 사람/인간으로 취급.
+- ‘생물학적 인간 1명’은 옛 시스템 분류의 충격적 표현이며 작품은 최종적으로 그 분류의 정당성 자체를 질문.
 
-## Tech / Scale Candidate
-- 3개의 약 1 km 반경, 5~7 km 길이 회전생활원통 후보
-- 비회전 중앙척추 + 외곽 산업/방열 구조
-- 30만 농업 active crop canopy sanity range 약 15 km² 기준선, 작품에서는 20~30 km²+로 보수 설계
-- 수 GW~10 GW대 지속전력 Order-of-Magnitude 후보
-- 핵융합 주전원 미래기술 가정
-- 중앙 서버가 30만 의식을 실시간 실행하지 않음
-- 재생형 생명유지 + 비축 + 실제 손실
-- 물/원료/구조질량을 방사선 차폐에도 활용
+### 위험
+일반 독자에게 용어장난처럼 보일 수 있어 P0 semantic guardrail 유지.
 
-정확 수치는 아직 Canon 아님.
+## H3 — Birth
+- 실제 부모 유전정보
+- 실제 배아/임신/출산/아동성장
+- seeded neurodevelopment가 수백 년 생식의학의 표준
 
-## P0 Minimum Rules — 1st Pass
+## H4R — Death / Restoration
+새 1순위 수리안:
+- Full Continuity Scan = 실행가능한 영혼파일이 아니라 **continuity recovery map**.
+- 법적 정상 복원에는 살아 있거나 보존된 원 neural anchor가 필요.
+- 원 신경기질 없이 재구성하면 가능하더라도 `Derived Person` 별도 범주 후보.
+- 완전 소멸은 진짜 죽음이 될 수 있음.
 
-### Cognitive Seed
-- 완성 AI/기억/성격 주입 아님
-- 배아/태아 신경망의 초기 자기조직화를 점화하는 발달 유도 패턴
-- 영구칩/원격조종/숨은 명령 금지
+## H6 — Population
+약 30만은 정확한 고정 숫자가 아니라 안전운용대의 현재 근사치.
+출생과 복원이 동일한 장기 자원을 경쟁.
 
-### Assisted Reproduction
-- 생식세포/배아 유전복구와 발달체크가 수백 년 동안 표준 인프라가 됨
-- 현재 사회에서 보조생식은 특별 허가가 아니라 평범한 임신 시작 단계
-- 우회가 물리적으로 절대 불가능하지는 않지만 매우 어렵고 위험
+## H7 — One Human
+기존 `항상 한 명 유지 Witness/Baseline Protocol`은 우선순위 하락.
 
-### Full Continuity Scan Limit
-- 고해상도 스캔은 장시간 전용시설/추적물질/신경활성 측정 필요
-- 반복시 신경계·혈관·교세포 부담과 회복기간
-- 시설 throughput도 제한
-- 돈만으로 매일 스캔하는 불멸 불가
+새 1순위 후보:
+`OH-D Rare Deliberate Unseeded Birth`
 
-### Natural-Origin Detection
-- 현대 Full Scan은 자연/합성기원 모두 처리 가능
-- 성인 뇌에서는 초기 시드의 직접 흔적이 사라지고 개인차와 겹침
-- 기원을 확정하려면 의료검사가 아니라 출생 provenance가 필요
+- 역사적으로 비표준 natural-development 출생이 전혀 없었던 것은 아님.
+- 현재 살아 있는 확인 가능한 natural-origin이 한 명.
+- 시스템이 선택한 존재/왕족/관리자키 없음.
+- 특별능력 없음.
+- 그 사람의 차이가 중요한 이유는 사회가 그것을 중요하게 만들기 때문.
 
-## Major Problems Strongly Mitigated
-- 병원 검사 한 번으로 유일한 인간 식별
-- AI 30만 명 중앙연산 비용
-- AI 캐릭터의 감정적 거리감
-- 가족/임신/육아의 가짜 느낌
-- 백업 때문에 죽음 무효화
-- 부자의 실시간 불멸
-- 30만 인구 유지 이유
-- 유일한 인간의 선택받은 혈통화
-- ‘원래 인간 전멸’ 단일반전 의존
-- 목적지 프로토콜=최종악역 문제
+## H8 — History Knowledge
+추천:
+`Semantic Drift + Specialist Obsolescence + 약한 Archive Loss`
 
-## Still Open Before World Logic Freeze
-1. P0 Minimum Rules 2차 Red Team
-2. 합성 인지 시드가 너무 만능기술처럼 보이지 않는지 검증
-3. 생식 발달체크포인트가 과도한 디스토피아로 느껴지지 않는지 검증
-4. 목적지 초기정착 자원 Trade-off 1단계 구체화
-5. 우주선 구조/인구분포/구획 명칭의 Living World 재통합
-6. ‘생물학적 인간 한 명’이라는 제목용 표현과 기술적 ‘자연기원 인격 1명’의 서사적 정합성
+- 기술의 존재 자체가 완전 비밀은 아님.
+- 현재에는 인간 생식의학으로 이해.
+- 옛 synthetic cognition 기술의 의미/분류가 수백 년 동안 희석.
+- 대규모 중앙정부 기억삭제는 우선 폐기.
 
-## Next Phase Candidate
-World Logic Red Team v0.2 통과 후:
+## H9 — Destination
+- 실제 목적지 존재
+- 우주선은 이미 30만 명의 고향
+- 식민지 건설 속도와 우주선 보존은 연속적인 자원 Trade-off
+- 최종 버튼식 양자택일 금지
 
-1. Character Bible
-2. Chemistry / Relationship Matrix
-3. 라이벌/주요 세력 인물화
-4. 보고 싶은 장면 30~50개 보강
-5. C-full Act / Sub-Act / Information Ladder
+---
+
+# World Logic Gate
+
+## Red Team v0.2에서 P0 재개방됨
+1. ‘생물학적 인간 1명’ 표현과 H2의 생물학적 몸 정합성
+2. 수백 년 기록사회에서 synthetic-origin의 옛 의미가 왜 현재 상식이 아닌지
+3. 성인 복원 신체 vs 정상 아동 성장 규칙
+4. 한 명 유지/발생 원리
+
+## 현재 수리 후보
+- H2R-A semantic guardrail
+- HK-B+D+C-lite
+- RB-B recovery map + neural anchor
+- OH-D rare deliberate unseeded birth
+
+전부 아직 Canon 아님.
+
+---
+
+# Character Architecture — Current 1st Candidate
+
+## Protagonist
+`P-A 판정하는 사람 + P-D Living World 이동성 일부`
+
+가칭 직업:
+`현장 연속성 심사관`
+
+핵심:
+- 최고권력자가 아니라 중견 실무자
+- 연속성 분쟁에서 임시 권리상태를 결정
+- 구획/재난/이주 사건에 제한적 현장 파견
+- 최종 사법권 없음
+- 항고/재심 가능
+
+### 결핍
+애매함을 견디지 못하고 판정하면 감정도 정리된다고 믿음.
+
+### 가족 1순위 F-A
+- 복원된 형제/자매
+- 그 자녀인 조카
+- 사고 후 P가 조카를 수년간 보호
+- 복원된 부모가 친권 회복을 원함
+
+### P의 개인 비밀 후보
+복원 전 형제/자매가 남긴 복원거부 취지의 미제출 개인기록을 발견했지만 공개하지 않음.
+
+## Main Rival 1순위 R-B
+시민권 전문 대리인/변호사.
+주인공의 판정을 반복적으로 항고하고, 연속성 심사제도의 권한 축소를 추구.
+주인공 없이도 집단소송/정치연대를 독립 진행.
+
+## Core Cast Candidates
+- P 주인공
+- S 복원된 형제/자매
+- N 조카
+- R 시민권 라이벌
+- M 상사/스승
+- D 현장 의료평가관
+- O 구환 주민대표/오랜 친구
+- C8 유일한 natural-origin person은 Act 2 이후 별도 진입 후보
+
+### Important
+N(조카)와 C8(유일한 인간)은 현재 **분리 추천**.
+모든 비밀이 주인공 가족에 집중되는 인공성을 줄이기 위해.
+
+---
+
+# Chemistry Verdict
+강한 조합:
+1. P × S
+2. S × N
+3. P × R
+4. P × D
+5. P × O
+
+플롯 없이도 장면 생성 가능성 1차 PASS.
+
+---
+
+# Wanted Scenes 30 Test
+
+30개 장면 생성 완료.
+메인 미스터리 직접 연결은 약 5~6개로 30% 이하.
+
+따라서:
+`미스터리 없으면 할 일이 없다` 위험은 현재 낮음.
+
+새로 발견한 약점:
+1. 물리적 위기/긴장 리듬 보강 필요
+2. 즐거운 승리/보상 장면 비중 부족
+3. C8 유일한 인간의 개인 캐릭터/욕망 비어 있음
+
+---
+
+# Immediate Next Work
+
+1. **OH-D Rare Unseeded Birth Stress Test**
+   - 왜 현재 한 명만 남을 만큼 희귀한가
+   - 억지 통제사회 없이 가능한가
+   - 누가 시도했고 왜 성공했나
+2. **‘생물학적 인간’ Reveal Fairness Test**
+   - 독자 기만/용어장난 방지
+3. **RB-B Restoration Case Regression Test**
+   - 기존 40개 사건 중 유지/수정/폐기 분류
+4. **C8 유일한 인간 Character 4안**
+   - 특별한 역할 없는 평범한 개인욕망부터 설계
+5. Reward / Physical Pressure Engine 보강
+6. 그 뒤 Character Bible 심화 → C-full Act/Sub-Act
 
 ## Stop Condition
-P0가 다시 열리면 World Logic Freeze 금지.
+P0가 남아 있으면 World Logic Freeze 금지.
 
-## Writing Gate
-`DESIGN FREEZE → CANON FREEZE → WRITING READY` 전 원고 집필 금지.
+## Current Gate
+`WORLD LOGIC FREEZE = BLOCKED`
+`CHARACTER DESIGN = IN PROGRESS`
+`MANUSCRIPT = BLOCKED`
