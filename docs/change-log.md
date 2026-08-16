@@ -194,3 +194,17 @@
 - World Rules Affected: H6 population commons, housing, labor, utilities, mobility, civic institutions, H9R resource allocation
 - Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, World Bible, Character Bible 직업/주거, transit sanity doc
 - Status: PROVISIONAL LIVING WORLD PRIORITY / NOT CANON — age/household, school/medical throughput, transit geometry, Habitat별 사건 regression 전 Freeze 금지
+
+## CHG-013 — 캐릭터 목소리를 철학이 아니라 감정 회피방식에서 분리
+- Date: 2026-08-16
+- Change Location: Character Bible / Personality / Voice Architecture
+- Previous: 역할·욕망·관계·Chemistry는 있었지만 실제 인물별 말의 리듬/감정회피/유머가 미설계라 전원이 같은 작가 목소리·철학자처럼 들릴 위험이 있었음.
+- New: `V-D Coping-Mechanism Register + restrained realism + selective banter`를 1순위 Voice Hybrid로 추천. P/S/N/R/M/D/O/C8 각각에게 다른 default speech function, 감정회피법, 유머, 화날 때 변화, 반복오류, 비주제 생활면을 부여. catchphrase/대표명대사/상시 철학토론은 금지 우선. 실제 긴 대사나 샘플 장면은 작성하지 않음.
+- Reason: Anti-AI 규칙을 Character level에 구현하고, 모두가 너무 정확하고 의미 있게 말하는 현상과 철학토론화를 막기 위해.
+- Trigger / Evidence: `CHARACTER-PERSONALITY-VOICE-PRELIMINARY-v0.1.md`의 V-A~V-D 비교 및 Voice Collision/Character Error Budget 테스트.
+- Characters Affected: P, S, N, R, M, D, O, C8
+- Acts Affected: 전체. 특히 가족갈등, P-R 경쟁, C8 Reveal 전후, 정치/기관 장면
+- Foreshadowing Affected: 직접 Truth 단서는 변경하지 않으나 누가 어떤 용어를 자연스럽게 알고 말할 수 있는지 Information Ladder/Jargon Knowledge Map에 영향
+- World Rules Affected: 없음. 서사표현/캐릭터 일관성 규칙.
+- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, `docs/NEXT-CHAT-HANDOFF.md`, C-full Act Architecture, 추후 Jargon Knowledge Map
+- Status: PROVISIONAL CHARACTER VOICE / NOT CANON — Act-level 독립목표/voice regression 전 Freeze 금지
