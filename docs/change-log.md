@@ -166,3 +166,17 @@
 - World Rules Affected: H9 목적지, ship resource economy, arrival timeline, population capacity, energy/heat, settlement law
 - Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, Information Ladder, Foreshadow Ledger
 - Status: PROVISIONAL PRIORITY / NOT CANON — structural mass, propulsion/deceleration, Act regression 전 Freeze 금지
+
+## CHG-011 — C8-B를 ‘Reveal용 인물’이 아니라 독립 생활가족으로 정교화
+- Date: 2026-08-16
+- Change Location: Character Architecture / C8 Sole Natural-Origin
+- Previous: C8-B는 평범한 부모 + 배우자 + seeded 자녀 1~2명, 생활권 이주/주거문제가 개인욕망 후보였으나 가족 구성과 Pre-Reveal 등장방식은 미정.
+- New: `C8-BR Work-First Family`를 1순위 Hybrid로 추천. C8은 42~47세 후보의 water/reclamation 중견 실무자, 배우자는 독립 직업/통근목표, 첫째 17~19세는 독립 apprenticeship, 둘째 7~9세는 현재 학교/친구 잔류를 원함. Reveal 전 최소 3회 `현장 실무자 → 가족 생활 → 목적지 준비 자원갈등`으로 등장시키되 개인 birth provenance는 Reveal chain 후반까지 직접 노출하지 않음.
+- Reason: C8의 natural-origin 상태를 삭제해도 가족/직업/주거/도착준비 서브플롯이 작동해야 선택받은 인간/정답머신 위험을 줄일 수 있음. 공동양육형은 P-S-N의 친권서사와 겹쳐 탈락, blended family는 테마에 지나치게 맞춘 인공성 때문에 전체 채택하지 않음.
+- Trigger / Evidence: `C8-B-FAMILY-AUTONOMY-PRE-REVEAL-TEST-v0.1.md` 4안 비교, Identity Removed / Remove P / Pre-Reveal Prediction / Relationship Containment Red Team.
+- Characters Affected: C8, C8 배우자/자녀 후보, P, R, O, P-S-N 관계망
+- Acts Affected: Act 1 후반~중반 Reveal 이후, 후반 H9R 정착준비
+- Foreshadowing Affected: C8 개인 provenance는 후순위, Seed/old-law fairness 단서는 사회 전반에서 선행
+- World Rules Affected: 직접 변경 없음. U-C/OH-D/H9R과 Character-level 연결만 강화.
+- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, Information Ladder, Character Bible, Living World institutions/economy
+- Status: PROVISIONAL CHARACTER PRIORITY / NOT CANON — Living World regression 및 Act placement 전 Freeze 금지
