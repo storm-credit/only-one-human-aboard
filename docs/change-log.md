@@ -159,41 +159,41 @@
 - Previous: `이중유산 식민계획 + 우주선 고향화`, 남은 항해 약 10~15년이 1순위였으나 초기정착 자원과 선체해체의 실제 이득은 미정량.
 - New: `H9R Quiet K-Dwarf System + Resource Triangle + Staged Settlement`를 1순위 Hybrid로 추천. 목적지는 행성 하나가 아니라 거주가능 후보 행성 + 물/휘발성 자원천체 + 금속자원천체를 가진 별계. 남은 시간은 약 14년 후보. 선체 해체의 핵심 이득을 bulk 고철이 아니라 발전/방열/정밀제조/로봇/공정설비의 산업 bootstrap으로 정의. ship/orbit/surface/new-habitat의 연속적 선택을 유지.
 - Reason: 현지 ISRU가 가능한데도 선체를 뜯어야 하는 이유가 없으면 최종 갈등이 가짜가 되고, 반대로 행성정착을 강제하면 `우주선=고향`이 무의미해지기 때문.
-- Trigger / Evidence: `WL13-destination-resource-arrival-timeline-4-designs-v0.1.md` 4안 비교 및 Red Team. A Surface-First / B Resource Triangle / C Terminator / D Biosafety 비교에서 B가 장기성·사회갈등·비양자택일성 1위, A가 scope control 1위. A+B controlled Hybrid 추천.
+- Trigger / Evidence: `WL13-destination-resource-arrival-timeline-4-designs-v0.1.md` 4안 비교 및 Red Team.
 - Characters Affected: P, S, N, R, C8, 선박 전 시민, 향후 정착민
 - Acts Affected: 중반 감속준비부터 후반 도착/초기정착까지 전체 장기구조
 - Foreshadowing Affected: 목적지 관측자료, 식민용 detachable modules, 구식 mission law, 산업설비 해체, C8 분류의 법적 재등장
 - World Rules Affected: H9 목적지, ship resource economy, arrival timeline, population capacity, energy/heat, settlement law
 - Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, Information Ladder, Foreshadow Ledger
-- Status: PROVISIONAL PRIORITY / NOT CANON — structural mass, propulsion/deceleration, Act regression 전 Freeze 금지
+- Status: PROVISIONAL PRIORITY / NOT CANON
 
 ## CHG-011 — C8-B를 ‘Reveal용 인물’이 아니라 독립 생활가족으로 정교화
 - Date: 2026-08-16
 - Change Location: Character Architecture / C8 Sole Natural-Origin
 - Previous: C8-B는 평범한 부모 + 배우자 + seeded 자녀 1~2명, 생활권 이주/주거문제가 개인욕망 후보였으나 가족 구성과 Pre-Reveal 등장방식은 미정.
 - New: `C8-BR Work-First Family`를 1순위 Hybrid로 추천. C8은 42~47세 후보의 water/reclamation 중견 실무자, 배우자는 독립 직업/통근목표, 첫째 17~19세는 독립 apprenticeship, 둘째 7~9세는 현재 학교/친구 잔류를 원함. Reveal 전 최소 3회 `현장 실무자 → 가족 생활 → 목적지 준비 자원갈등`으로 등장시키되 개인 birth provenance는 Reveal chain 후반까지 직접 노출하지 않음.
-- Reason: C8의 natural-origin 상태를 삭제해도 가족/직업/주거/도착준비 서브플롯이 작동해야 선택받은 인간/정답머신 위험을 줄일 수 있음. 공동양육형은 P-S-N의 친권서사와 겹쳐 탈락, blended family는 테마에 지나치게 맞춘 인공성 때문에 전체 채택하지 않음.
-- Trigger / Evidence: `C8-B-FAMILY-AUTONOMY-PRE-REVEAL-TEST-v0.1.md` 4안 비교, Identity Removed / Remove P / Pre-Reveal Prediction / Relationship Containment Red Team.
+- Reason: C8의 natural-origin 상태를 삭제해도 가족/직업/주거/도착준비 서브플롯이 작동해야 선택받은 인간/정답머신 위험을 줄일 수 있음.
+- Trigger / Evidence: `C8-B-FAMILY-AUTONOMY-PRE-REVEAL-TEST-v0.1.md` 4안 비교 및 Red Team.
 - Characters Affected: C8, C8 배우자/자녀 후보, P, R, O, P-S-N 관계망
-- Acts Affected: Act 1 후반~중반 Reveal 이후, 후반 H9R 정착준비
+- Acts Affected: 초중반 Reveal 전후, 후반 H9R 정착준비
 - Foreshadowing Affected: C8 개인 provenance는 후순위, Seed/old-law fairness 단서는 사회 전반에서 선행
-- World Rules Affected: 직접 변경 없음. U-C/OH-D/H9R과 Character-level 연결만 강화.
-- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, Information Ladder, Character Bible, Living World institutions/economy
-- Status: PROVISIONAL CHARACTER PRIORITY / NOT CANON — Living World regression 및 Act placement 전 Freeze 금지
+- World Rules Affected: 직접 변경 없음. U-C/OH-D/H9R과 Character-level 연결 강화.
+- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full, Information Ladder, Character Bible
+- Status: PROVISIONAL CHARACTER PRIORITY / NOT CANON
 
 ## CHG-012 — Living World를 Layered Commons + Market City로 정교화
 - Date: 2026-08-16
 - Change Location: Living World v0.2 / Population / Economy / Institutions
 - Previous: 3 Habitat + Spine/Outer Works의 물리구조와 이해관계 네트워크는 있었지만, 실제 돈/주거/통근/기관/인구이동 구조는 미정. A/B/C가 각각 행정/농업/산업 카스트처럼 굳을 위험이 남아 있었음.
-- New: `LW-E1 Layered Commons + Market City`를 1순위 Hybrid로 추천. 기본 생존(공기/물/최소주거/기본교육·의료)은 시민권 floor, 일상생활은 화폐/임금/사업/시장, 출생·reconstruction·대량주거부피·산업전력 peak 같은 hard capacity는 civic commons로 관리. Habitat마다 모든 계층/직종/학교/병원/상업을 두고 특화는 비중 차이로 제한. cross-Habitat 통근/이주를 일상화하며 hub-to-hub 30~60분, 일반 door-to-door 60~120분 후보로 교통시간을 보정.
-- Reason: 완전 중앙배급은 사회 자율성과 생활감이 약하고, 완전 자유시장은 폐쇄우주선 수용력과 출생/복원 공공재 논리를 파괴함. 3 Habitat가 테마별 계급도시가 되지 않으려면 실제 노동·주거·교육 이동성이 필요.
+- New: `LW-E1 Layered Commons + Market City`를 1순위 Hybrid로 추천. 기본 생존은 시민권 floor, 일상생활은 화폐/임금/사업/시장, 출생·reconstruction·대량주거부피·산업전력 peak 같은 hard capacity는 civic commons로 관리. Habitat마다 모든 계층/직종/학교/병원/상업을 두고 특화는 비중 차이로 제한. cross-Habitat 통근/이주를 일상화하며 hub-to-hub 30~60분, 일반 door-to-door 60~120분 후보로 교통시간을 보정.
+- Reason: 완전 중앙배급은 사회 자율성과 생활감이 약하고, 완전 자유시장은 폐쇄우주선 수용력과 출생/복원 공공재 논리를 파괴함.
 - Trigger / Evidence: `04-living-world-population-economy-institutions-v0.1.md` 4개 사회운영모델 비교 및 C8-BR Regression/Red Team.
 - Characters Affected: P/S/N/R/M/D/O/C8, 전 시민
-- Acts Affected: 전체. 특히 생활권 사건, Old Quarter, 목적지 준비, 출생/복원 capacity 정치
-- Foreshadowing Affected: 직접 Truth Reveal 변경 없음. Seed/History보다 생활세계 선행노출 강화
+- Acts Affected: 전체
+- Foreshadowing Affected: 직접 Truth Reveal 변경 없음.
 - World Rules Affected: H6 population commons, housing, labor, utilities, mobility, civic institutions, H9R resource allocation
-- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, World Bible, Character Bible 직업/주거, transit sanity doc
-- Status: PROVISIONAL LIVING WORLD PRIORITY / NOT CANON — age/household, school/medical throughput, transit geometry, Habitat별 사건 regression 전 Freeze 금지
+- Documents To Repair: Canon/Current/C-full/World Bible/Character Bible/transit sanity
+- Status: PROVISIONAL LIVING WORLD PRIORITY / NOT CANON
 
 ## CHG-013 — 캐릭터 목소리를 철학이 아니라 감정 회피방식에서 분리
 - Date: 2026-08-16
@@ -203,8 +203,36 @@
 - Reason: Anti-AI 규칙을 Character level에 구현하고, 모두가 너무 정확하고 의미 있게 말하는 현상과 철학토론화를 막기 위해.
 - Trigger / Evidence: `CHARACTER-PERSONALITY-VOICE-PRELIMINARY-v0.1.md`의 V-A~V-D 비교 및 Voice Collision/Character Error Budget 테스트.
 - Characters Affected: P, S, N, R, M, D, O, C8
-- Acts Affected: 전체. 특히 가족갈등, P-R 경쟁, C8 Reveal 전후, 정치/기관 장면
-- Foreshadowing Affected: 직접 Truth 단서는 변경하지 않으나 누가 어떤 용어를 자연스럽게 알고 말할 수 있는지 Information Ladder/Jargon Knowledge Map에 영향
-- World Rules Affected: 없음. 서사표현/캐릭터 일관성 규칙.
-- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, `docs/NEXT-CHAT-HANDOFF.md`, C-full Act Architecture, 추후 Jargon Knowledge Map
-- Status: PROVISIONAL CHARACTER VOICE / NOT CANON — Act-level 독립목표/voice regression 전 Freeze 금지
+- Acts Affected: 전체
+- Foreshadowing Affected: 누가 어떤 용어를 언제 아는지 Information Ladder/Jargon Map에 영향
+- World Rules Affected: 없음
+- Documents To Repair: Canon/Current/Handoff/C-full/Jargon Map
+- Status: PROVISIONAL CHARACTER VOICE / NOT CANON
+
+## CHG-014 — C-full을 7 Act Relationship/Social Escalation 구조로 우선화
+- Date: 2026-08-16
+- Change Location: C-full Act Architecture
+- Previous: C-full 5~8 Act가 미설계였고, `유일한 인간` Reveal 시점/Reveal 후 장기엔진/도착준비와 가족축의 관계가 미확정.
+- New: `C-FULL-H1 7 Act Relationship / Social Escalation`을 1순위로 추천. Act 1 가족/Continuity → Act 2 판정 비용 → Act 3 Bio-Origin count/C8 Reveal → Act 4 공개 후 생활후폭풍 → Act 5 H9R 자원압력 → Act 6 두 고향 → Act 7 문명규칙/도착공간. Bio-Origin count는 약 55~65화, C8 identity는 약 65~78화 후보로 당겨 Reveal 이후가 더 길게 남도록 함.
+- Reason: 제목 비밀 하나를 200화까지 미루는 구조를 피하고, 이미 검증된 가족/Continuity/Living World 엔진이 Reveal 이후에도 본체로 작동하도록 하기 위해.
+- Trigger / Evidence: `C-FULL-ACT-ARCHITECTURE-4-DESIGNS-v0.1.md`의 Mystery-forward / Relationship-Social / Arrival-Countdown / Civilization-Network 비교. `LIVING-WORLD-ABC-EVENT-REGRESSION-v0.1.md` 42개 사건에서 A/B/C hidden caste risk Conditional Pass.
+- Characters Affected: P/S/N/R/M/D/O/C8 및 전 시민
+- Acts Affected: 전체
+- Foreshadowing Affected: Seed field, old law, synthetic-origin terminology, C8 provenance, mission law, H9R resource allocation
+- World Rules Affected: 직접 World Logic 변경 없음. Reveal timing/사회적 적용 순서 변경.
+- Documents To Repair: CANON_STATUS, current-work-status, NEXT-CHAT-HANDOFF, Sub-Act, Information Ladder, Foreshadow Ledger, Ending Architecture
+- Status: PROVISIONAL ACT PRIORITY / NOT CANON — Sub-Act/Info Ladder/Ending regression 전 Freeze 금지
+
+## CHG-015 — H9R 감속을 civil grid 경쟁에서 독립 성간추진계로 수정 + Ram Defense 추가
+- Date: 2026-08-16
+- Change Location: H9R Propulsion / Ship Architecture / Act 5 Pressure
+- Previous: H9R에서 장기 감속이 생활용 수 GW 전력을 직접 빼앗아 자원갈등을 만든다는 표현이 일부 남아 있었고, 0.03c 성간 먼지/가스 방호가 명시되지 않았음.
+- New: `H9R-P1 Dedicated Fusion Direct-Exhaust Drive`를 propulsion 1순위로 추천. 약 13 ly / 0.03c / 14y accel + 약 419y cruise + 14y decel ≈ 447y로 H9R 시간표를 물리적으로 정합화. 추진계는 10^17~10^18 W급 후보의 별도 direct-exhaust 계통이며 civil grid와 직접 경쟁하지 않음. 생활압력은 thermal geometry / spares / manufacturing / labor / propellant / redundancy에서 발생. 추가로 `RS-H1 Layered Ram Defense`—forward sensors + detached sacrificial shield train + electromagnetic bow field + integrated bow shield—를 성간 방호 1순위로 추천.
+- Reason: 10^12 kg급 선박의 0.03c 운동에너지/감속출력은 생활전력 수 GW보다 7~8 orders 크므로 같은 전력예산으로 다루면 물리적으로 부정확. 또한 고속 ISM gas/dust impact는 무시 불가.
+- Trigger / Evidence: `H9R-STRUCTURAL-MASS-PROPULSION-SANITY-v0.1.md`, `INTERSTELLAR-RAM-SHIELD-4-DESIGNS-v0.1.md`, NASA/NTRS fusion heat-radiator baseline 및 interstellar braking/shielding literature.
+- Characters Affected: 직접 캐릭터 정체 변경 없음. D/O/C8 및 Outer Works/utility/industry 인물의 사건 압력에 영향.
+- Acts Affected: Act 5~7 H9R pressure, 일부 초중반 forward-shield 생활배경
+- Foreshadowing Affected: 감속 시작, propulsion maintenance, shield reserve, colony bootstrap resource conflict
+- World Rules Affected: ship mass, propulsion architecture, thermal separation, forward shielding, H9R resource economy
+- Documents To Repair: CANON_STATUS, current-work-status, NEXT-CHAT-HANDOFF, C-FULL-H1 Act 5 표현, World Bible ship architecture
+- Status: PROVISIONAL WORLD-LOGIC REPAIR / NOT CANON — exact mass/exhaust/shield areal density Freeze 금지
