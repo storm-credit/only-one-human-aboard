@@ -7,205 +7,157 @@
 `DEEP DESIGN / NOT READY TO WRITE`
 
 - `WORLD LOGIC FREEZE = BLOCKED`
-- `CHARACTER DESIGN = IN PROGRESS`
-- `LIVING WORLD v0.2 = PROVISIONAL`
-- `C-FULL ACT ARCHITECTURE = NEXT`
+- `CHARACTER DESIGN = PROVISIONAL / NEEDS ACT REGRESSION`
+- `LIVING WORLD v0.2 = PROVISIONAL / HIDDEN-CASTE CONDITIONAL PASS`
+- `C-FULL ACT ARCHITECTURE = PROVISIONAL PRIORITY SELECTED`
 - `MANUSCRIPT = BLOCKED`
 
-`DESIGN FREEZE → CANON FREEZE → WRITING READY` 전 프롤로그/1화/샘플장면/긴 대사/문체 테스트 포함 본문 집필 금지.
+`DESIGN FREEZE → CANON FREEZE → WRITING READY` 전 프롤로그/1화/샘플장면/긴 대사/문체 테스트 포함 모든 원고 금지.
 
 ---
 
-# Completed So Far
+# Newly Completed
 
-## Discovery / Story Engine
-- 기본 콘셉트/금지 방향
-- Reader Promise 후보
-- A/B/C/D 4안 비교
-- 6개 반복엔진
-- 40개 사건 테스트 PASS
-- 보고 싶은 장면 30개 PASS
-- RB-B 복원규칙 적용 후 사건 Regression PASS
+## C8
+- `C8-B Family Autonomy / Pre-Reveal Appearance` 4안
+- `C8-BR Work-First Family` 1순위
+- Natural-Origin/P/Reveal 제거 Stress Test PASS
+
+## Living World Deep Pass
+- 경제/기관/인구 운영 4안
+- `LW-E1 Layered Commons + Market City` 1순위
+- C8-BR 통근/주거 Regression PASS
+
+## Character Voice
+- Voice 4안
+- `V-D Coping-Mechanism Register + restrained realism + selective banter` 1순위
+- 실제 긴 대사/샘플장면 작성하지 않음
+
+## C-full Act Architecture
+- 4안 비교 완료
+- `C-FULL-H1 7 Act Relationship / Social Escalation` 1순위
+- Bio-Origin count Reveal: 약 55~65화 후보
+- C8 identity: 약 65~78화 후보
+- Reveal 이후가 더 긴 구조
+
+Latest:
+- `docs/act/C-FULL-ACT-ARCHITECTURE-4-DESIGNS-v0.1.md`
+
+## Living World A/B/C Regression
+- A 12 + B 12 + C 12 + Cross 6 = **42 사건**
+- 각 Habitat에서 family/youth/service/white-collar/technical/medical/housing 사건 생성 가능
+- hidden caste risk = `CONDITIONAL PASS`
+
+Latest:
+- `docs/qa/LIVING-WORLD-ABC-EVENT-REGRESSION-v0.1.md`
+
+## H9R Structural Mass / Propulsion
+- 13 ly / 0.03c / 14y accel + ~419y cruise + 14y decel ≈ 447y → 시간표 PASS candidate
+- inhabited dry complex = low-10^12 kg class order 후보
+- `H9R-P1 Dedicated Fusion Direct-Exhaust Drive` 1순위
+- propulsion은 civil grid와 별도 초고출력 계통
+- 기존 `감속이 생활전력을 직접 빼앗음` 설명 우선 폐기/수정
+- 실제 pressure = thermal geometry / spares / manufacturing / labor / propellant / redundancy
+
+Latest:
+- `docs/world-logic/H9R-STRUCTURAL-MASS-PROPULSION-SANITY-v0.1.md`
+
+## Interstellar Ram Shield
+- 새 P0를 4안 비교 후 구조적으로 repair
+- `RS-H1 Layered Ram Defense` 1순위
+  1. sparse forward sensors
+  2. detached sacrificial shield train
+  3. electromagnetic bow field
+  4. integrated massive bow shield
+- 시민 노출 명칭은 단순 `전방 방호대` 수준 우선
+- combat SF 전환 금지
+
+Latest:
+- `docs/world-logic/INTERSTELLAR-RAM-SHIELD-4-DESIGNS-v0.1.md`
+
+---
+
+# Current 1st Candidates — ALL NOT CANON
 
 ## World Logic
-- 신체/의료/출생/죽음·복원/인구/역사/유일한 인간/목적지 설계
-- World Logic Red Team v0.1/v0.2
-- Connectomic Seed 현실-SF 경계 검증
-- `H9R Quiet K-Dwarf System + Resource Triangle + Staged Settlement` 추천 Hybrid
-- 남은 항해 약 14년 후보
-
-Latest:
-- `docs/world-logic/WL13-destination-resource-arrival-timeline-4-designs-v0.1.md`
+- H2R-A Bio/Synthetic Origin
+- H3/U-C Prenatal Seed Window
+- H4/RB-B Recovery Map + Neural Anchor
+- H6 Population Capacity
+- H7/OH-D Rare Deliberate Unseeded Birth
+- H8 Semantic Drift + Specialist Obsolescence + weak Archive Loss
+- H9R Quiet K-Dwarf + Resource Triangle + Staged Settlement
+- H9R-P1 Dedicated Fusion Direct-Exhaust Drive
+- RS-H1 Layered Ram Defense
 
 ## Character
-- 주인공/직업권한/가족/라이벌 4안
-- Core Cast Bible
-- Chemistry/Relationship Matrix
-- C8 4안 + C8-BR Family Autonomy/Pre-Reveal Test
-- `C8-BR Work-First Family` 추천
-- Character Personality/Voice 4안 비교 완료
-- `V-D Coping-Mechanism Register + restrained realism + selective banter` 추천
-
-Latest:
-- `docs/characters/C8-B-FAMILY-AUTONOMY-PRE-REVEAL-TEST-v0.1.md`
-- `docs/characters/CHARACTER-PERSONALITY-VOICE-PRELIMINARY-v0.1.md`
+- P: P-A + P-D 현장 연속성 심사관
+- F-A: S + N family
+- R-B: civic-rights lawyer
+- C8-BR: ordinary water/reclamation worker-parent family
+- V-D Coping-Mechanism Voice architecture
 
 ## Living World
-- 3 Large Habitat + Spine/Outer Works v0.2
-- 철학정당형 세력 → 이해관계 네트워크
-- Population/Economy/Institution 4안 Deep Pass
-- `LW-E1 Layered Commons + Market City` 추천
-- C8-BR 직업/통근/주거 Regression 1차 PASS
+- 3 Large Habitat + Spine/Outer Works
+- LW-E1 Layered Commons + Market City
+- A/B/C specialization = industrial/cultural proportions only, not caste
 
-Latest:
-- `docs/design/03-living-world-v0.2.md`
-- `docs/design/04-living-world-population-economy-institutions-v0.1.md`
+## C-full
+1. Act1 돌아온 사람들의 자리 — 1~28
+2. Act2 판정의 비용 — 29~58
+3. Act3 한 명이라는 숫자 — 59~88
+4. Act4 공개된 다음 날 — 89~122
+5. Act5 미래를 위해 현재를 뜯는 법 — 123~156
+6. Act6 두 고향 — 157~194
+7. Act7 도착은 판정이 아니다 — 195~230 후보
 
-## Rhythm
-- Non-combat Physical Pressure 6엔진
-- Reward 8엔진
-
----
-
-# Current Best Candidates — ALL NOT CANON
-
-## H2R-A — Bio/Synthetic Origin
-- 대부분 시민은 실제 생물학적 인간형 몸/뇌.
-- 차이는 Natural/Bio-Origin Cognition vs Seeded/Synthetic-Origin Cognition이라는 발생 이력.
-- 현재 사회에서는 모두 사람/인간.
-
-## H3/U-C — Prenatal Seed Window
-- 자연임신/보조생식 모두 가능.
-- 임신 초기 Connectomic Seed가 표준 산전의료.
-- Seed는 기억/성격/명령/원격조종/관리자키를 삽입하지 못함.
-
-## H4/RB-B — Recovery Map + Neural Anchor
-- Continuity Scan은 실행 가능한 영혼파일이 아니라 복구지도.
-- 정상 Restoration은 surviving neural anchor 필요.
-
-## H6 Population
-- 약 30만은 현재 안전 capacity band의 근사값.
-- 출생/복원/주거/의료가 물리적 수용력을 경쟁.
-
-## H7/OH-D — Rare Deliberate Unseeded Birth
-- 역사상 unseeded 예외는 존재 가능.
-- 현재 살아 있는 확인 가능한 natural-origin은 한 명.
-- 시스템이 선택한 존재가 아니며 특별능력/관리자권한 없음.
-
-## H8 History
-`Semantic Drift + Specialist Obsolescence + 약한 Archive Loss`.
-
-## H9R Destination
-`Quiet K-Dwarf System + Resource Triangle + Staged Settlement`
-- 약 12~14광년 후보
-- 남은 약 14년 후보
-- 행성 + water/volatile body + metal/silicate body
-- 해체 가치 = 고철보다 발전/방열/정밀제조/로봇/공정설비 bootstrap
-- ship-home / balanced / surface acceleration / new orbital habitat 연속적 경로
-
-## Protagonist
-`P-A + P-D` 현장 연속성 심사관.
-- 중견 실무자
-- 임시 권리판정
-- 제한적 현장파견
-- 항고/재심 가능
-- 결핍: 애매함을 견디지 못하고 판정하면 감정도 정리된다고 믿음
-
-## Family F-A
-- 복원된 형제/자매 S
-- 조카 N
-- P가 N을 수년간 보호
-- S 복원 후 친권 회복 요구
-- P는 S의 복원거부 취지 미제출 기록을 숨긴 후보
-
-## Rival R-B
-시민권 전문 대리인/변호사. 연속성 심사제도 권한 축소를 독립적으로 추진.
-
-## C8-BR
-- 42~47세 후보
-- Habitat B water/reclamation 중견 실무자 후보
-- 배우자: Habitat A 학교/공공서비스 운영직 후보
-- 첫째 17~19세 apprenticeship/독립 희망
-- 둘째 7~9세 현 학교/친구 잔류 희망
-- Natural-Origin 제거/P 제거/Reveal 제거 스트레스에서도 생활서사 유지 PASS
-- Reveal 전 최소 3회: worker → family → destination-resource
-- 개인 birth provenance 직접노출은 Reveal chain 후반
-
-## LW-E1
-`Layered Commons + Market City`
-- Civic Floor = 공기/물/기본식량/최소주거/기본교육·의료
-- Ordinary Market = 화폐/임금/사업/상점/문화/더 나은 주거 등
-- Capacity Commons = 출생, 고급 reconstruction, Full Scan, 산업전력 peak, 선체질량 등
-- A/B/C 모두 가족·학교·병원·상업·서비스·사무·기술·여러 소득계층 존재
-- hub-to-hub 30~60분 / 일반 cross-Habitat 60~120분 / Outer Works 2~3h+ 후보
-
-## Voice V-D
-핵심 캐릭터의 목소리를 철학이 아니라 coping mechanism으로 분리.
-- P: clarify → narrow → decide
-- S: reconnect → normalize → push forward
-- N: evade → test boundary → regain control
-- R: public reframe/challenge / private observe/gossip/needle
-- M: absorb → delay → trade → preserve
-- D: triage → concretize → act
-- O: localize → humanize → mobilize
-- C8: practicalize → bargain → keep family together
+Exact boundaries / ending / story-year span NOT FROZEN.
 
 ---
 
-# Reveal Fairness
+# Major Open P0 / Freeze Blockers
 
-단독 `생물학적 인간: 1` 화면은 REJECT 우선.
+1. **Sub-Act Architecture**에서 C-FULL-H1의 리듬/가족/사건 분배 검증
+2. **Information Ladder**에서 Bio-Origin Reveal fairness 검증
+3. OH-D/U-C 현재 1명 희귀성의 Act/복선 재검증
+4. H9R-P1 / RS-H1을 World Bible 최소 기술규칙으로 정리
+5. Exact story-time span (14y 전체 vs 일부) 미확정
+6. Ending 4안 미완료
+7. Foreshadow / Payoff Ledger 미완료
+8. Canon conflict / final Red Team / Stress Test 미완료
 
-현재 추천:
-- `CIVIC PERSONS ≈ 300,000`
-- `BIO-ORIGIN HUMAN LINEAGE = 1`
-
-선행 단서 최소 3종:
-1. 출생기록 Seed field
-2. seeded-born human recognition 옛 법률 흔적
-3. 현대 산전의료와 옛 synthetic cognition 연구용어의 겹침
-
-Reveal 뒤 5~10화 안에 실제 의미를 설명하고 다시 비밀만 미루지 않는다.
-
----
-
-# Major Remaining P0 / P1
-
-## P0
-1. Bio-Origin 분류가 Act/복선 수준에서 끝까지 공정한가
-2. OH-D/U-C의 현재 1명 희귀성이 장기 역사/Act에서 자연스러운가
-3. H9R structural mass order-of-magnitude 검증
-4. H9R propulsion/deceleration sanity check
-5. H9R + C8 + old mission law가 chosen-one 구조로 돌아가지 않는가
-6. 실제 Act에서 Living World A/B/C가 hidden caste로 퇴행하지 않는가
-
-## P1
-- 사건해결사 판례집화
+P1:
+- 판례집화
 - 회의실 정치화
 - 철학토론화
-- C8 도덕적 정답머신화
-- C8가 natural-origin + 식민지 핵심기술자 이중특별화되는 위험
+- C8 정답머신/이중특별화
 - Resource Triangle scope explosion
-- economy가 capacity/queue RPG 설명으로 보이는 위험
+- economy RPG화
 - 기관명 과다
-- Reward/유머/생활감 부족
-- 핵심인물들이 같은 작가 목소리로 회귀하는 위험
+- same-writer voice 회귀
+- hard-SF 설명과다
 
 ---
 
 # Immediate Next Work
 
-1. **C-full Act Architecture 5~8 Act — 4안 비교**
-   - Mystery-forward / Relationship-social / Arrival-countdown / Civilization-network 등 구조적으로 다른 안 비교
-   - Reader Promise가 20/100/200화에 유지되는지
-   - C8 Reveal 시점이 너무 빠르거나 늦지 않은지
-   - Reveal 뒤 새 행동/사회갈등이 열리는지
-   - P-S-N 가족축과 P-R 경쟁축이 중반에도 살아 있는지
-   - H9R이 작품을 우주개척물로 먹지 않는지
-   - A/B/C Habitat 사건이 균형 분포되는지
-2. Living World A/B/C 사건 Regression — Act 구조와 함께 수행
-3. H9R structural mass / propulsion-deceleration sanity regression
-4. Sub-Act / Information Ladder / Foreshadow Ledger
-5. Jargon Knowledge Map
+**다음 새 채팅 1순위:**
+`C-FULL-H1 Sub-Act Architecture 4안/분할 설계`
 
-아직 어떤 새 설정도 CANON으로 승격하지 않는다.
+검증:
+- 각 Act가 2~4개의 Sub-Act로 실제 연재 리듬을 가지는가
+- 사건 → 관계변화 → 사회후폭풍이 Reset되지 않는가
+- 10~20화마다 독자가 받는 reward가 있는가
+- C8 Pre-Reveal 3회가 자연스럽게 배치되는가
+- 55~65화 count Reveal과 65~78화 C8 identity가 rushing/delay 둘 다 피하는가
+- A/B/C 42사건을 일부 분산해 hidden caste가 재발하지 않는가
+- Act5 propulsion pressure를 direct civil power theft가 아닌 repair된 H9R-P1 비용으로 표현하는가
+
+그다음:
+2. Information Ladder
+3. Foreshadow/Payoff Ledger
+4. Time Architecture + Ending 4안
+5. World Bible / Character Bible Consolidation
+6. Full Red Team / Stress Test / Freeze Checklist
+
+아직 CANON 승격 금지.
