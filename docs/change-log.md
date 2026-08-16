@@ -68,171 +68,318 @@
 - Previous: 현재 30만 명이 인공기질/인공 신체를 사용하는 방향이 유력했음.
 - New: 현재 1순위 Body Model은 ‘몸과 뇌는 살아 있는 인간형 생물학적 조직이지만 의식의 발생 기원만 합성’인 H2. 배아 초기 합성 인지 시드로 새로운 의식을 시작시키고 실제 영아기/성장을 거치며, 성인 시점에는 일반 의료검사로 자연기원/합성기원을 구별할 수 없다는 방향.
 - Reason: 병원 검사로 유일한 인간이 즉시 드러나는 P0, 30만 중앙연산 문제, AI 캐릭터의 감정적 거리감, 가족/임신/육아의 가짜 느낌을 동시에 줄이기 위해.
-- Trigger / Evidence: WL01-02 신체/의료 4안 비교에서 기계신체형과 뉴로코어형은 의료적 은폐에 큰 구멍이 있었고, 생물학적 몸+합성기원 의식형이 가장 적은 보조설정으로 문제를 해결함.
+- Trigger / Evidence: WL01-02 신체/의료 4안 비교.
 - Characters Affected: 모든 시민, 주인공, 보호대상, 유일한 자연기원 인간 후보
-- Acts Affected: 초반 의료사건부터 최종부 인간 정의까지 전체
-- Foreshadowing Affected: 출산 프로토콜, 초기 생식기록, ‘생물학적 인간’이라는 용어의 재해석
+- Acts Affected: 전체
+- Foreshadowing Affected: 출산 프로토콜, 초기 생식기록, ‘생물학적 인간’ 용어 재해석
 - World Rules Affected: 신체, 의식, 출생, 의료, 백업, 연산, 인간 정의
-- Documents To Repair: Truth Architecture 용어, Canon Bible, Birth Architecture, Backup Architecture
-- Status: PROVISIONAL — WL-03 출생 논리 통과 전 Canon 금지
+- Documents To Repair: Truth Architecture, Canon Bible, Birth/Backup Architecture
+- Status: PROVISIONAL
 
 ## CHG-005 — World Logic H2~H9 수렴
 - Date: 2026-08-16
 - Change Location: World Logic 전체
 - Previous: 신체/출생/죽음/인구/유일한 인간/역사/목적지가 서로 독립된 미해결 질문이었음.
-- New: 현재 1순위 통합모델을 H2~H9로 연결.
-  - H2: 생물학적 몸 + 합성기원 의식
-  - H3: 보조생식 표준 + 합성 인지 시드
-  - H4: 희소 연속성 스캔 + 생활로그 + 조건부 복원
-  - H6: 시민 공동 수용량 + 출생/복원 자원 경쟁
-  - H7: 세습이 아닌 자연인지 보존 규약
-  - H8: 수 세대의 의료/가족 선택으로 합성인지 출생이 표준화된 역사
-  - H9: 실제 목적지 + 이중유산 식민계획 + 우주선 고향화
-- Reason: 각 P0를 따로 패치하지 않고 하나의 원인-결과 체계로 묶기 위해.
-- Trigger / Evidence: 신체/의료, 출생, 죽음/백업, 인구, One Human, History, Destination 4안 비교 및 통합 Red Team.
-- Characters Affected: 전 시민, 주인공, 보호대상, 라이벌, 모든 주요 세력
+- New: H2~H9를 하나의 원인-결과 체계로 연결하는 통합모델을 1순위로 둠.
+- Reason: 각 P0를 따로 패치하지 않고 하나의 세계규칙으로 묶기 위해.
+- Trigger / Evidence: World Logic 4안 비교 및 통합 Red Team.
+- Characters Affected: 전 시민, 주인공, 보호대상, 라이벌, 주요 세력
 - Acts Affected: 전체
-- Foreshadowing Affected: 출생기록, 복원제도, 구역별 문화, 오래된 용어, 목적지 정책
+- Foreshadowing Affected: 출생기록, 복원제도, 역사용어, 목적지 정책
 - World Rules Affected: 거의 전체
-- Documents To Repair: C-lite Truth Architecture의 ‘인공기질’ 용어를 이후 H8 기준으로 정리, Living World/Act/Character Bible 연결 필요
-- Status: PROVISIONAL — 2차 Red Team 및 캐릭터/Act 검증 전 Canon 금지
+- Documents To Repair: Canon/World Bible/Act/Character
+- Status: PROVISIONAL
 
-## CHG-006 — 2차 Red Team에서 ‘생물학적 인간’ 정의 P0 재개방
+## CHG-006 — ‘생물학적 인간’ 정의 P0 재개방
 - Date: 2026-08-16
 - Change Location: H2 / Premise Semantics
-- Previous: H2의 생물학적 몸 + 합성기원 의식이 제목 전제까지 해결한다고 봄.
-- New: 일반 독자 관점에서는 30만 시민 모두 생물학적 몸/DNA를 가지므로 ‘생물학적 인간 한 명’이라는 문장이 용어장난으로 보일 수 있음을 P0로 재등록. H2R 4안 비교 결과 H2R-A를 유지하되 옛 `Bio/Natural-Origin` 분류라는 의미를 명확히 하고, 작품 자체가 그 분류의 정당성을 최종적으로 공격하는 방향을 추천.
-- Reason: 제목/첫 대형 Reveal이 독자 기만으로 느껴지면 작품 전체 신뢰가 무너짐.
+- Previous: H2가 제목 전제를 자동으로 해결한다고 봄.
+- New: 30만 시민 모두 생물학적 몸/DNA를 가지므로 ‘생물학적 인간 한 명’ 문장이 용어장난이 될 위험을 P0로 등록. 옛 Bio/Natural-Origin 분류라는 의미를 명확히 하고 작품이 그 분류의 정당성을 공격하는 방향.
+- Reason: 첫 대형 Reveal의 독자 신뢰 보호.
 - Trigger / Evidence: World Logic Red Team v0.2.
-- Characters Affected: 전체 시민, 주인공, 유일한 인간 후보
-- Acts Affected: 첫 대형 Reveal 이후 전체
-- Foreshadowing Affected: 옛 기술용어, 분류체계, 현재 의료용어와의 차이
-- World Rules Affected: 인간 정의, 신체/의식 분류
-- Documents To Repair: Information Ladder, Foreshadow Ledger, 제목 Reveal 표현
-- Status: PROVISIONAL REPAIR — Freeze BLOCKED 유지
-
-## CHG-007 — ‘항상 한 명 유지’보다 현재 세대의 희귀 비시드 출생을 우선 검토
-- Date: 2026-08-16
-- Change Location: H7 One Human
-- Previous: 자연기원 인격이 없으면 시스템이 다음 출생 하나에서 시드를 생략해 항상 한 명을 유지하는 증인/기준선 프로토콜이 1순위.
-- New: `OH-D Rare Deliberate Unseeded Birth`를 새 1순위 후보로 올림. 역사적으로 비표준 출생이 전혀 없었던 것은 아니며, 현재 살아 있는 확인 가능한 natural-origin이 한 명인 구조.
-- Reason: 선택받은 혈통/비밀 관리자/목적론적 시스템 문제를 줄이고, 유일한 인간이 특별해서 중요한 것이 아니라 사회가 그 차이를 중요하게 만드는 구조로 전환하기 위해.
-- Trigger / Evidence: World Logic Red Team v0.2 및 One-Human 4안 재비교.
-- Characters Affected: 유일한 인간 후보, 부모/의료진 후보, 주인공
-- Acts Affected: 중반 Reveal 이후
-- Foreshadowing Affected: 자연출생 운동 기록, 출생 provenance, 비표준 생식 사건
-- World Rules Affected: 출생, 인간 수, 역사
-- Documents To Repair: 기존 H7, Truth Architecture, Ending 후보
-- Status: CANDIDATE PRIORITY CHANGE — 아직 확정 아님
-
-## CHG-008 — Backup을 실행가능 인격파일에서 ‘복구지도’로 축소
-- Date: 2026-08-16
-- Change Location: H4 Death / Restoration
-- Previous: 저빈도 Full Continuity Scan + 생활로그로 사후복원 가능하다는 개념이 성인 새 몸/복제 문제를 열어 둠.
-- New: `RB-B Recovery Map + Surviving Neural Anchor`를 1순위로 추천. Scan 자체는 독립 실행 가능한 사람 파일이 아니라 손상된 원 신경기질을 복구하기 위한 지도. 원 신경기질 없이 만든 존재는 가능하더라도 별도 `Derived Person`으로 취급하는 방향.
-- Reason: 무제한 복제/불멸/즉시 성인몸 문제를 줄이면서 연속성 사건엔진을 유지하기 위해.
-- Trigger / Evidence: Red Team v0.2의 live duplicate 및 adult-body 충돌.
-- Characters Affected: 복원된 형제/자매, Continuity Case 전반
-- Acts Affected: 초반부터 전체
-- Foreshadowing Affected: 복원 대기시간, neural anchor, Derived Person
-- World Rules Affected: 죽음, 복원, 백업, 신체생산
-- Documents To Repair: 기존 H4 문서, Story Engine 사건 정의
+- Characters Affected: 전체 시민, P, C8
+- Acts Affected: Reveal 이후 전체
+- Foreshadowing Affected: 옛 기술용어/분류체계
+- World Rules Affected: 인간 정의
+- Documents To Repair: Information Ladder, Reveal QA
 - Status: PROVISIONAL REPAIR
 
-## CHG-009 — 주인공 방향을 현장 연속성 심사관 + Living World 이동성 Hybrid로 강화
+## CHG-007 — 자동 ‘항상 한 명’보다 희귀 비시드 출생 우선
+- Date: 2026-08-16
+- Change Location: H7 One Human
+- Previous: 시스템이 자연기원 한 명을 자동 유지하는 Witness Protocol이 1순위.
+- New: `OH-D Rare Deliberate Unseeded Birth`를 1순위로 변경.
+- Reason: 선택받은 혈통/관리자/목적론 위험 제거.
+- Trigger / Evidence: Red Team v0.2 + One-Human 재비교.
+- Characters Affected: C8, C8 부모, P
+- Acts Affected: 중반 Reveal 이후
+- Foreshadowing Affected: 비시드 출생 기록
+- World Rules Affected: 출생, 인간 수, 역사
+- Documents To Repair: H7/History/Ending
+- Status: PROVISIONAL PRIORITY
+
+## CHG-008 — Backup을 Recovery Map으로 축소
+- Date: 2026-08-16
+- Change Location: H4 Death / Restoration
+- Previous: Full Continuity Scan이 실행 가능한 인격파일처럼 읽힐 여지.
+- New: `RB-B Recovery Map + Surviving Neural Anchor` 1순위. Scan은 손상된 원 신경기질 복구지도이며 anchor 없는 존재는 별도 Derived Person 후보.
+- Reason: 무제한 복제/불멸/성인 새몸 문제 제거.
+- Trigger / Evidence: Red Team v0.2.
+- Characters Affected: S, Continuity 사건 전반
+- Acts Affected: 전체
+- Foreshadowing Affected: neural anchor, 복원대기
+- World Rules Affected: 죽음, 복원, 백업
+- Documents To Repair: H4/Story Engine
+- Status: PROVISIONAL REPAIR
+
+## CHG-009 — 주인공을 현장 연속성 심사관 + 이동성 Hybrid로 강화
 - Date: 2026-08-16
 - Change Location: Character Architecture
 - Previous: 인격연속성 심사관 직업만 1순위 후보.
-- New: `P-A 판정형 + P-D 구획이동형` Hybrid를 1순위 후보로 설정. 가족구조는 복원된 형제/자매 + 조카(F-A), 메인 라이벌은 시민권 전문 대리인(R-B)이 우세.
-- Reason: 사건해결사 판례집화를 피하면서 개인사건, 구획탐험, Living World, 정치적 후폭풍을 한 주인공 동선에 연결하기 위해.
-- Trigger / Evidence: 주인공 4안, 직업/가족/라이벌 4안, Chemistry/Relationship 테스트, 보고 싶은 장면 30개 테스트.
-- Characters Affected: 주인공, 가족, 라이벌, 핵심 7인
+- New: `P-A + P-D` Hybrid, 가족 F-A, 라이벌 R-B를 우선.
+- Reason: 사건집화를 피하면서 개인사건/생활권/정치 후폭풍 연결.
+- Trigger / Evidence: Character 4안 + Chemistry + 30 wanted scenes.
+- Characters Affected: P/S/N/R/M/D/O
 - Acts Affected: 전체
-- Foreshadowing Affected: 가족 복원거부 기록, 판례/제도 변화
-- World Rules Affected: 연속성 심사제도
-- Documents To Repair: Character Bible, Living World 기관 설계, Act Architecture
-- Status: PROVISIONAL CANDIDATE — Canon 금지
+- Foreshadowing Affected: 가족복원거부 기록
+- World Rules Affected: Continuity institution
+- Documents To Repair: Character Bible/Living World/Act
+- Status: PROVISIONAL
 
-## CHG-010 — H9 목적지를 ‘행성 vs 우주선’에서 staged system settlement로 정교화
+## CHG-010 — H9를 staged system settlement로 정교화
 - Date: 2026-08-16
-- Change Location: H9 Destination / Arrival Resource Architecture
-- Previous: `이중유산 식민계획 + 우주선 고향화`, 남은 항해 약 10~15년이 1순위였으나 초기정착 자원과 선체해체의 실제 이득은 미정량.
-- New: `H9R Quiet K-Dwarf System + Resource Triangle + Staged Settlement`를 1순위 Hybrid로 추천. 목적지는 행성 하나가 아니라 거주가능 후보 행성 + 물/휘발성 자원천체 + 금속자원천체를 가진 별계. 남은 시간은 약 14년 후보. 선체 해체의 핵심 이득을 bulk 고철이 아니라 발전/방열/정밀제조/로봇/공정설비의 산업 bootstrap으로 정의. ship/orbit/surface/new-habitat의 연속적 선택을 유지.
-- Reason: 현지 ISRU가 가능한데도 선체를 뜯어야 하는 이유가 없으면 최종 갈등이 가짜가 되고, 반대로 행성정착을 강제하면 `우주선=고향`이 무의미해지기 때문.
-- Trigger / Evidence: `WL13-destination-resource-arrival-timeline-4-designs-v0.1.md` 4안 비교 및 Red Team.
-- Characters Affected: P, S, N, R, C8, 선박 전 시민, 향후 정착민
-- Acts Affected: 중반 감속준비부터 후반 도착/초기정착까지 전체 장기구조
-- Foreshadowing Affected: 목적지 관측자료, 식민용 detachable modules, 구식 mission law, 산업설비 해체, C8 분류의 법적 재등장
-- World Rules Affected: H9 목적지, ship resource economy, arrival timeline, population capacity, energy/heat, settlement law
-- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full Act Architecture, Information Ladder, Foreshadow Ledger
-- Status: PROVISIONAL PRIORITY / NOT CANON
+- Change Location: H9 Destination
+- Previous: 이중유산 식민계획 + 우주선 고향화, 자원 정량 미정.
+- New: `H9R Quiet K-Dwarf System + Resource Triangle + Staged Settlement`; 약 14년 남음 후보, 산업 bootstrap 자산이 선박해체의 핵심가치.
+- Reason: 현지 ISRU와 ship-home 갈등을 동시에 성립시키기 위해.
+- Trigger / Evidence: WL13 4안 비교.
+- Characters Affected: 전 시민/P/S/N/R/C8
+- Acts Affected: 중후반~결말
+- Foreshadowing Affected: 관측자료, detachable modules, mission law
+- World Rules Affected: 목적지, 자원, 정착
+- Documents To Repair: Canon/Act/Info/Foreshadow
+- Status: PROVISIONAL
 
-## CHG-011 — C8-B를 ‘Reveal용 인물’이 아니라 독립 생활가족으로 정교화
+## CHG-011 — C8을 독립 생활가족으로 정교화
 - Date: 2026-08-16
-- Change Location: Character Architecture / C8 Sole Natural-Origin
-- Previous: C8-B는 평범한 부모 + 배우자 + seeded 자녀 1~2명, 생활권 이주/주거문제가 개인욕망 후보였으나 가족 구성과 Pre-Reveal 등장방식은 미정.
-- New: `C8-BR Work-First Family`를 1순위 Hybrid로 추천. C8은 42~47세 후보의 water/reclamation 중견 실무자, 배우자는 독립 직업/통근목표, 첫째 17~19세는 독립 apprenticeship, 둘째 7~9세는 현재 학교/친구 잔류를 원함. Reveal 전 최소 3회 `현장 실무자 → 가족 생활 → 목적지 준비 자원갈등`으로 등장시키되 개인 birth provenance는 Reveal chain 후반까지 직접 노출하지 않음.
-- Reason: C8의 natural-origin 상태를 삭제해도 가족/직업/주거/도착준비 서브플롯이 작동해야 선택받은 인간/정답머신 위험을 줄일 수 있음.
-- Trigger / Evidence: `C8-B-FAMILY-AUTONOMY-PRE-REVEAL-TEST-v0.1.md` 4안 비교 및 Red Team.
-- Characters Affected: C8, C8 배우자/자녀 후보, P, R, O, P-S-N 관계망
-- Acts Affected: 초중반 Reveal 전후, 후반 H9R 정착준비
-- Foreshadowing Affected: C8 개인 provenance는 후순위, Seed/old-law fairness 단서는 사회 전반에서 선행
-- World Rules Affected: 직접 변경 없음. U-C/OH-D/H9R과 Character-level 연결 강화.
-- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, C-full, Information Ladder, Character Bible
-- Status: PROVISIONAL CHARACTER PRIORITY / NOT CANON
+- Change Location: C8 Character
+- Previous: 평범한 부모라는 골격만 존재.
+- New: `C8-BR Work-First Family` — 42~47세 water/reclamation 중견 실무자, 배우자/두 자녀 독립목표, Reveal 전 3회 생활등장.
+- Reason: C8 정체를 제거해도 캐릭터가 성립하도록 하기 위해.
+- Trigger / Evidence: C8 Family Autonomy 4안.
+- Characters Affected: C8 가족/P/R
+- Acts Affected: Act 2~7
+- Foreshadowing Affected: C8 provenance는 후순위
+- World Rules Affected: 없음
+- Documents To Repair: Character/Act/Living World
+- Status: PROVISIONAL
 
 ## CHG-012 — Living World를 Layered Commons + Market City로 정교화
 - Date: 2026-08-16
-- Change Location: Living World v0.2 / Population / Economy / Institutions
-- Previous: 3 Habitat + Spine/Outer Works의 물리구조와 이해관계 네트워크는 있었지만, 실제 돈/주거/통근/기관/인구이동 구조는 미정. A/B/C가 각각 행정/농업/산업 카스트처럼 굳을 위험이 남아 있었음.
-- New: `LW-E1 Layered Commons + Market City`를 1순위 Hybrid로 추천. 기본 생존은 시민권 floor, 일상생활은 화폐/임금/사업/시장, 출생·reconstruction·대량주거부피·산업전력 peak 같은 hard capacity는 civic commons로 관리. Habitat마다 모든 계층/직종/학교/병원/상업을 두고 특화는 비중 차이로 제한. cross-Habitat 통근/이주를 일상화하며 hub-to-hub 30~60분, 일반 door-to-door 60~120분 후보로 교통시간을 보정.
-- Reason: 완전 중앙배급은 사회 자율성과 생활감이 약하고, 완전 자유시장은 폐쇄우주선 수용력과 출생/복원 공공재 논리를 파괴함.
-- Trigger / Evidence: `04-living-world-population-economy-institutions-v0.1.md` 4개 사회운영모델 비교 및 C8-BR Regression/Red Team.
-- Characters Affected: P/S/N/R/M/D/O/C8, 전 시민
+- Change Location: Living World
+- Previous: 3 Habitat 구조는 있으나 돈/주거/통근/기관 운영 미정.
+- New: `LW-E1 Layered Commons + Market City`; civic floor + ordinary market + hard capacity commons. Habitat는 직업카스트가 아니라 산업비중 차이.
+- Reason: 완전배급/완전자유시장 양극단 회피 및 생활감 확보.
+- Trigger / Evidence: Living World economy/institution 4안.
+- Characters Affected: 전 시민
 - Acts Affected: 전체
-- Foreshadowing Affected: 직접 Truth Reveal 변경 없음.
-- World Rules Affected: H6 population commons, housing, labor, utilities, mobility, civic institutions, H9R resource allocation
-- Documents To Repair: Canon/Current/C-full/World Bible/Character Bible/transit sanity
-- Status: PROVISIONAL LIVING WORLD PRIORITY / NOT CANON
+- Foreshadowing Affected: 생활세계 선행노출
+- World Rules Affected: 경제, 주거, 노동, capacity
+- Documents To Repair: Canon/World Bible/Act
+- Status: PROVISIONAL
 
-## CHG-013 — 캐릭터 목소리를 철학이 아니라 감정 회피방식에서 분리
+## CHG-013 — 캐릭터 목소리를 감정 회피방식에서 분리
 - Date: 2026-08-16
-- Change Location: Character Bible / Personality / Voice Architecture
-- Previous: 역할·욕망·관계·Chemistry는 있었지만 실제 인물별 말의 리듬/감정회피/유머가 미설계라 전원이 같은 작가 목소리·철학자처럼 들릴 위험이 있었음.
-- New: `V-D Coping-Mechanism Register + restrained realism + selective banter`를 1순위 Voice Hybrid로 추천. P/S/N/R/M/D/O/C8 각각에게 다른 default speech function, 감정회피법, 유머, 화날 때 변화, 반복오류, 비주제 생활면을 부여. catchphrase/대표명대사/상시 철학토론은 금지 우선. 실제 긴 대사나 샘플 장면은 작성하지 않음.
-- Reason: Anti-AI 규칙을 Character level에 구현하고, 모두가 너무 정확하고 의미 있게 말하는 현상과 철학토론화를 막기 위해.
-- Trigger / Evidence: `CHARACTER-PERSONALITY-VOICE-PRELIMINARY-v0.1.md`의 V-A~V-D 비교 및 Voice Collision/Character Error Budget 테스트.
-- Characters Affected: P, S, N, R, M, D, O, C8
+- Change Location: Character Voice
+- Previous: 역할은 다르나 전원이 같은 작가목소리 위험.
+- New: `V-D Coping-Mechanism Register + restrained realism + selective banter`.
+- Reason: 철학토론/AI식 완벽대사 방지.
+- Trigger / Evidence: Voice 4안 + collision test.
+- Characters Affected: P/S/N/R/M/D/O/C8
 - Acts Affected: 전체
-- Foreshadowing Affected: 누가 어떤 용어를 언제 아는지 Information Ladder/Jargon Map에 영향
+- Foreshadowing Affected: jargon knowledge
 - World Rules Affected: 없음
-- Documents To Repair: Canon/Current/Handoff/C-full/Jargon Map
-- Status: PROVISIONAL CHARACTER VOICE / NOT CANON
+- Documents To Repair: Character Bible/Act
+- Status: PROVISIONAL
 
-## CHG-014 — C-full을 7 Act Relationship/Social Escalation 구조로 우선화
+## CHG-014 — C-full 7 Act Relationship/Social Escalation 우선화
 - Date: 2026-08-16
-- Change Location: C-full Act Architecture
-- Previous: C-full 5~8 Act가 미설계였고, `유일한 인간` Reveal 시점/Reveal 후 장기엔진/도착준비와 가족축의 관계가 미확정.
-- New: `C-FULL-H1 7 Act Relationship / Social Escalation`을 1순위로 추천. Act 1 가족/Continuity → Act 2 판정 비용 → Act 3 Bio-Origin count/C8 Reveal → Act 4 공개 후 생활후폭풍 → Act 5 H9R 자원압력 → Act 6 두 고향 → Act 7 문명규칙/도착공간. Bio-Origin count는 약 55~65화, C8 identity는 약 65~78화 후보로 당겨 Reveal 이후가 더 길게 남도록 함.
-- Reason: 제목 비밀 하나를 200화까지 미루는 구조를 피하고, 이미 검증된 가족/Continuity/Living World 엔진이 Reveal 이후에도 본체로 작동하도록 하기 위해.
-- Trigger / Evidence: `C-FULL-ACT-ARCHITECTURE-4-DESIGNS-v0.1.md`의 Mystery-forward / Relationship-Social / Arrival-Countdown / Civilization-Network 비교. `LIVING-WORLD-ABC-EVENT-REGRESSION-v0.1.md` 42개 사건에서 A/B/C hidden caste risk Conditional Pass.
-- Characters Affected: P/S/N/R/M/D/O/C8 및 전 시민
+- Change Location: C-full Act
+- Previous: 5~8 Act 구조와 Reveal 시점 미정.
+- New: `C-FULL-H1` 7 Act; count 약 55~65, C8 약 65~78 후보, Reveal 이후가 더 긴 구조.
+- Reason: 반전 하나를 200화 미루지 않고 후폭풍을 본체로 만들기 위해.
+- Trigger / Evidence: Act 4안 + Living World regression.
+- Characters Affected: 전체 핵심인물
 - Acts Affected: 전체
-- Foreshadowing Affected: Seed field, old law, synthetic-origin terminology, C8 provenance, mission law, H9R resource allocation
-- World Rules Affected: 직접 World Logic 변경 없음. Reveal timing/사회적 적용 순서 변경.
-- Documents To Repair: CANON_STATUS, current-work-status, NEXT-CHAT-HANDOFF, Sub-Act, Information Ladder, Foreshadow Ledger, Ending Architecture
-- Status: PROVISIONAL ACT PRIORITY / NOT CANON — Sub-Act/Info Ladder/Ending regression 전 Freeze 금지
+- Foreshadowing Affected: Seed/old law/C8/H9R
+- World Rules Affected: Reveal 적용순서
+- Documents To Repair: Sub-Act/Info/Ending
+- Status: PROVISIONAL
 
-## CHG-015 — H9R 감속을 civil grid 경쟁에서 독립 성간추진계로 수정 + Ram Defense 추가
+## CHG-015 — H9R 감속 독립추진계 + Ram Defense
 - Date: 2026-08-16
-- Change Location: H9R Propulsion / Ship Architecture / Act 5 Pressure
-- Previous: H9R에서 장기 감속이 생활용 수 GW 전력을 직접 빼앗아 자원갈등을 만든다는 표현이 일부 남아 있었고, 0.03c 성간 먼지/가스 방호가 명시되지 않았음.
-- New: `H9R-P1 Dedicated Fusion Direct-Exhaust Drive`를 propulsion 1순위로 추천. 약 13 ly / 0.03c / 14y accel + 약 419y cruise + 14y decel ≈ 447y로 H9R 시간표를 물리적으로 정합화. 추진계는 10^17~10^18 W급 후보의 별도 direct-exhaust 계통이며 civil grid와 직접 경쟁하지 않음. 생활압력은 thermal geometry / spares / manufacturing / labor / propellant / redundancy에서 발생. 추가로 `RS-H1 Layered Ram Defense`—forward sensors + detached sacrificial shield train + electromagnetic bow field + integrated bow shield—를 성간 방호 1순위로 추천.
-- Reason: 10^12 kg급 선박의 0.03c 운동에너지/감속출력은 생활전력 수 GW보다 7~8 orders 크므로 같은 전력예산으로 다루면 물리적으로 부정확. 또한 고속 ISM gas/dust impact는 무시 불가.
-- Trigger / Evidence: `H9R-STRUCTURAL-MASS-PROPULSION-SANITY-v0.1.md`, `INTERSTELLAR-RAM-SHIELD-4-DESIGNS-v0.1.md`, NASA/NTRS fusion heat-radiator baseline 및 interstellar braking/shielding literature.
-- Characters Affected: 직접 캐릭터 정체 변경 없음. D/O/C8 및 Outer Works/utility/industry 인물의 사건 압력에 영향.
-- Acts Affected: Act 5~7 H9R pressure, 일부 초중반 forward-shield 생활배경
-- Foreshadowing Affected: 감속 시작, propulsion maintenance, shield reserve, colony bootstrap resource conflict
-- World Rules Affected: ship mass, propulsion architecture, thermal separation, forward shielding, H9R resource economy
-- Documents To Repair: CANON_STATUS, current-work-status, NEXT-CHAT-HANDOFF, C-FULL-H1 Act 5 표현, World Bible ship architecture
-- Status: PROVISIONAL WORLD-LOGIC REPAIR / NOT CANON — exact mass/exhaust/shield areal density Freeze 금지
+- Change Location: Propulsion / Shield / Act 5 Pressure
+- Previous: 감속이 civil grid 수 GW를 직접 뺏는 표현, 성간 먼지방호 미정.
+- New: `H9R-P1 Dedicated Fusion Direct-Exhaust Drive`; 약 13 ly / 0.03c / 447y 후보. 추진계는 civil grid와 별도. `RS-H1 Layered Ram Defense` 추가.
+- Reason: 추진에너지 규모와 고속 ISM 충돌 물리 보정.
+- Trigger / Evidence: H9R propulsion sanity + Ram Shield 4안.
+- Characters Affected: 인프라 관련 인물/전 시민
+- Acts Affected: Act 5~7
+- Foreshadowing Affected: 감속유지/방호/산업예비
+- World Rules Affected: 추진, 열, 방호
+- Documents To Repair: Canon/World Bible/C-full wording
+- Status: PROVISIONAL
+
+## CHG-016 — C-FULL-H1을 23개 Braided Consequence Relay Sub-Act로 정교화
+- Date: 2026-08-17
+- Change Location: Sub-Act Architecture
+- Previous: 7개 Act만 있고 실제 8~12화 단위 연재리듬/비주인공 주도권/Reveal 묶음이 미정.
+- New: `C-FULL-H1-SUB-H1 Braided Consequence Relay` 1순위. 7 Act / 23 Sub-Act 후보, Count 53~58 → Meaning 59~66 → C8 67~76으로 촘촘히 보상. 각 Sub-Act는 Primary Track 1 + Secondary Pressure 1, 종료 시 baseline change 필수.
+- Reason: 사건집 reset과 10~20화 설명구간을 막고 Reveal 후 장기 후폭풍을 보장하기 위해.
+- Trigger / Evidence: `C-FULL-H1-SUB-ACT-ARCHITECTURE-4-DESIGNS-v0.1.md`.
+- Characters Affected: P/S/N/R/M/D/O/C8
+- Acts Affected: 전체
+- Foreshadowing Affected: Reveal timing, C8 pre-reveal, H9R early pressure
+- World Rules Affected: 없음
+- Documents To Repair: Act/Info/Foreshadow/Ending
+- Status: PROVISIONAL SUB-ACT PRIORITY / NOT CANON
+
+## CHG-017 — Information/Foreshadow를 Distributed Staggered + Mixed Signal로 수렴
+- Date: 2026-08-17
+- Change Location: Information Ladder / Foreshadow Architecture
+- Previous: 누가 무엇을 언제 아는지와 hard clue/생활복선/맥거핀 배분이 미정.
+- New: `IL-H1 Distributed Staggered Knowledge` + `FP-H1 Mixed Signal Ledger`. Count는 legacy provenance + prenatal archive + current alive registry crosswalk 결과이며, P는 Truth Keeper가 아님. Hard clue는 factual reveal에 제한하고 관계/생활/제도 residue를 더 많이 사용.
+- Reason: 400년 은폐음모와 P 천재탐정화를 피하면서 fair-play Reveal을 만들기 위해.
+- Trigger / Evidence: Information Ladder 4안, Foreshadow/Payoff 4안.
+- Characters Affected: 전체 핵심인물/전문가/시민
+- Acts Affected: Act 1~7
+- Foreshadowing Affected: Seed, old law, C8, S memo, mission law, H9R
+- World Rules Affected: privacy/schema architecture
+- Documents To Repair: Canon/World Bible/Act
+- Status: PROVISIONAL INFORMATION PRIORITY / NOT CANON
+
+## CHG-018 — 14년 Longitudinal Wave + Costly Polycentric Arrival 결말 우선화
+- Date: 2026-08-17
+- Change Location: Time / Ending Architecture
+- Previous: 230화를 몇 년에 걸칠지, 실제 도착을 본편에서 볼지, 결말 정착경로가 미정.
+- New: `T-H1 Longitudinal Wave` — 초반 2년 밀집 후 시간폭 확대, 약 14년 실제 경과하여 system insertion까지 도달. `E-H1 Costly Polycentric Arrival` + `EC-H1 Shared Constraint Portfolio` + `EB-H1 Braided Irreversible Arrival`을 1순위. Ship/Orbit/Surface/New Habitat를 병행하되 redundancy loss, 정착지연, 가족분산, capacity scarcity 등 실제 비용 부과.
+- Reason: 미래세대를 실제 성장시키고 도착을 payoff로 쓰면서도 ‘행성=정답’/공짜 제3길을 피하기 위해.
+- Trigger / Evidence: Time+Ending 4안, Ending Cost Ledger, Ending Beat Map.
+- Characters Affected: P/S/N/R/M/O/C8 가족, 전 시민
+- Acts Affected: 전체, 특히 5~7
+- Foreshadowing Affected: countdown, career/settlement paths, asset transfer
+- World Rules Affected: arrival timing, settlement paths, transition law
+- Documents To Repair: Canon/Character/World Bible
+- Status: PROVISIONAL TIME/ENDING PRIORITY / NOT CANON
+
+## CHG-019 — Character Age/생활앵커 + P를 평범한 Seeded-Origin으로 우선화
+- Date: 2026-08-17
+- Change Location: Character Bible
+- Previous: 14년 시간축에 맞는 나이, S/R/M/D/O의 비주제 삶, P의 origin이 미정.
+- New: `AGE-B Midlife Bridge` 1순위. P/S 약 39~43, N 11~12, C8 42~47 등의 시작범위 후보. S는 food/hospitality operations, N은 creative/media adult path, R은 ordinary household + performance hobby, M은 B 은퇴계획, D는 community rehab, O는 building maintenance, C8 spouse school operations, first child Spine logistics 후보. P는 `P-OA Ordinary Seeded-Origin Citizen` 1순위.
+- Reason: 14년 장기성, 주제기능 캐릭터화, P까지 특별해지는 위험을 줄이기 위해.
+- Trigger / Evidence: Character Bible Consolidation, Missing-Gaps 4-Design Pack, Protagonist Origin 4안.
+- Characters Affected: 핵심 캐스트 전체
+- Acts Affected: 전체
+- Foreshadowing Affected: P의 mundane Seed field, N/C8 family growth
+- World Rules Affected: 없음
+- Documents To Repair: Canon Character Bible
+- Status: PROVISIONAL CHARACTER PRIORITY / NOT CANON
+
+## CHG-020 — Demography와 Aging을 결합해 ‘현재 한 명’/유한수명 P0 보정
+- Date: 2026-08-17
+- Change Location: Population / Aging / Restoration
+- Previous: ‘현재 정확히 한 명’이 작가 숫자처럼 보이고 Recovery Map이 노화까지 되감아 불멸을 만들 수 있는 구멍.
+- New: Demography sanity에서 수십만 출생당 1회 수준의 full Seed refusal이면 현재 active 1명이 통계적으로 자연스러움을 확인. `AG-H1 Injury-Relative Reconstruction + Partial Healthspan Extension`으로 현재 neural anchor 기준 손상복구만 허용하고 chronological rollback 금지. 평균적 건강수명 중심 100~110년 후보, 넓은 범위 90~120년.
+- Reason: Witness Protocol 없이 한 명 상태를 만들고 죽음/노화/세대교체를 유지하기 위해.
+- Trigger / Evidence: `DEMOGRAPHY-UNIQUENESS-SANITY-v0.1.md`, `AGING-REJUVENATION-4-DESIGNS-v0.1.md`.
+- Characters Affected: 전 시민, M/P/S/N/C8
+- Acts Affected: 전체 장기시간축
+- Foreshadowing Affected: Finality, 과거 natural-origin 기록
+- World Rules Affected: 수명, 복원, 인구
+- Documents To Repair: Canon/World Bible
+- Status: PROVISIONAL P0 REPAIR / NOT CANON
+
+## CHG-021 — Arrival Law를 Final Approach Transition Certification로 정교화
+- Date: 2026-08-17
+- Change Location: H9R Arrival Law
+- Previous: T-30/T-20부터 준비했는데 Act 5에서 old mission law가 갑자기 발견/발효하는 시간충돌.
+- New: `ATL-H1 Final Approach Transition Certification`. 기술계획은 수십 년 전부터 일반 civic law 아래 진행. T-10±1y 후보의 navigation/survey/industrial/legal 다기관 인증 이후에만 current civic law와 founding arrival clauses의 binding reconciliation이 시작. C8는 trigger가 아님.
+- Reason: 늦은 법률갈등의 개연성과 Anti-Chosen-One 보장.
+- Trigger / Evidence: Arrival Transition Legal Trigger 4안 + Red Team v0.3.
+- Characters Affected: P/R/M/C8, 전 시민
+- Acts Affected: Act 5~7
+- Foreshadowing Affected: arrival compliance schedule, mission clauses
+- World Rules Affected: transition jurisdiction, settlement law
+- Documents To Repair: Canon/Act/Ending
+- Status: PROVISIONAL P0 REPAIR / NOT CANON
+
+## CHG-022 — C8 공개를 leak이 아닌 re-identification pressure + 통제 공개로 정교화
+- Date: 2026-08-17
+- Change Location: C8 Public Identity
+- Previous: 강한 privacy 아래 C8 이름이 어떻게 사회적으로 알려지는지 미정; 일시적 업무제한을 disclosure pressure로 쓰는 안은 의료설정과 충돌 위험.
+- New: `ID-H1R Controlled Disclosure Under Re-identification Pressure`. Count=1 공개 후 옛 공개기록/지역사/비시드 논쟁 조각을 결합한 사회적 재식별이 진행되고 오인/가족피해가 커지자 C8이 제한된 공식 확인을 선택. 정부/악당 leak은 주원인 아님.
+- Reason: 개인정보보호와 C8 agency를 동시에 살리고, 억지 직업위험을 제거하기 위해.
+- Trigger / Evidence: C8 Disclosure 4안 + v0.2 refinement.
+- Characters Affected: C8/배우자/자녀/R/P
+- Acts Affected: Act 3~4
+- Foreshadowing Affected: historical natural-development traces
+- World Rules Affected: privacy/re-identification
+- Documents To Repair: Canon/Info/Act
+- Status: PROVISIONAL P0 REPAIR / NOT CANON
+
+## CHG-023 — History를 ‘다세대 Seed 표준화’로 Repair하고 정확히 한 명 유지 규약 폐기
+- Date: 2026-08-17
+- Change Location: H8 History
+- Previous: C-lite의 ‘인공기질 전환’과 WL11 후반의 one-at-a-time 기원연속성 규약이 최신 H2/OH-D와 충돌.
+- New: `H8R-2 Multi-Generation Medical Adoption + Rights Normalization`. 원래 인간들은 살고 자녀를 낳았으며, Seed의 의료적/경로의존적 이점 때문에 다음 세대에서 seeded birth가 표준화. 자연기원 세대는 노화로 사라지고 드문 비시드 예외는 계속 가능. 정확히 한 명을 유지하는 시스템/규약 없음.
+- Reason: 원래 30만 인간의 운명, 생물학적 몸, OH-D, privacy/history를 한 원인계로 통합하기 위해.
+- Trigger / Evidence: WL11 v0.1 conflict check + H8R-2 4안.
+- Characters Affected: 전 시민/C8/P
+- Acts Affected: Act 2~5 history reveal
+- Foreshadowing Affected: Seed adoption, rights reform, natural-development records
+- World Rules Affected: 역사, 인간 정의, 출생
+- Documents To Repair: Canon/Truth/World Bible
+- Status: PROVISIONAL HISTORY REPAIR / NOT CANON
+
+## CHG-024 — Living World Freeze Sanity 수치범위 통과
+- Date: 2026-08-17
+- Change Location: Living World Demography / School / Medical / Transit
+- Previous: LW-E1은 구조만 있고 30만 사회의 실제 가족·학교·병원·통근 처리량이 미검증.
+- New: central order 후보로 lifespan 100~110y, births/permanent exits 2.7k~3.1k/y, minors 45k~55k, school age 30k~36k, households 120k~130k, 학교 70~130 unit, 병원 6~12 + clinics, Continuity mapping 수십 병렬 suite, major reconstruction 수백/y, ordinary cross-Habitat 60~120m가 서로 양립 가능함을 확인.
+- Reason: Living World가 숫자 없는 테마파크가 아니라 실제 도시문명인지 검증.
+- Trigger / Evidence: `LIVING-WORLD-FREEZE-SANITY-PACK-v0.1.md`.
+- Characters Affected: 전 시민/N/C8 family
+- Acts Affected: 전체
+- Foreshadowing Affected: 없음
+- World Rules Affected: 인구/교육/의료/교통
+- Documents To Repair: Canon/World Bible
+- Status: PROVISIONAL SANITY PASS / NOT CANON EXACT NUMBERS
+
+## CHG-025 — Reveal 문구를 Layered Legacy Audit로 확정 후보화
+- Date: 2026-08-17
+- Change Location: Major Reveal Wording
+- Previous: 단독 `생물학적 인간: 1` 또는 `HUMANS:1`은 용어장난/독자기만 위험.
+- New: `RW-H1 Layered Legacy Audit`. 같은 정보구조에서 current civic persons ≈300k + natural/bio-origin=1 + seeded-origin remainder를 보여주고 `human`은 founding-era legacy mapping임을 드러냄. 5~8화 내 의미설명.
+- Reason: 제목 충격과 factual fairness 동시 확보.
+- Trigger / Evidence: Bio-Origin Reveal Wording 4안 + v0.4 Red Team.
+- Characters Affected: 전 시민/P/C8
+- Acts Affected: Act 2D~3A
+- Foreshadowing Affected: Seed field, old law, synthetic-origin term
+- World Rules Affected: 분류표현/정보아키텍처
+- Documents To Repair: Canon/Info/Act
+- Status: PROVISIONAL REVEAL PRIORITY / NOT CANON
+
+## CHG-026 — Deep Design 구조를 Design Freeze 통과 상태로 전환
+- Date: 2026-08-17
+- Change Location: Project Workflow Gate
+- Previous: `DEEP DESIGN / WORLD LOGIC FREEZE BLOCKED`; P0와 필수 설계항목이 남아 있었음.
+- New: Full Red Team v0.4에서 current blocking P0 = 0. World Logic, Living World, Character Architecture, 7 Act, 23 Sub-Act, Information Ladder, Foreshadow/Payoff, Time, Ending, 장기 Regression, P0 Stress Test가 모두 통합 우선안을 가짐. 따라서 **`DESIGN FREEZE = PASSED`**로 이동하고 다음 단계는 `CANON FREEZE PREPARATION`으로 전환. 아직 어떤 설정도 자동 CANON 승격하지 않으며 원고는 계속 BLOCKED.
+- Reason: 사용자 정의 Freeze 조건 중 구조적 Deep Design과 P0 closure가 충족됨. 이후 남은 것은 exact names/ages/terminology/institution labels 및 provisional→canon 승격 작업.
+- Trigger / Evidence: `FULL-PROJECT-RED-TEAM-v0.4.md`, `CANON-CONFLICT-CHECK-v0.1.md`, `DESIGN-FREEZE-CHECKLIST-v0.1.md` 및 최신 repair 문서군.
+- Characters Affected: 전체
+- Acts Affected: 전체
+- Foreshadowing Affected: 전체 Ledger를 현 구조에 고정
+- World Rules Affected: workflow state only; structural candidate set frozen pending Canon Freeze
+- Documents To Repair: `canon/CANON_STATUS.md`, `docs/current-work-status.md`, `docs/NEXT-CHAT-HANDOFF.md`, consolidated World/Character Bible
+- Status: DESIGN FREEZE WORKFLOW STATE — `PASSED`; CANON FREEZE/WRITING READY는 아직 아님
