@@ -42,6 +42,11 @@
 - P0 Repair 4안
 - RB-B 40사건 Regression Test 통과
 - Connectomic Seed 현실과 SF 경계 검증
+- **Destination Resource & Arrival Timeline 4안 완료**
+- **H9R Quiet K-Dwarf + Resource Triangle + Staged Settlement 추천 Hybrid 도출**
+
+관련 최신 문서:
+- `docs/world-logic/WL13-destination-resource-arrival-timeline-4-designs-v0.1.md`
 
 ## Character
 - 주인공 4안
@@ -87,10 +92,7 @@
 시스템 화면은 거짓말하지 않도록 `CIVIC PERSONS ≈ 300,000 / BIO-ORIGIN HUMAN LINEAGE = 1` 같은 공정한 형태 우선.
 
 ## Connectomic Seed
-단순 산전 자극이 아님.
-
-가칭 미래기술:
-`Developmental Connectome Seed`
+가칭 `Developmental Connectome Seed`.
 
 초기 고차 신경회로가 만들어질 때 computationally generated connectomic growth prior를 적용.
 - 기억 주입 불가
@@ -107,9 +109,6 @@ Connectomic Engineering 한 기술계보로:
 을 묶어 기적기술 수를 제한.
 
 ## H3 Repair — U-C Prenatal Seed Window
-기존 ‘모든 출생 보조생식’ 우선순위 하락.
-
-새 후보:
 - 자연임신 가능
 - 보조생식 가능
 - 임신 초기 critical window의 Connectomic Seed가 표준 산전의료
@@ -140,8 +139,6 @@ anchor 없이 Scan만으로 만든 존재:
 출생/복원/주거/의료가 장기 capacity를 경쟁.
 
 ## H7 Repair — OH-D Rare Deliberate Unseeded Birth
-기존 ‘항상 한 명 유지 Witness Protocol’ 우선순위 하락.
-
 현재 1순위 후보:
 - 역사적으로 unseeded 출생 예외는 존재 가능
 - 현재 살아 있는 확인 가능한 natural-origin은 한 명
@@ -159,13 +156,64 @@ anchor 없이 Scan만으로 만든 존재:
 - 옛 synthetic cognition 기술의 의미가 수백 년 동안 희석
 - 대규모 정부 기억삭제 우선 폐기
 
-## H9 Destination
-- 실제 목적지 존재
-- 우주선은 이미 30만의 고향
-- 빠른 행성정착과 우주선 완전보존은 연속적 자원 Trade-off
-- 버튼식 양자택일 금지
+## H9R Destination — NEW CURRENT 1ST CANDIDATE
+`Quiet K-Dwarf System + Resource Triangle + Staged Settlement`
 
-목적지 자원/시간표 정량화는 아직 다음 작업.
+### Destination
+- 약 12~14광년 거리의 조용한 K형 왜성계 후보
+- 장기 거주 가능한 암석행성 1개
+- 물/휘발성 자원천체 최소 1개
+- 금속/실리케이트 자원천체 최소 1개
+- 목적지는 행성 하나보다 **문명 재건이 가능한 별계 전체**라는 원래 계획 후보
+
+### Timeline
+- 전체 항해 약 440~460년 후보
+- 현재 약 425~445년 경과 후보
+- **남은 시간 약 14년**을 현재 1순위 숫자로 추천
+- 현재 장기 감속 단계 진입 후보
+
+### Arrival Preparation
+- T-30y: 정밀 관측/forward scout 데이터 본격 반영
+- T-20y: surface/orbital site 설계 정치화
+- T-14y: 감속 + resource allocation 본편 압력 시작 후보
+- T-8y: detachable bootstrap modules 생산/배정
+- T-3y: 현지 resource map 신뢰도 급상승
+- T0: system insertion
+- +0~3y: orbital depot / unmanned ISRU / power foothold
+- +3~8y: 5천~2만 명 surface settlement 후보
+- +8~20y: 정책에 따라 5만~12만 명 후보
+
+### What Ship Dismantling Actually Gives
+핵심은 고철이 아니라:
+- 발전 모듈
+- 방열판/열교환기
+- 정밀 제작라인
+- 로봇
+- 화학/재활용 공정
+- 의료/생명공학 설비
+- 압력용기/전력변환 설비
+
+현지 암석/물은 장기 bulk resource를 담당.
+
+### Continuous Trade-off
+1. Ship Home Priority
+2. Balanced ship + orbit + surface
+3. Surface Acceleration
+4. New Orbital Habitat Path
+
+즉 `우주선 보존 vs 행성정착` 2버튼 금지.
+
+### H9R Red-Team Result
+PASS candidate:
+- 150~250화 사건군 생성 가능
+- ship/orbit/surface 관할권/가족/복원/출생 사건과 연결 가능
+- C8은 symbol/legal explosion일 뿐 관리자키 아님
+
+Promotion blockers:
+1. structural mass order-of-magnitude deeper test
+2. propulsion/deceleration sanity check
+3. C-full Act rhythm regression
+4. C8 + old mission law chosen-one 재검증
 
 ---
 
@@ -253,8 +301,6 @@ N(주인공 조카)과 C8은 현재 분리 추천.
 
 # Living World v0.2
 
-기존 8개의 철학별 구획 구조를 재편.
-
 ## Macro
 - Habitat A: Civic / Old Urban, 약 10~12만 후보
 - Habitat B: Green / Watershed, 약 9~10만
@@ -309,7 +355,8 @@ N(주인공 조카)과 C8은 현재 분리 추천.
 ## P0 / Critical
 1. `Bio-Origin Human` 분류가 독자에게 끝까지 공정한가 — Conditional Pass, Act/복선 검증 필요
 2. OH-D/U-C로 현재 1명 상태가 장기 역사상 충분히 자연스러운가 — Stress 1차 Pass, Act 검증 필요
-3. 목적지 초기정착 자원/남은 항해기간 모델 미확정
+3. **H9R structural mass + propulsion/deceleration sanity check 미완료**
+4. H9R + C8 old mission law가 chosen-one 구조로 되돌아가지 않는지 Act-level 검증 필요
 
 ## P1
 - 사건해결사 판례집화
@@ -317,17 +364,18 @@ N(주인공 조카)과 C8은 현재 분리 추천.
 - 철학토론화
 - C8가 작품의 도덕적 정답머신이 되는 위험
 - Living World A/B/C가 도시/농민/노동자 카스트처럼 보이는 위험
+- H9R Resource Triangle가 태양계 개척물처럼 scope explosion하는 위험
 - Reward/유머/생활감 부족
 
 ---
 
 # Immediate Next Work
 
-1. **Destination Resource & Arrival Timeline 4안**
-2. **C8-B Family Autonomy / Pre-Reveal Appearance Test**
-3. **Living World v0.2 population/economy/institution deeper pass**
-4. **Character Bible personality/dialogue preliminary**
-5. **C-full Act Architecture 5~8 Act**
+1. **C8-B Family Autonomy / Pre-Reveal Appearance Test**
+2. **Living World v0.2 population/economy/institution deeper pass**
+3. **Character Bible personality/dialogue preliminary**
+4. **C-full Act Architecture 5~8 Act**
+5. **H9R structural mass / propulsion-deceleration sanity regression**
 6. Sub-Act / Information Ladder / Foreshadow Ledger
 
-아직 CANON 승격 금지.
+아직 어떤 새 설정도 CANON으로 승격하지 않는다.
