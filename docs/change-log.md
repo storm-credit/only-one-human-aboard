@@ -61,3 +61,17 @@
 - World Rules Affected: 없음
 - Documents To Repair: README, CLAUDE.md, Current Status
 - Status: CANON WORKFLOW RULE
+
+## CHG-004 — ‘인공기질’에서 ‘합성기원 의식 + 생물학적 몸’으로 세분화
+- Date: 2026-08-16
+- Change Location: World Logic / Truth Architecture
+- Previous: 현재 30만 명이 인공기질/인공 신체를 사용하는 방향이 유력했음.
+- New: 현재 1순위 Body Model은 ‘몸과 뇌는 살아 있는 인간형 생물학적 조직이지만 의식의 발생 기원만 합성’인 H2. 배아 초기 합성 인지 시드로 새로운 의식을 시작시키고 실제 영아기/성장을 거치며, 성인 시점에는 일반 의료검사로 자연기원/합성기원을 구별할 수 없다는 방향.
+- Reason: 병원 검사로 유일한 인간이 즉시 드러나는 P0, 30만 중앙연산 문제, AI 캐릭터의 감정적 거리감, 가족/임신/육아의 가짜 느낌을 동시에 줄이기 위해.
+- Trigger / Evidence: WL01-02 신체/의료 4안 비교에서 기계신체형과 뉴로코어형은 의료적 은폐에 큰 구멍이 있었고, 생물학적 몸+합성기원 의식형이 가장 적은 보조설정으로 문제를 해결함.
+- Characters Affected: 모든 시민, 주인공, 보호대상, 유일한 자연기원 인간 후보
+- Acts Affected: 초반 의료사건부터 최종부 인간 정의까지 전체
+- Foreshadowing Affected: 출산 프로토콜, 초기 생식기록, ‘생물학적 인간’이라는 용어의 재해석
+- World Rules Affected: 신체, 의식, 출생, 의료, 백업, 연산, 인간 정의
+- Documents To Repair: Truth Architecture 용어, Canon Bible, Birth Architecture, Backup Architecture
+- Status: PROVISIONAL — WL-03 출생 논리 통과 전 Canon 금지
