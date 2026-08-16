@@ -96,3 +96,59 @@
 - World Rules Affected: 거의 전체
 - Documents To Repair: C-lite Truth Architecture의 ‘인공기질’ 용어를 이후 H8 기준으로 정리, Living World/Act/Character Bible 연결 필요
 - Status: PROVISIONAL — 2차 Red Team 및 캐릭터/Act 검증 전 Canon 금지
+
+## CHG-006 — 2차 Red Team에서 ‘생물학적 인간’ 정의 P0 재개방
+- Date: 2026-08-16
+- Change Location: H2 / Premise Semantics
+- Previous: H2의 생물학적 몸 + 합성기원 의식이 제목 전제까지 해결한다고 봄.
+- New: 일반 독자 관점에서는 30만 시민 모두 생물학적 몸/DNA를 가지므로 ‘생물학적 인간 한 명’이라는 문장이 용어장난으로 보일 수 있음을 P0로 재등록. H2R 4안 비교 결과 H2R-A를 유지하되 옛 `Bio/Natural-Origin` 분류라는 의미를 명확히 하고, 작품 자체가 그 분류의 정당성을 최종적으로 공격하는 방향을 추천.
+- Reason: 제목/첫 대형 Reveal이 독자 기만으로 느껴지면 작품 전체 신뢰가 무너짐.
+- Trigger / Evidence: World Logic Red Team v0.2.
+- Characters Affected: 전체 시민, 주인공, 유일한 인간 후보
+- Acts Affected: 첫 대형 Reveal 이후 전체
+- Foreshadowing Affected: 옛 기술용어, 분류체계, 현재 의료용어와의 차이
+- World Rules Affected: 인간 정의, 신체/의식 분류
+- Documents To Repair: Information Ladder, Foreshadow Ledger, 제목 Reveal 표현
+- Status: PROVISIONAL REPAIR — Freeze BLOCKED 유지
+
+## CHG-007 — ‘항상 한 명 유지’보다 현재 세대의 희귀 비시드 출생을 우선 검토
+- Date: 2026-08-16
+- Change Location: H7 One Human
+- Previous: 자연기원 인격이 없으면 시스템이 다음 출생 하나에서 시드를 생략해 항상 한 명을 유지하는 증인/기준선 프로토콜이 1순위.
+- New: `OH-D Rare Deliberate Unseeded Birth`를 새 1순위 후보로 올림. 역사적으로 비표준 출생이 전혀 없었던 것은 아니며, 현재 살아 있는 확인 가능한 natural-origin이 한 명인 구조.
+- Reason: 선택받은 혈통/비밀 관리자/목적론적 시스템 문제를 줄이고, 유일한 인간이 특별해서 중요한 것이 아니라 사회가 그 차이를 중요하게 만드는 구조로 전환하기 위해.
+- Trigger / Evidence: World Logic Red Team v0.2 및 One-Human 4안 재비교.
+- Characters Affected: 유일한 인간 후보, 부모/의료진 후보, 주인공
+- Acts Affected: 중반 Reveal 이후
+- Foreshadowing Affected: 자연출생 운동 기록, 출생 provenance, 비표준 생식 사건
+- World Rules Affected: 출생, 인간 수, 역사
+- Documents To Repair: 기존 H7, Truth Architecture, Ending 후보
+- Status: CANDIDATE PRIORITY CHANGE — 아직 확정 아님
+
+## CHG-008 — Backup을 실행가능 인격파일에서 ‘복구지도’로 축소
+- Date: 2026-08-16
+- Change Location: H4 Death / Restoration
+- Previous: 저빈도 Full Continuity Scan + 생활로그로 사후복원 가능하다는 개념이 성인 새 몸/복제 문제를 열어 둠.
+- New: `RB-B Recovery Map + Surviving Neural Anchor`를 1순위로 추천. Scan 자체는 독립 실행 가능한 사람 파일이 아니라 손상된 원 신경기질을 복구하기 위한 지도. 원 신경기질 없이 만든 존재는 가능하더라도 별도 `Derived Person`으로 취급하는 방향.
+- Reason: 무제한 복제/불멸/즉시 성인몸 문제를 줄이면서 연속성 사건엔진을 유지하기 위해.
+- Trigger / Evidence: Red Team v0.2의 live duplicate 및 adult-body 충돌.
+- Characters Affected: 복원된 형제/자매, Continuity Case 전반
+- Acts Affected: 초반부터 전체
+- Foreshadowing Affected: 복원 대기시간, neural anchor, Derived Person
+- World Rules Affected: 죽음, 복원, 백업, 신체생산
+- Documents To Repair: 기존 H4 문서, Story Engine 사건 정의
+- Status: PROVISIONAL REPAIR
+
+## CHG-009 — 주인공 방향을 현장 연속성 심사관 + Living World 이동성 Hybrid로 강화
+- Date: 2026-08-16
+- Change Location: Character Architecture
+- Previous: 인격연속성 심사관 직업만 1순위 후보.
+- New: `P-A 판정형 + P-D 구획이동형` Hybrid를 1순위 후보로 설정. 가족구조는 복원된 형제/자매 + 조카(F-A), 메인 라이벌은 시민권 전문 대리인(R-B)이 우세.
+- Reason: 사건해결사 판례집화를 피하면서 개인사건, 구획탐험, Living World, 정치적 후폭풍을 한 주인공 동선에 연결하기 위해.
+- Trigger / Evidence: 주인공 4안, 직업/가족/라이벌 4안, Chemistry/Relationship 테스트, 보고 싶은 장면 30개 테스트.
+- Characters Affected: 주인공, 가족, 라이벌, 핵심 7인
+- Acts Affected: 전체
+- Foreshadowing Affected: 가족 복원거부 기록, 판례/제도 변화
+- World Rules Affected: 연속성 심사제도
+- Documents To Repair: Character Bible, Living World 기관 설계, Act Architecture
+- Status: PROVISIONAL CANDIDATE — Canon 금지
