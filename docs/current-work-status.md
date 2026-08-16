@@ -66,6 +66,12 @@
 - v0.1 8구획안
 - v0.2 3개 거대 Habitat + Spine/Outer Works로 재설계
 - 철학정당형 세력 → 이해관계 기반 사회네트워크로 수정
+- **Population / Economy / Institution 4안 Deep Pass 완료**
+- **LW-E1 Layered Commons + Market City 추천 Hybrid 도출**
+- **C8-BR 직업/통근/주거 Regression 1차 PASS**
+
+관련 최신 문서:
+- `docs/design/04-living-world-population-economy-institutions-v0.1.md`
 
 ## Rhythm
 - Non-combat Physical Pressure 6엔진
@@ -316,6 +322,7 @@ Stress Test:
 - Natural-Origin 제거 → 가족/직업/주거/H9R 서브플롯 유지: PASS
 - P 제거 → 독립 행동 유지: PASS
 - Reveal 전체 제거 → 장기 서브캐릭터 유지 가능: PASS
+- Living World 직업/통근/주거 Regression 1차 PASS
 - Co-parent형은 P-S-N 친권서사 중복으로 REJECT AS PRIMARY
 - Blended family 전체채택은 과도한 테마설계 위험으로 보류
 
@@ -324,7 +331,7 @@ Status:
 
 ---
 
-# Living World v0.2
+# Living World v0.2 — Current 1st Operating Model
 
 ## Macro
 - Habitat A: Civic / Old Urban, 약 10~12만 후보
@@ -334,22 +341,75 @@ Status:
 - Outer Works: 외벽/방열/전력/위험정비
 - Founding Core/Legacy Decks: 초기 거주/설비 잔존
 
-## v0.1 폐기/수정 추천
-- 유년원 독립구역: REJECT
-- 제작환 독립생활권: REJECT
-- 기억원 독립생활권: REJECT
-- 구환: Habitat A의 Old Quarter로 축소
-- 외주대: Habitat C 노동문화 + Spine/Outer Works로 분산
+## LW-E1 Layered Commons + Market City
 
-## Social Groups
-철학정당이 아니라 이해관계 기반 네트워크:
-- Continuity Access Coalition
-- One-Life / Finality Networks
-- Body & Worker Autonomy Unions
-- Heritage / Origin Networks
-- Mission Continuity Bloc
-- Ship Home League
-- Civic Personhood Reform
+현재 추천 경제 Hybrid:
+
+### Civic Floor
+- 생존량 공기/물
+- 기본식량
+- 최소주거
+- 기본교육
+- 기본/응급의료
+
+### Ordinary Market
+- 화폐/임금/사업/상점/식당/취미/문화
+- 더 좋은 위치/넓은 주거의 regulated market
+- 민간 서비스/투자
+
+### Capacity Commons
+돈만으로 직접 구매 금지:
+- 신규출생 capacity
+- reconstruction 고급시설 시간
+- Full Continuity Scan 고부하 시간
+- 대규모 주거부피 확장
+- 산업전력 peak
+- 선체질량/대형 원료
+
+## Housing
+- basic housing floor
+- occupancy right / lease / cooperative / legacy rights 혼합
+- 완전 국가배급/완전자유 부동산 둘 다 금지
+
+## Mobility
+현재 교통 보정 후보:
+- hub-to-hub express: 30~60분
+- ordinary cross-Habitat door-to-door: 60~120분
+- Outer Works / bad transfer / security: 2~3h+
+
+cross-Habitat 통근 1~3만 명 규모, 연간 이주 수천 명 규모 후보.
+정확 수치 NOT CANON.
+
+## Institution Direction
+- Ship Assembly / Civic Legislature
+- Habitat Councils
+- Capacity Forecast Office — 가능범위 계산, 정치결정 독점 금지
+- 분산 utility networks
+- Continuity Service / Civic Courts
+- Habitat별 일반 학교/병원 + 분산 전문기관
+- Archive Federation
+- Arrival Preparation Commission은 단일 명령기관보다 다기관 협상체 후보
+
+## Anti-Caste Guardrail
+A/B/C 모두에:
+- 가족
+- 학교
+- 병원
+- 상업
+- 서비스직
+- 사무직
+- 기술직
+- 여러 소득/주거계층
+
+존재.
+특화는 산업 `비중` 차이일 뿐.
+
+Living World Remaining Blockers:
+1. age/household distribution sanity
+2. school/medical throughput
+3. transit geometry
+4. housing event regression
+5. A/B/C 각각 사건 regression으로 hidden caste 재검증
 
 ---
 
@@ -382,6 +442,7 @@ Status:
 2. OH-D/U-C로 현재 1명 상태가 장기 역사상 충분히 자연스러운가 — Stress 1차 Pass, Act 검증 필요
 3. **H9R structural mass + propulsion/deceleration sanity check 미완료**
 4. H9R + C8 old mission law가 chosen-one 구조로 되돌아가지 않는지 Act-level 검증 필요
+5. Living World가 실제 Act에서 A/B/C hidden caste로 퇴행하지 않는지 검증 필요
 
 ## P1
 - 사건해결사 판례집화
@@ -389,22 +450,21 @@ Status:
 - 철학토론화
 - C8가 작품의 도덕적 정답머신이 되는 위험
 - C8 water/reclamation 직업이 endgame 편의적 핵심전문가가 되는 위험
-- Living World A/B/C가 도시/농민/노동자 카스트처럼 보이는 위험
 - H9R Resource Triangle가 태양계 개척물처럼 scope explosion하는 위험
+- 경제가 capacity 숫자/queue 설명으로 RPG화되는 위험
+- 기관명이 너무 많아지는 위험
 - Reward/유머/생활감 부족
 
 ---
 
 # Immediate Next Work
 
-1. **Living World v0.2 population/economy/institution deeper pass**
-   - Habitat A/B/C 인구/통근/혼합직업 검증
-   - water/reclamation 및 학교/공공서비스 기관 배치
-   - 주거배정/이동/통근 제도
-   - 경제가 단순 중앙배급/현대 자본주의 복사본이 아닌지 4안 비교
-   - C8-BR 직업/가족 구조 Regression
-2. **Character Bible personality/dialogue preliminary**
-3. **C-full Act Architecture 5~8 Act**
+1. **Character Bible personality/dialogue preliminary**
+   - 본문 대사 작성 금지 유지
+   - P/S/N/R/M/D/O/C8의 성격, 말버릇, 회피방식, 유머, 비주제 생활면
+   - 서로 같은 작가목소리처럼 들리지 않는지 4안/비교
+2. **C-full Act Architecture 5~8 Act**
+3. **Living World A/B/C 사건 Regression** — Act 설계와 함께 hidden caste 검증
 4. **H9R structural mass / propulsion-deceleration sanity regression**
 5. Sub-Act / Information Ladder / Foreshadow Ledger
 
