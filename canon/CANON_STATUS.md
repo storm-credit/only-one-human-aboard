@@ -150,6 +150,31 @@ Living World Promotion blockers:
 4. A/B/C 각각 사건 regression으로 hidden caste 여부 검증
 5. housing economy 사건성 검증
 
+## Character Personality / Voice — Preliminary
+
+| Item | Status | Note |
+|---|---|---|
+| V-D Coping-Mechanism Register | PROVISIONAL | 철학이 아니라 불편한 감정을 피하는 방식에서 목소리를 분리 |
+| restrained realism | PROVISIONAL | 모든 인물이 명대사/철학문장을 말하지 않게 함 |
+| selective banter | PROVISIONAL | 관계마다 제한적으로만 유머/말싸움 사용 |
+| catchphrase/대표명대사 기반 캐릭터화 | REJECTED AS BASE | 인공적·게임 캐릭터화 위험 |
+| 상시 introspective social-SF 대화 | REJECTED AS DEFAULT | 철학토론화 위험 |
+
+Voice direction:
+- P: clarify → narrow → decide / 감정을 절차로 바꿈
+- S: reconnect → normalize → push forward / 불안을 친밀함으로 밀어붙임
+- N: evade → test boundary → regain control
+- R: public=reframe/challenge, private=observe/gossip/needle
+- M: absorb → delay → trade → preserve
+- D: triage → concretize → act
+- O: localize → humanize → mobilize
+- C8: practicalize → bargain → keep family together
+
+Promotion blockers:
+1. C-full Act에서 독립목표와 voice가 실제로 분리되는지 검증
+2. Jargon Knowledge Map에서 모두 같은 세계관 용어를 완벽히 쓰지 않도록 검증
+3. 실제 집필 전 Dialogue QA 설계
+
 ## Reveal Fairness
 
 | Item | Status | Note |
