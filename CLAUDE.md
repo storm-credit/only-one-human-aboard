@@ -6,27 +6,35 @@ Repository: `storm-credit/only-one-human-aboard`
 
 이 파일은 프로젝트 최상위 작업헌법이다.
 
-Current authority order:
+### Current authority order
 1. `CLAUDE.md`
-2. **`canon/WORLD_BIBLE-v2.md` — CANON**
-3. **`canon/CHARACTER_BIBLE-v2.md` — CANON**
+2. **`canon/WORLD_BIBLE-v2.md` — OFFICIAL CANON**
+3. **`canon/CHARACTER_BIBLE-v2.md` — OFFICIAL CANON**
 4. **`canon/ACT_BIBLE-v1.md` — ACTIVE NARRATIVE CANON**
-5. `canon/CANON_STATUS.md`
-6. `docs/current-work-status.md`
-7. active Episode Blueprint
-8. locked POV Map
-9. `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
-10. applicable Deep Card / Package G Context Registry
-11. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
-12. Reference Atlas / design-history / superseded documents.
+5. **`canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md` — NARROW FROZEN AMENDMENT**
+6. `canon/CANON_STATUS.md`
+7. `docs/current-work-status.md`
+8. active Episode Blueprint
+9. locked POV Map
+10. `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
+11. applicable Deep Card / EP Context Manifest
+12. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
+13. Reference Atlas / design history.
 
-Historical/superseded:
+### Hard retraction
+**`canon/v2/` = RETRACTED / NON-CANON / DESIGN HISTORY ONLY.**
+
+It was an experimental modularization attempt created after the official monolithic v2 had already passed Freeze. Comparison showed stale quantitative candidates and superseded support names inside that experiment.
+
+Never use `canon/v2/*` as normative truth, even if search returns it first.
+
+Historical regression baselines:
 - `canon/WORLD_BIBLE-v1.md`
-- `canon/CHARACTER_BIBLE-v1.md`
+- `canon/CHARACTER_BIBLE-v1.md`.
 
-Act Bible remains v1 because the encyclopedic pass did not change the 7-Act / 230-episode macro architecture.
+Act Bible remains v1 because the encyclopedic pass did not change the 7-Act/230-episode macro architecture.
 
-If an old file conflicts with current authority, current authority wins.
+If any old/design/experimental file conflicts with current authority, current authority wins.
 
 ---
 
@@ -35,13 +43,13 @@ If an old file conflicts with current authority, current authority wins.
 Completed:
 - `CORE DESIGN FREEZE v1 = PASSED — 2026-08-17`
 - `CORE CANON FREEZE v1 = PASSED — 2026-08-17`
-- `STRUCTURAL WRITING READY = PASSED — 2026-08-17`
+- `STRUCTURAL WRITING READY = PASSED`
 - `PROSE EXECUTION PROTOCOL v1.1 = LOCKED`
 - `EP001~230 POV ARCHITECTURE = LOCKED / PASS`
-- **`ENCYCLOPEDIC DEEP DESIGN = PASSED — 2026-08-18`**
-- **`PACKAGE A~I = PASS / P0=0`**
-- **`P1 CLOSURE = PASS / blocking P1=0`**
-- **`ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`**
+- `ENCYCLOPEDIC DEEP DESIGN = PASSED — 2026-08-18`
+- `PACKAGE A~I = PASS / P0=0`
+- `ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`
+- **`CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`**
 
 Current manuscript state:
 **`READY / NOT STARTED`**
@@ -53,23 +61,23 @@ First eligible episode:
 **EP001**.
 
 Important:
-Completing the gate does NOT automatically start prose.
-When the user says generic `이어서/진행` after this point, continue the current project phase/status unless the request clearly asks to draft. Do not generate manuscript merely because the gate is open.
+A generic `이어서/진행` does not automatically mean write prose. Continue the current requested project/admin task unless the user explicitly asks to draft manuscript.
 
 ---
 
-# 2. COMPLETENESS STANDARD — NOW SATISFIED
+# 2. COMPLETENESS STANDARD — SATISFIED
 
-Reference-grade standard tested:
-> Can ordinary citizens across age/class/job/family/location live normal days and encounter birth/school/work/money/housing/family/illness/crime/emergency/culture/death/arrival without inventing a new major world rule?
+Reference-grade standard:
+ordinary citizens across age/class/job/family/location can live normal days and encounter birth/school/work/money/housing/family/illness/crime/emergency/culture/death/arrival without inventing a new civilization-scale rule.
 
-Package I result:
-- deterministic suites PASS,
-- **20/20 arbitrary random scenes PASS**,
-- full Canon/story regression PASS,
-- final v2 Red Team P0=0 / blocking P1=0.
+Passed:
+- Package I deterministic suites
+- 20/20 arbitrary random scenes
+- full Canon/story regression
+- official v2 Freeze Red Team
+- Amendment A Red Team.
 
-Remaining C2 fields are intentionally bounded scene detail, not missing architecture.
+Remaining C2 is intentional bounded scene detail, not missing architecture.
 
 ---
 
@@ -80,7 +88,7 @@ Remaining C2 fields are intentionally bounded scene detail, not missing architec
 - citizens generally have living human-form biological bodies/brains
 - old distinction = cognitive developmental origin, not body material
 - majority = Seeded/Synthetic-Origin Cognition
-- current active Natural/Bio-Origin Cognition at Reveal = **1**
+- active Natural/Bio-Origin count at Reveal = **1**
 - identity = **Amara Okoro / 아마라 오코로**
 - modern society recognizes both origin classes as people/citizens/humans
 - title's `one human` is legacy-category shock, not narrator's final ontology.
@@ -106,15 +114,12 @@ Remaining C2 fields are intentionally bounded scene detail, not missing architec
 ## Living World
 - 1환 / 2환 / 3환 + Spine + Outer Works + legacy areas
 - no Habitat caste
-- `Layered Commons + Market City`
-- Habitats are internally compartmented, not giant undivided air cylinders.
+- Layered Commons + Market City
+- Habitats internally compartmented, not giant undivided air cylinders.
 
 ## Destination
-- Epsilon Indi A real star anchor
-- rocky settlement world is future mission-era fictional discovery
-- near-Earth pressure but oxygen far below safe human breathing
-- outdoor breathing support mandatory; normal full-pressure suit unnecessary
-- orbit/resource first, small surface foothold, new habitat delayed.
+Use exact official values/ranges from `WORLD_BIBLE-v2.md` only.
+Do not substitute experimental `canon/v2/` numbers.
 
 ## Arrival Law
 - 시민기본법 / 개척헌장 / 도착전환규정
@@ -124,32 +129,85 @@ Remaining C2 fields are intentionally bounded scene detail, not missing architec
 
 ---
 
-# 4. CHARACTER AUTHORITY
+# 4. AMENDMENT A — NEW OFFICIAL RULES
 
-Authority: **`canon/CHARACTER_BIBLE-v2.md`**.
+Authority:
+`canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md`.
 
-Core locks:
-- Maren Vale — 41F→55; Seeded Continuity adjudicator; protects by deciding; mandatory family recusal
-- Ella Vale — 39F→53; reconstructed sister; Noah sole legal parent; hospitality/co-op operations
-- Noah Vale — 12M→26; ordinary youth → creative/media technical adult; no oracle
-- Raul Serra — 42→56; rights advocate/lawyer; wins have costs
-- Tomas Beck — 62→76; senior Continuity administrator; actually retires
-- Ines Rahman — 37→51; field Reconstruction evaluator; not exposition doctor
-- Jun Imai — 43→57; Old Quarter maintenance/co-op actor; not anti-tech mascot
-- Amara Okoro — 45F→59; sole current Natural-Origin; ordinary water/reclamation worker; no special power/authority
-- Leo Ortega — independent school-operations career/residence goals
-- Kai Okoro — logistics/traffic adulthood; no heir-of-humanity role
-- Mina Okoro — ordinary child→adult; no predetermined symbolic destination.
+Adds only:
+
+### Elections / executive / judiciary
+- franchise 18+
+- four-year shipwide general election
+- mixed-member two-vote 선내의회
+- ~120–180 seats bounded, preferred ~150
+- residential district + compensatory proportional list seats
+- no origin/profession/property/Habitat weighted vote
+- Assembly-selected collective civic executive ~5–7 members
+- constructive no-confidence
+- directly elected local councils without Habitat sovereignty
+- multi-level judiciary
+- 시민항소원 = specialized high civic/admin-rights appeal, not whole judiciary
+- indefinite emergency suspension of elections forbidden.
+
+### Found property / salvage
+- finding ≠ ownership
+- public/common/strategic/controlled assets do not become private merely because old/disconnected/decommissioned
+- first resource discovery ≠ celestial sovereignty.
+
+### Human-subject research
+- informed voluntary consent + ethics review + minimum necessary data access
+- no Civic Floor coercion
+- **Amara has no research duty because she is unique**.
+
+### Medical aid-in-dying
+- narrow contemporaneously competent adult pathway under independent review
+- disability/poverty/housing scarcity alone never qualifies
+- no proxy/guardian/AI/old directive may actively authorize death for a currently incapable person.
+
+Change Control:
+`docs/change-control/CANON-v2-AMENDMENT-A-CHANGE-RECORD.md`.
+
+QA:
+`docs/qa/CANON-v2-AMENDMENT-A-RED-TEAM.md`.
+
+---
+
+# 5. CHARACTER AUTHORITY
+
+Authority:
+**`canon/CHARACTER_BIBLE-v2.md`**.
+
+Core cast remains locked as previously designed.
 
 Amara hard anti-clue:
 appearance / health / skill / hobby / object / pre-Reveal privacy habits must not reveal Natural-Origin.
 
-Latest C1 support names are in Character Bible v2.
-Do not resurrect superseded Package-F names.
+Latest C1 support names include:
+- Eli Rhee
+- Jae Kadir
+- Sami Dae
+- Rina Vos
+- Rosa Imani
+- Arun Salcedo
+- Dalia Diniz
+- Dev Afolayan
+- Nadia Idris
+- Tavi Morgan
+- Abeni Okoro
+- Mateo Varga
+- Lina Marquez
+- Hana Wu.
+
+C2 reserve:
+- Sorin Das
+- Yuna Bekele.
+
+Do not resurrect superseded Toma/Mara/Sana/Imani/Leonie support-name candidates from experimental docs.
 
 ---
 
-# 5. ACT / REVEAL / TIME LOCKS
+# 6. ACT / REVEAL / TIME LOCKS
 
 Acts:
 1. EP001~028
@@ -184,42 +242,43 @@ M1 Time/Age is execution clock authority.
 
 ---
 
-# 6. NARRATIVE ENGINEERING / OBSIDIAN RULE
+# 7. NARRATIVE ENGINEERING / OBSIDIAN
 
 Package G:
 - 7 Act nodes
 - 23 Sub-Act nodes
-- Device Atlas
+- Device / Mystery / Information architecture
 - 230/230 Context Manifest Registry
+- **individual Context Manifest files EP001~230 physically exist on main**
 - AUTHOR / POV / PUBLIC / PROTECTED separation.
 
 Authority:
-`Canon v2 → active Blueprint → locked POV → M1 → applicable Deep Card → Context Registry → Sub-Act candidate map`.
+`official Canon → active Blueprint → locked POV → M1 → applicable Deep Card → exact EP Context Manifest`.
 
 Hard:
 **Sub-Act candidate device ≠ episode exposure.**
 Only episode-explicit Blueprint/Deep-Card/ledger evidence may load a device.
 
-Detailed individual manifest files EP001~028 are examples.
-EP029~230 file splitting is implementation only, not design work.
-
 Reference Atlas is navigation only.
-Do not dump full global Canon/Atlas into a POV Context Pack by default.
+Do not dump full global Canon into one POV Context Pack by default.
 
 ---
 
-# 7. PROSE EXECUTION RULE — WHEN EXPLICITLY STARTED
+# 8. PROSE EXECUTION — ONLY WHEN EXPLICITLY STARTED
 
-EP001 execution order:
-1. World Bible v2
-2. Character Bible v2
-3. Act Bible v1
-4. Act1 exact Episode Blueprint card
-5. Act1 locked POV row
-6. M1
-7. Package G EP001 Registry/manifest + relevant Deep Card
-8. Prose Protocol v1.1
-9. style/QA.
+EP001 retrieval order:
+1. `WORLD_BIBLE-v2.md` relevant sections
+2. `CHARACTER_BIBLE-v2.md` relevant characters
+3. `ACT_BIBLE-v1.md`
+4. Amendment A only if relevant
+5. Act1 exact Episode Blueprint card
+6. Act1 locked POV row
+7. M1
+8. applicable Deep Card + EP001 Context Manifest
+9. Prose Protocol v1.1
+10. style/QA.
+
+Never load experimental `canon/v2/` as Canon.
 
 Writing model:
 - close third
@@ -231,43 +290,30 @@ Writing model:
 Style:
 `STYLE-H1R — Restrained Commercial Social SF`.
 
-Do not:
-- write philosophy essays,
-- turn prose into reports,
-- make everyone perfect debaters,
-- use translated-English cadence,
-- spam one-line paragraphs,
-- explain morality after the action,
-- add a later bigger twist.
-
 Draft generation is not completion.
 Only `manuscript/accepted/` + manuscript ledger counts.
 
 ---
 
-# 8. C2 CONTROLLED ELASTICITY
+# 9. C2 CONTROLLED ELASTICITY
 
-Allowed bounded detail includes:
-- exact birthdays/addresses
-- incidental venue names
-- exact ship sector counts inside frozen bands
-- exact gas/radiator/storage values
-- exact planet atmospheric percentages
-- resource-body names/orbits inside frozen system grammar
-- exact vehicle/cargo/census within ceilings
-- exact tax rates/product models/species whitelist
-- final residence when Blueprint leaves it open.
+Use official C0/C1/C2 rules from:
+- `WORLD_BIBLE-v2.md`
+- `CHARACTER_BIBLE-v2.md`
+- Amendment A for its narrow domains.
+
+C2 may include exact addresses, incidental venue names, exact rates/thresholds inside frozen bands, product models, and other local scene detail.
 
 If C2 becomes recurring, clue-bearing or causally important:
 - promote/log it,
 - check Canon impact,
 - update affected Context Packs if necessary.
 
-C2 may not be used to smuggle in a new major rule.
+C2 may not smuggle in a new major rule.
 
 ---
 
-# 9. FORBIDDEN DRIFTS
+# 10. FORBIDDEN DRIFTS
 
 - human-good / AI-evil binary
 - remaining citizens as fake NPCs
@@ -277,7 +323,9 @@ C2 may not be used to smuggle in a new major rule.
 - chosen-one Maren/Amara
 - bloodline legitimacy
 - central-AI-explains-everything
-- Habitat castes
+- Habitat castes/sovereignty
+- weighted civic voting by origin/profession/property
+- singular captain-president sovereignty
 - civil-grid vs propulsion GW theft
 - mass citizenship erasure by old law
 - free perfect settlement path
@@ -285,33 +333,35 @@ C2 may not be used to smuggle in a new major rule.
 - alien invasion / war-action takeover
 - later bigger ontology twist
 - Maren adjudicating own family case
-- Amara sovereignty/admin/land/genetic/settler key
-- founder relic/superweapon/origin scanner.
+- Amara sovereignty/admin/land/genetic/settler/research key
+- founder relic/superweapon/origin scanner
+- proxy-authorized active death of an incapable person.
 
 ---
 
-# 10. CHANGE CONTROL AFTER FREEZE v2
+# 11. CHANGE CONTROL
 
-For a contradiction-level change:
-`identify issue → 3~4 designs if meaningful → compare → impact analysis → CHG entry → hostile Red Team → affected EP regression → deliberate Canon reopening/promotion`.
+For contradiction-level changes:
+`identify issue → 3~4 designs if meaningful → compare → impact analysis → change record → hostile Red Team → affected EP regression → deliberate Canon promotion`.
 
-Never silently overwrite current v2 Canon.
-
-For ordinary C2 refinement inside frozen grammar:
-no full Canon reopening is needed unless it affects causality/reveal/recurrence.
+Never silently overwrite frozen Canon.
 
 ---
 
-# 11. CURRENT NEXT PHASE
+# 12. CURRENT NEXT PHASE
 
-Deep Design is complete.
-Canon v2 is frozen.
+Deep Design complete.
+Official Canon v2 frozen.
+Amendment A frozen.
 
 Current state:
 **MANUSCRIPT READY / NOT STARTED**.
 
 First eligible episode:
 **EP001**.
+
+Accepted:
+**0 / 230**.
 
 Do not start prose merely to continue project administration/status work.
 Start manuscript only on explicit drafting/execution instruction.
