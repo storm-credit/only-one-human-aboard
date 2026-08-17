@@ -18,105 +18,125 @@ This file continues from CHG-033.
 
 ## CHG-033 — 사용자 품질기준 상향: Encyclopedic Deep Design Gate 신설 / 원고 재잠금
 - Date: 2026-08-17
-- Change Location: Project workflow / World & Setting Bible completeness
-- New: Core v1 remains stable; encyclopedic v2 completion required before prose; manuscript blocked.
+- New: Core v1 remains stable; encyclopedic v2 completion required before prose.
 - Status: `CORE v1 STABLE / ENCYCLOPEDIC v2 OPEN / MANUSCRIPT BLOCKED`
 
 ---
 
-## CHG-034 — Narrative Engineering + Obsidian Context Atlas를 Encyclopedic Gate에 추가
+## CHG-034 — Narrative Engineering + Obsidian Context Atlas 추가
 - Date: 2026-08-17
-- Change Location: Narrative navigation / device dependencies / context retrieval
-- New: Package G established; NAM-H1 + Device Atlas + Act/Sub-Act Obsidian graph + Context Pack architecture.
-- Status: `PACKAGE G STRUCTURAL GRAPH PASS / FULL PASS PENDING EP DATASET`
+- New: Package G / NAM-H1 / Device Atlas / Act-SubAct graph / Context Pack architecture.
+- Status: `STRUCTURAL GRAPH PASS / FULL DATASET PENDING`
 
 ---
 
-## CHG-035 — Material Culture / Equipment / Relics를 독립 완성도 Gate로 승격
+## CHG-035 — Material Culture / Equipment / Relics 독립 Gate 승격
 - Date: 2026-08-17
-- Change Location: Material culture / equipment / heritage / collection engine
-- New: Package C-M established; MC-H1 + CE-H1 selected provisionally; Old ≠ powerful / Rare ≠ useful guardrails.
-- Status: `PACKAGE C-M STRUCTURAL BASE PASS / CROSS-PACKAGE DEPENDENCIES OPEN`
+- New: Package C-M / MC-H1 / CE-H1; Old ≠ powerful; Rare ≠ useful.
+- Status: `STRUCTURAL BASE PASS / CROSS-PACKAGE DEPENDENCIES OPEN`
 
 ---
 
 ## CHG-036 — Package A Society Bible 전 영역 Deep Design + 통합 Red Team 완료
 - Date: 2026-08-17
-- Change Location: Encyclopedic v2 / Society architecture
-- Previous:
-  - Society Bible had strong core rights/economy premise but lacked full reference-grade treatment of governance, criminal justice, finance/property, labor/class, family, education, general medicine and death/finality.
 - New:
-  - nine provisional Society models selected after separate 4-design comparisons and hostile tests:
-    1. `GOV-H1 — Layered Civic Republic + Commons Constraints + Narrow Safety Command`
-    2. `CJ-H1 — Layered Public Safety + Restorative Default + Narrow Coercive Escalation`
-    3. `ECO-H1 — Civic Floor + Monetary Market + Capacity Commons + Mixed Enterprise`
-    4. `PROP-H1 — Layered Residential Tenure + Common Structure + Transferable Household Interests`
-    5. `LAB-H1 — Open Occupational Mobility + Plural Worker Power + Safety-Credential Boundaries`
-    6. `FAM-H1 — Civil Partnership + Independent Parenthood + Protected Dependency + Flexible Household`
-    7. `EDU-H1 — Common Civic Foundation + Choice-Rich Adolescence + Apprenticeship / Higher Training + Lifelong Modular Retraining`
-    8. `MED-H1 — Universal Clinical Floor + Advanced Biological Repair + Privacy-Bounded Prevention + Supported Autonomy`
-    9. `DEATH-H1 — Clinical Death + Continuity Review + Bounded Legal Finality + Material Return + Plural Mourning`
-  - integrated `SOCIETY-BIBLE-v0.1.md` created.
-  - integrated Society hostile Red Team completed with blocking P0 = 0.
-  - Package A judged `STRUCTURAL DEEP DESIGN = PASS` but NOT Canon-frozen because B/C/D/E/F dependencies remain.
+  - GOV-H1
+  - CJ-H1
+  - ECO-H1
+  - PROP-H1
+  - LAB-H1
+  - FAM-H1
+  - EDU-H1
+  - MED-H1
+  - DEATH-H1
+  - `SOCIETY-BIBLE-v0.1.md`
+- Integrated blocking P0: 0
+- Status: `PACKAGE A STRUCTURAL DEEP DESIGN PASS / NOT CANON`
+
+---
+
+## CHG-037 — Package B Culture & Daily Life 전 영역 Deep Design + 통합 Red Team 완료
+- Date: 2026-08-17
+- Change Location: Encyclopedic v2 / lived culture / ordinary daily life
+- Previous:
+  - core setting had strong technical/social premise but many ordinary cultural domains were incomplete: language drift, belief, calendar, actual cuisine, clothing, hygiene, media, leisure, intimacy and ship-born identity.
+- New:
+  - ten provisional cultural models selected after design comparison + hostile QA:
+    1. `LNG-H1 — Evolved Ship Common + Heritage Language Ecology + Translation Assist`
+    2. `REL-H1 — Plural Inherited Traditions + Secular Life + Ship-Born Civic Rituals + Small New Movements`
+    3. `CAL-H1 — Synchronized Earth-Descended Civil Time + Voyage-Epoch Archival Time + Ship-Born Observance Calendar`
+    4. `FOOD-H1 — Closed-Loop Staples + Heritage Recipe Lineages + Ship-Born Adaptation + Real Hospitality Market`
+    5. `CLO-H1 — Recognizable Civilian Fashion + Closed-Loop Textiles + Specialized Workwear + Selective Wearables`
+    6. `DOM-H1 — Urban Comfort + High-Efficiency Closed Loops + Repairable Domestic Systems + Selective Automation`
+    7. `MEDIA-H1 — Public-Service Information + Plural Journalism/Creators + Interoperable Social Layer + Bounded Recommenders`
+    8. `ENT-H1 — Layered Heritage + Ship-Born Creative Canon + Live/Physical Culture + Bounded Immersion`
+    9. `INT-H1 — Plural Adult Intimacy + Strong Consent/Privacy + Reproduction Decoupled From Partnership`
+    10. `ID-HOME-H1 — Meridian-Home Majority + Layered Heritage + Contested Mission Memory + Plural Arrival Futures`
+  - integrated `CULTURE-DAILY-LIFE-BIBLE-v0.1.md` created.
+  - integrated Package B hostile QA completed with blocking P0 = 0.
+  - ordinary rest-day / child / elder daily-life prototypes pass structurally without new Package-B-scale invention.
 - Reason:
-  - user requires a standalone reference-grade world/setting bible before manuscript.
-  - a random citizen's whole life must be possible without improvising major social rules.
+  - user's quality bar requires the setting bible itself to function as a complete world reference before prose.
+  - the society must feel like a 450-year civilian civilization, not only a story-critical legal/engineering framework.
 - Trigger / Evidence:
-  - direct continued user instruction on 2026-08-17.
-  - all `docs/design-v2/SOCIETY-*-4-DESIGNS-v0.1.md`
-  - all matching `docs/qa/SOCIETY-*-RED-TEAM-v0.1.md`
-  - `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
-  - `docs/qa/SOCIETY-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
+  - direct continued user instruction.
+  - `docs/design-v2/CULTURE-*-4-DESIGNS-v0.1.md`
+  - matching `docs/qa/CULTURE-*-RED-TEAM-v0.1.md`
+  - `docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
+  - `docs/qa/CULTURE-DAILY-LIFE-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
 - Characters Affected:
-  - Maren/Ella/Noah family legal architecture clarified without changing existing Canon chronology.
-  - Amara/Leo/Kai/Mina ordinary family/work/school rights clarified without origin privilege.
-  - Tomas retirement, Ines healthcare role, Jun property/labor context gain reference support.
+  - no locked arc changed.
+  - Noah's zero-g sport/media/music/game life receives a plausible cultural base.
+  - Ella's hospitality/food co-op receives actual cuisine/hospitality ecology.
+  - Amara's shift work gains shift-time/food/media/home context.
+  - all cast can later receive individualized language/belief/taste/clothing/hobby/media/home routines in Package F.
 - Acts Affected:
-  - all Acts gain ordinary society detail and consequence logic.
-  - no Act order, Count/Meaning/Amara reveal timing or ending architecture changed.
+  - all Acts gain daily-life and cultural texture only.
+  - Count media diffusion/re-identification path strengthened without altering reveal timing.
+  - arrival/ship-home choices gain cultural weight without changing ending.
 - Foreshadowing Affected:
-  - no new ontology clue or universal MacGuffin.
-  - social rules may become local episode context only when relevant.
+  - no new ontology clue.
+  - recurring cultural/place/object details are not automatically Chekhov devices.
 - World Rules Affected:
-  - broad provisional expansion only; v1 core personhood/Seed/Reconstruction/destination rules unchanged.
-- Key Cross-Package Guardrails:
-  - democratic governance cannot become expert/AI sovereignty.
-  - engineering telemetry cannot become universal citizen surveillance.
-  - money cannot legally purchase birth/Reconstruction/critical survival priority.
-  - citizens may hold valuable housing interests without owning hull/life-support sovereignty.
-  - person continuity does not automatically roll back lawful third-party property change.
-  - careers are chosen; civilization steers needed skills rather than assigning lives.
-  - partnership/parenthood/guardianship/property are distinct.
-  - future medicine does not abolish disability, aging or death.
-  - clinical death / Reconstruction review / legal finality / mourning / inheritance are distinct.
+  - provisional expansion of everyday culture only; core v1 remains unchanged.
+- Key Guardrails:
+  - Korean prose is natural translation convention; no faux translated-English cadence.
+  - translation tools cannot solve institutional semantic drift.
+  - no single religion owns Seed/Natural truth.
+  - 24h/7d/Earth-derived civil calendar retained as infrastructure; ship-born observances evolve.
+  - citizens eat real cuisine, not default nutrient paste.
+  - civilians wear fashion, not universal jumpsuits.
+  - closed-loop sustainability is built into domestic infrastructure, not daily misery.
+  - no single media feed or perfect truth AI.
+  - Earth archive does not erase 450 years of Meridian-created culture.
+  - population capacity does not justify regulation of private adult intimacy.
+  - Meridian is actual home; surface is not automatically more authentic.
 - Documents Created/Repaired:
-  - all Package A Society design and QA files listed in `docs/current-work-status.md`
-  - `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
-  - `docs/qa/SOCIETY-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
+  - all Package B design/QA files listed in `docs/current-work-status.md`
+  - `docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
+  - `docs/qa/CULTURE-DAILY-LIFE-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
   - `docs/current-work-status.md`
 - Status:
-  - `PACKAGE A STRUCTURAL DEEP DESIGN = PASS`
-  - `PACKAGE A CANON v2 PROMOTION = BLOCKED BY CROSS-PACKAGE DEPENDENCIES`
+  - `PACKAGE B STRUCTURAL DEEP DESIGN = PASS`
+  - `PACKAGE B CANON v2 PROMOTION = BLOCKED BY C/D/E/F DEPENDENCIES`
   - `MANUSCRIPT = BLOCKED`
 
 ---
 
 # Current Change-Control Rule
 
-Core v1 is a stable baseline, but v2 completeness expansion is active.
+Core v1 remains stable baseline.
 
-For every meaningful new design:
-`3~4 designs → compare → blind-spot/trap check → Hybrid → Red Team → status judgment`.
+For meaningful new design:
+`3~4 designs → compare → blind-spot/trap check → Hybrid → hostile Red Team → status judgment`.
 
 If new material contradicts v1:
 - do not silently overwrite
-- add a new CHG entry
+- add CHG entry
 - identify affected Character / Act / Foreshadow / World rules
-- regression-test affected Episode Cards
+- regression-test affected Episode Cards.
 
-Narrative Engineering maps remain metadata/index/QA; Canon/active Blueprint/M1/POV override them.
-Material Culture and Society v0.1 remain provisional until cross-package integration.
+Package A/B/C-M and Package G map layer remain provisional until v2 cross-package integration.
 
 Do not draft manuscript until:
 `ENCYCLOPEDIC CANON FREEZE v2 = PASSED`.
