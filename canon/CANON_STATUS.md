@@ -3,121 +3,72 @@
 Project: 《우주선에는 인간이 한 명뿐이다》
 
 이 문서는 현재 정본과 Workflow/Execution Gate의 단일 상태표다.
-과거 brainstorming/candidate 문서보다 이 문서와 최종 Canon Bible 3종이 우선한다.
 
 ---
 
-# 1. Workflow Gate
+# Workflow / Execution Gate
 
 - `DESIGN FREEZE = PASSED — 2026-08-17`
 - `CANON FREEZE = PASSED — 2026-08-17`
 - `WRITING READY = PASSED — 2026-08-17`
-- `PROSE EXECUTION PROTOCOL = LOCKED — 2026-08-17`
-- `ACT 1 EXECUTION POV MAP = PASS — 2026-08-17`
+- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED — 2026-08-17`
+- `ACT 1~7 EXECUTION POV ARCHITECTURE = LOCKED / PASS — 2026-08-17`
 - `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
-
-본문을 자동 시작하지 않는다.
-사용자가 EP001/본문 집필을 명시적으로 요청할 때 실행한다.
-
-Evidence:
-- `docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
-- `docs/qa/CANON-FREEZE-RED-TEAM-v1.md`
-- `docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
-- `docs/qa/PROSE-EXECUTION-PROTOCOL-RED-TEAM-v1.md`
-- `docs/qa/ACT1-POV-MAP-MINI-QA-v1.md`
 
 Current blocking P0:
 **0**
 
+본문을 자동 시작하지 않는다.
+사용자가 EP001/본문 집필을 명시적으로 요청할 때만 실행한다.
+
 ---
 
-# 2. Canon Authority
+# Canon Authority
 
-1. `CLAUDE.md` — top-level work constitution
-2. `canon/WORLD_BIBLE-v1.md` — CANON
-3. `canon/CHARACTER_BIBLE-v1.md` — CANON
-4. `canon/ACT_BIBLE-v1.md` — CANON
+1. `CLAUDE.md`
+2. `canon/WORLD_BIBLE-v1.md`
+3. `canon/CHARACTER_BIBLE-v1.md`
+4. `canon/ACT_BIBLE-v1.md`
 5. this file
-6. active Writing Ready Blueprint / execution protocol
+6. active Blueprint / Prose Protocol v1.1 / POV Maps
 
-Candidate / Freeze-Draft files are history and cannot override final Canon.
-
----
-
-# 3. Canon Core Premise
-
-- generation ship **Meridian / 메리디언**
-- current population roughly 300k
-- citizens generally have living human-form biological bodies/brains
-- old technical distinction = cognitive developmental origin
-- overwhelming majority = prenatal Seeded/Synthetic-Origin Cognition
-- current active Natural/Bio-Origin Cognition = **1**
-- that citizen = **Amara Okoro / 아마라 오코로**
-- both origin classes have lived as current civic persons/humans
-- title `인간 한 명` is a legacy classification shock, not narrator's final moral ontology
+Old candidate/freeze-draft/protocol v1 files are history and cannot override current authority.
 
 ---
 
-# 4. Canon Hard Locks
+# Canon Core Premise
 
-## Seed
-- prenatal developmental prior
-- no finished memory/personality/loyalty/command/admin-key programming
-- prenatal closed-loop completion verification
-- no adult direct origin scanner
+- Ship: **Meridian / 메리디언**
+- current citizens: roughly 300k
+- living human-form biological bodies/brains
+- old distinction: cognitive developmental origin
+- majority: Seeded/Synthetic-Origin Cognition
+- current active Natural/Bio-Origin Cognition: **1**
+- identity: **Amara Okoro / 아마라 오코로**
+- modern civic personhood applies regardless of developmental origin
+- title's `one human` is legacy-category shock, not narrator's final ontology
 
-## Reconstruction
-- Recovery Map + surviving Neural Anchor
-- no executable soul backup
-- no anchorless adult restoration
-- no routine chronological rollback
-
-## Current One / History
-- no Witness/exact-one protocol
-- rare deliberate unseeded birth + demographic current state
-- departure humans were not massacred/mass-uploaded
-- Seed became standard over generations through medicine/law/network effects
-
-## Living World
-- 1환 / 2환 / 3환 + Spine + Outer Works + Legacy areas
+Hard boundaries:
+- Seed = prenatal developmental prior; no memory/personality/command/admin programming
+- Seed success verified prenatally; no adult direct origin scanner
+- Reconstruction = Recovery Map + surviving Neural Anchor
+- no anchorless adult restoration / soul-file / routine age rollback
+- no exact-one Witness Protocol
 - no Habitat caste
-- `Layered Commons + Market City`
-
-## Destination / Arrival
-- Epsilon Indi A / 인디계
-- ~14-year main-story span to system insertion
-- local ISRU + transferred ship industrial capital
-- no free settlement path
-- old Human Settler field = destination-jurisdiction translation problem, not mass ship-citizenship deletion
+- no Amara chosen-one authority
+- no mass ship-citizenship deletion by old law
 
 ---
 
-# 5. Canon Core Characters
+# Canon Series Architecture
 
-- Maren Vale / 마렌 베일 — 41F, ordinary Seeded-Origin Continuity adjudicator; mandatory family-case recusal
-- Ella Vale / 엘라 베일 — 39F, reconstructed sister; Noah sole legal parent
-- Noah Vale / 노아 베일 — 12M → ~26
-- Raul Serra / 라울 세라 — rights advocate/lawyer
-- Tomas Beck / 토마스 벡 — senior Continuity administrator
-- Ines Rahman / 이네스 라만 — field Reconstruction evaluator
-- Jun Imai / 준 이마이 — Old Quarter maintenance/co-op actor
-- Amara Okoro / 아마라 오코로 — 45F, sole current Natural-Origin, ordinary water/reclamation worker
-
-Amara has no special cognition, admin key, sovereignty, settlement legitimacy, or reproductive duty.
-
----
-
-# 6. Canon Series Architecture
-
-Target center: ~230 episodes.
-
-1. Act 1 EP001~028 — `돌아온 사람들의 자리`
-2. Act 2 EP029~058 — `판정의 비용`
-3. Act 3 EP059~088 — `한 명이라는 숫자`
-4. Act 4 EP089~122 — `공개된 다음 날`
-5. Act 5 EP123~156 — `미래를 위해 현재를 뜯는 법`
-6. Act 6 EP157~194 — `두 고향`
-7. Act 7 EP195~230 — `도착은 판정이 아니다`
+1. Act1 EP001~028
+2. Act2 EP029~058
+3. Act3 EP059~088
+4. Act4 EP089~122
+5. Act5 EP123~156
+6. Act6 EP157~194
+7. Act7 EP195~230
 
 Reveal lock:
 - internal Count EP056
@@ -130,7 +81,7 @@ No later bigger ontology twist.
 
 ---
 
-# 7. Active Blueprint Authority
+# Active Blueprint Authority
 
 - Act1 v0.1
 - Act2 v0.1
@@ -139,44 +90,62 @@ No later bigger ontology twist.
 - Act5 v0.1
 - Act6 **v0.2 active**
 - Act7 v0.1
-- `EPISODE-BLUEPRINT-PASS2-NORMALIZATION-v0.1.md`
+- Pass2 Normalization v0.1
 
-Act6 v0.1 is superseded history.
-
----
-
-# 8. Prose Execution Authority
-
-Locked protocol:
-`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.md`
-
-Selected model:
-`PEP-H1R — Causal-Owner Single-POV Close Third + Maren Series Anchor + Act-Ahead POV Mapping`
-
-Hard default:
-- one POV per episode
-- close-third limited
-- no mid-episode head hopping
-- Maren remains largest single POV owner
-- POV chosen by choice/cost/information fairness, not exposition convenience
-
-Act1 execution map:
-`docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
-
-Act1 mini QA:
-`docs/qa/ACT1-POV-MAP-MINI-QA-v1.md` = PASS
-
-Act1 POV summary:
-- Maren 13/28
-- Ella 5/28
-- Noah 4/28
-- Jun 3/28
-- Raul 2/28
-- Ines 1/28
+M1 Time/Age Harness = execution clock authority.
 
 ---
 
-# 9. Rejected / Forbidden Directions
+# Prose Execution Authority
+
+Current:
+`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
+
+Model:
+`PEP-H1R + POV-H1R — Causal-Owner Single-POV Close Third + Maren-Led Plurality Anchor`
+
+Protocol v1's `Maren ~45~60%` estimate is superseded.
+Full mapping proved percentage-driven reassignment would damage causal ownership.
+
+Current full-series POV totals:
+- Maren **45**
+- Ella 27
+- Amara 25
+- Noah 17
+- Raul 17
+- others lower
+
+Maren plurality Acts:
+1 / 2 / 5 / 6 / 7.
+
+Intentional local Act owners:
+- Act3 Amara
+- Act4 Ella
+
+Maren owns major anchors including:
+EP001 / EP056 / EP120 / EP145 / EP216 / EP229 / EP230.
+
+---
+
+# POV Map Authority
+
+All 230 episodes mapped:
+- Act1 POV Map v1
+- Act2 POV Map v1
+- Act3 POV Map v1
+- Act4 POV Map v1
+- Act5 POV Map v1
+- Act6 POV Map v1
+- Act7 POV Map v1
+
+Final QA:
+`docs/qa/ALL-ACTS-POV-LOCK-QA-v1.md = PASS`
+
+Full-series POV blocking P0 = **0**.
+
+---
+
+# Rejected / Forbidden Directions
 
 - human-good / AI-evil binary
 - remaining 300k as fake NPCs
@@ -189,14 +158,14 @@ Act1 POV summary:
 - Habitat castes
 - direct civil-grid vs propulsion GW conflict
 - mass citizenship erasure by old law
-- free third way / instant colony
+- free third way / instant mature colony
 - alien invasion / war-action takeover
 - later bigger ontology twist
 - Maren adjudicating own family case
 
 ---
 
-# 10. Change Control
+# Change Control
 
 If prose requires changing Canon:
 1. STOP drafting
@@ -205,18 +174,19 @@ If prose requires changing Canon:
 4. reopen relevant Freeze if P0
 5. Red Team again
 
-Elastic execution details may change without Canon reopening if they preserve locked architecture.
+POV changes require local causality/info-fairness QA.
+A change to full-series protagonist-anchor architecture requires full POV regression.
 
 ---
 
-# 11. Current Next Action
+# Current Next Action
 
-No further structural prerequisite remains for EP001.
+No structural prerequisite remains for EP001.
 
-**EP001 prose may be drafted when the user explicitly requests it.**
+**EP001 prose may begin only when the user explicitly requests it.**
 
-When drafting starts, run:
-- per-episode after-draft QA
-- every-5-episode batch QA
-- Sub-Act baseline QA
-according to `PROSE-EXECUTION-PROTOCOL-v1.md`.
+Use:
+- EP001 Blueprint
+- Protocol v1.1
+- Act1 POV Map → Maren POV
+- after-draft Episode QA
