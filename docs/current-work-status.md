@@ -9,158 +9,134 @@ Repository: `storm-credit/only-one-human-aboard`
 
 # Gate
 
-- `DESIGN FREEZE = PASSED — 2026-08-17`
-- `CANON FREEZE = PASSED — 2026-08-17`
-- `WRITING READY = PASSED — 2026-08-17`
-- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED — 2026-08-17`
-- `ACT 1~7 EXECUTION POV ARCHITECTURE = LOCKED / PASS — 2026-08-17`
-- `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
+Historical/core achievements:
+- `CORE DESIGN FREEZE v1 = PASSED — 2026-08-17`
+- `CORE CANON FREEZE v1 = PASSED — 2026-08-17`
+- `STRUCTURAL WRITING READY = PASSED — 2026-08-17`
+- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED`
+- `EP001~230 POV ARCHITECTURE = LOCKED / PASS`
 
-Current blocking P0:
+Current stronger user quality gate:
+- `ENCYCLOPEDIC DEEP DESIGN = IN PROGRESS / BLOCKED`
+- `ENCYCLOPEDIC CANON FREEZE v2 = NOT PASSED`
+- `MANUSCRIPT = BLOCKED`
+
+Existing core Canon P0:
 **0**
 
-No structural prewriting blocker remains.
-Do not auto-draft prose unless user explicitly requests EP001/body manuscript.
+Completeness blocker:
+**YES**
+
+Reason:
+The project is structurally writable, but the user requires the design blueprint/worldbuilding/setting bible itself to be reference-grade complete before prose. Current v1 is strong on story-critical world logic but not yet encyclopedic across all everyday-life/cultural/institutional domains.
+
+Primary audit:
+`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.1.md`
 
 ---
 
-# Canon Authority
+# What Is Already Complete / Strong
 
-1. `CLAUDE.md`
-2. `canon/WORLD_BIBLE-v1.md`
-3. `canon/CHARACTER_BIBLE-v1.md`
-4. `canon/ACT_BIBLE-v1.md`
-5. `canon/CANON_STATUS.md`
+- core ontology / Seed / Natural vs Seeded Origin
+- Reconstruction / Neural Anchor / death-continuity rules
+- reproduction / demographic current-one logic
+- ship macro-engineering / ecology / power / heat rejection
+- destination / propulsion / ram defense / staged arrival
+- core civic rights / arrival-law conflict
+- core cast / family chronology / 14-year arcs
+- 7 Acts / 23 Sub-Acts / EP001~230 matrix
+- Information Ladder / Foreshadow-Payoff / Ending
+- Harness M1~M8
+- full EP001~230 POV architecture
+- prose execution protocol / style / manuscript pipeline / QA infrastructure
 
-Old candidates/freeze drafts/superseded execution docs are history only.
-
----
-
-# Writing Ready Completion
-
-- EP001~230 Full Episode Matrix = COMPLETE
-- high-risk Deep Cards = COMPLETE
-- 23 Sub-Act turn cards = COMPLETE
-- Harness M1~M8 = PASS
-- Hostile QA = PASS WITH P1 GUARDRAILS
-- Final Writing Ready Red Team = PASS
-- silent Canon blocker = 0
-
-Active episode blueprints:
-- Act1 v0.1
-- Act2 v0.1
-- Act3 v0.1
-- Act4 v0.1
-- Act5 v0.1
-- Act6 **v0.2 active**
-- Act7 v0.1
-
-M1 Time/Age = exact execution clock authority.
+These remain valid unless a later v2 contradiction is intentionally approved.
 
 ---
 
-# Prose Execution Protocol
+# Completeness Gaps To Close
 
-Current locked authority:
-`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
+## Package A — Society Bible
+- full governance architecture
+- criminal justice/security/policing
+- economy deep layer: money/tax/rent/property/debt/inheritance/business/labor/welfare
+- family/marriage/adoption/guardianship norms
+- education system
+- general medicine/mental health/disability
+- death/funeral/mourning/inheritance
 
-Model:
-`PEP-H1R + POV-H1R — Causal-Owner Single-POV Close Third + Maren-Led Plurality Anchor`
+## Package B — Culture & Daily Life Bible
+- language drift / lingua franca / slang
+- religion/philosophy/ritual
+- calendar/work week/holidays
+- cuisine and actual meals
+- clothing/fashion
+- hygiene/domestic routines
+- media/social networks/journalism
+- entertainment/art/sport
+- sexuality/intimacy/social norms
+- ship-born identity / Earth memory / mission culture
 
-Protocol v1 is superseded for POV-share diagnostics.
-Its old ~45~60% Maren estimate is no longer active.
+## Package C — Infrastructure & Operations Bible
+- housing/neighborhood typology
+- transit and commute operations
+- utilities/domestic systems
+- emergency/fire/decompression/quarantine
+- everyday AI/automation/robotics ontology and authority limits
+- archive/knowledge architecture
+- routine ship operations
 
-Hard rules:
-- one POV per episode
-- close-third limited
-- no head hopping
-- Primary Actor ≠ automatic POV
-- choice/cost/information fairness selects POV
-- tie → prefer Maren
-- no exposition-convenience POV
+## Package D — Historical Bible
+- full ~450-year era timeline beyond Seed transition
+- major crises, repairs, reforms, demographic/cultural/economic eras
+- Earth-contact/isolation history
+- institutional evolution
 
----
+## Package E — Destination & Arrival Reference
+- target-planet environment
+- resource-body/orbital geography
+- first settlement logistics
+- migration/property/inheritance/jurisdiction across locations
 
-# Full-Series POV Architecture
+## Package F — Character Encyclopedia v2
+- appearance
+- home/commute
+- finance/class
+- education history
+- hobbies/non-theme life
+- health
+- personal timeline
+- broader social network
+- reusable supporting cast
+- 14-year career/residence checkpoints
 
-All 230 episodes mapped and QA passed.
+## Package G — Reference Atlas
+- glossary
+- institution authority chart
+- geography/map spec
+- 450y + 14y timelines
+- technology dependency chart
+- life-cycle chart
+- Canon vs Elastic registry
 
-Files:
-- `ACT1-EXECUTION-POV-MAP-v1.md`
-- `ACT2-EXECUTION-POV-MAP-v1.md`
-- `ACT3-EXECUTION-POV-MAP-v1.md`
-- `ACT4-EXECUTION-POV-MAP-v1.md`
-- `ACT5-EXECUTION-POV-MAP-v1.md`
-- `ACT6-EXECUTION-POV-MAP-v1.md`
-- `ACT7-EXECUTION-POV-MAP-v1.md`
-
-Final regression:
-`docs/qa/ALL-ACTS-POV-LOCK-QA-v1.md = PASS`
-
-Full-series totals:
-- Maren **45 / 230**
-- Ella 27
-- Amara 25
-- Noah 17
-- Raul 17
-- Jun 15
-- Tomas 13
-- Kai 13
-- Leo 12
-- Ines 10
-- Mina 5
-- remaining POVs = recurring/rare functional actors
-
-Maren is plurality POV owner in Acts:
-**1, 2, 5, 6, 7**.
-
-Intentional local owners:
-- Act3 Amara
-- Act4 Ella
-
-Maren anchors:
-EP001 / EP056 / EP120 / EP145 / EP216 / EP229 / EP230.
-
-Interpretation:
-**Maren is primary series anchor inside a true ensemble, not a majority-POV protagonist.**
-
----
-
-# Important POV Execution P1s
-
-## Act1
-- first 9 episodes still use 5 POV owners
-- orientation must be immediate
-
-## Act2
-- Count EP053~058 = six-POV causal knowledge relay
-- do not collapse into one Truth Keeper
-
-## Act3
-- Meaning EP059~066: stop explaining when current choice has enough information
-- Amara behavior must vary; no repeated symbol-refusal speech
-
-## Act4
-- Ella owns 7-episode PR-H1 run 112~118
-- vary action/location; do not make seven screen-reading episodes
-- EP117 Ella POV, EP120 Maren accountability POV
-
-## Act5
-- highest specialist POV load
-- cut technical explanation before cutting human cost
-
-## Act6
-- young voices must visibly age across T-8→T-3
-- career/future choices need varied physical actions, not forms
-
-## Act7
-- insertion without disaster must still feel climactic
-- EP219~230 cannot feel like twelve epilogues
-- EP230 Maren cannot summarize cast or deliver final humanity thesis
+## Package H — Final Completeness Harness
+Must pass:
+- Random Citizen Day Test
+- Child→Adult→Old Age Life Cycle Test
+- Crime/Accident/Emergency Test
+- Rich/Poor/Disabled Test
+- Birth/Marriage/Divorce/Death Test
+- School/Work/Retirement Test
+- Media/Rumor/Privacy Test
+- Religion/Culture/Leisure Test
+- AI/Automation Ontology Test
+- Arrival Migration/Property Test
+- 20 random-scene no-new-major-rule test
+- regression against EP001~230
 
 ---
 
-# Current Canon Snapshot
+# Current Canon Baseline
 
 - Ship: Meridian
 - Population: ~300k
@@ -177,41 +153,21 @@ Interpretation:
 
 ---
 
-# Hard Stop During Writing
-
-Stop + Canon-impact review if prose needs:
-- adult origin scanner
-- Seed memory/personality/command programming
-- anchorless adult restoration
-- Amara sovereignty/admin key
-- mass citizenship erasure
-- central AI dictatorship
-- bigger ontology twist
-- Maren family adjudication
-- civil-grid propulsion theft
-- instant mature colony
-- free perfect third way
-
----
-
 # Current Next Work
 
-All structural + POV prerequisites for EP001 are complete.
+Do **not** draft EP001.
 
-## If user explicitly requests prose
-1. read EP001 Blueprint
-2. read Protocol v1.1
-3. Act1 POV Map → Maren
-4. draft EP001
-5. run after-draft QA
-6. sync accepted manuscript/progress to GitHub
+Begin Encyclopedic Deep Design expansion in this order:
+1. Package A — Society Bible 4-design blocks
+2. Package B — Culture & Daily Life
+3. Package C — Infrastructure & Operations
+4. Package D — Historical Bible
+5. Package E — Destination Reference
+6. Package F — Character Encyclopedia v2
+7. Package G — Reference Atlas
+8. Package H — adversarial completeness harness
+9. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 consolidation
+10. Canon conflict regression against ACT_BIBLE + EP001~230
+11. `ENCYCLOPEDIC CANON FREEZE v2`
 
-## If user only says `이어서`
-Do not auto-generate manuscript.
-Optional useful execution-support only, e.g.:
-- Act1 prose style calibration **without writing a scene**
-- manuscript repository/file naming pipeline
-- after-draft QA template
-- platform-length/serialization formatting rules
-
-Story/Canon/POV architecture should not be reopened without a new P0.
+Only after v2 Freeze passes may manuscript status return to READY.
