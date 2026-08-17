@@ -9,49 +9,36 @@ Repository: `storm-credit/only-one-human-aboard`
 
 # Gate
 
-## DESIGN FREEZE
-`PASSED — 2026-08-17`
+- `DESIGN FREEZE = PASSED — 2026-08-17`
+- `CANON FREEZE = PASSED — 2026-08-17`
+- `WRITING READY = PASSED — 2026-08-17`
+- `PROSE EXECUTION PROTOCOL = LOCKED — 2026-08-17`
+- `ACT 1 EXECUTION POV MAP = PASS — 2026-08-17`
+- `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
 
-## CANON FREEZE
-`PASSED — 2026-08-17`
-
-## WRITING READY
-`PASSED — 2026-08-17`
-
-## MANUSCRIPT
-`ALLOWED UNDER PROSE EXECUTION PROTOCOL`
-
-현재는 더 이상 `DEEP DESIGN / NOT READY TO WRITE`가 아니다.
-다만 바로 원고를 자동 시작하지 않는다.
-
-다음 단계:
-**Prose Execution Protocol 3~4안 → 비교 → Hybrid → Red Team → 실행명세 확정**.
+현재 더 이상 설계 Gate blocker는 없다.
+본문은 사용자가 EP001/본문 집필을 명시적으로 요청할 때 시작한다.
 
 ---
 
 # Canon Authority
 
-현재 정본 3종:
-1. `canon/WORLD_BIBLE-v1.md`
-2. `canon/CHARACTER_BIBLE-v1.md`
-3. `canon/ACT_BIBLE-v1.md`
+1. `CLAUDE.md`
+2. `canon/WORLD_BIBLE-v1.md`
+3. `canon/CHARACTER_BIBLE-v1.md`
+4. `canon/ACT_BIBLE-v1.md`
+5. `canon/CANON_STATUS.md`
 
-최상위 작업헌법:
-- `CLAUDE.md`
-
-상태표:
-- `canon/CANON_STATUS.md`
-
-과거 CANDIDATE / FREEZE-DRAFT / provisional 설계는 history이며 정본보다 우선하지 않는다.
+Candidate / Freeze-Draft / old provisional 문서는 history이며 current Canon보다 우선하지 않는다.
 
 ---
 
-# Writing Ready Evidence
+# Writing Ready Completion
 
-## Gate A — Full Episode Matrix
-`COMPLETE — EP001~230 / 230`
+## Full Episode Matrix
+`EP001~230 / 230 COMPLETE`
 
-Active files:
+Active:
 - Act1 v0.1
 - Act2 v0.1
 - Act3 v0.1
@@ -60,125 +47,122 @@ Active files:
 - Act6 **v0.2 active**
 - Act7 v0.1
 
-`Act6 v0.1 = superseded history`.
-
-## Gate B — High-Risk Deep Cards
+## High-Risk Deep Cards
 `COMPLETE`
 
-Includes:
-- opening EP001~020
+- opening 001~020
 - all 23 Sub-Act turns
-- Count EP053~058
-- Meaning EP059~066
-- Amara EP067~076
-- PR-H1 EP112~122
-- Final Approach EP140~148
-- Human Settler EP142~151
-- major time bridges
-- insertion/ending EP207~230
+- Count 053~058
+- Meaning 059~066
+- Amara 067~076
+- PR-H1 112~122
+- Final Approach 140~148
+- Human Settler 142~151
+- time bridges
+- insertion/ending 207~230
 
-## Gate C — Harness
+## Harness
 `M1~M8 ALL PASS`
 
-- M1 Time/Age
-- M2 Cast/Non-Maren Causality
-- M3 Location Balance
-- M4 Information Ladder
-- M5 Foreshadow/Payoff
-- M6 Reward/Hook
-- M7 Canon Dependency
-- M8 Anti-Drift
-
-## Gate D — Hostile QA
+## Hostile QA
 `PASS WITH P1 EXECUTION GUARDRAILS`
 
-File:
-`docs/qa/WRITING-READY-HOSTILE-QA-v0.1.md`
-
-## Gate E — Final Writing Ready Red Team
+## Final Writing Ready Red Team
 `PASS`
-
-File:
-`docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
 
 Blocking P0:
 **0**
 
-Structural missing-design blockers:
+---
+
+# Prose Execution Protocol
+
+Locked file:
+`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.md`
+
+Model:
+`PEP-H1R — Causal-Owner Single-POV Close Third + Maren Series Anchor + Act-Ahead POV Mapping`
+
+Core rules:
+- one POV per episode
+- close-third limited
+- no scene-level head hopping
+- Maren = largest single POV owner
+- POV chosen by choice/cost/info fairness
+- Primary Actor ≠ automatic POV
+- explanation only as needed for current decision
+- consequence-driven hooks preferred
+- same-writer/perfect-agent dialogue prohibited
+- Canon-impact failure = STOP and review
+
+---
+
+# Act 1 POV Map
+
+File:
+`docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
+
+QA:
+`docs/qa/ACT1-POV-MAP-MINI-QA-v1.md = PASS`
+
+Distribution:
+- Maren 13/28 = 46.4%
+- Ella 5/28
+- Noah 4/28
+- Jun 3/28
+- Raul 2/28
+- Ines 1/28
+
+Important refinement:
+- initial EP005 Ines POV was moved to Maren
+- Ines direct POV moved to EP013
+- reason: reduce first-9 POV overload while improving mundane medical handling of Seed-completion records
+
+Blocking P0:
 **0**
 
-Silent Canon-change blockers:
-**0**
+P1 watch:
+- five POV owners still appear by EP009
+- execution must orient naturally and preserve family return gravity
 
 ---
 
 # Current Canon Snapshot
 
 - Ship: **Meridian / 메리디언**
-- Population: roughly 300k
-- destination: **Epsilon Indi A / 인디계**
-- story start: about T-14y to system insertion
-- core origin model: living biological bodies/brains + developmental cognitive-origin distinction
-- Seed: prenatal developmental prior, no memory/personality/admin programming
-- Reconstruction: Recovery Map + surviving Neural Anchor
-- current Natural/Bio-Origin active citizen: **1**
-- identity: **Amara Okoro / 아마라 오코로**
-- exact-one preservation protocol: **REJECTED**
-- main protagonist: **Maren Vale / 마렌 베일**, ordinary Seeded-Origin Continuity adjudicator
-- family: Ella Vale / Noah Vale
-- series center: about 230 episodes
+- Population: ~300k
+- Destination: **Epsilon Indi A / 인디계**
+- Story start: ~T-14 to insertion
+- Natural/Bio-Origin current active count: 1
+- identity: **Amara Okoro**
+- main protagonist: **Maren Vale**
 - public Count: EP058
 - Meaning complete: EP066
 - Amara public confirmation: EP075
-- ending: Costly Polycentric Arrival, no free perfect compromise
+- series center: ~230 episodes
+- ending: Costly Polycentric Arrival
 
 ---
 
-# Current 1st Priority
-
-## Prose Execution Protocol
-
-Need 3~4 structurally different execution options for:
-- POV / person
-- narrative distance
-- chapter word-count range
-- scene-count/rhythm
-- opening and closing hook rules
-- dialogue density
-- exposition/jargon budget
-- character voice enforcement
-- humor/downtime budget
-- after-draft Canon/Blueprint check
-- anti-AI prose QA
-
-Do NOT reopen:
-- World truth
-- character origins
-- Act order
-- Reveal timing architecture
-- Ending architecture
-unless a new P0 is discovered.
-
----
-
-# P1 Execution Risks To Carry Into Prose Protocol
+# P1 Execution Risks
 
 1. first-20 title-promise balance
-2. legacy `Human` semantic-cheat perception
-3. Amara repeating the same symbolic refusal beat
+2. legacy Human semantic-cheat perception
+3. Amara refusal repetition
 4. Act5 engineering/institution density
 5. Human Settler late-conflict contrivance perception
-6. insertion without disaster still needs climax force
-7. same-writer / perfect-agent dialogue
-8. jargon spikes
-9. too many institutional/notification hooks
-10. low humor/downtime during dense arcs
+6. insertion without disaster still needing climax force
+7. same-writer/perfect-agent dialogue
+8. jargon spike
+9. notification/report hook repetition
+10. downtime/humor absence
+11. early POV load
 
 ---
 
 # Hard Stop During Writing
 
-If an episode requires any of these, stop and run Canon-impact review:
+Stop and run Canon-impact review if an episode requires:
 - adult origin scanner
 - Seed memory/personality programming
 - anchorless adult restoration
@@ -189,14 +173,21 @@ If an episode requires any of these, stop and run Canon-impact review:
 - Maren family adjudication
 - civil-grid propulsion theft
 - instant mature colony
-- free third way
+- free perfect third way
 
 ---
 
 # Current Next Work
 
-1. `PROSE-EXECUTION-PROTOCOL-4-DESIGNS-v0.1.md`
-2. Hybrid selection
-3. Prose-execution Red Team
-4. update `CLAUDE.md`/status/handoff if needed
-5. only after protocol lock: EP001 execution may begin when explicitly requested
+No structural prewriting task is blocking EP001.
+
+## If user requests prose
+1. read EP001 card
+2. use Maren POV per Act1 POV Map
+3. draft under `PROSE-EXECUTION-PROTOCOL-v1.md`
+4. run after-draft Episode QA
+5. sync manuscript/progress according to repository protocol
+
+## If user does not request prose
+Do not auto-generate scenes.
+May continue with execution support such as Act2 POV mapping, style calibration, or manuscript pipeline QA only if requested/appropriate.
