@@ -1,8 +1,13 @@
 # 00 — Narrative Engineering MOC
 
-Status: `PACKAGE G DESIGN = PASS / P0=0 / PRE-PROSE / NOT CANON`
+Status: `PACKAGE G DESIGN = PASS / P0=0 / MANUSCRIPT-READY SUPPORT LAYER / NOT CANON`
 
 Project: 《우주선에는 인간이 한 명뿐이다》
+
+Current project gate:
+- `ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`
+- `MANUSCRIPT = READY / NOT STARTED`
+- Accepted = `0/230`.
 
 ## Act Navigation
 
@@ -30,97 +35,95 @@ All **7 Act nodes / 23 Sub-Act nodes** exist.
 - [Initial Narrative Engineering Map Red Team](../qa/NARRATIVE-ENGINEERING-MAP-RED-TEAM-v0.1.md)
 - [Full EP001~230 Manifest Regression](../qa/NARRATIVE-ENGINEERING-FULL-MANIFEST-REGRESSION-v0.1.md)
 
-Final design-layer blocking P0: **0**.
+Blocking P0: **0**.
 
-## Existing Story Authorities
+## Current Story Authorities
 
-- [Act Bible](../../canon/ACT_BIBLE-v1.md)
-- [World Bible](../../canon/WORLD_BIBLE-v1.md)
-- [Character Bible](../../canon/CHARACTER_BIBLE-v1.md)
-- [Foreshadow / Payoff Ledger](../act/FORESHADOW-PAYOFF-LEDGER-4-DESIGNS-v0.1.md)
-- [Information Ladder](../act/INFORMATION-LADDER-4-DESIGNS-v0.1.md)
+- [World Bible v2](../../canon/WORLD_BIBLE-v2.md) — CANON
+- [Character Bible v2](../../canon/CHARACTER_BIBLE-v2.md) — CANON
+- [Act Bible v1](../../canon/ACT_BIBLE-v1.md) — ACTIVE NARRATIVE CANON
+- active Episode Blueprints
 - [M1 Time/Age Harness](../writing-ready/HARNESS-M1-TIME-AGE-v0.1.md)
-- [POV Maps](../writing-ready/ACT1-EXECUTION-POV-MAP-v1.md)
+- locked POV Maps
+- applicable Deep Cards
+- [Prose Protocol v1.1](../writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md)
+
+Act6 Blueprint v0.2 is active; v0.1 is superseded.
 
 ## Authority Rule
 
-Narrative Engineering documents are a **map / retrieval / QA layer**.
+Narrative Engineering is a **map / retrieval / QA layer**, not Canon.
 
 Authority order:
 
-`Canon → active Episode Blueprint → locked POV Map → M1 → applicable Deep Card → full-series Manifest Registry → Sub-Act candidate map`.
+`Canon v2 → active Episode Blueprint → locked POV Map → M1 → applicable Deep Card → full-series Manifest Registry → Sub-Act candidate map`.
 
 Narrative Engineering may never silently override an authority above it.
 
 ## Current Obsidian Graph State
 
-Completed design layer:
+Completed:
 - 1 Series MOC
 - 7 Act nodes
 - 23 Sub-Act nodes
 - Device Atlas
-- cross-Sub-Act device lifecycle map
+- cross-Sub-Act lifecycle map
 - Context Pack schema
 - knowledge-fence model
-- full EP001~230 Manifest Registry
-- full-series POV/reveal/knowledge regression
+- full EP001~230 Registry
+- full-series POV/reveal/knowledge regression.
 
-Individual authored episode notes:
-- `EP001~028` = 28 detailed example manifests.
-- `EP029~230` = **not individually split yet**.
+Individual authored example notes:
+- `EP001~028` = 28 detailed examples.
+- `EP029~230` = not individually split.
 
 This is intentional.
-Individual split is mechanical implementation work and is not required to claim design-data completion.
+The remaining split is mechanical implementation work, not incomplete Deep Design.
 
 ## Critical Device Rule
 
 **Sub-Act candidate ≠ episode exposure.**
 
-A device listed in a Sub-Act's `active_devices` is only eligible in that range.
-It enters an episode Context Pack only if the exact Blueprint / Deep Card / locked ledger supports that episode-level work.
+A Sub-Act device is only eligible in the range.
+It enters an episode Context Pack only when exact Blueprint / Deep Card / locked ledger supports that episode-level work.
 
-Known over-tag repairs remain active:
+Known repairs:
 - MG-01 Seed clue starts SA-1B / EP012~013, not SA-1A.
 - EP014 transit fault is not TK-01.
 - EP026 routine repair scarcity is not CK-01.
-- invalid early IDs are repaired/overridden by the v0.2 addendum.
+- invalid early IDs are repaired/overridden by v0.2 addendum.
 
 ## Retrieval Target
 
 For any episode:
 
-`EP → Sub-Act → Act → exact Blueprint → exact POV → M1 → relevant Deep Card → relevant Canon/Character/Location/Device → incoming carry → future constraint`
+`EP → Sub-Act → Act → exact Blueprint → exact POV → M1 → relevant Deep Card → relevant World-v2 / Character-v2 / Location / Device → incoming carry → future AUTHOR constraint`.
 
-The writing agent should not receive the entire repository by default.
+Do not load the entire repository or full global Canon into POV context by default.
 
 ## Implementation Contract — Later
 
-Claude Code / Obsidian tooling may mechanically create:
-`episodes/EP-029.md` ... `EP-230.md`
+Claude Code / Obsidian tooling may mechanically generate:
+`episodes/EP-029.md` ... `EP-230.md`.
 
 Generated notes must:
-- derive from the Registry,
-- retrieve the exact Episode Blueprint card,
-- retrieve exact locked POV and M1,
-- preserve AUTHOR / POV / PUBLIC / PROTECTED knowledge separation,
+- derive from Registry,
+- fetch exact Blueprint card,
+- fetch exact POV/M1,
+- preserve AUTHOR / POV / PUBLIC / PROTECTED separation,
 - calculate device exposure from episode-explicit authority only,
-- fail closed on missing/ambiguous authority,
+- fail closed on ambiguity,
 - create no new Canon.
 
-Optional Dataview is allowed later, but plain Markdown/YAML/wikilinks remain sufficient.
+Optional Dataview is allowed; plain Markdown/YAML/wikilinks remain sufficient.
 
 ## Package G Verdict
 
-`STRUCTURAL GRAPH = PASS`
+- `STRUCTURAL GRAPH = PASS`
+- `EP001~230 DESIGN REGISTRY = 230/230 PASS`
+- `POV / REVEAL / KNOWLEDGE-FENCE REGRESSION = PASS`
+- `BLOCKING P0 = 0`
 
-`EP001~230 DESIGN REGISTRY = 230/230 PASS`
+# `PACKAGE G NARRATIVE ENGINEERING = PASS / SUPPORT LAYER READY`
 
-`POV / REVEAL / KNOWLEDGE-FENCE REGRESSION = PASS`
-
-`BLOCKING P0 = 0`
-
-Overall:
-
-**`PACKAGE G NARRATIVE ENGINEERING DESIGN = PASS / NOT CANON`**
-
-Manuscript remains blocked until the full Encyclopedic Canon Freeze v2 gate passes.
+The former v2 completeness manuscript block is closed. Prose still starts only when manuscript execution is explicitly initiated.
