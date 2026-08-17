@@ -1,6 +1,6 @@
 # Narrative Map Architecture — 4 Designs v0.1
 
-Status: `DESIGN COMPARISON / PACKAGE F / NO PROSE`
+Status: `DESIGN COMPARISON / PACKAGE G / NO PROSE`
 Date: 2026-08-17
 Project: 《우주선에는 인간이 한 명뿐이다》
 
@@ -168,9 +168,9 @@ These IDs are implementation labels, not reader-facing jargon.
 
 ---
 
-# Completion Gate For Package F
+# Completion Gate For Package G
 
-Package F does not pass until:
+Package G does not pass until:
 - all 23 Sub-Acts have an active-device map,
 - all major MacGuffins have lifecycle chains,
 - all major factual reveals have independent clue families,
@@ -182,4 +182,4 @@ Package F does not pass until:
 - no map contradicts Canon/Blueprint/M1/POV authority.
 
 Current result:
-`NAM-H1 SELECTED FOR IMPLEMENTATION / NOT YET PACKAGE-F PASS`
+`NAM-H1 SELECTED FOR IMPLEMENTATION / NOT YET PACKAGE-G PASS`
