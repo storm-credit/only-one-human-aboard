@@ -1,6 +1,6 @@
 # Narrative Device Atlas v0.1
 
-Status: `PACKAGE F / CROSS-LINK REGISTRY / NO PROSE`
+Status: `PACKAGE G / CROSS-LINK REGISTRY / NO PROSE`
 Date: 2026-08-17
 
 This atlas consolidates major narrative-engineering devices already implied by Canon/Act/Foreshadow structures. It does **not** add a new ontology or a larger mystery.
