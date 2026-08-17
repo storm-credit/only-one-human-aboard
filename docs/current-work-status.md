@@ -30,8 +30,8 @@ Completeness blocker:
 Reason:
 The project is structurally writable, but the user requires the design blueprint/worldbuilding/setting bible itself to be reference-grade complete before prose. Current v1 is strong on story-critical world logic but not yet encyclopedic across all everyday-life/cultural/institutional domains.
 
-Primary audit:
-`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.1.md`
+Primary current audit:
+`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.2.md`
 
 ---
 
@@ -57,69 +57,33 @@ These remain valid unless a later v2 contradiction is intentionally approved.
 # Encyclopedic Completion Packages
 
 ## Package A — Society Bible
-- full governance architecture
-- criminal justice/security/policing
-- economy deep layer: money/tax/rent/property/debt/inheritance/business/labor/welfare
-- family/marriage/adoption/guardianship norms
-- education system
-- general medicine/mental health/disability
-- death/funeral/mourning/inheritance
+Governance / criminal justice / economy / labor / class / property / family / education / medicine / death.
 
 Status: `IN PROGRESS`
 Current first design block: Governance Architecture.
 
 ## Package B — Culture & Daily Life Bible
-- language drift / lingua franca / slang
-- religion/philosophy/ritual
-- calendar/work week/holidays
-- cuisine and actual meals
-- clothing/fashion
-- hygiene/domestic routines
-- media/social networks/journalism
-- entertainment/art/sport
-- sexuality/intimacy/social norms
-- ship-born identity / Earth memory / mission culture
+Language / religion / ritual / calendar / holidays / cuisine / clothing / hygiene / media / entertainment / sport / intimacy / ship-born identity.
 
 Status: `NOT COMPLETE`
 
 ## Package C — Infrastructure & Operations Bible
-- housing/neighborhood typology
-- transit and commute operations
-- utilities/domestic systems
-- emergency/fire/decompression/quarantine
-- everyday AI/automation/robotics ontology and authority limits
-- archive/knowledge architecture
-- routine ship operations
+Housing / transit / utilities / emergency response / automation/AI / archives / routine ship operations / map logic.
 
 Status: `NOT COMPLETE`
 
 ## Package D — Historical Bible
-- full ~450-year era timeline beyond Seed transition
-- major crises, repairs, reforms, demographic/cultural/economic eras
-- Earth-contact/isolation history
-- institutional evolution
+450-year era timeline / institutional evolution / major crises / Earth-contact history / cultural-economic eras.
 
 Status: `NOT COMPLETE`
 
 ## Package E — Destination & Arrival Reference
-- target-planet environment
-- resource-body/orbital geography
-- first settlement logistics
-- migration/property/inheritance/jurisdiction across locations
+Target planet / resource bodies / orbital geography / first-settlement staging / migration-property-jurisdiction details.
 
 Status: `NOT COMPLETE`
 
 ## Package F — Character Encyclopedia v2
-- appearance
-- home/commute
-- finance/class
-- education history
-- hobbies/non-theme life
-- health
-- personal timeline
-- broader social network
-- reusable supporting cast
-- 14-year career/residence checkpoints
+Core cast deep reference / recurring support network / appearance / homes / finance / education / hobbies / health / personal timeline / 14-year checkpoints.
 
 Status: `NOT COMPLETE`
 
@@ -127,26 +91,30 @@ Status: `NOT COMPLETE`
 Purpose:
 Make the 7 Act / 23 Sub-Act / EP001~230 design navigable as a linked graph so a human or agent can retrieve only relevant context for one episode.
 
-Completed foundation:
+Completed:
 - 4 narrative-map architectures compared
 - `NAM-H1 Hierarchical MOC + Cross-Linked Device Atlas + Episode Context Manifest` selected
 - major Narrative Device Atlas created
 - all 23 Sub-Acts mapped to Plant/Reinforce/Trigger/Payoff/Aftershock device work
+- **7 / 7 Act Obsidian nodes created**
+- **23 / 23 Sub-Act Obsidian nodes created**
+- MOC links Act→Sub-Act→Device authorities
 - Obsidian link/data-contract design created
 - `CP-H1` minimal Episode Context Pack retrieval model selected
+- AUTHOR / POV / PUBLIC / PROTECTED knowledge separation required
 - interim Narrative Engineering Red Team run
 
 Current Package G state:
-`IN PROGRESS / STRUCTURAL MAP FOUNDATION PASS`
+`STRUCTURAL GRAPH FOUNDATION = PASS`
 
-Remaining:
-- exact 7 Act nodes
-- exact 23 Sub-Act Obsidian nodes
-- EP001~230 Context Manifest dataset
-- exact device lifecycle binding to active Blueprints
+Remaining before full Package G PASS:
+- EP001~230 exact Context Manifest dataset from active Blueprint + POV + M1
+- exact device lifecycle binding to episode cards
 - orphan-device QA
-- premature-payoff QA
-- clue-density/noise QA
+- premature-payoff / early-reveal QA
+- clue-density vs ordinary-noise QA
+- device overuse / repeated scene-form QA
+- POV knowledge-leak QA
 - M1/POV/Blueprint regression
 - final Package G hostile QA
 
@@ -156,16 +124,12 @@ Key files:
 - `docs/narrative-engineering/NARRATIVE-DEVICE-ATLAS-v0.1.md`
 - `docs/narrative-engineering/ACT-SUBACT-NARRATIVE-DEVICE-MAP-v0.1.md`
 - `docs/narrative-engineering/OBSIDIAN-LINK-CONTEXT-PACK-SPEC-v0.1.md`
+- `docs/narrative-engineering/acts/ACT-01~07.md`
+- `docs/narrative-engineering/subacts/SA-1A~7C.md`
 - `docs/qa/NARRATIVE-ENGINEERING-MAP-RED-TEAM-v0.1.md`
 
 ## Package H — Reference Atlas
-- glossary
-- institution authority chart
-- geography/map spec
-- 450y + 14y timelines
-- technology dependency chart
-- life-cycle chart
-- Canon vs Elastic registry
+Glossary / institution authority chart / geography map spec / 450y + 14y timelines / technology dependency chart / life-cycle chart / Canon-vs-Elastic registry.
 
 Status: `NOT COMPLETE`
 
@@ -210,11 +174,11 @@ Status: `NOT COMPLETE`
 
 Do **not** draft EP001.
 
-Immediate continuation from current conversation:
-1. finish Package G structural graph layer: 7 Act nodes + 23 Sub-Act nodes
-2. bind narrative-device lifecycle to exact episode Blueprint data
-3. generate EP001~230 Context Manifests
-4. run Package G orphan/premature-payoff/noise/knowledge-boundary QA
+Immediate continuation from current Narrative Engineering task:
+1. derive EP001~230 exact Context Manifests from active Blueprints + POV maps + M1
+2. bind narrative-device lifecycle to exact episode cards
+3. run Package G orphan/premature-payoff/noise/knowledge-boundary QA
+4. final Package G hostile Red Team
 5. return to Package A Society Bible deepening and continue A→F
 6. Package H Reference Atlas
 7. Package I adversarial completeness harness
