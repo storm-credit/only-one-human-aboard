@@ -1,6 +1,6 @@
 # Obsidian Link + Episode Context Pack Spec v0.1
 
-Status: `PACKAGE F / IMPLEMENTATION SPEC / NO PROSE`
+Status: `PACKAGE G / IMPLEMENTATION SPEC / NO PROSE`
 Date: 2026-08-17
 
 ## Goal
@@ -374,4 +374,4 @@ No coding is required now; this document defines the data contract first.
 `CP-H1 = SELECTED CONTEXT RETRIEVAL MODEL`
 
 Obsidian-ready link architecture is now specified at design level.
-Full EP001~230 manifests are **not yet generated** and remain a Package F completion task.
+Full EP001~230 manifests are **not yet generated** and remain a Package G completion task.
