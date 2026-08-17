@@ -52,7 +52,7 @@ Selected provisional models:
 Core result:
 A random citizen can structurally pass through birth → school → work → housing → family → illness/disability → retirement → death/estate without a missing Society-scale rule.
 
-Still blocked from Canon v2 by B/C/D/E/F dependencies and quantitative sanity.
+Still blocked from Canon v2 by D/E/F dependencies and quantitative sanity.
 
 ---
 
@@ -69,107 +69,76 @@ Integrated QA:
 
 Blocking P0: **0**
 
-## Selected provisional models
+Selected provisional models:
+- LNG-H1 language
+- REL-H1 religion/ritual
+- CAL-H1 calendar/time
+- FOOD-H1 cuisine/hospitality
+- CLO-H1 clothing/fashion
+- DOM-H1 domestic life
+- MEDIA-H1 media/social networks
+- ENT-H1 entertainment/art/sport
+- INT-H1 intimacy/social norms
+- ID-HOME-H1 ship-born identity/home
 
-- `LNG-H1 — Evolved Ship Common + Heritage Language Ecology + Translation Assist`
-- `REL-H1 — Plural Inherited Traditions + Secular Life + Ship-Born Civic Rituals + Small New Movements`
-- `CAL-H1 — Synchronized Earth-Descended Civil Time + Voyage-Epoch Archival Time + Ship-Born Observance Calendar`
-- `FOOD-H1 — Closed-Loop Staples + Heritage Recipe Lineages + Ship-Born Adaptation + Real Hospitality Market`
-- `CLO-H1 — Recognizable Civilian Fashion + Closed-Loop Textiles + Specialized Workwear + Selective Wearables`
-- `DOM-H1 — Urban Comfort + High-Efficiency Closed Loops + Repairable Domestic Systems + Selective Automation`
-- `MEDIA-H1 — Public-Service Information + Plural Journalism/Creators + Interoperable Social Layer + Bounded Recommenders`
-- `ENT-H1 — Layered Heritage + Ship-Born Creative Canon + Live/Physical Culture + Bounded Immersion`
-- `INT-H1 — Plural Adult Intimacy + Strong Consent/Privacy + Reproduction Decoupled From Partnership`
-- `ID-HOME-H1 — Meridian-Home Majority + Layered Heritage + Contested Mission Memory + Plural Arrival Futures`
-
-## Package B core results
-
-Language:
-- one evolved shipwide Common; launch international English strongest ancestor
-- heritage languages survive unevenly
-- Korean prose = natural reader translation convention
-- translation cannot solve institutional semantic drift
-
-Time:
-- synchronized 24h day / 7-day week / Earth-descended ~365-day civil year
-- Voyage Year secondary archive/history frame
-- artificial circadian lighting; no Habitat time zones
-
-Belief:
-- inherited religions + secular life + small new movements
-- shared civic rituals without shared metaphysics
-- no Seed/Natural religion coding
-
-Food:
-- closed-loop ingredients are ordinary food, not nutrient paste
-- heritage recipes + ship-born cuisine + real restaurant/hospitality market
-- Ella's food/co-op role fits
-
-Clothing:
-- civilians do not live in jumpsuits
-- recognizable fashion + circular textiles + specialist workwear
-- no Habitat costume caste
-
-Domestic life:
-- normal showers/toilets/laundry/cooking/cleaning under high-efficiency loops
-- sustainability is mostly built into infrastructure, not daily misery
-- class difference appears through space/view/acoustics/privacy/customization, not unsafe air/water
-
-Media:
-- public-service + private/co-op journalism + creators + social feeds + private messaging
-- no single feed/perfect truth AI
-- Count media path remains CP-H1/ID-H1R compatible
-
-Entertainment:
-- Earth archive survives but 450 years of Meridian culture exists
-- live art/music/games/immersive media/sports coexist
-- provisional zero-g sport: padded 3D rebound/ball court, push-off movement, no standard personal thrusters
-
-Intimacy:
-- consent/privacy strong
-- adult intimacy not population-control licensed
-- contraception/assisted reproduction decouple sex and actual birth throughput
-
-Identity:
-- Meridian is actual home for most citizens
-- Earth = ancestral/archive memory, not firsthand homeland
-- founders important but not aristocratic lineage
-- Habitat/district identity exists without caste
-- arrival futures remain plural.
-
-## Package B open dependencies
-
-- Package C exact physical implementation: homes/utilities/AI/networks/transit/zero-g facility/pets
-- Package D exact 450-year language/religion/holiday/art/identity history
-- Package E post-arrival calendar/environment/culture
-- Package F character-specific fluencies/beliefs/tastes/clothes/hobbies/media habits/relationships
-- zero-g sport quantitative sanity
-- exact civil-majority/age thresholds
-- exact named holidays and recurring cuisine/slang/art examples
-
-Do NOT Canon-freeze Package B yet.
+Package B now has a complete structural daily-life layer, but exact named holidays/slang/cuisine/art examples and character-specific habits remain D/F dependencies.
 
 ---
 
 # Package C — Infrastructure & Operations Bible
 
-Status: `NEXT ACTIVE PACKAGE / NOT COMPLETE`
+Status:
+**`STRUCTURAL DEEP DESIGN = PASS / CROSS-PACKAGE + QUANT CONSOLIDATION PENDING / NOT CANON`**
 
-Required blocks:
-1. housing/neighborhood architecture + quantitative stock
-2. transit / Spine / commute / freight
-3. utilities / water / air / power / thermal / waste at citizen-facing level
-4. emergency / fire / decompression / contamination / evacuation / drills
-5. everyday AI / automation / robotics ontology and authority limits
-6. communication/network infrastructure
-7. archives / knowledge / data retention / public-vs-protected access
-8. routine ship operations / maintenance / outage planning
-9. geography/map logic / emergency isolation zones
-10. pet/animal/ecology operational feasibility
-11. integrated Infrastructure & Operations Bible + hostile QA
+Integrated Bible:
+`docs/design-v2/INFRASTRUCTURE-OPERATIONS-BIBLE-v0.1.md`
 
-Immediate next block:
-**Housing / Neighborhood / Urban Architecture — 4 designs → hybrid → Red Team.**
+Integrated QA:
+`docs/qa/INFRASTRUCTURE-OPERATIONS-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
+
+Blocking P0: **0**
+
+Selected provisional models:
+- `URB-H1` — compartmented mixed-use city + layered retrofit + local public realms
+- `TRANS-H1` — walkable polycentric Habitats + local trunks + Spine express + separated freight
+- `UTIL-H1` — hierarchical commons loops + district isolation + domestic abstraction
+- `EMG-H1` — layered incident command + automatic physical safeties + human escalation
+- `AI-H1` — federated domain intelligence + bounded personal agents + heavy tool automation + human accountability
+- `NET-H1` — redundant civic backbone + segmented critical domains + permissioned gateways + local fallback
+- `ARC-H1` — federated current registries + deep versioned archives + curated knowledge commons + protected provenance layers
+- `OPS-H1` — commons asset ownership + mixed skilled workforce + predictive maintenance + formal work control
+- `MAP-H1` — dual civic/engineering overlay + landmark graph + travel-time matrix
+- `BIO-PET-H1` — selective companion species + managed breeding + veterinary commons + genetic conservation + strong biosecurity
+
+Core results:
+- ~120k–130k household city stock is structurally compatible with current Habitat scale.
+- Civic Floor housing remains safe while space/view/acoustics/location/commute preserve market difference.
+- ordinary cross-Habitat 60–120m remains plausible as door-to-door multi-leg travel.
+- air/water/power/thermal/waste operate as hierarchical commons loops with local isolation.
+- normal showering/cooking/laundry coexist with closed-loop efficiency.
+- most faults remain local; serious cascades remain possible.
+- emergency authority scales with hazard and expires/narrows.
+- no central ship AI, no universal citizen score, no autonomous civic adjudication/lethal policing.
+- Count can be lawfully aggregated without exposing Amara's identity.
+- archives preserve old schemas/provenance without one master truth database.
+- 450-year survivability is supported by permanent maintenance/fabrication/calibration/training institutions.
+- civic and engineering map layers coexist.
+- selected companion animals are viable; broad Earth biodiversity is preserved mainly genetically.
+
+Package C open P1 / quantitative dependencies:
+- exact Habitat geometry / gravity-Coriolis bands
+- district/neighborhood/pressure-sector scale
+- transfer-node count / transit capacity
+- water/gas/thermal reserve margins
+- refuge/emergency capacity
+- maintenance workforce / strategic spare ratios
+- exact retention periods/privacy rules
+- D historical infrastructure evolution
+- E off-ship utility/network/rescue/biosecurity architecture
+- F exact homes/commutes/devices/pets
+- H final atlas coordinates/names.
+
+Do NOT Canon-freeze Package C yet.
 
 ---
 
@@ -182,7 +151,17 @@ Selected:
 - MC-H1 material ecology
 - CE-H1 civilization completion engine
 
-CJ-H1 public-safety integration: structural pass.
+Closed dependencies so far:
+- public-safety/weapon structural boundary
+- housing/property structural boundary
+- utility/maintenance/AI operational frame
+
+Still open:
+- D exact heritage eras/provenance
+- E arrival transfer/export rules
+- F character possessions
+- G high-salience object lifecycle
+- final material quant/QA.
 
 Hard rules:
 - Old ≠ powerful
@@ -193,7 +172,27 @@ Hard rules:
 ---
 
 # Package D — Historical Bible
-Status: `NOT COMPLETE`
+
+Status: **`NEXT ACTIVE PACKAGE / NOT COMPLETE`**
+
+Required:
+- ~450-year era architecture
+- launch/founding phase
+- early survival and institutional stabilization
+- Seed emergence/adoption/rights normalization
+- civic/legal evolution
+- AI/network/privacy governance evolution
+- economic/labor/property evolution
+- Habitat growth / Old Quarter history
+- cultural/language/religion/media/art eras
+- major crises/failures/reforms
+- Earth-contact / delayed communication / eventual isolation history
+- arrival-preparation era
+- exact provenance anchors for Material Culture
+- regression against current Count/Reveal and all A/B/C models.
+
+Immediate next block:
+**450-Year Historical Era Architecture — 4 designs → Hybrid → Red Team.**
 
 ---
 
@@ -261,7 +260,7 @@ Required final tests include:
 - insertion EP216 region
 - Costly Polycentric Arrival
 
-No core ontology/reveal/ending changes were made by Packages A/B.
+Packages A/B/C introduced no core ontology/reveal/ending change.
 
 ---
 
@@ -269,16 +268,16 @@ No core ontology/reveal/ending changes were made by Packages A/B.
 
 Do **not** draft EP001.
 
-Proceed with Package C:
-1. Housing / Neighborhood / Urban Architecture
-2. Transit / Commute / Freight
-3. Utilities / Domestic Interfaces
-4. Emergency Systems
-5. AI / Automation / Robotics
-6. Networks / Communications
-7. Archives / Knowledge
-8. Routine Operations
-9. Geography / Map Integration
-10. Integrated Package C Red Team
+Proceed with Package D:
+1. 450-year Historical Era Architecture
+2. Seed transition / rights / medicine chronology
+3. government/economy/labor/property evolution
+4. Habitat growth / Old Quarter / infrastructure crises
+5. language/religion/culture/media/art evolution
+6. AI/network/archive/privacy evolution
+7. Earth-contact/isolation history
+8. pre-arrival transition history
+9. Material Culture provenance era mapping
+10. integrated Historical Bible + hostile QA
 
-Then continue D→E→F→H→I and v2 Canon consolidation.
+Then continue E→F, close C-M/G, build H→I, consolidate Canon v2, run final regression, then and only then unlock manuscript.
