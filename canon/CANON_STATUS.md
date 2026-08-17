@@ -8,132 +8,142 @@ Project: 《우주선에는 인간이 한 명뿐이다》
 
 # 1. CURRENT GATE
 
-Historical/core achievements:
 - `CORE DESIGN FREEZE v1 = PASSED — 2026-08-17`
 - `CORE CANON FREEZE v1 = PASSED — 2026-08-17`
 - `STRUCTURAL WRITING READY = PASSED — 2026-08-17`
 - `PROSE EXECUTION PROTOCOL v1.1 = LOCKED`
 - `EP001~230 POV ARCHITECTURE = LOCKED / PASS`
-
-Stronger encyclopedic gate:
 - `ENCYCLOPEDIC DEEP DESIGN v2 = COMPLETE / PASSED — 2026-08-18`
-- `PACKAGE A~I = PASS / BLOCKING P0=0`
-- `Q1~Q9 REQUIRED CLOSURES = PASS`
 - **`ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`**
+- **`CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`**
 - **`MANUSCRIPT = READY / NOT STARTED`**
 
 Accepted manuscript:
 **0 / 230**.
 
-Primary Freeze authority:
-- `canon/v2/00-CANON-v2-INDEX.md`
-- `canon/v2/CANON-v2-FREEZE-MANIFEST.md`
+---
 
-Final QA:
-- `docs/qa/FINAL-COMPLETENESS-HARNESS-RESULT-v0.1.md`
-- `docs/qa/CANON-v2-v1-REGRESSION-v0.1.md`
-- `docs/qa/CANON-v2-EP001-230-REGRESSION-v0.1.md`
-- `docs/qa/CANON-v2-ONLY-20-RANDOM-SCENES-v0.1.md`
-- `docs/qa/CANON-v2-FINAL-FREEZE-RED-TEAM-v0.1.md`
+# 2. CURRENT OFFICIAL CANON AUTHORITY
 
-Final result:
+For new work use, in order:
+
+1. `CLAUDE.md` — repository workflow/authority protocol
+2. **`canon/WORLD_BIBLE-v2.md`** — official encyclopedic world/system/society/culture/history/destination Canon
+3. **`canon/CHARACTER_BIBLE-v2.md`** — official character/household/support-cast Canon
+4. **`canon/ACT_BIBLE-v1.md`** — locked 7-Act macro story Canon
+5. **`canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md`** — narrow post-freeze governance/salvage/research/MAID additions
+6. active Episode Blueprint by Act — **Act6 v0.2 only; v0.1 superseded**
+7. locked Act POV Maps
+8. `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
+9. applicable locked Deep Cards
+10. EP001~230 Context Manifest files / Registry
+11. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
+12. Reference Atlas for navigation only.
+
+## Important retraction
+
+The experimental modular folder:
+**`canon/v2/` = NON-CANON / RETRACTED / DESIGN HISTORY ONLY.**
+
+It must never override official World/Character/Act Canon.
+Its routing/Freeze files explicitly carry retraction notices.
+
+Reason:
+comparison found that the experiment reintroduced some older quantitative candidates and superseded support-character names.
+
+---
+
+# 3. FREEZE / AMENDMENT QA
+
+Official original Freeze QA:
+`docs/qa/ENCYCLOPEDIC-CANON-v2-FINAL-RED-TEAM.md`
+
+Result:
 - blocking P0 = **0**
-- Freeze-relevant unresolved P1 = **0**
-- Canon-v2-only random scenes = **20/20 PASS**
-- Blueprint changes required = **0**
-- POV changes required = **0**
-- Reveal changes required = **0**
-- ending changes required = **0**.
+- Canon Freeze v2 = **PASS**.
+
+Additional completeness work:
+- Package I Final Completeness Harness = PASS
+- arbitrary-scene battery = PASS
+- EP001~230 individual Context Manifests = materialized on main.
+
+Amendment A Change Control:
+`docs/change-control/CANON-v2-AMENDMENT-A-CHANGE-RECORD.md`
+
+Amendment A QA:
+`docs/qa/CANON-v2-AMENDMENT-A-RED-TEAM.md`
+
+Amendment result:
+- blocking P0 = **0**
+- unresolved P1 = **0**
+- Blueprint changes = **0**
+- POV changes = **0**
+- Reveal changes = **0**
+- Character C0 changes = **0**
+- existing ship/destination quantitative changes = **0**.
 
 ---
 
-# 2. CURRENT CANON AUTHORITY
+# 4. AMENDMENT A — NEW LOCKS
 
-## Top routing / snapshot
-1. **`canon/v2/00-CANON-v2-INDEX.md`**
-2. **`canon/v2/CANON-v2-FREEZE-MANIFEST.md`** — exact frozen blob SHAs
+Adds only:
 
-## Frozen domain owners
-3. `canon/v2/WORLD-CORE-v2.md`
-4. `canon/v2/SOCIETY-v2.md`
-5. `canon/v2/CULTURE-DAILY-LIFE-v2.md`
-6. `canon/v2/INFRASTRUCTURE-OPERATIONS-v2.md`
-7. `canon/v2/HISTORY-v2.md`
-8. `canon/v2/DESTINATION-ARRIVAL-v2.md`
-9. `canon/v2/CHARACTERS-v2.md`
-10. `canon/v2/STORY-ARCHITECTURE-v2.md`
-11. `canon/v2/QUANTITATIVE-BANDS-v2.md`
+## Governance execution
+- equal franchise at 18
+- four-year shipwide general election
+- mixed-member two-vote 선내의회
+- Assembly ~120–180 seats bounded, preferred ~150
+- local residential district + compensatory proportional list seats
+- no Habitat/origin/profession/property weighted vote
+- Assembly-selected collective civic executive ~5–7 members
+- constructive no-confidence
+- directly elected local councils without Habitat sovereignty
+- multi-level independent judiciary
+- 시민항소원 = specialized high civic/admin-rights appeal, not the entire judiciary
+- extraordinary review required against indefinite emergency election suspension.
 
-Support:
-- `canon/v2/CANON-v2-ELASTIC-REGISTRY.md`
-- `canon/v2/CANON-v2-PROMOTION-LEDGER.md`
+## Found property / salvage
+- finding ≠ ownership
+- public/common/strategic/controlled property does not become private merely because old/disconnected/decommissioned
+- first resource discovery ≠ celestial sovereignty.
 
-## Delegated locked execution authorities
-Where Story Architecture delegates exact episode execution:
-- active Episode Blueprint by Act
-- **Act6 active Blueprint = v0.2; v0.1 superseded**
-- locked Act1~7 POV Maps
-- `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
-- applicable locked Deep Cards
-- EP001~230 Context Manifest files/Registry
-- `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`.
+## Human-subject research
+- consent + independent ethics review + minimum necessary data access
+- no Civic Floor coercion
+- **Amara has no research duty because she is unique**.
 
-## Navigation only
-`docs/reference-atlas/*`.
-Atlas never outranks frozen Canon.
-
-## Preserved v1 regression baseline
-- `canon/WORLD_BIBLE-v1.md`
-- `canon/CHARACTER_BIBLE-v1.md`
-- `canon/ACT_BIBLE-v1.md`
-
-They remain audit/regression baselines. For new work, frozen v2 domain owners take precedence where they cover the same domain.
+## Medical aid-in-dying
+- narrow contemporaneously competent adult pathway under independent review
+- disability/poverty/housing scarcity alone never qualifies
+- no proxy/guardian/AI/old directive may actively authorize death for a currently incapable person.
 
 ---
 
-# 3. CORE PREMISE LOCKS
+# 5. OFFICIAL CHARACTER NAME LOCK
 
-- Ship: **Meridian / 메리디언**
-- current citizens: roughly 300k
-- living human-form biological bodies/brains
-- old distinction: cognitive developmental origin
-- majority: Seeded/Synthetic-Origin Cognition
-- active Natural/Bio-Origin count at Reveal: **1**
-- identity: **Amara Okoro / 아마라 오코로**
-- modern civic personhood applies regardless of developmental origin
-- title's `one human` is a legacy-category shock, not narrator's final ontology.
+Use the latest `CHARACTER_BIBLE-v2.md` names.
+Relevant later overrides include:
+- **Eli Rhee**
+- **Dalia Diniz**
+- **Nadia Idris**
+- **Abeni Okoro**
+- **Hana Wu**.
 
-Hard boundaries include:
-- Seed = prenatal developmental prior; no memory/personality/command/admin programming
-- no adult direct origin scanner
-- Reconstruction = Recovery Map + surviving Neural Anchor
-- no anchorless adult restoration / routine age rollback
-- no exact-one Witness/preservation protocol
-- no Habitat caste
-- no central AI sovereignty
-- no weighted civic vote by origin/profession/property
-- no Amara chosen authority / land / admin / genetic / settler / reproductive / research key
-- no mass citizenship deletion
-- no civil-grid propulsion theft
-- no instant mature colony / free perfect third way
-- no alien/combat takeover
-- no larger late ontology twist
-- Maren recused from formal family adjudication.
+Do not resurrect superseded Toma/Mara/Sana/Imani/Leonie candidates from experimental docs.
 
 ---
 
-# 4. SERIES ARCHITECTURE LOCK
+# 6. SERIES / REVEAL LOCK
 
-Acts:
-1. Act1 EP001~028
-2. Act2 EP029~058
-3. Act3 EP059~088
-4. Act4 EP089~122
-5. Act5 EP123~156
-6. Act6 EP157~194
-7. Act7 EP195~230.
+- Act1 EP001~028
+- Act2 EP029~058
+- Act3 EP059~088
+- Act4 EP089~122
+- Act5 EP123~156
+- Act6 EP157~194
+- Act7 EP195~230
 
-Reveal / high-risk locks:
+Critical milestones:
 - EP056 internal Count
 - EP058 public Count
 - EP066 Meaning complete
@@ -141,89 +151,31 @@ Reveal / high-risk locks:
 - EP075 controlled public confirmation
 - EP112 PR-H1 exact discovery begins
 - EP142~151 Human Settler operational cluster
-- EP145 Final Approach certification band
 - EP216 insertion
-- EP230 no author thesis speech.
+- EP230 no author thesis.
 
 No later bigger ontology twist.
 
 ---
 
-# 5. ENCYCLOPEDIC COMPLETENESS RESULT
-
-Passed:
-- Package A — Society
-- Package B — Culture & Daily Life
-- Package C — Infrastructure & Operations
-- Material Culture / Equipment / Relics layer
-- Package D — History
-- Package E — Destination & Arrival
-- Package F — Character Encyclopedia
-- Package G — Narrative Engineering / Obsidian Context
-- Package H — Reference Atlas
-- Package I — Final Completeness Harness.
-
-Package I tested:
-- random citizen day
-- full life cycle
-- crime/public safety
-- emergencies
-- class/economy/disability
-- family lifecycle
-- school/work/retirement
-- media/privacy
-- religion/culture/leisure
-- AI/automation
-- arrival/migration/property
-- object/weapon/heirloom/salvage
-- 20 arbitrary scenes
-- full Canon/story/POV/Reveal regression.
-
-Additional Freeze closures:
-- Q8 elections/executive/judiciary
-- Q9 salvage/research ethics/medical aid-in-dying.
-
----
-
-# 6. PACKAGE G / OBSIDIAN STATUS
+# 7. PACKAGE G / OBSIDIAN STATUS
 
 - 7 Act nodes
 - 23 Sub-Act nodes
 - full EP001~230 Registry
-- **individual Context Manifest files EP001~230 are physically materialized on main**
+- **individual Context Manifest files EP001~230 physically exist on main**
 - AUTHOR / POV / PUBLIC / PROTECTED separation
-- device inheritance guardrail
-- Obsidian minimal Context Pack architecture.
+- candidate-device inheritance guardrail
+- minimal Context Pack architecture.
 
 Hard:
 `Sub-Act candidate device ≠ episode exposure`.
 
 ---
 
-# 7. CONTROLLED ELASTICITY
-
-Official owner:
-`canon/v2/CANON-v2-ELASTIC-REGISTRY.md`.
-
-Examples intentionally not overfrozen:
-- exact addresses / incidental venue names
-- exact salary/prices/tax percentages
-- exact Assembly seat number inside 120–180 band
-- electoral threshold/local staggering/judge count
-- exact ship sector/station counts inside Quant bands
-- exact destination trace atmosphere/resource-body names
-- exact fleet/cargo/census inside arrival ceilings
-- exact product/weapon model
-- exact zero-g sport detail until recurring action requires it
-- final residence where Blueprint leaves it open.
-
-A local choice may not create a new institution, privilege, technology class, ontology or story contradiction.
-
----
-
 # 8. MANUSCRIPT GATE
 
-The design/world/setting-bible block is lifted.
+The world/design/setting-bible block is lifted.
 
 Current manuscript state:
 # **`READY / NOT STARTED`**
@@ -232,26 +184,20 @@ Current manuscript state:
 - Active episode: **NONE**
 - First eligible episode: **EP001**.
 
-Prose does **not** begin automatically from Freeze.
-EP001 begins only when the user explicitly requests manuscript execution.
+Prose starts only when the user explicitly requests manuscript execution.
 
 ---
 
-# 9. CHANGE CONTROL AFTER FREEZE v2
+# 9. POST-FREEZE CHANGE CONTROL
 
-Frozen version identity is hash-pinned in:
-`canon/v2/CANON-v2-FREEZE-MANIFEST.md`.
-
-Any contradiction-level change requires:
-- explicit Canon reopening
-- changed file/section + old/new value
+Any new C0/C1 contradiction-level change must record:
+- old/new fact
 - reason
 - affected Canon/characters/episodes
-- quantitative implications where relevant
-- v1 baseline check
+- quantitative impact where relevant
 - regression result.
 
-No silent Canon edits.
+No silent Canon changes.
 
-Current next phase:
-**manuscript execution is eligible, but not started.**
+Current official state:
+# **`ENCYCLOPEDIC CANON v2 + AMENDMENT A = FROZEN / READY FOR MANUSCRIPT`**
