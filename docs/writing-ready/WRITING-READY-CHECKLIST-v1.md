@@ -12,19 +12,17 @@ Final evidence:
 
 # Gate A — Full Episode Matrix
 
-- [x] Act 1 EP001~028 — `EPISODE-BLUEPRINT-ACT1-v0.1.md`
-- [x] Act 2 EP029~058 — `EPISODE-BLUEPRINT-ACT2-v0.1.md`
-- [x] Act 3 EP059~088 — `EPISODE-BLUEPRINT-ACT3-v0.1.md`
-- [x] Act 4 EP089~122 — `EPISODE-BLUEPRINT-ACT4-v0.1.md`
-- [x] Act 5 EP123~156 — `EPISODE-BLUEPRINT-ACT5-v0.1.md`
-- [x] Act 6 EP157~194 — active `EPISODE-BLUEPRINT-ACT6-v0.2.md`
-- [x] Act 7 EP195~230 — `EPISODE-BLUEPRINT-ACT7-v0.1.md`
+- [x] Act 1 EP001~028
+- [x] Act 2 EP029~058
+- [x] Act 3 EP059~088
+- [x] Act 4 EP089~122
+- [x] Act 5 EP123~156
+- [x] Act 6 EP157~194 — active v0.2
+- [x] Act 7 EP195~230
+- [x] Pass-2 normalization
 
 Coverage:
 **230 / 230**
-
-Pass-2 normalization:
-- [x] `EPISODE-BLUEPRINT-PASS2-NORMALIZATION-v0.1.md`
 
 ---
 
@@ -34,94 +32,97 @@ Pass-2 normalization:
 - [x] all 23 Sub-Act turns
 - [x] Count EP053~058
 - [x] Meaning EP059~066
-- [x] Amara confirmation/re-identification EP067~076
-- [x] Ella/Maren PR-H1 EP112~122
+- [x] Amara EP067~076
+- [x] PR-H1 EP112~122
 - [x] Final Approach EP140~148
 - [x] Human Settler EP142~151
-- [x] major time-skip bridge episodes
-- [x] system insertion / ending EP207~230
-
-Gate B:
-`COMPLETE`
+- [x] major time bridges
+- [x] insertion/ending EP207~230
 
 ---
 
-# Gate C — Full-Series Harness
+# Gate C — Harness
 
 - [x] M1 Time/Age
-- [x] M2 Cast Presence/Non-Maren Causality
+- [x] M2 Cast/Non-Maren Causality
 - [x] M3 Location Balance
 - [x] M4 Information Ladder
-- [x] M5 Foreshadow/Payoff Ledger
+- [x] M5 Foreshadow/Payoff
 - [x] M6 Reward/Hook
 - [x] M7 Canon Dependency
 - [x] M8 Anti-Drift
-
-Gate C:
-`ALL PASS`
 
 ---
 
 # Gate D — Hostile QA
 
-- [x] first-20 market/readability hostile test
-- [x] first-20 SF terminology load test
-- [x] anti-case-of-the-week regression
-- [x] Reader Promise EP20/100/200 regression
-- [x] mystery fairness regression
-- [x] character autonomy regression
-- [x] destination/late-law scope regression
-- [x] ending-cost regression
-- [x] anti-AI symmetry/imperfection regression
+- [x] first-20 market/readability
+- [x] first-20 SF terminology load
+- [x] anti-case-of-the-week
+- [x] Reader Promise EP20/100/200
+- [x] mystery fairness
+- [x] character autonomy
+- [x] destination/late-law scope
+- [x] ending-cost
+- [x] anti-AI symmetry/imperfection
 
 Evidence:
 `docs/qa/WRITING-READY-HOSTILE-QA-v0.1.md`
 
-Blocking P0:
-**0**
-
-P1 execution guardrails remain active.
-
 ---
 
-# Gate E — Final Writing Ready Red Team
+# Gate E — Final Red Team
 
-- [x] all episode cards exist
-- [x] all high-risk cards exist
-- [x] all matrices complete
-- [x] unresolved P0 = 0
-- [x] no planned episode requires silent Canon change
-- [x] opening hostile test passes
-- [x] full-series reward/filler regression passes
-- [x] full foreshadow/payoff closure passes
-- [x] Reader Promise stays stable into late series
-- [x] ending retains visible costs
+- [x] all episode cards
+- [x] all high-risk cards
+- [x] all matrices
+- [x] P0 = 0
+- [x] silent Canon-change blocker = 0
+- [x] opening test pass
+- [x] reward/filler test pass
+- [x] foreshadow/payoff closure pass
+- [x] Reader Promise pass
+- [x] ending-cost pass
 
-Evidence:
-`docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
-
-Final verdict:
+Verdict:
 # `WRITING READY = PASSED`
 
 ---
 
-# Active Precision Repairs From Pass 2
+# Post-Writing-Ready Execution Prerequisites
 
-1. Act6 timeline v0.1 had over-expanded labels; active **v0.2 = T-8 → T-3**.
-2. M1 is authoritative for story-time/age QA.
-3. Noah age wording around EP155/159 follows M1 rather than early card shorthand.
-4. These are precision corrections; no structural episode rewrite required.
+## Prose Protocol
+- [x] 4 design comparison — `PROSE-EXECUTION-PROTOCOL-4-DESIGNS-v0.1.md`
+- [x] Red Team — `docs/qa/PROSE-EXECUTION-PROTOCOL-RED-TEAM-v1.md`
+- [x] locked execution spec — `PROSE-EXECUTION-PROTOCOL-v1.md`
+
+Selected:
+`PEP-H1R — Causal-Owner Single-POV Close Third + Maren Series Anchor + Act-Ahead POV Mapping`
+
+## Act 1 POV
+- [x] EP001~028 Execution POV Map
+- [x] mini QA
+- [x] early POV-load repair
+
+Files:
+- `ACT1-EXECUTION-POV-MAP-v1.md`
+- `docs/qa/ACT1-POV-MAP-MINI-QA-v1.md`
+
+Verdict:
+`ACT 1 POV MAP = PASS`
 
 ---
 
 # Manuscript State
 
-`MANUSCRIPT = ALLOWED UNDER PROSE EXECUTION PROTOCOL`
+# `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
 
-Before EP001 prose:
-- [ ] Prose Execution Protocol 3~4안 비교
-- [ ] Hybrid selection
-- [ ] Prose Execution Red Team
-- [ ] protocol lock / status sync
+No remaining structural prerequisite blocks EP001.
 
-Until that execution protocol is locked, do not auto-generate EP001 simply because Writing Ready passed.
+When drafting begins:
+- use EP001 Blueprint
+- use Maren POV
+- follow `PROSE-EXECUTION-PROTOCOL-v1.md`
+- run after-draft Episode QA before treating episode as accepted
+
+Do not auto-generate prose merely because this checklist is complete.
