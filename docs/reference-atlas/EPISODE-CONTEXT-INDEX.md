@@ -4,42 +4,55 @@ Status: `PACKAGE H REFERENCE / AUTHOR-AGENT NAVIGATION ONLY / NOT CANON`
 Date: 2026-08-18
 
 Purpose:
-Provide the shortest safe route from episode number to the correct story/design authorities.
+Provide the shortest safe route from episode number to the correct authorities.
+This file is not sufficient to draft an episode by itself.
 
-This file does **not** contain enough information to draft an episode by itself.
-It exists to prevent loading the wrong Blueprint/POV/time/reveal state.
-
-Primary owner:
+Primary registry:
 `docs/narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md`
 
 ## Safe Retrieval Order
 
-For any EP:
-
 ```text
 EP number
   ↓
-this index: Act / Sub-Act / active Blueprint family
+Act / Sub-Act / active Blueprint family
   ↓
-Package G full Registry: exact POV + knowledge fence + applicable Deep Card
+Package G Registry: exact POV + knowledge fence + applicable Deep Card
   ↓
 exact Episode Blueprint card
   ↓
-exact locked POV Map row
+exact locked POV Map
   ↓
 M1 Time/Age
   ↓
-only relevant Canon / Character / Location / Device nodes
+relevant slice of WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2
   ↓
-incoming carry + future author constraint
+only relevant location/institution/material/device context
+  ↓
+incoming carry + future AUTHOR constraint
 ```
 
 Hard:
-**never begin by loading the entire global Character/History/Device Atlas into the POV context.**
+**never load the entire global World/Character/History/Device Atlas into POV context by default.**
 
 ---
 
-# 1. Act / Sub-Act Routing
+# 1. Current Canon Inputs
+
+Before episode-specific execution, current Canon is:
+- `canon/WORLD_BIBLE-v2.md`
+- `canon/CHARACTER_BIBLE-v2.md`
+- `canon/ACT_BIBLE-v1.md`.
+
+Historical/superseded:
+- World Bible v1
+- Character Bible v1.
+
+Act6 Blueprint v0.1 is superseded.
+
+---
+
+# 2. Act / Sub-Act Routing
 
 | Episodes | Act | Sub-Act | Active Blueprint |
 |---|---|---|---|
@@ -67,177 +80,144 @@ Hard:
 | 207–218 | Act7 | SA-7B | Act7 v0.1 |
 | 219–230 | Act7 | SA-7C | Act7 v0.1 |
 
-Hard:
-Act6 v0.1 = SUPERSEDED for active execution.
-
 ---
 
-# 2. Universal Execution Authorities
+# 3. Universal Execution Authorities
 
-## Time
+Time:
 `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
 
-## POV
-- Act1: `ACT1-EXECUTION-POV-MAP-v1.md`
-- Act2: `ACT2-EXECUTION-POV-MAP-v1.md`
-- Act3: `ACT3-EXECUTION-POV-MAP-v1.md`
-- Act4: `ACT4-EXECUTION-POV-MAP-v1.md`
-- Act5: `ACT5-EXECUTION-POV-MAP-v1.md`
-- Act6: `ACT6-EXECUTION-POV-MAP-v1.md`
-- Act7: `ACT7-EXECUTION-POV-MAP-v1.md`
+POV:
+`docs/writing-ready/ACT1~7-EXECUTION-POV-MAP-v1.md` corresponding to current Act.
 
-All under `docs/writing-ready/`.
-
-## Context Registry
+Context Registry:
 `docs/narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md`
+
+Prose Protocol:
+`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
 
 ---
 
-# 3. High-Risk Deep-Card Windows
+# 4. High-Risk Deep-Card Windows
 
 | Episode window | Deep Card | Critical fence |
 |---|---|---|
 | 001–020 | OPEN | no title-promise truth dump; Amara not ominous clue |
 | 053–058 | COUNT | internal/public aggregate sequence preserved |
-| 059–066 | MEANING | explain developmental origin; close robot/fake-person misread; stop when needed explanation is complete |
-| 067–076 | AMARA-ID | protected confirmation → controlled public confirmation; no government name dump |
-| 112–122 | PR-H1 | exact Ella draft/access/omission sequence; no reorder |
+| 059–066 | MEANING | developmental provenance explained; stop once necessary meaning is complete |
+| 067–076 | AMARA-ID | protected confirmation → controlled public confirmation; no state name dump |
+| 112–122 | PR-H1 | exact draft/access/omission sequence; no reorder |
 | 140–148 | FINAL-APP | arrival pressure becomes binding through readiness thresholds |
 | 142–151 | HUMAN-SETTLER | legacy category translation; no mass citizenship deletion |
 | 207–230 | INSERT-END | no disaster miracle/alien twist/instant colony/thesis ending |
 
 ---
 
-# 4. Reveal Knowledge Gates
+# 5. Reveal Knowledge Gates
 
-## Before EP056
-Forbidden to POV unless exact authority says otherwise:
-- exact Count=1,
-- Amara uniqueness,
-- objective Human=Natural truth,
-- hidden arrival authority.
+Before EP056:
+- no exact Count=1 in ordinary POV,
+- no Amara uniqueness,
+- no objective Human=Natural truth,
+- no hidden Amara arrival authority.
 
-## EP056
-Internal authorized Count.
-Identity still sealed.
+EP056:
+internal authorized Count; identity sealed.
 
-## EP058
-Public aggregate `1`.
-Meaning not fully explained.
+EP058:
+public aggregate `1`; Meaning incomplete.
 
-## EP059~066
-Meaning clarification only.
-Do not import later Amara confirmation facts backward.
+EP059~066:
+Meaning clarification only; no later confirmation facts imported backward.
 
-## EP068
-Protected Amara confirmation.
+EP068:
+protected Amara confirmation.
 
-## EP075
-Controlled public confirmation.
-No sovereignty/settler/admin key.
+EP075:
+controlled public confirmation; no sovereignty/settler/admin key.
 
-## Before EP112
-PR-H1 exact chain remains fenced.
-The existence of old unfinished materials may be hinted only where exact Blueprint permits.
+Before EP112:
+PR-H1 exact chain fenced except exact Blueprint-approved pressure/setup.
 
-## EP142~151
-Human Settler becomes operational arrival-law problem.
-Earlier references must remain proportionate/light unless Blueprint says otherwise.
+EP142~151:
+Human Settler becomes operational transition-law problem.
 
-## EP216
-Insertion.
-No hidden destination-truth reversal.
+EP216:
+insertion; no hidden destination-truth reversal.
 
 ---
 
-# 5. Device Loading Rule
+# 6. Device Loading Rule
 
-Never load all `active_devices` from the Sub-Act note.
+Never load all `active_devices` from a Sub-Act.
 
 Use:
-1. exact Episode Blueprint `Foreshadow / Payoff`,
+1. exact Blueprint Foreshadow/Payoff,
 2. applicable Deep Card,
-3. locked Foreshadow Ledger / Device Atlas,
+3. locked ledger / Device Atlas,
 4. Package G knowledge fence.
 
-Only then attach a device to the episode Context Pack.
-
 Known repaired over-tags:
-- EP014 transit fault ≠ TK-01,
-- EP026 routine repair scarcity ≠ CK-01,
+- EP014 transit fault ≠ TK-01
+- EP026 ordinary repair scarcity ≠ CK-01
 - MG-01 Seed plant begins SA-1B / EP012~013.
 
 ---
 
-# 6. Context Pack Minimality
+# 7. AUTHOR / POV / PUBLIC / PROTECTED
 
-A normal episode should load only the needed slice of:
-- world rules,
-- place rules,
-- POV character card,
-- characters physically/socially relevant,
-- current institution,
-- active object/equipment rules,
-- active device(s),
-- incoming carry,
-- future constraint.
+AUTHOR may know future constraints/payoffs but cannot leak them through POV.
 
-Do NOT load by default:
-- full Historical Bible,
-- every character's hidden truth,
-- all device payoffs,
-- every arrival rule,
+POV knows only what that character reasonably knows now; profession does not grant omniscience.
+
+PUBLIC is current society-wide/public information.
+
+PROTECTED is controlled medical/provenance/legal/review data.
+
+A fact moving from PROTECTED to PUBLIC later does not retroactively make it public earlier.
+
+---
+
+# 8. Context Pack Minimality
+
+Load only the relevant slice of:
+- World v2 rules
+- Character v2 POV/scene characters
+- current location/institution
+- active object/equipment rules
+- episode-explicit devices
+- incoming carry
+- future AUTHOR constraints.
+
+Do not load by default:
+- full historical truth
+- every hidden character fact
+- all future payoffs
+- all arrival law
 - global Amara provenance.
 
 ---
 
-# 7. AUTHOR vs POV vs PUBLIC vs PROTECTED
+# 9. Individual Episode Note Implementation
 
-### AUTHOR
-May know future constraints/payoffs but cannot leak them through narration/POV.
+Detailed examples exist:
+`EP-001.md` ... `EP-028.md`.
 
-### POV
-Knows only what that character reasonably knows now.
-Profession does not grant omniscience.
-
-### PUBLIC
-Current society-wide/publicly available information.
-
-### PROTECTED
-Medical/provenance/legal/review data with controlled access.
-
-One fact can move from PROTECTED → PUBLIC later; its earlier status does not retroactively change.
+EP029~230 individual split remains `IMPLEMENTATION` only.
+Generated notes must derive from Registry + exact authorities, fail closed on ambiguity, and create no Canon.
 
 ---
 
-# 8. Individual Episode Note Implementation
+# 10. Pre-Draft Check
 
-Existing detailed examples:
-`docs/narrative-engineering/episodes/EP-001.md` ... `EP-028.md`.
-
-EP029~230 individual split is `IMPLEMENTATION`.
-
-If generated later, tool must:
-- derive exact registry row,
-- fetch Blueprint card,
-- fetch POV map/M1,
-- preserve knowledge fence,
-- fail closed on ambiguity,
-- create no story fact.
-
-The absence of 202 duplicated individual notes is **not** a Deep Design gap.
-
----
-
-# 9. Final Quick Checks Before Drafting Any Future Episode
-
-- Am I using active Act Blueprint version?
-- Is POV exact?
-- Is M1 clock exact enough for age/stage?
-- What is public right now?
-- What is protected right now?
-- Does POV actually know the fact?
-- Is this object/device an episode-explicit setup/payoff or just world texture?
-- Am I accidentally explaining a later payoff early?
-- Am I creating a major world rule because I failed to look it up?
-- Is the scene still about a human choice/consequence rather than Atlas exposition?
+Before any episode draft:
+- current Canon v2 loaded?
+- active Blueprint version?
+- exact POV?
+- M1 age/time?
+- public/protected boundary?
+- POV knowledge reasonable?
+- episode-explicit device vs ordinary texture?
+- future payoff accidentally exposed?
+- major rule already in Canon rather than invented?
+- human choice/consequence remains scene engine rather than Atlas exposition?
