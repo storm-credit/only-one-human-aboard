@@ -11,9 +11,9 @@ This is a workflow gate, not permission to write.
 
 # Gate A — Full Episode Matrix
 
-- [ ] Act 1 EP001~028
-- [ ] Act 2 EP029~058
-- [ ] Act 3 EP059~088
+- [x] Act 1 EP001~028 — `EPISODE-BLUEPRINT-ACT1-v0.1.md`
+- [x] Act 2 EP029~058 — `EPISODE-BLUEPRINT-ACT2-v0.1.md`
+- [x] Act 3 EP059~088 — `EPISODE-BLUEPRINT-ACT3-v0.1.md`
 - [ ] Act 4 EP089~122
 - [ ] Act 5 EP123~156
 - [ ] Act 6 EP157~194
@@ -44,9 +44,9 @@ Every episode requires:
 
 - [ ] EP001~020 opening block
 - [ ] all 23 Sub-Act turns
-- [ ] Count cluster EP053~058
-- [ ] Meaning cluster EP059~066
-- [ ] Amara confirmation/re-identification EP067~076
+- [x] Count cluster EP053~058 — `DEEP-CARD-COUNT-EP053-058-v0.1.md`
+- [x] Meaning cluster EP059~066 — `DEEP-CARD-MEANING-EP059-066-v0.1.md`
+- [x] Amara confirmation/re-identification EP067~076 — `DEEP-CARD-AMARA-IDENTITY-EP067-076-v0.1.md`
 - [ ] Ella/Maren record rupture EP112~122
 - [ ] Final Approach certification cluster
 - [ ] Human Settler legal-conflict cluster
@@ -101,3 +101,28 @@ Then and only then:
 
 Until then:
 `MANUSCRIPT = BLOCKED`
+
+---
+
+# Current Progress — 2026-08-17
+
+Completed episode matrix:
+**EP001~088 / planned EP001~230**
+
+Completed high-risk deep cards:
+- Count EP053~058
+- Meaning EP059~066
+- Amara identity/re-identification EP067~076
+
+Current blocking P0 found in these completed blueprint/deep-card passes:
+**0**
+
+Current next work:
+**Act 4 EP089~122**, with special focus on:
+- post-Reveal ordinary-life durability
+- origin shorthand entering work/housing/media without swallowing the series
+- Raul reform implementation costs
+- Ines medical misuse resistance
+- Amara household independent paths
+- Ella's self-driven discovery of PR-H1 in EP112~122
+- Maren mandatory recusal / no family adjudication
