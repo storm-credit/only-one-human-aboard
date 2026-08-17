@@ -115,24 +115,32 @@ Correct for Act 1; no pre-Reveal mystery spotlight before her designed ordinary 
 - Ella 2
 - Jun 1
 
+Total:
+**9**
+
 Function:
 rapid ensemble proof while opening/closing pressure still returns to family core.
 
 ## 1B EP010~018
 - Ella 2
-- Maren 5
+- Maren 6
 - Jun 1
-- remaining ensemble via non-POV agency
+
+Total:
+**9**
 
 Function:
 Maren becomes stronger anchor while Seed/old-term/institutional material grows more technical.
 
 ## 1C EP019~028
 - Noah 2
-- Maren 6
+- Maren 5
 - Ella 1
 - Raul 1
 - Jun 1
+
+Total:
+**10**
 
 Function:
 Maren return gravity increases as Act closes and audit becomes series-forward engine, while the family/legal payoffs remain owned by Noah/Ella/Jun/Raul where needed.
@@ -197,7 +205,7 @@ Mitigation:
 - all are core recurring cast
 - no one-off POVs
 - Maren/Ella/Noah family triad repeats quickly
-- POV is always announced through immediate location/action context, never label cards
+- POV is always evident through immediate location/action context, never label cards
 
 ---
 
