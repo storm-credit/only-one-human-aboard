@@ -7,7 +7,7 @@ Repository: `storm-credit/only-one-human-aboard`
 
 ---
 
-# Gate
+# Global Gate
 
 Historical/core achievements:
 - `CORE DESIGN FREEZE v1 = PASSED — 2026-08-17`
@@ -21,287 +21,254 @@ Current stronger user quality gate:
 - `ENCYCLOPEDIC CANON FREEZE v2 = NOT PASSED`
 - `MANUSCRIPT = BLOCKED`
 
-Existing core Canon P0:
+Core v1 blocking P0:
 **0**
 
-Completeness blocker:
-**YES**
-
-Reason:
-The project is structurally writable, but the user requires the design blueprint/worldbuilding/setting bible itself to be reference-grade complete before prose. Current v1 is strong on story-critical world logic but not yet encyclopedic across all everyday-life/cultural/institutional/material domains.
-
-Primary current audit:
-`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.3.md`
+Primary audit family:
+`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.3.md` + later package QA.
 
 ---
 
-# What Is Already Complete / Strong
+# Package A — Society Bible
 
-- core ontology / Seed / Natural vs Seeded Origin
-- Reconstruction / Neural Anchor / death-continuity rules
-- reproduction / demographic current-one logic
-- ship macro-engineering / ecology / power / heat rejection
-- destination / propulsion / ram defense / staged arrival
-- core civic rights / arrival-law conflict
-- core cast / family chronology / 14-year arcs
-- 7 Acts / 23 Sub-Acts / EP001~230 matrix
-- Information Ladder / Foreshadow-Payoff / Ending
-- Harness M1~M8
-- full EP001~230 POV architecture
-- prose execution protocol / style / manuscript pipeline / QA infrastructure
+Status:
+**`STRUCTURAL DEEP DESIGN = PASS / CROSS-PACKAGE CONSOLIDATION PENDING / NOT CANON`**
 
-These remain valid unless a later v2 contradiction is intentionally approved.
+Integrated provisional Bible:
+`docs/design-v2/SOCIETY-BIBLE-v0.1.md`
 
----
+Integrated hostile QA:
+`docs/qa/SOCIETY-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
 
-# Encyclopedic Completion Packages
+Integrated Package A P0:
+**0**
 
-## Package A — Society Bible
-Governance / criminal justice / economy / labor / class / property / family / education / medicine / death.
+## Selected provisional models
 
-Status: `IN PROGRESS`
+1. `GOV-H1 — Layered Civic Republic + Commons Constraints + Narrow Safety Command`
+2. `CJ-H1 — Layered Public Safety + Restorative Default + Narrow Coercive Escalation`
+3. `ECO-H1 — Civic Floor + Monetary Market + Capacity Commons + Mixed Enterprise`
+4. `PROP-H1 — Layered Residential Tenure + Common Structure + Transferable Household Interests`
+5. `LAB-H1 — Open Occupational Mobility + Plural Worker Power + Safety-Credential Boundaries`
+6. `FAM-H1 — Civil Partnership + Independent Parenthood + Protected Dependency + Flexible Household`
+7. `EDU-H1 — Common Civic Foundation + Choice-Rich Adolescence + Apprenticeship / Higher Training + Lifelong Modular Retraining`
+8. `MED-H1 — Universal Clinical Floor + Advanced Biological Repair + Privacy-Bounded Prevention + Supported Autonomy`
+9. `DEATH-H1 — Clinical Death + Continuity Review + Bounded Legal Finality + Material Return + Plural Mourning`
 
-Completed structural design blocks:
-1. **Governance Architecture — structural design complete / provisional**
-   - 4 designs compared
-   - `GOV-H1 — Layered Civic Republic + Commons Constraints + Narrow Safety Command` selected as provisional priority
-   - no captain dictatorship / no AI sovereignty / no Habitat sovereignty
-   - emergency powers remain dependent on Package C exact design
-2. **Criminal Justice / Public Safety — structural design + hostile QA complete / provisional**
-   - 4 designs compared
-   - `CJ-H1 — Layered Public Safety + Restorative Default + Narrow Coercive Escalation` selected
-   - local civic safety + shipwide serious-investigation capability
-   - no universal surveillance grid
-   - engineering telemetry separated from personal surveillance
-   - real arrest/search/detention powers retained with due process
-   - lower-harm cases favor restitution/repair/treatment; severe danger permits secure custody
-   - no death penalty / no unsafe-space exile
-   - victim-consent hard guardrail for restorative processes
-   - protest distinguished from sabotage by conduct/hazard, not ideology
-   - PR-H1 access metadata remains evidence, not automatic criminal guilt
-   - Count/Amara provenance cannot be searched by police curiosity shortcut
-   - hostile Red Team P0 = 0
+## Package A core principles now designed
 
-Current Package A open blocks:
-- economy deep layer
-- labor/class/property/inheritance
-- family/marriage/adoption/guardianship
-- education
-- general medicine/mental health/disability
-- death/funeral/mourning/inheritance
-- integrated Society Bible Red Team
+- democratic civic government; technical safety does not equal sovereignty
+- no captain dictatorship / no central AI sovereignty / no Habitat sovereignty
+- ordinary crime and real coercive public-safety power, but no universal surveillance grid
+- restorative/repair tools for suitable lower-harm cases; secure custody for serious danger
+- no death penalty / no unsafe-space exile
+- one normal monetary market above a guaranteed civic survival/basic-services floor
+- hard physical capacities such as birth/Reconstruction/strategic reserves are not legal auction goods
+- mixed private/co-op/public enterprise economy
+- real wealth/class inequality without private ownership of life-support sovereignty
+- structural hull/life-support commons separated from valuable transferable residential occupancy interests
+- person continuity does not automatically roll back lawful third-party property changes
+- citizens choose careers; civilization steers skills through training/pay/incentives rather than lifetime assignment
+- unions/co-ops/professional credentials exist; critical-service exceptions narrow/reviewable
+- partnership, parenthood, guardianship, residence and property are legally distinct
+- sole parenthood/donor conception/adoption/guardianship supported
+- reconstructed parent legal continuity does not automatically restore every current caregiving function
+- common public education + later choice/apprenticeship/higher training + adult retraining
+- no deterministic AI aptitude sorting
+- universal clinical floor + advanced biological repair without abolishing disability/aging/death
+- mental illness ≠ automatic criminality; decision capacity is domain-specific
+- clinical death / Reconstruction review / legal finality / mourning / estate are distinct
+- no memorial avatar as executable continuation of the dead
 
-CJ-H1 open dependencies:
-- economy/class bias
-- mental-health exact procedure
-- emergency authority
-- AI decision boundary
-- weapon/equipment exact catalog
-- arrival cross-jurisdiction enforcement
-- custody-capacity quantitative sanity
+## Key Package A files
 
-Key files:
+Design:
 - `docs/design-v2/SOCIETY-GOVERNANCE-ARCHITECTURE-4-DESIGNS-v0.1.md`
 - `docs/design-v2/SOCIETY-CRIMINAL-JUSTICE-PUBLIC-SAFETY-4-DESIGNS-v0.1.md`
-- `docs/qa/SOCIETY-CRIMINAL-JUSTICE-PUBLIC-SAFETY-RED-TEAM-v0.1.md`
+- `docs/design-v2/SOCIETY-ECONOMY-DEEP-LAYER-4-DESIGNS-v0.1.md`
+- `docs/design-v2/SOCIETY-PROPERTY-HOUSING-INHERITANCE-4-DESIGNS-v0.1.md`
+- `docs/design-v2/SOCIETY-LABOR-CLASS-MOBILITY-4-DESIGNS-v0.1.md`
+- `docs/design-v2/SOCIETY-FAMILY-MARRIAGE-PARENTHOOD-GUARDIANSHIP-4-DESIGNS-v0.1.md`
+- `docs/design-v2/SOCIETY-EDUCATION-CHILDHOOD-TRAINING-4-DESIGNS-v0.1.md`
+- `docs/design-v2/SOCIETY-GENERAL-MEDICINE-MENTAL-HEALTH-DISABILITY-4-DESIGNS-v0.1.md`
+- `docs/design-v2/SOCIETY-DEATH-FINALITY-FUNERAL-MOURNING-4-DESIGNS-v0.1.md`
+- `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
 
-## Package B — Culture & Daily Life Bible
-Language / religion / ritual / calendar / holidays / cuisine / clothing / hygiene / media / entertainment / sport / intimacy / ship-born identity.
+QA:
+- matching `docs/qa/SOCIETY-*-RED-TEAM-v0.1.md` files
+- `docs/qa/SOCIETY-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
 
+## Package A remaining cross-package blockers
+
+- exact governance election/executive/campaign-finance details
+- Package C emergency / AI / data / housing quantitative implementation
+- Package B calendar / culture / religion / social norms / exact majority conventions
+- Package D historical evolution of institutions
+- Package E arrival cross-jurisdiction rules
+- Package F exact cast finances/homes/education/health
+- quantitative sanity for civic floor/workforce/custody/health/housing
+- final low-salience decision on medical aid in dying
+
+Do NOT Canon-freeze Package A yet.
+
+---
+
+# Package B — Culture & Daily Life Bible
+
+Status: `NEXT ACTIVE PACKAGE / NOT COMPLETE`
+
+Required blocks:
+- language / lingua franca / multilingual survival / slang
+- religion / philosophy / ritual
+- calendar / day-week-year / holidays / voyage commemorations
+- cuisine / meals / hospitality
+- clothing / fashion / appearance
+- hygiene / domestic routine
+- media / journalism / social networks / rumor
+- entertainment / art / sport / games
+- sexuality / intimacy / partnership culture
+- ship-born identity / Earth memory / mission culture
+- class taste / status display without caste coding
+
+Next block:
+**Language / Linguistic Drift — 4 designs → hybrid → hostile Red Team.**
+
+---
+
+# Package C — Infrastructure & Operations Bible
 Status: `NOT COMPLETE`
 
-## Package C — Infrastructure & Operations Bible
-Housing / transit / utilities / emergency response / automation/AI / archives / routine ship operations / map logic.
+Housing architecture / transit / utilities / emergency / AI automation / archives / routine operations / geography logic.
 
-Status: `NOT COMPLETE`
+---
 
-## Package C-M — Material Culture / Equipment / Relics Bible
-Mandatory cross-cutting package; kept as C-M so the stabilized A~I numbering does not churn again.
+# Package C-M — Material Culture / Equipment / Relics
 
-Scope:
-- ordinary objects / durable goods / repair culture
-- personal interfaces
-- medical/Reconstruction equipment boundary
-- work/utility/industrial equipment
-- Outer Works / emergency gear
-- public-safety / weapon boundary
-- dangerous/restricted technology
-- Earth-origin objects / voyage artifacts
-- family heirlooms
-- museums / provenance
-- collectibles / antique market
-- salvage / found property
-- strategic industrial heritage
-- material status signals
-- subtle collection/completion pleasure
-
-Selected design:
-`MC-H1 — Layered Material Ecology + Selective Heritage Objects`
-
-Completed:
-- 4 material-culture architectures compared
-- MC-H1 selected
-- provisional `MATERIAL-CULTURE-BIBLE-v0.1.md` created
-- hostile Red Team run
-- functional object classes O1~O5 defined
-- provenance states defined without RPG rarity ranks
-- public-safety/weapon direction defined
-- heritage era buckets defined provisionally
-- museum/collecting/salvage/strategic-heritage questions mapped
-- collection engine reframed as recognition/provenance/return/completion rather than loot progression
-- **CJ-H1 public-safety integration addendum completed**
-
-Current state:
+Status:
 `STRUCTURAL BASE = PASS / FULL PACKAGE = IN PROGRESS`
 
-Closed/partially closed dependency:
-- criminal-justice/public-safety weapon boundary = `STRUCTURAL PASS`
+Selected:
+- `MC-H1 — Layered Material Ecology + Selective Heritage Objects`
+- `CE-H1 — Civilization Completion + Living-World Recognition + Selective Material Return`
 
-Open dependencies before Freeze:
-- Package A economy / property / inheritance / exact weapon legality
-- Package B fashion/hobbies/ritual/material taste
-- Package C AI/autonomous security / emergency / utilities
-- Package D exact 450-year provenance timeline
-- Package E arrival transfer/export/heritage rules
-- Package F recurring character possessions
-- Package G high-salience object lifecycle only
+Public-safety integration with CJ-H1:
+`STRUCTURAL PASS`.
 
 Hard rules:
 - Old ≠ powerful.
 - Rare ≠ useful.
-- no founder key / hidden superweapon / adult origin scanner / chosen-one relic.
-- most objects remain ordinary non-clues.
+- no founder key / hidden superweapon / origin scanner / chosen-one relic.
+- ordinary non-clue objects greatly outnumber high-salience props.
 
-Key files:
-- `docs/material-culture/00-MATERIAL-CULTURE-MOC.md`
-- `docs/material-culture/MATERIAL-CULTURE-EQUIPMENT-RELICS-4-DESIGNS-v0.1.md`
-- `docs/material-culture/MATERIAL-CULTURE-BIBLE-v0.1.md`
-- `docs/material-culture/MATERIAL-CULTURE-PUBLIC-SAFETY-INTEGRATION-v0.1.md`
-- `docs/qa/MATERIAL-CULTURE-EQUIPMENT-RELICS-RED-TEAM-v0.1.md`
+Key MOC:
+`docs/material-culture/00-MATERIAL-CULTURE-MOC.md`
 
-## Package D — Historical Bible
+---
+
+# Package D — Historical Bible
+Status: `NOT COMPLETE`
+
 450-year era timeline / institutional evolution / major crises / Earth-contact history / cultural-economic eras.
 
+---
+
+# Package E — Destination & Arrival Reference
 Status: `NOT COMPLETE`
 
-## Package E — Destination & Arrival Reference
-Target planet / resource bodies / orbital geography / first-settlement staging / migration-property-jurisdiction details.
+Planet / resources / orbital geography / first-settlement staging / cross-location law-property-family-economy.
 
+---
+
+# Package F — Character Encyclopedia v2
 Status: `NOT COMPLETE`
 
-## Package F — Character Encyclopedia v2
-Core cast deep reference / recurring support network / appearance / homes / finance / education / hobbies / health / personal timeline / 14-year checkpoints.
+Appearance / homes / finance / education / hobbies / health / social network / recurring supporting cast / 14-year checkpoints.
 
-Status: `NOT COMPLETE`
+---
 
-## Package G — Narrative Engineering & Obsidian Context Atlas
-Purpose:
-Make the 7 Act / 23 Sub-Act / EP001~230 design navigable as a linked graph so a human or agent can retrieve only relevant context for one episode.
+# Package G — Narrative Engineering & Obsidian Context Atlas
 
-Completed:
-- 4 narrative-map architectures compared
-- `NAM-H1 Hierarchical MOC + Cross-Linked Device Atlas + Episode Context Manifest` selected
-- major Narrative Device Atlas created
-- all 23 Sub-Acts mapped to Plant/Reinforce/Trigger/Payoff/Aftershock device work
-- **7 / 7 Act Obsidian nodes created**
-- **23 / 23 Sub-Act Obsidian nodes created**
-- MOC links Act→Sub-Act→Device authorities
-- Obsidian link/data-contract design created
-- `CP-H1` minimal Episode Context Pack retrieval model selected
-- AUTHOR / POV / PUBLIC / PROTECTED knowledge separation required
-- interim Narrative Engineering Red Team run
-- **EP001~028 Context Manifests created — 28 / 230**
-- Act 1 manifest pass exposed over-tagging / timing defects for repair: Sub-Act device presence does not mean every episode inherits the device automatically.
-
-Current Package G state:
+Status:
 `STRUCTURAL GRAPH FOUNDATION = PASS / EP DATASET = 28/230`
 
-Remaining before full Package G PASS:
-- EP029~230 exact Context Manifests
-- exact device lifecycle binding to episode cards
-- repair Act 1 device over-tag/orphan findings
-- orphan-device QA
-- premature-payoff / early-reveal QA
-- clue-density vs ordinary-noise QA
-- device overuse / repeated scene-form QA
-- POV knowledge-leak QA
-- M1/POV/Blueprint regression
-- final Package G hostile QA
+Completed:
+- NAM-H1 map architecture
+- Device Atlas
+- 7/7 Act nodes
+- 23/23 Sub-Act nodes
+- CP-H1 minimal Context Pack schema
+- AUTHOR/POV/PUBLIC/PROTECTED knowledge separation
+- EP001~028 Context Manifests
 
-Key files:
-- `docs/narrative-engineering/00-NARRATIVE-MOC.md`
-- `docs/narrative-engineering/NARRATIVE-MAP-ARCHITECTURE-4-DESIGNS-v0.1.md`
-- `docs/narrative-engineering/NARRATIVE-DEVICE-ATLAS-v0.1.md`
-- `docs/narrative-engineering/ACT-SUBACT-NARRATIVE-DEVICE-MAP-v0.1.md`
-- `docs/narrative-engineering/OBSIDIAN-LINK-CONTEXT-PACK-SPEC-v0.1.md`
-- `docs/narrative-engineering/acts/ACT-01~07.md`
-- `docs/narrative-engineering/subacts/SA-1A~7C.md`
-- `docs/narrative-engineering/episodes/EP-001~028.md`
-- `docs/qa/NARRATIVE-ENGINEERING-MAP-RED-TEAM-v0.1.md`
+Pending known repairs:
+- MG-01 Seed plant should begin SA-1B/EP012~013, not SA-1A
+- remove EP014 over-tag as TK-01 Arrival Clock
+- remove EP026 over-tag as CK-01 industrial-spare device
+- register unresolved map IDs such as RI-01 / RC-LAW-01 where retained
 
-## Package H — Reference Atlas
-Glossary / institution authority chart / geography map spec / 450y + 14y timelines / technology dependency chart / life-cycle chart / Canon-vs-Elastic registry / material culture taxonomy.
+Remaining:
+EP029~230 manifests + orphan/premature/noise/knowledge QA + final hostile QA.
 
+---
+
+# Package H — Reference Atlas
 Status: `NOT COMPLETE`
 
-## Package I — Final Completeness Harness
-Must pass:
-- Random Citizen Day Test
-- Child→Adult→Old Age Life Cycle Test
-- Crime/Accident/Emergency Test
-- Rich/Poor/Disabled Test
-- Birth/Marriage/Divorce/Death Test
-- School/Work/Retirement Test
-- Media/Rumor/Privacy Test
-- Religion/Culture/Leisure Test
-- AI/Automation Ontology Test
-- Arrival Migration/Property Test
-- 20 random-scene no-new-major-rule test
-- regression against EP001~230
-- Narrative Device orphan/premature-payoff/noise-density test
-- Random Object / Weapon / Heirloom / Salvage Test
-- Material Culture no-secret-superweapon regression
+Glossary / institution chart / geography / timelines / technology dependencies / life-cycle / Canon-vs-Elastic registry.
 
+---
+
+# Package I — Final Completeness Harness
 Status: `NOT COMPLETE`
+
+Must eventually pass:
+- Random Citizen Day
+- Whole Life Cycle
+- Crime/Accident/Emergency
+- Rich/Poor/Disabled
+- Birth/Marriage/Divorce/Death
+- School/Work/Retirement
+- Media/Rumor/Privacy
+- Religion/Culture/Leisure
+- AI/Automation Ontology
+- Arrival Migration/Property
+- 20 Random Scenes No-New-Major-Rule
+- Material Culture Random Object/Weapon/Heirloom/Salvage
+- Narrative Device orphan/premature/noise
+- EP001~230 regression
 
 ---
 
 # Current Canon Baseline
 
-- Ship: Meridian
-- Population: ~300k
-- Destination: Epsilon Indi A / 인디계
-- Start: ~T-14
-- current Natural/Bio-Origin active count: 1
-- identity: Amara Okoro
-- protagonist anchor: Maren Vale
-- public Count: EP058
-- Meaning complete: EP066
-- Amara public confirmation: EP075
-- insertion: EP216 region
-- ending: Costly Polycentric Arrival
+- Meridian / ~300k
+- destination Epsilon Indi A
+- story start ~T-14
+- Natural/Bio-Origin active = 1 = Amara Okoro
+- Maren Vale primary series anchor in ensemble
+- public Count EP058
+- Meaning complete EP066
+- Amara public confirmation EP075
+- insertion EP216 region
+- Costly Polycentric Arrival ending
 
 ---
 
-# Current Next Work
+# Immediate Next Work
 
 Do **not** draft EP001.
 
-Immediate continuation:
-1. **Package A Economy Deep Layer — 4 designs → Hybrid → Red Team**
-2. labor/class/property/inheritance integration
-3. family/marriage/adoption/guardianship
-4. education
-5. general medicine/mental health/disability
-6. death/funeral/mourning/inheritance
-7. Package A integrated Society Bible Red Team
-8. close current Package G Act 1 device-map repair findings
-9. continue EP029~230 Context Manifests
-10. continue B/C/C-M/D/E/F deep design
-11. Package H Reference Atlas
-12. Package I adversarial completeness harness
-13. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 consolidation
-14. Canon conflict regression against ACT_BIBLE + EP001~230
-15. `ENCYCLOPEDIC CANON FREEZE v2`
+1. Package B Language / Linguistic Drift — 4 designs + Red Team
+2. Religion / philosophy / ritual
+3. Calendar / holidays / work-school cycles
+4. Food / hospitality
+5. clothing / hygiene / domestic life
+6. media / social networks / journalism
+7. entertainment / art / sport
+8. intimacy / social norms / ship-born identity
+9. integrated Culture & Daily Life Bible + Red Team
+10. Package C and onward
 
-Only after v2 Freeze passes may manuscript status return to READY.
+Only after all encyclopedic packages + final regression pass may:
+`ENCYCLOPEDIC CANON FREEZE v2 = PASSED`
+and manuscript return to READY.
