@@ -1,6 +1,6 @@
 # 00 — Reference Atlas MOC
 
-Status: `PACKAGE H REFERENCE / NAVIGATION ONLY / NOT CANON`
+Status: `PACKAGE H REFERENCE ATLAS = PASS / P0=0 / NAVIGATION ONLY / NOT CANON`
 Date: 2026-08-18
 Project: 《우주선에는 인간이 한 명뿐이다》
 
@@ -12,6 +12,25 @@ Authority order:
 `Core Canon / locked story authority / v2 owner document → Reference Atlas summary`.
 
 Never reverse that order.
+
+## Package H Architecture / QA
+
+Architecture:
+`REF-H1 — Human-Readable MOC + Source-Linked Atlas Tables + Authority/Elastic Registry + Optional Structured Metadata`.
+
+Design comparison:
+- `REFERENCE-ATLAS-ARCHITECTURE-4-DESIGNS-v0.1.md`
+
+Architecture Red Team:
+- `docs/qa/REFERENCE-ATLAS-ARCHITECTURE-RED-TEAM-v0.1.md`
+
+Integrated Shadow-Canon Red Team:
+- `docs/qa/REFERENCE-ATLAS-INTEGRATED-SHADOW-CANON-RED-TEAM-v0.1.md`
+
+Final Package H blocking P0: **0**.
+
+One actual stale-source defect was found and repaired during QA:
+Package F's latest support-name override checkpoint supersedes older candidate names still present in the integrated Character Encyclopedia body.
 
 ## Status Vocabulary
 
@@ -26,7 +45,7 @@ Never reverse that order.
 
 ## Start Here By Question
 
-### What is actually Canon now?
+### What is actually current vs candidate vs superseded?
 → [Authority / Elastic Registry](./AUTHORITY-ELASTIC-REGISTRY.md)
 
 ### What does a term mean?
@@ -63,6 +82,24 @@ Never reverse that order.
 → [Episode Context Index](./EPISODE-CONTEXT-INDEX.md)
 → [Package G full Registry](../narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md)
 
+## Required Reference Views — 13/13
+
+1. Master MOC
+2. Glossary
+3. Institution Authority Matrix
+4. Meridian Civic Map
+5. Meridian Engineering Overlay
+6. Master Timeline
+7. Technology Dependency Matrix
+8. Life-Cycle Flow
+9. Authority/Elastic Registry
+10. Destination System Atlas
+11. Character Social Network
+12. Material Culture Atlas
+13. Episode Context Index
+
+All are navigation/reference views only.
+
 ## Package Owners
 
 ### Core v1 Canon
@@ -91,6 +128,7 @@ Never reverse that order.
 
 ### Package F — Character Encyclopedia
 - `docs/design-v2/CHARACTER-ENCYCLOPEDIA-v0.1.md`
+- latest support-name override checkpoint: `docs/status/PACKAGE-F-CHARACTER-ENCYCLOPEDIA-PASS-2026-08-17.md`
 
 ### Package G — Narrative Engineering
 - `docs/narrative-engineering/00-NARRATIVE-MOC.md`
@@ -105,13 +143,14 @@ The following concepts may still appear in old design files but are not current 
 - Amara as colony/admin/genetic/settler key,
 - Act6 Blueprint v0.1 as active authority,
 - EP014 transit fault as Arrival Clock device,
-- EP026 routine repair scarcity as strategic arrival asset.
+- EP026 routine repair scarcity as strategic arrival asset,
+- pre-phonetic-micropass Package F support names where latest checkpoint supplies overrides.
 
-Use [Authority / Elastic Registry](./AUTHORITY-ELASTIC-REGISTRY.md) before trusting old search results.
+Use [Authority / Elastic Registry](./AUTHORITY-ELASTIC-REGISTRY.md) and owner documents before trusting old search results.
 
 ## Obsidian Baseline
 
-This directory is designed to work with:
+Works with:
 - plain Markdown,
 - relative links / wikilinks,
 - optional YAML metadata.
@@ -119,10 +158,16 @@ This directory is designed to work with:
 No plugin is mandatory.
 Dataview/database generation may be added later as implementation only.
 
-## Package H Status
+## Package H Verdict
 
-Architecture:
-`REF-H1 — Human-Readable MOC + Source-Linked Atlas Tables + Authority/Elastic Registry + Optional Structured Metadata`.
+**`13/13 REQUIRED VIEWS = PRESENT`**
 
-This MOC is a navigation root only.
-Package H passes only after all required atlas pages exist and integrated Shadow-Canon QA returns P0=0.
+**`SHADOW-CANON RED TEAM = PASS`**
+
+**`BLOCKING P0 = 0`**
+
+Overall:
+
+# `PACKAGE H REFERENCE ATLAS = PASS / NOT CANON`
+
+The project still requires Package I/P1 closure/v2 Canon consolidation before manuscript unlock.
