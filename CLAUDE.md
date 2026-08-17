@@ -6,7 +6,7 @@ Repository: `storm-credit/only-one-human-aboard`
 
 이 파일은 프로젝트 최상위 작업헌법이다.
 
-현재 정본 우선순위:
+정본 우선순위:
 1. `CLAUDE.md`
 2. `canon/WORLD_BIBLE-v1.md`
 3. `canon/CHARACTER_BIBLE-v1.md`
@@ -14,11 +14,10 @@ Repository: `storm-credit/only-one-human-aboard`
 5. `canon/CANON_STATUS.md`
 6. `docs/current-work-status.md`
 7. `docs/NEXT-CHAT-HANDOFF.md`
-8. active Writing Ready / Prose Execution 문서
-9. 과거 provisional / candidate / rejected 설계문서
+8. active Blueprint / Prose Execution / POV Map / QA 문서
+9. 과거 provisional / candidate / freeze-draft / superseded 문서
 
-과거 문서가 현재 Canon과 충돌하면 **Canon이 우선**한다.
-임의로 중간안을 복원하지 않는다.
+과거 설계가 현재 Canon과 충돌하면 현재 Canon이 우선한다.
 
 ---
 
@@ -27,308 +26,290 @@ Repository: `storm-credit/only-one-human-aboard`
 - `DESIGN FREEZE = PASSED — 2026-08-17`
 - `CANON FREEZE = PASSED — 2026-08-17`
 - `WRITING READY = PASSED — 2026-08-17`
-- `PROSE EXECUTION PROTOCOL = LOCKED — 2026-08-17`
-- `ACT 1 EXECUTION POV MAP = PASS — 2026-08-17`
+- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED — 2026-08-17`
+- `ACT 1~7 EXECUTION POV ARCHITECTURE = LOCKED / PASS — 2026-08-17`
 - `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
 
-근거:
-- `docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
-- `docs/qa/CANON-FREEZE-RED-TEAM-v1.md`
-- `docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
-- `docs/qa/PROSE-EXECUTION-PROTOCOL-RED-TEAM-v1.md`
-- `docs/qa/ACT1-POV-MAP-MINI-QA-v1.md`
-- EP001~230 Full Episode Matrix
-- High-Risk Deep Cards
-- Harness M1~M8
+Current blocking P0 = **0**.
 
-현재 blocking P0 = **0**.
-
-본문을 자동 시작하지 않는다.
-사용자가 EP001/본문 집필을 명시적으로 요청할 때만 실행한다.
+사용자가 단순히 `이어서`라고 한 경우 본문을 자동 작성하지 않는다.
+EP001/본문 집필을 명시적으로 요청할 때만 원고를 시작한다.
 
 ---
 
-# 2. MANUSCRIPT EXECUTION HARD STOPS
+# 2. CANON PREMISE — DO NOT REINTERPRET
 
-집필 중 다음이 필요해지면 **즉시 본문 진행을 멈추고 Canon-impact review**를 한다.
-
-- adult origin scanner
-- Seed가 기억/성격/충성/명령/관리자키를 삽입
-- anchor 없는 성인 복원/복제
-- 아마라의 관리자키/주권/식민지 정통성 권한
-- 기존 시민권 29만9천여 명 일괄 박탈
-- 중앙 AI 독재가 모든 문제의 원인
-- 새로운 더 큰 존재론 반전
-- 마렌이 자기 가족분쟁을 공식 심사
-- 감속추진이 시민전력 몇 GW를 직접 빼앗음
-- 도착 즉시 대규모 완성 식민지
-- 공짜 제3의 길
-- 외계침략/우주전쟁/기갑물이 메인 엔진으로 전환
-
-이 경우 `docs/change-log.md`에 영향범위를 기록하고 필요한 Gate를 재개방한다.
-
----
-
-# 3. CANON PREMISE — DO NOT REINTERPRET
-
-- 세대우주선 **메리디언**.
-- 현재 시민 약 30만.
-- 대부분 시민은 살아 있는 인간형 생물학적 몸과 뇌를 가진다.
-- 핵심 옛 분류 차이는 몸의 재질이 아니라 **인지발달 기원**이다.
-- 현 사회 대부분은 prenatal **발달 커넥톰 시드**를 거친 Seeded/Synthetic-Origin Cognition.
-- 현재 옛 Natural/Bio-Origin Cognition 분류에 해당하는 active 시민은 1명.
-- 그 1명은 **아마라 오코로**.
-- 현대 사회에서 두 기원 모두 사람/시민으로 살아왔다.
-- 제목의 `인간 한 명`은 옛 좁은 legacy category가 현대사회에 재적용될 때 생기는 충격문장이지, 서술자의 최종 도덕판정이 아니다.
-
-절대 `나머지 30만은 가짜 AI/NPC`로 되돌리지 않는다.
-
----
-
-# 4. CORE WORLD LOCKS
+- Ship = **Meridian / 메리디언**.
+- Current population roughly 300k.
+- Citizens generally have living human-form biological bodies and brains.
+- Old technical distinction = **cognitive developmental origin**, not body material.
+- Most citizens are prenatal Seeded/Synthetic-Origin Cognition.
+- Current active Natural/Bio-Origin Cognition = **1**.
+- That person = **Amara Okoro / 아마라 오코로**.
+- Modern society recognizes both origin classes as people/citizens/humans.
+- `우주선에는 인간이 한 명뿐이다` is a legacy-classification shock, not narrator's final moral ontology.
 
 ## Seed
-- prenatal critical window의 generated developmental prior.
-- 완성 기억/성격/충성/명령/관리자키를 넣지 않는다.
-- 성공여부는 산전 단계 closed-loop verification으로 기록된다.
-- 성인 몸을 검사해서 기원을 직접 판정할 수 없다.
+- prenatal developmental prior
+- no finished memory/personality/loyalty/command/admin-key programming
+- prenatal closed-loop completion verification
+- no adult direct origin scanner
 
 ## Reconstruction
-- 연속성 스캔 → 복구지도.
-- 정상 복원은 surviving neural anchor 필요.
-- Recovery Map은 실행 가능한 영혼파일이 아니다.
-- anchor가 완전히 소실되면 동일인 성인 복원 불가.
-- 과거 스캔으로 수십 년 젊게 되감기 불가.
+- Recovery Map + surviving Neural Anchor
+- Recovery Map is not executable soul file
+- no anchorless adult restoration
+- no routine chronological rollback
 
-## Reproduction / History
-- 자연임신/보조생식 모두 가능.
-- Seed는 표준 산전의료지만 full-window refusal은 합법적이고 매우 희귀.
-- 출항 당시 natural-origin 인간들은 몰살/업로드되지 않았다.
-- 여러 세대에 걸쳐 Seed가 의료·법·네트워크 효과로 표준화됐다.
-- `현재 정확히 한 명`은 자동유지 프로토콜이 아니라 인구통계적 현재상태.
+## History
+- departure Natural-Origin humans were not exterminated or mass-uploaded
+- Seed standardized over generations through medicine/law/network effects
+- no Witness/exact-one protocol
+- current `1` is demographic state
 
 ## Living World
-- 1환 / 2환 / 3환 + Spine + Outer Works + Founding Core/Legacy Decks.
-- Habitat는 계급/직업 카스트가 아니다.
-- 경제는 `Layered Commons + Market City`.
+- 1환 / 2환 / 3환 + Spine + Outer Works + Legacy areas
+- no Habitat caste
+- `Layered Commons + Market City`
 
-## Destination
-- 목적지: Epsilon Indi A / 인디계.
-- 약 T-14에서 시작해 약 14년 후 system insertion.
-- 현지 bulk resource + 선박 산업자본의 staged settlement.
-- 우주선 해체갈등의 핵심은 고철이 아니라 제조/전력/방열/로봇/정밀설비와 redundancy.
+## Destination / Propulsion
+- Epsilon Indi A / 인디계
+- story roughly T-14 → insertion
+- local ISRU + ship industrial-capital bootstrap
+- dedicated interstellar propulsion separate in scale from civil grid
+- no direct `engine takes a few GW from homes` conflict
 
-## Propulsion
-- civil grid와 규모가 분리된 전용 fusion direct-exhaust interstellar propulsion.
-- 감속 사회비용은 thermal geometry / spares / manufacturing / specialists / reaction mass / maintenance / redundancy.
-
----
-
-# 5. CORE CAST LOCKS
-
-정확한 인물 Canon은 `canon/CHARACTER_BIBLE-v1.md`가 authority.
-
-- **마렌 베일**: 41F, 평범한 Seeded-Origin, 연속성 심사관. 보호하려고 대신 결정하는 결함. 자기 가족사건은 의무회피.
-- **엘라 베일**: 39F, 복원된 동생, 노아의 sole legal parent.
-- **노아 베일**: 12M → 약 26. 제3경로를 만드는 아이에서 독립성인으로 성장.
-- **라울 세라**: 권리 옹호 변호사. 마렌의 실제 라이벌이며 자신의 승리도 비용을 만든다.
-- **토마스 벡**: 연속성심사국 선임관리자. 비밀지킴이 금지.
-- **이네스 라만**: 의료/복원 현장평가자. 만능 설명의사 금지.
-- **준 이마이**: 구시가지 유지보수 협동조합/현장 인물. 단순 향수주의자 금지.
-- **아마라 오코로**: 45F, 2환 수자원/재생 중견 실무자. 유일한 Natural-Origin이지만 특별능력·권한 없음.
-- 아마라의 배우자/자녀들은 독립목표를 가진다. 자녀는 Seeded-Origin.
+## Arrival Law
+- 시민기본법 / 개척헌장 / 도착전환규정
+- Human Settler conflict = destination-jurisdiction translation
+- no mass deletion of current ship citizenship
 
 ---
 
-# 6. ACT / REVEAL LOCKS
+# 3. CORE CAST LOCKS
 
-Main series center: 약 230화.
+Authority: `canon/CHARACTER_BIBLE-v1.md`.
 
-1. Act 1 `돌아온 사람들의 자리` EP001~028
-2. Act 2 `판정의 비용` EP029~058
-3. Act 3 `한 명이라는 숫자` EP059~088
-4. Act 4 `공개된 다음 날` EP089~122
-5. Act 5 `미래를 위해 현재를 뜯는 법` EP123~156
-6. Act 6 `두 고향` EP157~194
-7. Act 7 `도착은 판정이 아니다` EP195~230
+- **Maren Vale / 마렌 베일** — 41F, ordinary Seeded-Origin Continuity adjudicator; protects by deciding; mandatory recusal from own family adjudication
+- **Ella Vale / 엘라 베일** — 39F, reconstructed sister; Noah sole legal parent
+- **Noah Vale / 노아 베일** — 12M → ~26
+- **Raul Serra / 라울 세라** — rights advocate/lawyer
+- **Tomas Beck / 토마스 벡** — senior Continuity administrator
+- **Ines Rahman / 이네스 라만** — field Reconstruction evaluator
+- **Jun Imai / 준 이마이** — Old Quarter maintenance/co-op actor
+- **Amara Okoro / 아마라 오코로** — 45F, sole current Natural-Origin; ordinary water/reclamation worker
 
-Reveal sequence:
-- internal Count = EP056
-- public Count = EP058
-- Meaning complete = EP066
-- protected Amara confirmation = EP068
-- controlled public confirmation = EP075
-
-**Reveal 이후가 Reveal 이전보다 길다.**
-더 큰 ontology twist를 후반에 추가하지 않는다.
+Amara has no special power, admin key, sovereignty, settlement legitimacy, or reproductive duty.
 
 ---
 
-# 7. BLUEPRINT AUTHORITY
+# 4. ACT / REVEAL LOCKS
 
-Writing phase 구조 실행 기준:
+1. Act1 EP001~028 `돌아온 사람들의 자리`
+2. Act2 EP029~058 `판정의 비용`
+3. Act3 EP059~088 `한 명이라는 숫자`
+4. Act4 EP089~122 `공개된 다음 날`
+5. Act5 EP123~156 `미래를 위해 현재를 뜯는 법`
+6. Act6 EP157~194 `두 고향`
+7. Act7 EP195~230 `도착은 판정이 아니다`
+
+Reveal:
+- internal Count EP056
+- public Count EP058
+- Meaning complete EP066
+- protected Amara confirmation EP068
+- controlled public confirmation EP075
+
+No later bigger ontology twist.
+
+---
+
+# 5. BLUEPRINT AUTHORITY
+
+Active:
 - `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md`
-- `...ACT2-v0.1.md`
-- `...ACT3-v0.1.md`
-- `...ACT4-v0.1.md`
-- `...ACT5-v0.1.md`
-- `...ACT6-v0.2.md` **(v0.1 superseded)**
-- `...ACT7-v0.1.md`
+- `docs/writing-ready/EPISODE-BLUEPRINT-ACT2-v0.1.md`
+- `docs/writing-ready/EPISODE-BLUEPRINT-ACT3-v0.1.md`
+- `docs/writing-ready/EPISODE-BLUEPRINT-ACT4-v0.1.md`
+- `docs/writing-ready/EPISODE-BLUEPRINT-ACT5-v0.1.md`
+- `docs/writing-ready/EPISODE-BLUEPRINT-ACT6-v0.2.md` — v0.1 superseded
+- `docs/writing-ready/EPISODE-BLUEPRINT-ACT7-v0.1.md`
 - `docs/writing-ready/EPISODE-BLUEPRINT-PASS2-NORMALIZATION-v0.1.md`
 
-M1 Time/Age Harness가 exact execution clock authority다.
+M1 Time/Age Harness = exact execution-clock authority.
 
-각 화에서 반드시 보존:
-- immediate desire/problem
-- pressure
-- choice/action
-- reader reward
-- irreversible consequence
-- information transaction
-- relationship turn
-- hook
-- next carry
+Every episode preserves:
+problem / pressure / choice / reward / irreversible consequence / information transaction / relationship turn / hook / next carry.
 
-`Case → Investigation → Solution → Reset` 금지.
+No `Case → Investigation → Solution → Reset` loop.
 
 ---
 
-# 8. PROSE EXECUTION AUTHORITY
+# 6. PROSE EXECUTION AUTHORITY
 
-Locked protocol:
-`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.md`
+Current protocol:
+**`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`**.
+
+`v1` is superseded for POV-share diagnostics.
+Its early `Maren ~45~60%` soft estimate was invalidated by full 230-episode causal mapping.
 
 Selected model:
-`PEP-H1R — Causal-Owner Single-POV Close Third + Maren Series Anchor + Act-Ahead POV Mapping`
+**PEP-H1R + POV-H1R — Causal-Owner Single-POV Close Third + Maren-Led Plurality Anchor**.
 
-Hard default:
-- 한 화 = 한 POV
-- 근접 3인칭 제한시점
-- 장면 중 head hopping 금지
-- Primary Actor가 자동 POV는 아님
-- irreversible choice / immediate cost / information fairness를 우선해 POV 선택
-- 동률이면 마렌 우선
-- 마렌은 시리즈 전체 최대 단일 POV 소유자
+Hard rules:
+- one POV per episode
+- close-third limited
+- no mid-episode head hopping
+- Primary Actor ≠ automatic POV
+- choose by irreversible choice / immediate cost / information fairness
+- tie → prefer Maren
+- never choose POV only to explain information
 
-Act 1 POV authority:
-`docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
+## Maren Anchor
+This is not a majority-POV novel.
+Maren is the primary series anchor in a true ensemble.
 
-Act 1 POV QA:
-`docs/qa/ACT1-POV-MAP-MINI-QA-v1.md = PASS`
+Full map:
+- Maren **45**
+- Ella 27
+- Amara 25
+- Noah 17
+- Raul 17
+- others lower
 
-Act 1 final distribution:
-- Maren 13/28
-- Ella 5/28
-- Noah 4/28
-- Jun 3/28
-- Raul 2/28
-- Ines 1/28
+Maren is plurality owner in Acts **1, 2, 5, 6, 7**.
+Intentional local owners:
+- Act3 = Amara
+- Act4 = Ella
 
-EP005 = Maren POV, Ines owns the medical action.
-EP013 = Ines POV for mundane Seed completion record handling.
-
----
-
-# 9. READER PROMISE
-
-20화 / 100화 / 200화 / 229화에서도 유지:
-1. 닫힌 문명 안의 구체적 생활.
-2. 한 사람의 연속성/가족 문제에서 세계규칙이 드러남.
-3. 관계는 진실 때문에 자동 무효화되지 않고 변화함.
-4. 선택은 다음 화/다음 Act의 사회·자원·관계 후폭풍을 남김.
-5. 비밀 payoff는 새로운 행동을 연다.
-6. 개인판정이 후반 문명선택으로 확장되어도 사람과 관계가 중심이다.
+Maren owns EP001 / EP056 / EP120 / EP145 / EP216 / EP229 / EP230.
+Never steal another character's episode only to raise Maren percentage.
 
 ---
 
-# 10. P1 EXECUTION GUARDRAILS
+# 7. POV MAP AUTHORITY
 
-1. 초반 20화에서 제목 약속을 너무 숨기지도, 설명으로 망치지도 않는다.
-2. legacy `Human`이 말장난처럼 느껴지지 않게 factual wording과 즉시 의미설명을 지킨다.
-3. 아마라가 반복적으로 `난 상징이 아니야`만 말하지 않는다.
-4. Act 5는 공학/기관 설명보다 사람의 선택과 손실로 읽혀야 한다.
-5. Human Settler 갈등은 갑툭튀 고대법이 아니라 이미 알려진 legal stack의 operational translation 문제다.
-6. insertion은 재난 없이도 물리적·감정적·사회적 climax여야 한다.
-7. 모든 인물이 같은 작가/AI 목소리로 똑똑하게 말하지 않는다.
-8. notification/report hook 반복을 피한다.
-9. jargon spike를 관리한다.
-10. 밀집 구간에도 downtime/humor가 완전히 사라지지 않는다.
-11. EP001~009의 다중 POV는 자연스러운 orientation으로 혼란을 막는다.
+All 230 episodes mapped:
+- `ACT1-EXECUTION-POV-MAP-v1.md`
+- `ACT2-EXECUTION-POV-MAP-v1.md`
+- `ACT3-EXECUTION-POV-MAP-v1.md`
+- `ACT4-EXECUTION-POV-MAP-v1.md`
+- `ACT5-EXECUTION-POV-MAP-v1.md`
+- `ACT6-EXECUTION-POV-MAP-v1.md`
+- `ACT7-EXECUTION-POV-MAP-v1.md`
 
----
+Final regression:
+`docs/qa/ALL-ACTS-POV-LOCK-QA-v1.md = PASS`.
 
-# 11. ANTI-AI PROSE RULES
+POV architecture blocking P0 = **0**.
 
-- 설명을 위해 인물이 서로 이미 아는 내용을 대화하지 않는다.
-- 모든 대사가 완벽한 논지/반론 구조를 갖지 않는다.
-- 사소함, 실수, 오해, 피곤함, 유머, 생활욕망을 허용한다.
-- 인물별 감정 회피방식/관찰대상/문장 리듬을 지킨다.
-- 장면마다 철학적 의미를 부여하지 않는다.
-- 생활 디테일 대부분은 복선이 아니다.
-- 추상어보다 행동/물건/시간손실/동선/관계손실을 우선한다.
-- ordinary imperfection을 회차별 체크리스트 토큰처럼 강제로 넣지 않는다.
+POV changes before prose require local causality/info-fairness QA.
+Full-series anchor changes require new regression.
 
 ---
 
-# 12. AFTER-DRAFT QA
+# 8. READER PROMISE
 
-각 화 집필 후 `PROSE-EXECUTION-PROTOCOL-v1.md` 기준으로 확인:
-
-## Blueprint
-- primary choice 보존?
-- irreversible consequence 보존?
-- next carry 보존?
-
-## Canon
-- silent new rule 없음?
-- forbidden technology/authority 없음?
-
-## POV
-- 한 POV 유지?
-- knowledge boundary 유지?
-
-## Voice
-- 다른 인물 이름으로 바꿔도 같은 문장인가?
-
-## Exposition / Hook / Anti-AI
-- 설명만 하는 문단?
-- random notification hook?
-- 대사가 너무 완벽/대칭적?
-- 모든 디테일이 지나치게 의미심장?
-
-Canon-impact failure면 **STOP**하고 change control.
-
-5화마다 batch QA, Sub-Act/Act 종료마다 baseline/Reader Promise QA를 한다.
+At EP20 / 100 / 200 / 229:
+1. concrete ordinary life inside a closed civilization
+2. continuity/family cases expose world rules
+3. relationships change without being erased by truth
+4. choices create later social/resource/relationship consequences
+5. mystery payoff opens new action
+6. civilization-scale choices stay human-scale and relational
 
 ---
 
-# 13. CHANGE CONTROL
+# 9. ACTIVE P1 EXECUTION GUARDRAILS
 
-Blueprint 안에서 Canon을 건드리지 않는 장면 순서/표현/소소한 이름은 조정 가능.
-
-다음이 바뀌면 `docs/change-log.md` 기록 + Canon-impact review 필수:
-- 세계물리/의료/출생/복원규칙
-- 핵심인물 origin/가족관계/core flaw
-- Reveal 사실/순서/대형 timing
-- Act 순서/Ending architecture
-- old law의 실제 권한범위
-- Amara의 역할/권한
-
-새 P0가 발견되면 해당 Freeze를 재개방한다.
+1. first-20 title-promise balance
+2. legacy Human semantic-cheat perception
+3. Amara behavior/speech repetition
+4. Act5 engineering/institution density
+5. Human Settler contrivance perception
+6. insertion climax without disaster gimmick
+7. same-writer/perfect-agent dialogue
+8. notification/report hook repetition
+9. jargon spikes
+10. downtime/humor absence
+11. early POV orientation
+12. Act2 Count six-POV relay continuity
+13. Act3 Meaning stop-explaining rule
+14. Act4 seven-Ella run action/location variation
+15. Act5 specialist POV density
+16. Act6 young voices visibly age
+17. Act7 first-new-days not twelve epilogues
+18. Maren returns feel like home base, not percentage maintenance
+19. EP230 no author thesis
 
 ---
 
-# 14. CURRENT NEXT ACTION
+# 10. ANTI-AI PROSE RULES
 
-구조적 선행작업은 모두 완료됐다.
+- no dialogue explaining facts everyone present already knows
+- no perfect thesis/counterthesis/synthesis exchange
+- allow tiredness, mistakes, selfishness, awkwardness, humor, irrelevant preference
+- characters need not understand themselves correctly
+- character voices differ by attention lens, not catchphrase
+- most ordinary details are not clues
+- prefer action/object/time loss/movement/relationship loss over abstraction
+- specialist POV must still contain real choice/cost if technical explanation is cut in half
 
-**EP001 본문은 사용자가 명시적으로 집필을 요청할 때 시작할 수 있다.**
+---
 
-그때 반드시:
-1. EP001 Blueprint를 읽는다.
-2. Act1 POV Map에 따라 Maren POV를 사용한다.
-3. `PROSE-EXECUTION-PROTOCOL-v1.md`를 따른다.
-4. 초고 작성 후 Episode QA를 수행한다.
-5. accepted manuscript/progress를 GitHub에 동기화한다.
+# 11. AFTER-DRAFT QA
 
-사용자가 본문을 요청하지 않았다면 자동으로 소설 장면을 생성하지 않는다.
+Every episode:
+- Blueprint choice/consequence/carry preserved?
+- Canon intact?
+- one POV + knowledge boundary?
+- voice distinct?
+- explanation-only paragraph?
+- consequence-driven hook?
+- dialogue too symmetric/complete?
+- every detail too meaningful?
+
+Canon-impact failure = **STOP**, log change, review Freeze impact.
+
+Every 5 episodes:
+reward/hook / location / voice / jargon / Maren-anchor continuity / ordinary-life absence.
+
+Every Sub-Act:
+baseline/payoff/causal-next-pressure.
+
+Every Act:
+Reader Promise / P1 / Canon / Maren anchor regression.
+
+---
+
+# 12. MANUSCRIPT HARD STOPS
+
+Stop if prose requires:
+- adult origin scanner
+- Seed memory/personality/command programming
+- anchorless adult restoration
+- Amara sovereignty/admin key
+- mass citizenship erasure
+- central AI dictatorship
+- bigger ontology twist
+- Maren family adjudication
+- civil-grid propulsion theft
+- instant mature colony
+- free perfect third way
+
+---
+
+# 13. CURRENT NEXT ACTION
+
+All structural, Writing Ready and POV prerequisites for EP001 are complete.
+
+If user explicitly requests manuscript:
+1. read EP001 card
+2. read Protocol v1.1
+3. use Act1 POV Map → **Maren POV**
+4. draft EP001
+5. run after-draft QA
+6. sync accepted manuscript/progress to GitHub
+
+If user only says `이어서`:
+do not auto-write scenes. Continue only useful execution-support/QA work.
