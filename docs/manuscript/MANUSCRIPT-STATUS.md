@@ -14,16 +14,18 @@ Only `manuscript/accepted/` + this ledger count as completed manuscript.
 
 - `ENCYCLOPEDIC DEEP DESIGN v2 = COMPLETE / PASSED — 2026-08-18`
 - `ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`
+- `CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`
 - **`MANUSCRIPT DRAFTING = READY / NOT STARTED`**
 
-Freeze authority:
-1. `canon/v2/00-CANON-v2-INDEX.md`
-2. `canon/v2/CANON-v2-FREEZE-MANIFEST.md`
-3. relevant frozen v2 domain module
-4. delegated locked execution authorities.
+Official Canon authority for drafting:
+1. `canon/WORLD_BIBLE-v2.md`
+2. `canon/CHARACTER_BIBLE-v2.md`
+3. `canon/ACT_BIBLE-v1.md`
+4. `canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md` for its narrow domains
+5. active Blueprint / POV / M1 / Deep Cards / Context Manifest
+6. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`.
 
-The previous worldbuilding/completeness block is lifted.
-No prose has been created by this gate change.
+**`canon/v2/` is RETRACTED / NON-CANON design history and must never be loaded as normative manuscript context.**
 
 ---
 
@@ -66,37 +68,34 @@ Current state:
 
 # EP001 Execution Contract
 
-When EP001 drafting is explicitly started, load in this order:
+When EP001 drafting is explicitly started, retrieve in this order:
 
-1. `canon/v2/00-CANON-v2-INDEX.md`
-2. `canon/v2/CANON-v2-FREEZE-MANIFEST.md`
-3. only EP001-relevant frozen domain slices from:
-   - `WORLD-CORE-v2.md`
-   - `SOCIETY-v2.md`
-   - `CULTURE-DAILY-LIFE-v2.md`
-   - `INFRASTRUCTURE-OPERATIONS-v2.md`
-   - `HISTORY-v2.md` only if exact scene needs history
-   - `DESTINATION-ARRIVAL-v2.md` only if exact scene needs arrival context
-   - `CHARACTERS-v2.md`
-   - `STORY-ARCHITECTURE-v2.md`
-   - `QUANTITATIVE-BANDS-v2.md` only where physical/age scale matters
-4. `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md` — exact EP001 card
-5. `docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
-6. `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
-7. applicable Deep Card if any
-8. `docs/narrative-engineering/episodes/EP-001.md`
-9. relevant incoming carry / future constraint from Package G
-10. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
-11. style/QA rules.
+1. `CLAUDE.md`
+2. `canon/WORLD_BIBLE-v2.md` — only EP001-relevant sections
+3. `canon/CHARACTER_BIBLE-v2.md` — Maren/Ella/Noah and relevant support only
+4. `canon/ACT_BIBLE-v1.md` — Act1 macro limits
+5. `canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md` only if an Amendment-A domain is actually relevant to the episode
+6. `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md` — exact EP001 card
+7. `docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
+8. `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
+9. applicable locked Deep Card if any
+10. `docs/narrative-engineering/episodes/EP-001.md`
+11. relevant incoming carry / future author constraint from Package G
+12. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
+13. style/QA rules.
+
+Do NOT load:
+- experimental `canon/v2/` as Canon,
+- superseded Act6 v0.1,
+- the entire encyclopedia when a narrow Context Pack is enough.
 
 Hard:
 - one POV per episode
-- do not leak AUTHOR future knowledge into POV
-- do not load the entire encyclopedia by default
+- AUTHOR future knowledge must not leak into POV
 - Sub-Act candidate device ≠ episode exposure
-- do not invent a new major world rule in prose
-- Elastic details must stay inside `CANON-v2-ELASTIC-REGISTRY.md`
-- any recurring/causal new fact must be logged/promoted before accepted manuscript status.
+- no new major world rule invented during prose
+- C2 details must stay inside official World/Character/Amendment constraints
+- any recurring/causal new fact must be logged and passed through Change Control before accepted status.
 
 ---
 
@@ -116,6 +115,19 @@ Hard:
 
 ---
 
+# Official Character Name Guardrail
+
+Use latest `canon/CHARACTER_BIBLE-v2.md` names where those support roles appear:
+- Eli Rhee
+- Dalia Diniz
+- Nadia Idris
+- Abeni Okoro
+- Hana Wu.
+
+Do not resurrect superseded experimental support names.
+
+---
+
 # Package G Retrieval State
 
 - Registry covers EP001~230
@@ -127,14 +139,14 @@ Hard:
 
 # Acceptance Rule
 
-A draft does not count when merely generated.
+A generated draft does not count as completed.
 
 Progress counts only after:
 1. work draft
 2. prose/voice/continuity QA
 3. Canon/reveal/knowledge-fence QA
 4. required revision
-5. accepted copy placed under `manuscript/accepted/`
+5. accepted copy under `manuscript/accepted/`
 6. this ledger updated.
 
 Accepted remains **0 / 230** until that pipeline is actually completed.
@@ -147,4 +159,4 @@ Eligible next action:
 **EP001 manuscript execution**, only when the user explicitly requests it.
 
 Until then:
-`READY / NOT STARTED / 0 of 230`.
+# `READY / NOT STARTED / 0 of 230`.
