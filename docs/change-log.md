@@ -39,17 +39,7 @@ This file continues from CHG-033.
 
 ## CHG-036 — Package A Society Bible 전 영역 Deep Design + 통합 Red Team 완료
 - Date: 2026-08-17
-- New:
-  - GOV-H1
-  - CJ-H1
-  - ECO-H1
-  - PROP-H1
-  - LAB-H1
-  - FAM-H1
-  - EDU-H1
-  - MED-H1
-  - DEATH-H1
-  - `SOCIETY-BIBLE-v0.1.md`
+- New: GOV-H1 / CJ-H1 / ECO-H1 / PROP-H1 / LAB-H1 / FAM-H1 / EDU-H1 / MED-H1 / DEATH-H1 / integrated Society Bible.
 - Integrated blocking P0: 0
 - Status: `PACKAGE A STRUCTURAL DEEP DESIGN PASS / NOT CANON`
 
@@ -57,68 +47,85 @@ This file continues from CHG-033.
 
 ## CHG-037 — Package B Culture & Daily Life 전 영역 Deep Design + 통합 Red Team 완료
 - Date: 2026-08-17
-- Change Location: Encyclopedic v2 / lived culture / ordinary daily life
-- Previous:
-  - core setting had strong technical/social premise but many ordinary cultural domains were incomplete: language drift, belief, calendar, actual cuisine, clothing, hygiene, media, leisure, intimacy and ship-born identity.
 - New:
-  - ten provisional cultural models selected after design comparison + hostile QA:
-    1. `LNG-H1 — Evolved Ship Common + Heritage Language Ecology + Translation Assist`
-    2. `REL-H1 — Plural Inherited Traditions + Secular Life + Ship-Born Civic Rituals + Small New Movements`
-    3. `CAL-H1 — Synchronized Earth-Descended Civil Time + Voyage-Epoch Archival Time + Ship-Born Observance Calendar`
-    4. `FOOD-H1 — Closed-Loop Staples + Heritage Recipe Lineages + Ship-Born Adaptation + Real Hospitality Market`
-    5. `CLO-H1 — Recognizable Civilian Fashion + Closed-Loop Textiles + Specialized Workwear + Selective Wearables`
-    6. `DOM-H1 — Urban Comfort + High-Efficiency Closed Loops + Repairable Domestic Systems + Selective Automation`
-    7. `MEDIA-H1 — Public-Service Information + Plural Journalism/Creators + Interoperable Social Layer + Bounded Recommenders`
-    8. `ENT-H1 — Layered Heritage + Ship-Born Creative Canon + Live/Physical Culture + Bounded Immersion`
-    9. `INT-H1 — Plural Adult Intimacy + Strong Consent/Privacy + Reproduction Decoupled From Partnership`
-    10. `ID-HOME-H1 — Meridian-Home Majority + Layered Heritage + Contested Mission Memory + Plural Arrival Futures`
-  - integrated `CULTURE-DAILY-LIFE-BIBLE-v0.1.md` created.
-  - integrated Package B hostile QA completed with blocking P0 = 0.
-  - ordinary rest-day / child / elder daily-life prototypes pass structurally without new Package-B-scale invention.
+  - LNG-H1 language
+  - REL-H1 religion/ritual
+  - CAL-H1 civil/voyage time
+  - FOOD-H1 cuisine/hospitality
+  - CLO-H1 clothing/fashion
+  - DOM-H1 domestic life
+  - MEDIA-H1 media/social networks
+  - ENT-H1 entertainment/art/sport
+  - INT-H1 intimacy/social norms
+  - ID-HOME-H1 Meridian-home identity
+  - integrated `CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
+- Integrated blocking P0: 0
+- Status: `PACKAGE B STRUCTURAL DEEP DESIGN PASS / NOT CANON`
+
+---
+
+## CHG-038 — Package C Infrastructure & Operations 전 영역 Deep Design + 통합 Red Team 완료
+- Date: 2026-08-17
+- Change Location: Encyclopedic v2 / physical city / infrastructure / automation / information / operations
+- Previous:
+  - Core Canon had ship-scale engineering, three Habitats, living-world ranges, civil power/heat/ecology, but lacked reference-grade everyday infrastructure architecture.
+  - Package B assumed normal homes/showers/media/leisure but exact physical implementation was open.
+- New:
+  - ten provisional Infrastructure models selected after 4-design comparison + hostile QA:
+    1. `URB-H1 — Compartmented Mixed-Use City + Layered Retrofit + Local Public Realms`
+    2. `TRANS-H1 — Walkable Polycentric Habitats + Local Trunks + Spine Express + Separated Freight`
+    3. `UTIL-H1 — Hierarchical Commons Loops + District Isolation + Domestic Abstraction`
+    4. `EMG-H1 — Layered Incident Command + Automatic Physical Safeties + Human Escalation`
+    5. `AI-H1 — Federated Domain Intelligence + Bounded Personal Agents + Heavy Tool Automation + Human Accountability`
+    6. `NET-H1 — Redundant Civic Backbone + Segmented Critical Domains + Permissioned Gateways + Local Fallback`
+    7. `ARC-H1 — Federated Current Registries + Deep Versioned Archives + Curated Knowledge Commons + Protected Provenance Layers`
+    8. `OPS-H1 — Commons Asset Ownership + Mixed Skilled Workforce + Predictive Maintenance + Formal Work Control`
+    9. `MAP-H1 — Dual Civic / Engineering Overlay + Landmark Graph + Travel-Time Matrix`
+    10. `BIO-PET-H1 — Selective Companion Species + Managed Breeding + Veterinary Commons + Genetic Conservation + Strong Biosecurity`
+  - integrated `INFRASTRUCTURE-OPERATIONS-BIBLE-v0.1.md` created.
+  - integrated hostile QA completed with blocking P0 = 0.
+- Major results:
+  - ~120k–130k household city is structurally compatible with current ship scale.
+  - Civic Floor housing does not erase market differences in space/location/privacy.
+  - 60–120m cross-Habitat travel is preserved as realistic door-to-door multi-leg travel.
+  - normal showers/cooking/laundry coexist with highly efficient closed-loop water/thermal systems.
+  - most utility/transit incidents remain local through layered isolation; serious cascades remain possible.
+  - emergency authority is hazard-scoped and time-limited.
+  - no central sovereign ship AI / no universal citizen score / no autonomous civic adjudication or lethal policing.
+  - critical networks are segmented and locally survivable.
+  - archives preserve old schemas/provenance without a single master truth database.
+  - Count aggregate and identity access are architecturally separated, preserving Amara privacy/re-identification logic.
+  - permanent maintenance/fabrication/calibration/training institutions explain 450-year survivability.
+  - civic map and engineering isolation map coexist as separate overlays.
+  - selected companion species are plausible while broader biodiversity is primarily genetically archived.
 - Reason:
-  - user's quality bar requires the setting bible itself to function as a complete world reference before prose.
-  - the society must feel like a 450-year civilian civilization, not only a story-critical legal/engineering framework.
-- Trigger / Evidence:
-  - direct continued user instruction.
-  - `docs/design-v2/CULTURE-*-4-DESIGNS-v0.1.md`
-  - matching `docs/qa/CULTURE-*-RED-TEAM-v0.1.md`
-  - `docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
-  - `docs/qa/CULTURE-DAILY-LIFE-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
+  - user's encyclopedic standard requires arbitrary infrastructure/daily/emergency scenes to work without inventing major rules during prose.
 - Characters Affected:
-  - no locked arc changed.
-  - Noah's zero-g sport/media/music/game life receives a plausible cultural base.
-  - Ella's hospitality/food co-op receives actual cuisine/hospitality ecology.
-  - Amara's shift work gains shift-time/food/media/home context.
-  - all cast can later receive individualized language/belief/taste/clothing/hobby/media/home routines in Package F.
+  - Amara's water/reclamation work gains realistic automation/operator role.
+  - Jun's contractor/co-op maintenance role gains asset/inspection/work-control framework.
+  - Kai's Spine logistics apprenticeship gains real routing/exception/hazard work.
+  - Noah's school/residential/transit/sport environment gains physical implementation.
+  - no character arc changed.
 - Acts Affected:
-  - all Acts gain daily-life and cultural texture only.
-  - Count media diffusion/re-identification path strengthened without altering reveal timing.
-  - arrival/ship-home choices gain cultural weight without changing ending.
+  - Act 1 Spine delay/Old Quarter/2환 scenes physically supported.
+  - Acts 2–4 archive/privacy/Count/re-identification infrastructure supported.
+  - Act 5 strategic spares/thermal/maintenance conflicts strengthened.
+  - Acts 6–7 relocation/arrival logistics supported.
+  - no Act timing/reveal/ending change.
 - Foreshadowing Affected:
-  - no new ontology clue.
-  - recurring cultural/place/object details are not automatically Chekhov devices.
+  - no new ontology device.
+  - infrastructure/object recurrence remains distinct from narrative-device tagging.
 - World Rules Affected:
-  - provisional expansion of everyday culture only; core v1 remains unchanged.
-- Key Guardrails:
-  - Korean prose is natural translation convention; no faux translated-English cadence.
-  - translation tools cannot solve institutional semantic drift.
-  - no single religion owns Seed/Natural truth.
-  - 24h/7d/Earth-derived civil calendar retained as infrastructure; ship-born observances evolve.
-  - citizens eat real cuisine, not default nutrient paste.
-  - civilians wear fashion, not universal jumpsuits.
-  - closed-loop sustainability is built into domestic infrastructure, not daily misery.
-  - no single media feed or perfect truth AI.
-  - Earth archive does not erase 450 years of Meridian-created culture.
-  - population capacity does not justify regulation of private adult intimacy.
-  - Meridian is actual home; surface is not automatically more authentic.
-- Documents Created/Repaired:
-  - all Package B design/QA files listed in `docs/current-work-status.md`
-  - `docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
-  - `docs/qa/CULTURE-DAILY-LIFE-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
+  - provisional expansion only; Core v1 propulsion/Seed/Reconstruction/rights remains unchanged.
+- Key documents:
+  - `docs/design-v2/INFRA-*-4-DESIGNS-v0.1.md`
+  - matching `docs/qa/INFRA-*-RED-TEAM-v0.1.md`
+  - `docs/design-v2/INFRASTRUCTURE-OPERATIONS-BIBLE-v0.1.md`
+  - `docs/qa/INFRASTRUCTURE-OPERATIONS-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
   - `docs/current-work-status.md`
 - Status:
-  - `PACKAGE B STRUCTURAL DEEP DESIGN = PASS`
-  - `PACKAGE B CANON v2 PROMOTION = BLOCKED BY C/D/E/F DEPENDENCIES`
+  - `PACKAGE C STRUCTURAL DEEP DESIGN = PASS`
+  - `PACKAGE C CANON v2 PROMOTION = BLOCKED BY D/E/F + QUANTITATIVE QA`
   - `MANUSCRIPT = BLOCKED`
 
 ---
@@ -136,7 +143,7 @@ If new material contradicts v1:
 - identify affected Character / Act / Foreshadow / World rules
 - regression-test affected Episode Cards.
 
-Package A/B/C-M and Package G map layer remain provisional until v2 cross-package integration.
+Packages A/B/C/C-M and Package G map layer remain provisional until v2 cross-package integration.
 
 Do not draft manuscript until:
 `ENCYCLOPEDIC CANON FREEZE v2 = PASSED`.
