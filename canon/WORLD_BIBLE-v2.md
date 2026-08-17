@@ -1,18 +1,20 @@
 # WORLD BIBLE v2
 
-Status: `ENCYCLOPEDIC CANON v2 CANDIDATE — FINAL REGRESSION PENDING`
+Status: `CANON — ENCYCLOPEDIC CANON FREEZE v2 PASSED — 2026-08-18`
 Date: 2026-08-18
 Project: 《우주선에는 인간이 한 명뿐이다》
 
-This file consolidates:
+This file consolidates and supersedes for world-setting authority:
 - `WORLD_BIBLE-v1.md`
 - Packages A~E / C-M
 - Package H Reference Atlas constraints
 - Package I Completeness Harness results
 - P1 closure documents dated 2026-08-18.
 
-Until final regression passes, v1 remains formal Canon.
-After Freeze v2, this file supersedes `WORLD_BIBLE-v1.md` for world-setting authority.
+Freeze authority:
+`docs/qa/ENCYCLOPEDIC-CANON-v2-FINAL-RED-TEAM.md` → `PASS / P0=0 / blocking P1=0`.
+
+`WORLD_BIBLE-v1.md` remains historical/superseded reference only.
 
 Story-event authority remains:
 `ACT_BIBLE-v1 → active Episode Blueprint → locked POV Map → M1 Time/Age`.
