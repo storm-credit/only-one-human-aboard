@@ -132,9 +132,32 @@ CHG-001~026 전체 원문은 Git의 immutable blob에 보존되어 있다.
 
 ---
 
+### CHG-031 — Prose Execution Protocol + Act 1 POV Map 잠금
+- Date: 2026-08-17
+- Change Location: Manuscript execution architecture / POV
+- Previous: Writing Ready는 통과했지만 실제 본문에서 사용할 POV/person, narrative distance, exposition/jargon, hook, dialogue, anti-AI QA와 Act 1 화별 POV가 미확정.
+- New:
+  - 4개 실행안 비교 후 `PEP-H1R — Causal-Owner Single-POV Close Third + Maren Series Anchor + Act-Ahead POV Mapping`을 잠금.
+  - 기본은 한 화 한 POV의 근접 3인칭 제한시점, mid-episode head hopping 금지.
+  - Primary Actor가 자동 POV는 아니며 irreversible choice / immediate cost / information fairness를 우선한다.
+  - 마렌은 시리즈 최대 단일 POV 소유자이나 고정 쿼터는 두지 않는다.
+  - Act 1 EP001~028 POV Map 확정: Maren 13 / Ella 5 / Noah 4 / Jun 3 / Raul 2 / Ines 1.
+  - 초기안은 EP001~009에 6개 POV가 등장하는 P1이 있어 EP005를 Ines→Maren, EP013을 Maren→Ines로 교환. 총분포는 유지하면서 첫 9화 POV owner를 5명으로 줄이고, Seed completion record를 의료전문가의 평범한 시선으로 처리하도록 개선.
+  - Act 1 POV mini QA 결과 blocking P0 = 0.
+- Reason: 마렌의 주인공 중력과 비마렌 캐릭터의 독립 인과성을 동시에 살리고, Reveal 정보공정성 및 same-writer/AI-like dialogue 위험을 줄이기 위해.
+- Trigger / Evidence: `PROSE-EXECUTION-PROTOCOL-4-DESIGNS-v0.1.md`, `PROSE-EXECUTION-PROTOCOL-RED-TEAM-v1.md`, `ACT1-EXECUTION-POV-MAP-v1.md`, `ACT1-POV-MAP-MINI-QA-v1.md`.
+- Characters Affected: Maren/Ella/Noah/Raul/Ines/Jun/Amara 및 이후 모든 POV 후보.
+- Acts Affected: 전체 execution protocol; Act 1 exact POV map.
+- Foreshadowing Affected: 정보공개/관찰자 선택, 특히 Seed/old-origin/C8 pre-Reveal fairness.
+- World Rules Affected: 없음; execution-only. Canon truth unchanged.
+- Documents Repaired: `CLAUDE.md`, `canon/CANON_STATUS.md`, `docs/current-work-status.md`, `docs/writing-ready/WRITING-READY-CHECKLIST-v1.md`, Prose Protocol/Act1 POV/QA 문서, `docs/NEXT-CHAT-HANDOFF.md`.
+- Status: `PROSE EXECUTION PROTOCOL = LOCKED / ACT 1 POV MAP = PASS / EP001 READY ON EXPLICIT REQUEST`
+
+---
+
 # Current Change-Control Rule
 
-이제 Story/Canon은 Frozen이다.
+Story/Canon은 Frozen이다.
 본문 실행 중 아래를 바꾸려면 새 CHG 항목 + Canon-impact review가 필요하다.
 
 - world physics / Seed / Reconstruction / reproduction
@@ -143,5 +166,7 @@ CHG-001~026 전체 원문은 Git의 immutable blob에 보존되어 있다.
 - Act order / Ending architecture
 - arrival-law authority range
 - Amara authority or identity meaning
+
+실행 POV, 문장표현, minor names 같은 비-Canon 조정은 Prose Protocol 범위 안에서 가능하지만 정보시점/인과를 바꾸면 별도 QA한다.
 
 새 blocking P0가 발견되면 관련 Freeze를 재개방한다.
