@@ -1,7 +1,7 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
-> Rolling handoff — 2026-08-18.
-> **Core v1 stable. Encyclopedic Deep Design v2 active. Packages A~G structural/design PASS with P0=0. H/I remain. Manuscript BLOCKED.**
+> Rolling handoff — 2026-08-18 final design state.
+> **Encyclopedic Deep Design COMPLETE. Canon Freeze v2 PASSED. Manuscript READY / NOT STARTED. Accepted 0/230.**
 
 ---
 
@@ -15,199 +15,273 @@ Read first:
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `canon/CANON_STATUS.md`
-5. `docs/change-log.md`
-6. `canon/WORLD_BIBLE-v1.md`
-7. `canon/CHARACTER_BIBLE-v1.md`
-8. `canon/ACT_BIBLE-v1.md`
+5. **`canon/WORLD_BIBLE-v2.md`**
+6. **`canon/CHARACTER_BIBLE-v2.md`**
+7. **`canon/ACT_BIBLE-v1.md`**
+8. `docs/manuscript/MANUSCRIPT-STATUS.md`
+9. `docs/change-log.md`
+10. `docs/reference-atlas/00-REFERENCE-MOC.md`
+11. `docs/narrative-engineering/00-NARRATIVE-MOC.md`
+12. `docs/narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md`
+13. `docs/qa/ENCYCLOPEDIC-CANON-v2-FINAL-RED-TEAM.md`
 
-Integrated v2 candidates:
-9. `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
-10. `docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
-11. `docs/design-v2/INFRASTRUCTURE-OPERATIONS-BIBLE-v0.1.md`
-12. `docs/design-v2/HISTORICAL-BIBLE-v0.1.md`
-13. `docs/design-v2/DESTINATION-ARRIVAL-BIBLE-v0.1.md`
-14. `docs/design-v2/CHARACTER-ENCYCLOPEDIA-v0.1.md`
-15. `docs/material-culture/00-MATERIAL-CULTURE-MOC.md`
-16. `docs/narrative-engineering/00-NARRATIVE-MOC.md`
-17. `docs/narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md`
-18. `docs/qa/NARRATIVE-ENGINEERING-FULL-MANIFEST-REGRESSION-v0.1.md`
+Historical/superseded:
+- `canon/WORLD_BIBLE-v1.md`
+- `canon/CHARACTER_BIBLE-v1.md`
 
-QA counterparts exist under `docs/qa/`.
+Do not use v1 World/Character as current authority.
+Act Bible v1 remains current because macro narrative did not change.
 
 ---
 
 # Global State
 
-- `CORE DESIGN FREEZE v1 = PASSED`
-- `CORE CANON FREEZE v1 = PASSED`
+- `CORE DESIGN FREEZE v1 = PASSED — 2026-08-17`
+- `CORE CANON FREEZE v1 = PASSED — 2026-08-17`
 - `STRUCTURAL WRITING READY = PASSED`
 - `EP001~230 BLUEPRINT = COMPLETE`
 - `EP001~230 POV = COMPLETE / PASS`
-- `ENCYCLOPEDIC DEEP DESIGN = IN PROGRESS`
-- `ENCYCLOPEDIC CANON FREEZE v2 = NOT PASSED`
-- `MANUSCRIPT = BLOCKED`
+- **`ENCYCLOPEDIC DEEP DESIGN = PASSED — 2026-08-18`**
+- **`PACKAGE A~I = PASS / P0=0`**
+- **`P1 CLOSURE = PASS / blocking P1=0`**
+- **`ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`**
+- **`MANUSCRIPT = READY / NOT STARTED`**
+- Accepted manuscript = **0/230**.
 
-Generic `진행/이어서` = continue Deep Design, never prose.
+Generic `진행/이어서` no longer means `continue Deep Design`; Deep Design is finished.
+Do not automatically write prose from a generic continuation if the current task is status/admin. Manuscript starts on explicit drafting/execution intent.
 
 ---
 
-# Package Status
+# Current Canon Authority
 
-## A — Society
-`STRUCTURAL PASS / P0=0 / NOT CANON`
-GOV-H1 / CJ-H1 / ECO-H1 / PROP-H1 / LAB-H1 / FAM-H1 / EDU-H1 / MED-H1 / DEATH-H1.
+## World
+`canon/WORLD_BIBLE-v2.md` — CANON.
 
-## B — Culture & Daily Life
-`STRUCTURAL PASS / P0=0 / NOT CANON`
-LNG-H1 / REL-H1 / CAL-H1 / FOOD-H1 / CLO-H1 / DOM-H1 / MEDIA-H1 / ENT-H1 / INT-H1 / ID-HOME-H1.
+Includes:
+- premise / Seed / Reconstruction
+- 450y history + selected historical anchors
+- governance / justice / economy / property / labor / family / education / medicine / death
+- data/privacy / AI
+- Meridian geography / infrastructure / Q-SHIP bands
+- culture / media / material culture / weapon grammar
+- destination / Q-DEST bands / biosecurity / arrival law / Year-1 scale
+- controlled elasticity / forbidden drifts / Reveal guardrails.
 
-## C — Infrastructure & Operations
-`STRUCTURAL PASS / P0=0 / NOT CANON`
-URB-H1 / TRANS-H1 / UTIL-H1 / EMG-H1 / AI-H1 / NET-H1 / ARC-H1 / OPS-H1 / MAP-H1 / BIO-PET-H1.
+## Characters
+`canon/CHARACTER_BIBLE-v2.md` — CANON.
 
-## C-M — Material Culture
-`STRUCTURAL + CHARACTER INTEGRATION PASS / FINAL H/I QA PENDING / NOT CANON`
-MC-H1 / CE-H1.
-Hard: Old ≠ powerful / Rare ≠ useful / no superweapon-founders-key-origin-scanner relic.
+Includes:
+- v1 C0 goals/flaws/voices/arcs/PR-H1
+- physical/home/finance/health/hobby/AI/object C1 anchors
+- 14-year household/life trajectories
+- Amara anti-clue rules
+- 14 stable-if-used C1 support anchors
+- latest name overrides
+- C2 reserve/support rules.
 
-## D — Historical Bible
-`STRUCTURAL PASS / P0=0 / NOT CANON`
-HIST-H1 / SRR-H1 / CIV-HIST-H1 / CUL-HIST-H1 / EC-H1.
-No replacement catastrophe, exact-one protocol, secret lineage, AI coup requirement or required Earth destruction.
+## Narrative
+`canon/ACT_BIBLE-v1.md` — ACTIVE.
 
-## E — Destination & Arrival
-`STRUCTURAL PASS / P0=0 / NOT CANON`
-PLAN-H1 / SYS-H1 / ARR-H1 / JUR-H1.
-Meridian survives; orbit/resource footholds first; small surface foothold; new habitat delayed; no Amara privilege.
+Act6 active Blueprint = **v0.2**.
+M1 = exact writing-ready time/age authority.
+POV maps remain locked.
 
-## F — Character Encyclopedia v2
-`STRUCTURAL PASS / P0=0 / NOT CANON`
+---
 
-Architecture:
-`CHAR-H1 — Core Lock / Scene Anchor / Controlled Elastic / Incidental`.
+# Locked Reveal / Story Anchors
 
-Completed:
-- Vale household
-- Okoro household
-- Raul/Tomas/Ines/Jun deepening
-- finances/housing/commute/culture/health/AI/device/object integration
-- 14-year Act6~7 regression
-- recurring support network + trim candidates
-- naming/phonetic micropass
-- integrated hostile QA.
+- EP056 — internal Count
+- EP058 — public Count
+- EP066 — Meaning complete
+- EP068 — protected Amara confirmation
+- EP075 — controlled public confirmation
+- EP112 — PR-H1 exact discovery begins
+- EP142~151 — Human Settler operational cluster
+- EP216 — insertion
+- EP230 — no thesis speech.
 
-Hard:
-- Amara has no pre-Reveal physical/taste/object clue.
-- final residence stays Controlled Elastic where Blueprint does not lock it.
-- no symbolic destiny symmetry.
+No bigger ontology twist later.
 
-## G — Narrative Engineering
-**`DESIGN PASS / EP001~230 REGISTRY 230/230 / P0=0 / NOT CANON`**
+POV core totals:
+- Maren 45
+- Ella 27
+- Amara 25
+- Noah 17
+- Raul 17
+- Jun 15
+- Tomas 13
+- Kai 13
+- Leo 12
+- Ines 10
+- Mina 5.
 
-Completed:
-- 7 Act nodes
-- 23 Sub-Act nodes
-- Device Atlas
-- CP-H1 Context Pack
-- knowledge fences
-- Act1 over-tag repairs
-- full 230-row Registry
-- full POV/Reveal/PR-H1/Human-Settler/Insertion/Shadow-Canon regression.
+---
 
-Important implementation distinction:
-- detailed individual manifest files physically exist EP001~028 only.
-- EP029~230 split is later mechanical implementation, not incomplete Deep Design.
+# Package G — Narrative Engineering / Obsidian
+
+Status:
+`PASS / 230/230 REGISTRY / P0=0`.
 
 Authority:
-`Canon → active Blueprint → locked POV → M1 → Deep Card → Registry → Sub-Act candidate map`.
+`Canon v2 → active Blueprint → locked POV → M1 → Deep Card → Context Registry → Sub-Act candidate map`.
 
 Hard:
-`Sub-Act candidate ≠ episode exposure`.
+**Sub-Act candidate device ≠ episode exposure.**
 
-Reveal locks:
-- EP056 Count internal
-- EP058 Count public
-- EP066 Meaning complete
-- EP068 protected Amara confirmation
-- EP075 public confirmation
-- EP112 PR-H1 exact discovery starts
-- EP142~151 Human Settler operational
-- EP216 insertion
-- EP230 no thesis speech.
+Detailed individual manifest examples exist EP001~028.
+EP029~230 individual file split is implementation only.
 
-## H — Reference Atlas
-**NEXT ACTIVE / NOT COMPLETE**
-
-## I — Final Completeness Harness
-NOT COMPLETE.
+Context Pack must preserve:
+AUTHOR / POV / PUBLIC / PROTECTED knowledge separation.
 
 ---
 
-# Core Canon Do-Not-Break
+# Package H — Reference Atlas
 
-- biological bodies/brains
-- Seed prenatal developmental prior only
-- no adult origin scanner
-- Recovery Map + surviving Neural Anchor
-- no anchorless adult restoration
-- current Natural-Origin active count = 1 = Amara
-- no exact-one/Witness protocol
-- no Habitat caste
-- no Amara sovereignty/admin/land/genetic/settler key
-- no mass citizenship erasure
-- no civil-grid propulsion theft
-- no instant mature colony
-- no larger late ontology twist
-- Maren cannot adjudicate own family
-- no central AI dictatorship
-- no alien/combat takeover.
+Status:
+`PASS / 13/13 REQUIRED VIEWS / P0=0`.
+
+Directory:
+`docs/reference-atlas/`
+
+Reference Atlas is navigation only.
+It may never override Canon/Blueprint/POV/M1.
+
+Important stale-name repair already caught by H:
+- Toma Rhee → Eli Rhee
+- Mara Diniz → Dalia Diniz
+- Sana Idris → Nadia Idris
+- Imani Okoro → Abeni Okoro
+- Leonie Wu → Hana Wu.
 
 ---
 
-# NEXT ACTIVE WORK — PACKAGE H REFERENCE ATLAS
+# Package I — Final Completeness Harness
 
-Purpose:
-Make A~G and core Canon searchable/inspectable without inventing a new authority layer.
+Status:
+`PASS / P0=0`.
 
-Workflow:
-`4 architecture designs → compare → Hybrid → hostile Shadow-Canon QA → build linked atlas`.
+Results:
+- deterministic ordinary-life/lifecycle/civic/emergency suites PASS
+- **20/20 arbitrary random scenes PASS**
+- final Canon/story regression PASS
+- post-consolidation spot regression PASS.
 
-Required outputs:
-1. Master Reference MOC
-2. glossary
-3. institution authority matrix
-4. Meridian civic map
-5. Meridian engineering/isolation overlay
-6. master timeline: 450y + 14y + arrival
-7. technology dependency matrix
-8. life-cycle flow
-9. authority / Canon / Candidate / Elastic / Superseded registry
-10. destination system atlas
-11. character social network map
-12. material-culture atlas
-13. episode-context index.
+P1 closure checkpoint:
+`docs/status/P1-CLOSURE-PASS-2026-08-18.md`
 
-Hard rules:
-- summaries link to authority; they are never authority themselves.
-- preserve Canon / v2 candidate / C2 elastic / superseded distinction.
-- old files remain historically accessible but superseded concepts must never resurrect through search.
-- citizen geography ≠ engineering isolation geography.
-- human-readable MOC + machine-readable fields may coexist.
-- plain Markdown/YAML/wikilinks must work without mandatory plugins.
+Blocking P1 remaining = **0**.
 
-After H:
-1. Package I Final Completeness Harness
-2. close P1 quantitative/micro gaps exposed by I
-3. consolidate WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 / status registry
-4. full Canon/episode regression
-5. `ENCYCLOPEDIC CANON FREEZE v2`
-6. only then manuscript READY.
+---
+
+# Key Quant / Policy Locks
+
+## Q-SHIP
+- Habitat radius 0.9–1.1 km
+- 5–7 km length order
+- ~0.9–1.0g main urban
+- ~0.9–1.0 rpm
+- internally compartmented pressure architecture
+- pressure/refuge/transfer/water/power/thermal/workforce/spare working bands.
+
+## Q-DEST
+- Epsilon Indi A real star anchor
+- rocky settlement world = fictional future mission-era discovery
+- ~0.50–0.54 AU / ~150–165d
+- ~0.93–1.02g / ~28–31h
+- ~85–110 kPa total pressure, O2 far below safe human breathing
+- breathing support outdoors / no routine pressure EVA
+- Meridian high planetocentric staging orbit
+- orbit/resource first, small surface foothold
+- ending simultaneous off-Meridian ~250–700 working band; Meridian >99% population center.
+
+## Policy
+- civil majority 18 + staged youth autonomy
+- purpose-class data retention/correction
+- closed-habitat weapon/tool tiers
+- strike right + minimum life-safety service
+- shared civic baseline + location/service nexus off-ship
+- contained-organism quarantine + outdoor release moratorium in ending window.
+
+---
+
+# Character Support — Current Names
+
+C1 stable-if-used:
+- Eli Rhee
+- Jae Kadir
+- Sami Dae
+- Rina Vos
+- Rosa Imani
+- Arun Salcedo
+- Dalia Diniz
+- Dev Afolayan
+- Nadia Idris
+- Tavi Morgan
+- Abeni Okoro
+- Mateo Varga
+- Lina Marquez
+- Hana Wu.
+
+C2 reserve:
+- Sorin Das
+- Yuna Bekele.
+
+Do not force screen time merely because a C1 name exists.
+
+---
+
+# Hard Stops
+
+Do NOT introduce without deliberate Canon reopening:
+- adult origin scanner
+- Seed memory/personality/command programming
+- anchorless adult restoration
+- exact-one/Witness protocol
+- Amara sovereignty/admin/land/genetic/settler key
+- mass citizenship erasure
+- central AI dictatorship
+- bigger ontology twist
+- Maren family adjudication
+- civil-grid propulsion theft
+- instant mature colony
+- free perfect third way
+- alien/combat takeover
+- founder superweapon/relic key.
+
+---
+
+# Manuscript State
+
+`docs/manuscript/MANUSCRIPT-STATUS.md`
+
+- READY / NOT STARTED
+- Accepted 0/230
+- Active episode NONE
+- First eligible EP001.
+
+When EP001 is explicitly started, load:
+1. World v2
+2. Character v2
+3. Act Bible v1
+4. Act1 Blueprint exact EP001 card
+5. Act1 POV Map
+6. M1
+7. Package G EP001 context/Deep Card
+8. Prose Protocol v1.1
+9. style/QA.
+
+Draft does not count until accepted pipeline completes.
 
 ---
 
 # Chat Operation
 
-- Never ask user to repeat already-known project state.
-- Sync meaningful design results to GitHub.
+- Never ask user to repeat project state already stored here.
+- Sync meaningful Canon/manuscript changes to GitHub.
 - Refresh this handoff before context becomes unsafe.
-- Do not draft prose until v2 Freeze.
+- Reference Atlas is navigation, not authority.
+- C2 details may be chosen inside locked grammar; recurring/causal C2 must be promoted/logged.
+- Do not silently reopen Canon.
+- Do not start prose during mere administrative continuation.
