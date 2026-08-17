@@ -3,6 +3,8 @@
 ## Project
 《우주선에는 인간이 한 명뿐이다》
 
+Repository: `storm-credit/only-one-human-aboard`
+
 ---
 
 # Gate
@@ -10,354 +12,191 @@
 ## DESIGN FREEZE
 `PASSED — 2026-08-17`
 
-## Current Phase
-`CANON FREEZE PREPARATION / NOT READY TO WRITE`
-
 ## CANON FREEZE
-`NOT PASSED`
+`PASSED — 2026-08-17`
 
 ## WRITING READY
-`BLOCKED`
+`PASSED — 2026-08-17`
 
 ## MANUSCRIPT
-`BLOCKED`
+`ALLOWED UNDER PROSE EXECUTION PROTOCOL`
 
-프롤로그 / 1화 / 본문 / 샘플 장면 / 긴 대사 / 문체 테스트는 계속 금지.
+현재는 더 이상 `DEEP DESIGN / NOT READY TO WRITE`가 아니다.
+다만 바로 원고를 자동 시작하지 않는다.
 
-Design Freeze 통과는 아래 구조적 1순위를 더 이상 임의로 재브레인스토밍하지 않는다는 뜻이며, 자동 CANON 승격을 의미하지 않는다.
-
----
-
-# Design Freeze Evidence
-
-## Final Red Team
-`docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
-
-Result:
-- blocking P0 = **0**
-- Reader Promise ~20 / ~100 / ~200 episodes = PASS
-- no current P0 contradiction among latest priority models
-
-## Conflict QA
-`docs/qa/CANON-CONFLICT-CHECK-v0.1.md`
-
-Result:
-- old substrate / Witness / full-backup / 8-sector / civil-grid-deceleration models explicitly superseded
-- latest current priorities mutually coherent
-
-## Freeze Checklist
-`docs/qa/DESIGN-FREEZE-CHECKLIST-v0.1.md`
-
-Deep Design mandatory architecture completed enough for Design Freeze.
+다음 단계:
+**Prose Execution Protocol 3~4안 → 비교 → Hybrid → Red Team → 실행명세 확정**.
 
 ---
 
-# Design-Frozen Provisional World Logic
+# Canon Authority
 
-ALL BELOW = `PROVISIONAL / NOT CANON` until Canon Freeze.
+현재 정본 3종:
+1. `canon/WORLD_BIBLE-v1.md`
+2. `canon/CHARACTER_BIBLE-v1.md`
+3. `canon/ACT_BIBLE-v1.md`
 
-1. `H2R-A` Biological Body + Seeded/Synthetic Cognitive Origin
-2. `H3/U-C` Natural/assisted conception + prenatal Seed standard
-3. `H4/RB-B` Recovery Map + Surviving Neural Anchor
-4. `AG-H1` Injury-relative Reconstruction + partial healthspan extension
-5. `H6` Civic Capacity Commons
-6. `OH-D` Rare Deliberate Unseeded Birth
-7. `H8R-2` Multi-Generation Seed Adoption + Rights Normalization
-8. `H9R` Quiet K-Dwarf + Resource Triangle + Staged Settlement
-9. `H9R-P1` Dedicated Fusion Direct-Exhaust Drive
-10. `RS-H1` Layered Ram Defense
-11. `ATL-H1` Final Approach Transition Certification
+최상위 작업헌법:
+- `CLAUDE.md`
 
----
+상태표:
+- `canon/CANON_STATUS.md`
 
-# Core Historical Answer
-
-원래 탑승한 natural-origin 인간들이 한 사건으로 사라지거나 기계 몸으로 전환된 것이 아니다.
-
-Current priority:
-- 그들은 항해사회에서 살고 가족을 만듦
-- 다음 세대에서 prenatal Seed adoption이 의료적/제도적 path dependence로 확산
-- Seeded-born children도 실제 임신/출산/유년기를 거쳐 성장
-- civic personhood는 origin과 분리되는 방향으로 발전
-- natural-origin 세대는 유한수명으로 자연스럽게 감소
-- rare unseeded exceptions는 역사상 계속 가능
-- 현재 active confirmed natural-origin = 1은 demographic current state
-
-`exact-one Witness Protocol = REJECTED`.
+과거 CANDIDATE / FREEZE-DRAFT / provisional 설계는 history이며 정본보다 우선하지 않는다.
 
 ---
 
-# Design-Frozen Provisional Living World
+# Writing Ready Evidence
 
-## Macro
-- 3 Large Rotating Habitats
-- Non-Rotating Spine
-- Outer Works
-- Founding Core / Legacy Decks
+## Gate A — Full Episode Matrix
+`COMPLETE — EP001~230 / 230`
 
-## Economy
-`LW-E1 Layered Commons + Market City`
+Active files:
+- Act1 v0.1
+- Act2 v0.1
+- Act3 v0.1
+- Act4 v0.1
+- Act5 v0.1
+- Act6 **v0.2 active**
+- Act7 v0.1
 
-- survival/basic floor = civic right
-- ordinary money/wage/business/market exists
-- hard capacity = civic commons
+`Act6 v0.1 = superseded history`.
 
-## Sanity
-Latest:
-`docs/design/LIVING-WORLD-FREEZE-SANITY-PACK-v0.1.md`
+## Gate B — High-Risk Deep Cards
+`COMPLETE`
 
-Central order candidates:
-- lifespan center ~100~110y
-- births/permanent exits ~2.7k~3.1k/y
-- minors ~45k~55k
-- school age ~30k~36k
-- households ~120k~130k
-- cross-Habitat ordinary commute ~60~120m
+Includes:
+- opening EP001~020
+- all 23 Sub-Act turns
+- Count EP053~058
+- Meaning EP059~066
+- Amara EP067~076
+- PR-H1 EP112~122
+- Final Approach EP140~148
+- Human Settler EP142~151
+- major time bridges
+- insertion/ending EP207~230
 
-Exact counts remain elastic.
+## Gate C — Harness
+`M1~M8 ALL PASS`
 
-## Hidden-Caste QA
-42-event regression PASS at design level.
-A/B/C all support family/youth/service/white-collar/technical/medical/housing stories.
+- M1 Time/Age
+- M2 Cast/Non-Maren Causality
+- M3 Location Balance
+- M4 Information Ladder
+- M5 Foreshadow/Payoff
+- M6 Reward/Hook
+- M7 Canon Dependency
+- M8 Anti-Drift
 
----
+## Gate D — Hostile QA
+`PASS WITH P1 EXECUTION GUARDRAILS`
 
-# Design-Frozen Provisional Character Architecture
+File:
+`docs/qa/WRITING-READY-HOSTILE-QA-v0.1.md`
 
-## P
-- P-A + P-D Hybrid field continuity adjudicator
-- `P-OA Ordinary Seeded-Origin Citizen`
-- age range ~39~43 candidate
-- P is one of the ordinary 299,999, not another rare ontology case
+## Gate E — Final Writing Ready Red Team
+`PASS`
 
-## Family
-- S restored sibling
-- N niece/nephew
-- P cared for N during S absence
-- S returns and parental/family authority changes
-- P secret candidate: S's unfiled / legally imperfect do-not-restore preference record
+File:
+`docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
 
-## R
-Civic/continuity rights advocate/lawyer.
+Blocking P0:
+**0**
 
-## C8
-`C8-BR Work-First Family`
-- ~42~47 candidate
-- Habitat B water/reclamation mid-level worker
-- spouse independent career
-- two seeded-origin children
-- no admin key / prophecy / unique technical genius
+Structural missing-design blockers:
+**0**
 
-## Age Architecture
-`AGE-B Midlife Bridge`
-
-14-year story permits N/C8 children to become adults.
-
-## Voice
-`V-D Coping-Mechanism Register + restrained realism + selective banter`
-
----
-
-# C8 Identity / Reveal
-
-## Count / Meaning / Identity
-Current detailed episode candidate:
-- Count: ~53~58
-- Meaning: ~59~66
-- C8 identity: ~67~76
-- social consequence: ~77~88
-
-## Reveal Wording
-`RW-H1 Layered Legacy Audit`
-
-Must show together:
-- current civic persons ≈300k
-- natural/bio-origin cognition = 1
-- seeded/synthetic-origin remainder
-- `human` as founding-era legacy mapping
-
-Simple `REAL HUMANS: 1` is rejected.
-
-## Public Identity
-`ID-H1R Controlled Disclosure Under Re-identification Pressure`
-
-- official identity initially private
-- aggregate uniqueness makes old harmless public traces re-identifying
-- speculation spreads
-- C8 chooses narrow factual confirmation to limit family collateral
-- villain/system leak is not primary
-
----
-
-# C-full / Sub-Act
-
-## C-FULL-H1 7 Acts
-1. `돌아온 사람들의 자리` ~1~28
-2. `판정의 비용` ~29~58
-3. `한 명이라는 숫자` ~59~88
-4. `공개된 다음 날` ~89~122
-5. `미래를 위해 현재를 뜯는 법` ~123~156
-6. `두 고향` ~157~194
-7. `도착은 판정이 아니다` ~195~230
-
-## SUB-H1
-`Braided Consequence Relay`
-
-- 23 Sub-Acts candidate
-- average ~8~12 episodes
-- every Sub-Act changes baseline
-- information reward < total reward dominance
-- non-P characters initiate major changes across every Act
-
-Latest:
-`docs/act/C-FULL-H1-SUB-ACT-ARCHITECTURE-4-DESIGNS-v0.1.md`
-
----
-
-# Information / Foreshadow
-
-## IL-H1
-`Distributed Staggered Knowledge`
-
-No single Truth Keeper.
-Count requires legacy provenance + prenatal archive + current alive registry crosswalk.
-
-## FP-H1
-`Mixed Signal Ledger`
-
-Hard clues + world residue + character tells + institutional residue + fair alternative interpretations + primer/mirror/MacGuffin.
-
-Most everyday details are NOT clues.
-
----
-
-# Time / Ending
-
-## T-H1
-`Longitudinal Wave`
-
-Approx 14 in-world years:
-- Acts 1~3 ~ first year
-- Act 4 ~1y
-- Act 5 ~3y
-- Act 6 ~5y
-- Act 7 ~4y
-
-System insertion reached in main novel.
-
-## E-H1
-`Costly Polycentric Arrival`
-
-Ship / Orbit / Surface / New Habitat all become real paths, but none is free.
-
-## EC-H1
-Visible cost classes:
-- ship redundancy loss
-- Old Quarter partial loss
-- surface growth delay
-- birth/restoration scarcity persists
-- family separation
-- new habitat delayed benefit
-- incomplete transition law
-
-## EB-H1
-`Braided Irreversible Arrival`
-
-- final civic/legal transition
-- irreversible asset/family decisions
-- system insertion
-- first limited deployment/foothold
-
-No mature colony instantly at T0.
-
----
-
-# H9R Physics / Arrival Law Guardrails
-
-## Propulsion
-- ~13 ly midpoint candidate
-- ~0.03c
-- ~14y accel + ~419y cruise + ~14y decel
-- civil grid does NOT power interstellar deceleration
-
-## Arrival Law
-`ATL-H1`
-- technical prep begins decades early
-- around T-10±1y candidate, Final Approach Transition Certification makes legal reconciliation binding
-- C8 is not activation key
-
-Old law cannot simply erase ship citizenship of 299,999 citizens.
-Conflict is limited to transition/settler/mission-asset/jurisdiction/stewardship categories versus strong current civic personhood law.
-
----
-
-# Design-Level QA Completed
-
-- 40 Story Engine events
-- 30 Wanted Scenes
-- RB-B 40-event regression
-- C8 autonomy / identity-removed tests
-- Living World 42-event regression
-- Demography uniqueness sanity
-- Living World social throughput sanity
-- H9R mass/propulsion sanity
-- Ram Shield 4-design
-- C-FULL 4-design
-- 23 Sub-Act architecture
-- Information Ladder 4-design
-- Foreshadow/Payoff 4-design
-- Time/Ending 4-design
-- Ending Cost Ledger
-- Ending Beat Map
-- Act Non-P causal regression
-- Canon Conflict Check
-- Full Red Team v0.3
-- Full Red Team v0.4
-
-Current blocking P0:
+Silent Canon-change blockers:
 **0**
 
 ---
 
-# What Design Freeze Now Prevents
+# Current Canon Snapshot
 
-Do NOT casually reopen:
-- mechanical-body majority
-- Witness Protocol
-- executable soul backup
-- 8 philosophy sectors
-- 200-episode identity delay
-- planet-vs-ship binary
-- civil-grid deceleration
-- C8 mission/admin key
-- adult mass substrate transition
-
-Any structural reopening requires:
-1. new P0/evidence
-2. change-log entry
-3. impact analysis
-4. Red Team
+- Ship: **Meridian / 메리디언**
+- Population: roughly 300k
+- destination: **Epsilon Indi A / 인디계**
+- story start: about T-14y to system insertion
+- core origin model: living biological bodies/brains + developmental cognitive-origin distinction
+- Seed: prenatal developmental prior, no memory/personality/admin programming
+- Reconstruction: Recovery Map + surviving Neural Anchor
+- current Natural/Bio-Origin active citizen: **1**
+- identity: **Amara Okoro / 아마라 오코로**
+- exact-one preservation protocol: **REJECTED**
+- main protagonist: **Maren Vale / 마렌 베일**, ordinary Seeded-Origin Continuity adjudicator
+- family: Ella Vale / Noah Vale
+- series center: about 230 episodes
+- public Count: EP058
+- Meaning complete: EP066
+- Amara public confirmation: EP075
+- ending: Costly Polycentric Arrival, no free perfect compromise
 
 ---
 
-# Immediate Next Work — CANON FREEZE PREPARATION
+# Current 1st Priority
 
-1. **Canonical World Bible v1**
-   - promote design-frozen world choices into explicit Canon/Elastic fields
-2. **Canonical Character Bible v1**
-   - exact names
-   - gender choices where relevant
-   - exact/elastic ages
-   - family chronology
-   - professions/households
-3. **Canonical Act Bible v1**
-   - 7 Act / 23 Sub-Act / Reveal / Time / Ending constraints
-4. **Terminology + Institution Naming Pass**
-5. lock P-S secret record form/timing
-6. lock C8 historical trace used for re-identification
-7. lock current law vs old arrival-law wording at story-needed level
-8. Canon Conflict Check v0.2
-9. Canon Red Team
-10. `CANON FREEZE` decision
+## Prose Execution Protocol
 
-After Canon Freeze, still do Writing Ready QA before any manuscript.
+Need 3~4 structurally different execution options for:
+- POV / person
+- narrative distance
+- chapter word-count range
+- scene-count/rhythm
+- opening and closing hook rules
+- dialogue density
+- exposition/jargon budget
+- character voice enforcement
+- humor/downtime budget
+- after-draft Canon/Blueprint check
+- anti-AI prose QA
+
+Do NOT reopen:
+- World truth
+- character origins
+- Act order
+- Reveal timing architecture
+- Ending architecture
+unless a new P0 is discovered.
+
+---
+
+# P1 Execution Risks To Carry Into Prose Protocol
+
+1. first-20 title-promise balance
+2. legacy `Human` semantic-cheat perception
+3. Amara repeating the same symbolic refusal beat
+4. Act5 engineering/institution density
+5. Human Settler late-conflict contrivance perception
+6. insertion without disaster still needs climax force
+7. same-writer / perfect-agent dialogue
+8. jargon spikes
+9. too many institutional/notification hooks
+10. low humor/downtime during dense arcs
+
+---
+
+# Hard Stop During Writing
+
+If an episode requires any of these, stop and run Canon-impact review:
+- adult origin scanner
+- Seed memory/personality programming
+- anchorless adult restoration
+- Amara sovereignty/admin key
+- mass citizenship erasure
+- central AI dictatorship
+- bigger ontology twist
+- Maren family adjudication
+- civil-grid propulsion theft
+- instant mature colony
+- free third way
+
+---
+
+# Current Next Work
+
+1. `PROSE-EXECUTION-PROTOCOL-4-DESIGNS-v0.1.md`
+2. Hybrid selection
+3. Prose-execution Red Team
+4. update `CLAUDE.md`/status/handoff if needed
+5. only after protocol lock: EP001 execution may begin when explicitly requested
