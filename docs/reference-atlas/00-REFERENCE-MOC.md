@@ -8,10 +8,21 @@ Project: 《우주선에는 인간이 한 명뿐이다》
 
 **The Atlas tells you where truth lives; it does not become the truth.**
 
-Authority order:
-`Core Canon / locked story authority / v2 owner document → Reference Atlas summary`.
+Current authority order:
+`WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 / ACT_BIBLE-v1 / locked execution authority → Reference Atlas summary`.
 
 Never reverse that order.
+
+## Current Project Gate
+
+- `ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`
+- `WORLD_BIBLE-v2 = CANON`
+- `CHARACTER_BIBLE-v2 = CANON`
+- `ACT_BIBLE-v1 = ACTIVE NARRATIVE CANON`
+- `MANUSCRIPT = READY / NOT STARTED`
+- Accepted = `0/230`.
+
+Reference Atlas remains lower authority after Freeze.
 
 ## Package H Architecture / QA
 
@@ -29,58 +40,34 @@ Integrated Shadow-Canon Red Team:
 
 Final Package H blocking P0: **0**.
 
-One actual stale-source defect was found and repaired during QA:
-Package F's latest support-name override checkpoint supersedes older candidate names still present in the integrated Character Encyclopedia body.
-
 ## Status Vocabulary
 
-- `CANON-V1` — current locked Canon.
-- `LOCKED-STORY` — locked Act/Blueprint/POV/M1 execution authority.
-- `V2-CANDIDATE` — structurally passed candidate awaiting v2 Freeze.
+- `CANON-V2` — current world/character Canon.
+- `ACTIVE-NARRATIVE-CANON` — current Act Bible architecture.
+- `LOCKED-STORY` — Blueprint/POV/M1/Deep-Card execution authority.
 - `C2-ELASTIC` — bounded detail/range intentionally open.
-- `IMPLEMENTATION` — tooling/UI/file-layout work.
+- `IMPLEMENTATION` — tooling/UI/file-layout concern, not story truth.
 - `SUPERSEDED` — historical design retained but not current truth.
 - `REJECTED` — intentionally excluded.
 - `FORBIDDEN` — hard anti-drift rule.
 
+`V2-CANDIDATE` is now historical only for documents that were never promoted; promoted content lives in current Canon v2.
+
 ## Start Here By Question
 
-### What is actually current vs candidate vs superseded?
-→ [Authority / Elastic Registry](./AUTHORITY-ELASTIC-REGISTRY.md)
-
-### What does a term mean?
-→ [Glossary](./GLOSSARY.md)
-
-### Who can legally do what?
-→ [Institution Authority Matrix](./INSTITUTION-AUTHORITY-MATRIX.md)
-
-### Where does a person live/work/travel?
-→ [Meridian Civic Map](./MERIDIAN-CIVIC-MAP.md)
-
-### What physical containment/utilities sit behind that place?
-→ [Meridian Engineering Overlay](./MERIDIAN-ENGINEERING-OVERLAY.md)
-
-### When did this happen?
-→ [Master Timeline — 450y / 14y / Arrival](./MASTER-TIMELINE-450Y-14Y-ARRIVAL.md)
-
-### What systems depend on one another?
-→ [Technology Dependency Matrix](./TECH-DEPENDENCY-MATRIX.md)
-
-### What happens to an ordinary citizen from birth to death?
-→ [Life-Cycle Flow](./LIFE-CYCLE-FLOW.md)
-
-### What exists in the destination system?
-→ [Destination System Atlas](./DESTINATION-SYSTEM-ATLAS.md)
-
-### Who knows/works/lives with whom?
-→ [Character Social Network](./CHARACTER-SOCIAL-NETWORK.md)
-
-### What objects/equipment/relics exist and how are they classified?
-→ [Material Culture Atlas](./MATERIAL-CULTURE-ATLAS.md)
-
-### What context should an episode agent load?
-→ [Episode Context Index](./EPISODE-CONTEXT-INDEX.md)
-→ [Package G full Registry](../narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md)
+- Current/superseded status → [Authority / Elastic Registry](./AUTHORITY-ELASTIC-REGISTRY.md)
+- Term meaning → [Glossary](./GLOSSARY.md)
+- Institutional powers → [Institution Authority Matrix](./INSTITUTION-AUTHORITY-MATRIX.md)
+- Lived geography → [Meridian Civic Map](./MERIDIAN-CIVIC-MAP.md)
+- Pressure/utilities/emergency topology → [Meridian Engineering Overlay](./MERIDIAN-ENGINEERING-OVERLAY.md)
+- Time → [Master Timeline](./MASTER-TIMELINE-450Y-14Y-ARRIVAL.md)
+- System dependency → [Technology Dependency Matrix](./TECH-DEPENDENCY-MATRIX.md)
+- Citizen life cycle → [Life-Cycle Flow](./LIFE-CYCLE-FLOW.md)
+- Destination → [Destination System Atlas](./DESTINATION-SYSTEM-ATLAS.md)
+- Character network → [Character Social Network](./CHARACTER-SOCIAL-NETWORK.md)
+- Objects/equipment/relics → [Material Culture Atlas](./MATERIAL-CULTURE-ATLAS.md)
+- Episode retrieval → [Episode Context Index](./EPISODE-CONTEXT-INDEX.md)
+- Full 230 context registry → [Package G Registry](../narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md)
 
 ## Required Reference Views — 13/13
 
@@ -100,74 +87,50 @@ Package F's latest support-name override checkpoint supersedes older candidate n
 
 All are navigation/reference views only.
 
-## Package Owners
+## Current Owners
 
-### Core v1 Canon
-- `canon/WORLD_BIBLE-v1.md`
-- `canon/CHARACTER_BIBLE-v1.md`
+### Current Canon
+- `canon/WORLD_BIBLE-v2.md`
+- `canon/CHARACTER_BIBLE-v2.md`
 - `canon/ACT_BIBLE-v1.md`
 
-### Package A — Society
-- `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
+### Historical/superseded Canon
+- `canon/WORLD_BIBLE-v1.md`
+- `canon/CHARACTER_BIBLE-v1.md`
 
-### Package B — Culture / Daily Life
-- `docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
+### Supporting design history
+Packages A~I, C-M and P1 closure documents remain evidence/design-history behind v2, not parallel Canon.
 
-### Package C — Infrastructure / Operations
-- `docs/design-v2/INFRASTRUCTURE-OPERATIONS-BIBLE-v0.1.md`
-
-### Package C-M — Material Culture
-- `docs/material-culture/MATERIAL-CULTURE-BIBLE-v0.1.md`
-- `docs/material-culture/MATERIAL-CULTURE-CHARACTER-OBJECT-INTEGRATION-v0.1.md`
-
-### Package D — Historical Bible
-- `docs/design-v2/HISTORICAL-BIBLE-v0.1.md`
-
-### Package E — Destination / Arrival
-- `docs/design-v2/DESTINATION-ARRIVAL-BIBLE-v0.1.md`
-
-### Package F — Character Encyclopedia
-- `docs/design-v2/CHARACTER-ENCYCLOPEDIA-v0.1.md`
-- latest support-name override checkpoint: `docs/status/PACKAGE-F-CHARACTER-ENCYCLOPEDIA-PASS-2026-08-17.md`
-
-### Package G — Narrative Engineering
+### Narrative Engineering
 - `docs/narrative-engineering/00-NARRATIVE-MOC.md`
 - `docs/narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md`
 
 ## Hard Anti-Resurrection Warnings
 
-The following concepts may still appear in old design files but are not current truth:
+Do not revive from old search results:
 - exact-one Natural-Origin preservation/Witness protocol,
 - current citizens as adult machine-substrate uploads,
 - `Human = objectively real person` narration,
 - Amara as colony/admin/genetic/settler key,
-- Act6 Blueprint v0.1 as active authority,
+- Act6 Blueprint v0.1,
 - EP014 transit fault as Arrival Clock device,
 - EP026 routine repair scarcity as strategic arrival asset,
-- pre-phonetic-micropass Package F support names where latest checkpoint supplies overrides.
+- stale Package-F names: Toma Rhee / Mara Diniz / Sana Idris / Imani Okoro / Leonie Wu.
 
-Use [Authority / Elastic Registry](./AUTHORITY-ELASTIC-REGISTRY.md) and owner documents before trusting old search results.
+Current replacements are in `CHARACTER_BIBLE-v2.md`.
 
 ## Obsidian Baseline
 
-Works with:
-- plain Markdown,
-- relative links / wikilinks,
-- optional YAML metadata.
-
+Works with plain Markdown, links/wikilinks and optional YAML.
 No plugin is mandatory.
-Dataview/database generation may be added later as implementation only.
+Dataview/database generation remains optional implementation work.
 
 ## Package H Verdict
 
-**`13/13 REQUIRED VIEWS = PRESENT`**
+- `13/13 REQUIRED VIEWS = PRESENT`
+- `SHADOW-CANON RED TEAM = PASS`
+- `BLOCKING P0 = 0`
 
-**`SHADOW-CANON RED TEAM = PASS`**
+# `PACKAGE H REFERENCE ATLAS = PASS / NAVIGATION ONLY`
 
-**`BLOCKING P0 = 0`**
-
-Overall:
-
-# `PACKAGE H REFERENCE ATLAS = PASS / NOT CANON`
-
-The project still requires Package I/P1 closure/v2 Canon consolidation before manuscript unlock.
+The former H/I/P1/v2 blockers are closed.
