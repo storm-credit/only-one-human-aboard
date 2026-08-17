@@ -1,11 +1,12 @@
 # WRITING READY CHECKLIST v1
 
-Status: `ACTIVE GATE / MANUSCRIPT BLOCKED`
+Status: `PASSED — 2026-08-17`
 
 Selected method:
 **WR-H1 Two-Pass Full Blueprint + Risk-Weighted Deepening + Harness**
 
-This is a workflow gate, not permission to write.
+Final evidence:
+`docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
 
 ---
 
@@ -16,121 +17,111 @@ This is a workflow gate, not permission to write.
 - [x] Act 3 EP059~088 — `EPISODE-BLUEPRINT-ACT3-v0.1.md`
 - [x] Act 4 EP089~122 — `EPISODE-BLUEPRINT-ACT4-v0.1.md`
 - [x] Act 5 EP123~156 — `EPISODE-BLUEPRINT-ACT5-v0.1.md`
-- [x] Act 6 EP157~194 — active corrected version `EPISODE-BLUEPRINT-ACT6-v0.2.md`; v0.1 retained as superseded history
+- [x] Act 6 EP157~194 — active `EPISODE-BLUEPRINT-ACT6-v0.2.md`
 - [x] Act 7 EP195~230 — `EPISODE-BLUEPRINT-ACT7-v0.1.md`
 
-Every episode requires:
-- Act/Sub-Act
-- story time
-- primary actor/function
-- location
-- desire/problem
-- event/pressure
-- choice/action
-- reader reward
-- irreversible consequence/baseline change
-- information release
-- foreshadow/payoff transaction
-- relationship turn
-- rhythm tag
-- end hook
-- Canon dependencies
-- forbidden-drift check
-- next-episode carry
+Coverage:
+**230 / 230**
 
-Gate A status:
-`COMPLETE — EP001~230`.
+Pass-2 normalization:
+- [x] `EPISODE-BLUEPRINT-PASS2-NORMALIZATION-v0.1.md`
 
 ---
 
 # Gate B — High-Risk Deep Cards
 
-- [ ] EP001~020 opening block
-- [ ] all 23 Sub-Act turns
-- [x] Count cluster EP053~058 — `DEEP-CARD-COUNT-EP053-058-v0.1.md`
-- [x] Meaning cluster EP059~066 — `DEEP-CARD-MEANING-EP059-066-v0.1.md`
-- [x] Amara confirmation/re-identification EP067~076 — `DEEP-CARD-AMARA-IDENTITY-EP067-076-v0.1.md`
-- [x] Ella/Maren record rupture EP112~122 — `DEEP-CARD-PR-H1-EP112-122-v0.1.md`
-- [x] Final Approach certification cluster — `DEEP-CARD-FINAL-APPROACH-EP140-148-v0.1.md`
-- [x] Human Settler legal-conflict cluster — `DEEP-CARD-HUMAN-SETTLER-EP142-151-v0.1.md`
-- [ ] major time-skip bridge episodes
-- [x] system insertion / ending EP207~230 — `DEEP-CARD-INSERTION-ENDING-EP207-230-v0.1.md`
+- [x] EP001~020 opening block
+- [x] all 23 Sub-Act turns
+- [x] Count EP053~058
+- [x] Meaning EP059~066
+- [x] Amara confirmation/re-identification EP067~076
+- [x] Ella/Maren PR-H1 EP112~122
+- [x] Final Approach EP140~148
+- [x] Human Settler EP142~151
+- [x] major time-skip bridge episodes
+- [x] system insertion / ending EP207~230
 
-No prose/dialogue; beat functions only.
+Gate B:
+`COMPLETE`
 
 ---
 
-# Gate C — Full-Series Harness Matrices
+# Gate C — Full-Series Harness
 
-- [ ] M1 Time/Age
-- [ ] M2 Cast Presence/Non-Maren Causality
-- [ ] M3 Location Balance
-- [ ] M4 Information Ladder
-- [ ] M5 Foreshadow/Payoff Ledger
-- [ ] M6 Reward/Hook
-- [ ] M7 Canon Dependency
-- [ ] M8 Anti-Drift
+- [x] M1 Time/Age
+- [x] M2 Cast Presence/Non-Maren Causality
+- [x] M3 Location Balance
+- [x] M4 Information Ladder
+- [x] M5 Foreshadow/Payoff Ledger
+- [x] M6 Reward/Hook
+- [x] M7 Canon Dependency
+- [x] M8 Anti-Drift
+
+Gate C:
+`ALL PASS`
 
 ---
 
 # Gate D — Hostile QA
 
-- [ ] first-20 market/readability hostile test
-- [ ] first-20 SF terminology load test
-- [ ] anti-case-of-the-week regression
-- [ ] Reader Promise EP20/100/200 regression
-- [ ] mystery fairness regression
-- [ ] character autonomy regression
-- [ ] destination/late-law scope regression
-- [ ] ending-cost regression
-- [ ] anti-AI symmetry/imperfection regression
+- [x] first-20 market/readability hostile test
+- [x] first-20 SF terminology load test
+- [x] anti-case-of-the-week regression
+- [x] Reader Promise EP20/100/200 regression
+- [x] mystery fairness regression
+- [x] character autonomy regression
+- [x] destination/late-law scope regression
+- [x] ending-cost regression
+- [x] anti-AI symmetry/imperfection regression
+
+Evidence:
+`docs/qa/WRITING-READY-HOSTILE-QA-v0.1.md`
+
+Blocking P0:
+**0**
+
+P1 execution guardrails remain active.
 
 ---
 
 # Gate E — Final Writing Ready Red Team
 
-Writing Ready may pass only if:
-- all episode cards exist
-- all high-risk cards exist
-- all matrices complete
-- no unresolved P0
-- no planned episode requires silent Canon change
-- opening hostile test passes
-- full-series reward/filler test passes
-- full foreshadow/payoff closure passes
+- [x] all episode cards exist
+- [x] all high-risk cards exist
+- [x] all matrices complete
+- [x] unresolved P0 = 0
+- [x] no planned episode requires silent Canon change
+- [x] opening hostile test passes
+- [x] full-series reward/filler regression passes
+- [x] full foreshadow/payoff closure passes
+- [x] Reader Promise stays stable into late series
+- [x] ending retains visible costs
 
-Then and only then:
-`WRITING READY = PASSED`
+Evidence:
+`docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
 
-Until then:
-`MANUSCRIPT = BLOCKED`
+Final verdict:
+# `WRITING READY = PASSED`
 
 ---
 
-# Current Progress — 2026-08-17
+# Active Precision Repairs From Pass 2
 
-Completed episode matrix:
-**EP001~230 / 230**
+1. Act6 timeline v0.1 had over-expanded labels; active **v0.2 = T-8 → T-3**.
+2. M1 is authoritative for story-time/age QA.
+3. Noah age wording around EP155/159 follows M1 rather than early card shorthand.
+4. These are precision corrections; no structural episode rewrite required.
 
-Completed named high-risk deep cards:
-- Count EP053~058
-- Meaning EP059~066
-- Amara identity/re-identification EP067~076
-- Ella/Maren PR-H1 rupture EP112~122
-- Final Approach certification EP140~148
-- Human Settler translation EP142~151
-- System insertion / ending EP207~230
+---
 
-Current blocking P0 found in completed blueprint/deep-card passes:
-**0**
+# Manuscript State
 
-Important repair already applied:
-- Act 6 v0.1 timeline labels over-expanded to ~7 years.
-- Active v0.2 corrects Act 6 to roughly **T-8 → T-3 (~5y)** with no structural episode changes.
+`MANUSCRIPT = ALLOWED UNDER PROSE EXECUTION PROTOCOL`
 
-Current next work:
-1. M1 Time/Age Harness
-2. major time-skip Deep Card
-3. remaining full-series harness matrices M2~M8
-4. opening EP001~020 Deep Card + 23 Sub-Act turn coverage
-5. hostile QA / final Writing Ready Red Team
+Before EP001 prose:
+- [ ] Prose Execution Protocol 3~4안 비교
+- [ ] Hybrid selection
+- [ ] Prose Execution Red Team
+- [ ] protocol lock / status sync
+
+Until that execution protocol is locked, do not auto-generate EP001 simply because Writing Ready passed.
