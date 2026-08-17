@@ -60,7 +60,50 @@ These remain valid unless a later v2 contradiction is intentionally approved.
 Governance / criminal justice / economy / labor / class / property / family / education / medicine / death.
 
 Status: `IN PROGRESS`
-Current first design block: Governance Architecture.
+
+Completed structural design blocks:
+1. **Governance Architecture — structural design complete / provisional**
+   - 4 designs compared
+   - `GOV-H1 — Layered Civic Republic + Commons Constraints + Narrow Safety Command` selected as provisional priority
+   - no captain dictatorship / no AI sovereignty / no Habitat sovereignty
+   - emergency powers remain dependent on Package C exact design
+2. **Criminal Justice / Public Safety — structural design + hostile QA complete / provisional**
+   - 4 designs compared
+   - `CJ-H1 — Layered Public Safety + Restorative Default + Narrow Coercive Escalation` selected
+   - local civic safety + shipwide serious-investigation capability
+   - no universal surveillance grid
+   - engineering telemetry separated from personal surveillance
+   - real arrest/search/detention powers retained with due process
+   - lower-harm cases favor restitution/repair/treatment; severe danger permits secure custody
+   - no death penalty / no unsafe-space exile
+   - victim-consent hard guardrail for restorative processes
+   - protest distinguished from sabotage by conduct/hazard, not ideology
+   - PR-H1 access metadata remains evidence, not automatic criminal guilt
+   - Count/Amara provenance cannot be searched by police curiosity shortcut
+   - hostile Red Team P0 = 0
+
+Current Package A open blocks:
+- economy deep layer
+- labor/class/property/inheritance
+- family/marriage/adoption/guardianship
+- education
+- general medicine/mental health/disability
+- death/funeral/mourning/inheritance
+- integrated Society Bible Red Team
+
+CJ-H1 open dependencies:
+- economy/class bias
+- mental-health exact procedure
+- emergency authority
+- AI decision boundary
+- weapon/equipment exact catalog
+- arrival cross-jurisdiction enforcement
+- custody-capacity quantitative sanity
+
+Key files:
+- `docs/design-v2/SOCIETY-GOVERNANCE-ARCHITECTURE-4-DESIGNS-v0.1.md`
+- `docs/design-v2/SOCIETY-CRIMINAL-JUSTICE-PUBLIC-SAFETY-4-DESIGNS-v0.1.md`
+- `docs/qa/SOCIETY-CRIMINAL-JUSTICE-PUBLIC-SAFETY-RED-TEAM-v0.1.md`
 
 ## Package B — Culture & Daily Life Bible
 Language / religion / ritual / calendar / holidays / cuisine / clothing / hygiene / media / entertainment / sport / intimacy / ship-born identity.
@@ -102,16 +145,20 @@ Completed:
 - hostile Red Team run
 - functional object classes O1~O5 defined
 - provenance states defined without RPG rarity ranks
-- public-safety/weapon direction defined at high level
+- public-safety/weapon direction defined
 - heritage era buckets defined provisionally
 - museum/collecting/salvage/strategic-heritage questions mapped
 - collection engine reframed as recognition/provenance/return/completion rather than loot progression
+- **CJ-H1 public-safety integration addendum completed**
 
 Current state:
 `STRUCTURAL BASE = PASS / FULL PACKAGE = IN PROGRESS`
 
+Closed/partially closed dependency:
+- criminal-justice/public-safety weapon boundary = `STRUCTURAL PASS`
+
 Open dependencies before Freeze:
-- Package A criminal justice / weapon legality / property / inheritance / economy
+- Package A economy / property / inheritance / exact weapon legality
 - Package B fashion/hobbies/ritual/material taste
 - Package C AI/autonomous security / emergency / utilities
 - Package D exact 450-year provenance timeline
@@ -126,8 +173,10 @@ Hard rules:
 - most objects remain ordinary non-clues.
 
 Key files:
+- `docs/material-culture/00-MATERIAL-CULTURE-MOC.md`
 - `docs/material-culture/MATERIAL-CULTURE-EQUIPMENT-RELICS-4-DESIGNS-v0.1.md`
 - `docs/material-culture/MATERIAL-CULTURE-BIBLE-v0.1.md`
+- `docs/material-culture/MATERIAL-CULTURE-PUBLIC-SAFETY-INTEGRATION-v0.1.md`
 - `docs/qa/MATERIAL-CULTURE-EQUIPMENT-RELICS-RED-TEAM-v0.1.md`
 
 ## Package D — Historical Bible
@@ -162,7 +211,7 @@ Completed:
 - AUTHOR / POV / PUBLIC / PROTECTED knowledge separation required
 - interim Narrative Engineering Red Team run
 - **EP001~028 Context Manifests created — 28 / 230**
-- Act 1 manifest pass already exposed over-tagging / timing defects for repair: Sub-Act device presence does not mean every episode inherits the device automatically.
+- Act 1 manifest pass exposed over-tagging / timing defects for repair: Sub-Act device presence does not mean every episode inherits the device automatically.
 
 Current Package G state:
 `STRUCTURAL GRAPH FOUNDATION = PASS / EP DATASET = 28/230`
@@ -239,15 +288,20 @@ Status: `NOT COMPLETE`
 Do **not** draft EP001.
 
 Immediate continuation:
-1. close current Package G Act 1 device-map repair findings
-2. continue EP029~230 Context Manifests from active Blueprints + POV + M1
-3. run Package G orphan/premature/noise/knowledge-boundary QA
-4. continue Package A Society Bible; criminal justice/economy will close several Package C-M dependencies
-5. continue B/C/C-M/D/E/F deep design
-6. Package H Reference Atlas
-7. Package I adversarial completeness harness
-8. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 consolidation
-9. Canon conflict regression against ACT_BIBLE + EP001~230
-10. `ENCYCLOPEDIC CANON FREEZE v2`
+1. **Package A Economy Deep Layer — 4 designs → Hybrid → Red Team**
+2. labor/class/property/inheritance integration
+3. family/marriage/adoption/guardianship
+4. education
+5. general medicine/mental health/disability
+6. death/funeral/mourning/inheritance
+7. Package A integrated Society Bible Red Team
+8. close current Package G Act 1 device-map repair findings
+9. continue EP029~230 Context Manifests
+10. continue B/C/C-M/D/E/F deep design
+11. Package H Reference Atlas
+12. Package I adversarial completeness harness
+13. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 consolidation
+14. Canon conflict regression against ACT_BIBLE + EP001~230
+15. `ENCYCLOPEDIC CANON FREEZE v2`
 
 Only after v2 Freeze passes may manuscript status return to READY.
