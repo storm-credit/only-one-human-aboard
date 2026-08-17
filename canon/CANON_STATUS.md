@@ -2,41 +2,54 @@
 
 Project: 《우주선에는 인간이 한 명뿐이다》
 
-이 문서는 현재 정본과 Workflow/Execution Gate의 단일 상태표다.
+이 문서는 현재 정본과 Workflow Gate의 단일 상태표다.
 
 ---
 
-# Workflow / Execution Gate
+# 1. CURRENT GATE
 
-- `DESIGN FREEZE = PASSED — 2026-08-17`
-- `CANON FREEZE = PASSED — 2026-08-17`
-- `WRITING READY = PASSED — 2026-08-17`
-- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED — 2026-08-17`
-- `ACT 1~7 EXECUTION POV ARCHITECTURE = LOCKED / PASS — 2026-08-17`
-- `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
+Historical/core achievements:
+- `CORE DESIGN FREEZE v1 = PASSED — 2026-08-17`
+- `CORE CANON FREEZE v1 = PASSED — 2026-08-17`
+- `STRUCTURAL WRITING READY = PASSED — 2026-08-17`
+- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED`
+- `EP001~230 POV ARCHITECTURE = LOCKED / PASS`
 
-Current blocking P0:
-**0**
+User quality bar has been raised beyond structural writability.
 
-본문을 자동 시작하지 않는다.
-사용자가 EP001/본문 집필을 명시적으로 요청할 때만 실행한다.
+Current active gate:
+- `ENCYCLOPEDIC DEEP DESIGN = IN PROGRESS / BLOCKED`
+- `ENCYCLOPEDIC CANON FREEZE v2 = NOT PASSED`
+- `MANUSCRIPT = BLOCKED`
+
+Core v1 facts remain stable baseline Canon while completeness expansion is performed.
+Do not draft EP001 until v2 completeness gate passes.
+
+Current logic-level blocking P0 in existing core Canon: **0**.
+Current completeness blocker: **YES**.
+
+Authority for the new gate:
+`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.1.md`
 
 ---
 
-# Canon Authority
+# 2. CURRENT CANON BASELINE AUTHORITY
 
 1. `CLAUDE.md`
 2. `canon/WORLD_BIBLE-v1.md`
 3. `canon/CHARACTER_BIBLE-v1.md`
 4. `canon/ACT_BIBLE-v1.md`
 5. this file
-6. active Blueprint / Prose Protocol v1.1 / POV Maps
+6. `docs/current-work-status.md`
+7. active completeness-expansion documents
+8. active Blueprint / Prose Protocol v1.1 / POV Maps
 
-Old candidate/freeze-draft/protocol v1 files are history and cannot override current authority.
+v1 World/Character/Act Canon is not discarded.
+New v2 material may extend it; contradiction-level changes require change-log + impact analysis + Red Team.
 
 ---
 
-# Canon Core Premise
+# 3. CORE PREMISE LOCKS
 
 - Ship: **Meridian / 메리디언**
 - current citizens: roughly 300k
@@ -60,7 +73,7 @@ Hard boundaries:
 
 ---
 
-# Canon Series Architecture
+# 4. SERIES ARCHITECTURE LOCK
 
 1. Act1 EP001~028
 2. Act2 EP029~058
@@ -70,7 +83,7 @@ Hard boundaries:
 6. Act6 EP157~194
 7. Act7 EP195~230
 
-Reveal lock:
+Reveal:
 - internal Count EP056
 - public Count EP058
 - Meaning complete EP066
@@ -79,73 +92,79 @@ Reveal lock:
 
 No later bigger ontology twist.
 
----
-
-# Active Blueprint Authority
-
-- Act1 v0.1
-- Act2 v0.1
-- Act3 v0.1
-- Act4 v0.1
-- Act5 v0.1
-- Act6 **v0.2 active**
-- Act7 v0.1
-- Pass2 Normalization v0.1
-
-M1 Time/Age Harness = execution clock authority.
+Full Episode Matrix / Deep Cards / Harness M1~M8 / full POV maps remain valid and must be regression-tested against v2 additions.
 
 ---
 
-# Prose Execution Authority
+# 5. ENCYCLOPEDIC COMPLETENESS PACKAGES
 
-Current:
-`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
+Must complete before manuscript:
 
-Model:
-`PEP-H1R + POV-H1R — Causal-Owner Single-POV Close Third + Maren-Led Plurality Anchor`
+A. Society Bible
+- governance
+- criminal justice/security
+- economy/labor/class/property
+- family/education/medicine/death
 
-Protocol v1's `Maren ~45~60%` estimate is superseded.
-Full mapping proved percentage-driven reassignment would damage causal ownership.
+B. Culture & Daily Life Bible
+- language
+- religion/ritual
+- calendar/holidays
+- cuisine
+- clothing/hygiene
+- media/entertainment/sport
+- intimacy/social norms
+- ship-born identity
 
-Current full-series POV totals:
-- Maren **45**
-- Ella 27
-- Amara 25
-- Noah 17
-- Raul 17
-- others lower
+C. Infrastructure & Operations Bible
+- housing
+- transit
+- utilities
+- emergency response
+- everyday AI/automation
+- archives
+- routine ship operations
 
-Maren plurality Acts:
-1 / 2 / 5 / 6 / 7.
+D. Historical Bible
+- broad 450-year era timeline
+- institutions/culture/economy evolution
+- major crises
+- Earth-contact history
 
-Intentional local Act owners:
-- Act3 Amara
-- Act4 Ella
+E. Destination & Arrival Reference
+- target planet environmental profile
+- resource bodies/orbital geography
+- property/jurisdiction transition
 
-Maren owns major anchors including:
-EP001 / EP056 / EP120 / EP145 / EP216 / EP229 / EP230.
+F. Character Encyclopedia v2
+- recurring cast appearance/home/finance/education/hobbies/history/social network
+- reusable supporting cast network
+
+G. Reference Atlas
+- glossary
+- institution authority chart
+- geography map spec
+- timeline
+- tech/life-cycle dependency charts
+- Canon/Elastic registry
+
+H. Final Completeness Harness
+- Random Citizen Day
+- full life-cycle
+- crime/accident/emergency
+- class/disability
+- birth/marriage/divorce/death
+- school/work/retirement
+- news/rumor/privacy
+- religion/culture/leisure
+- AI/automation ontology
+- arrival migration/property
+- random-scene no-new-rule test
+- regression against EP001~230
 
 ---
 
-# POV Map Authority
-
-All 230 episodes mapped:
-- Act1 POV Map v1
-- Act2 POV Map v1
-- Act3 POV Map v1
-- Act4 POV Map v1
-- Act5 POV Map v1
-- Act6 POV Map v1
-- Act7 POV Map v1
-
-Final QA:
-`docs/qa/ALL-ACTS-POV-LOCK-QA-v1.md = PASS`
-
-Full-series POV blocking P0 = **0**.
-
----
-
-# Rejected / Forbidden Directions
+# 6. REJECTED / FORBIDDEN DIRECTIONS
 
 - human-good / AI-evil binary
 - remaining 300k as fake NPCs
@@ -165,28 +184,19 @@ Full-series POV blocking P0 = **0**.
 
 ---
 
-# Change Control
+# 7. CHANGE CONTROL
 
-If prose requires changing Canon:
-1. STOP drafting
-2. record `docs/change-log.md`
-3. identify World / Character / Act / Foreshadow impact
-4. reopen relevant Freeze if P0
-5. Red Team again
-
-POV changes require local causality/info-fairness QA.
-A change to full-series protagonist-anchor architecture requires full POV regression.
+During v2 expansion:
+- additions consistent with v1 may be proposed as new Canon candidates,
+- any contradiction to v1 requires explicit CHG entry,
+- any change affecting Act/Reveal/Foreshadow/Ending requires regression,
+- no prose is allowed to force silent world invention.
 
 ---
 
-# Current Next Action
+# 8. CURRENT NEXT ACTION
 
-No structural prerequisite remains for EP001.
+Start Package A~G completeness work using the audit matrix.
+Do not resume manuscript until Package H passes and:
 
-**EP001 prose may begin only when the user explicitly requests it.**
-
-Use:
-- EP001 Blueprint
-- Protocol v1.1
-- Act1 POV Map → Maren POV
-- after-draft Episode QA
+`ENCYCLOPEDIC CANON FREEZE v2 = PASSED`.
