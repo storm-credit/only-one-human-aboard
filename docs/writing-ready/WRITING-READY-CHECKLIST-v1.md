@@ -14,7 +14,7 @@ This is a workflow gate, not permission to write.
 - [x] Act 1 EP001~028 — `EPISODE-BLUEPRINT-ACT1-v0.1.md`
 - [x] Act 2 EP029~058 — `EPISODE-BLUEPRINT-ACT2-v0.1.md`
 - [x] Act 3 EP059~088 — `EPISODE-BLUEPRINT-ACT3-v0.1.md`
-- [ ] Act 4 EP089~122
+- [x] Act 4 EP089~122 — `EPISODE-BLUEPRINT-ACT4-v0.1.md`
 - [ ] Act 5 EP123~156
 - [ ] Act 6 EP157~194
 - [ ] Act 7 EP195~230
@@ -47,7 +47,7 @@ Every episode requires:
 - [x] Count cluster EP053~058 — `DEEP-CARD-COUNT-EP053-058-v0.1.md`
 - [x] Meaning cluster EP059~066 — `DEEP-CARD-MEANING-EP059-066-v0.1.md`
 - [x] Amara confirmation/re-identification EP067~076 — `DEEP-CARD-AMARA-IDENTITY-EP067-076-v0.1.md`
-- [ ] Ella/Maren record rupture EP112~122
+- [x] Ella/Maren record rupture EP112~122 — `DEEP-CARD-PR-H1-EP112-122-v0.1.md`
 - [ ] Final Approach certification cluster
 - [ ] Human Settler legal-conflict cluster
 - [ ] major time-skip bridge episodes
@@ -107,22 +107,23 @@ Until then:
 # Current Progress — 2026-08-17
 
 Completed episode matrix:
-**EP001~088 / planned EP001~230**
+**EP001~122 / planned EP001~230**
 
 Completed high-risk deep cards:
 - Count EP053~058
 - Meaning EP059~066
 - Amara identity/re-identification EP067~076
+- Ella/Maren PR-H1 rupture EP112~122
 
-Current blocking P0 found in these completed blueprint/deep-card passes:
+Current blocking P0 found in completed blueprint/deep-card passes:
 **0**
 
 Current next work:
-**Act 4 EP089~122**, with special focus on:
-- post-Reveal ordinary-life durability
-- origin shorthand entering work/housing/media without swallowing the series
-- Raul reform implementation costs
-- Ines medical misuse resistance
-- Amara household independent paths
-- Ella's self-driven discovery of PR-H1 in EP112~122
-- Maren mandatory recusal / no family adjudication
+**Act 5 EP123~156**, with special focus on:
+- arrival preparation becoming materially irreversible
+- no direct civil-grid-vs-engine power theft
+- pressure through spares/manufacturing/specialists/thermal geometry/redundancy
+- Final Approach certification becoming legally binding around this phase
+- legacy Human Settler field entering transition-law work without erasing ship citizenship
+- Old Quarter/resource tradeoffs becoming physical
+- multi-year time progression becoming visible
