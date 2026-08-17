@@ -12,12 +12,15 @@ Repository: `storm-credit/only-one-human-aboard`
 - `DESIGN FREEZE = PASSED — 2026-08-17`
 - `CANON FREEZE = PASSED — 2026-08-17`
 - `WRITING READY = PASSED — 2026-08-17`
-- `PROSE EXECUTION PROTOCOL = LOCKED — 2026-08-17`
-- `ACT 1 EXECUTION POV MAP = PASS — 2026-08-17`
+- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED — 2026-08-17`
+- `ACT 1~7 EXECUTION POV ARCHITECTURE = LOCKED / PASS — 2026-08-17`
 - `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
 
-현재 더 이상 설계 Gate blocker는 없다.
-본문은 사용자가 EP001/본문 집필을 명시적으로 요청할 때 시작한다.
+Current blocking P0:
+**0**
+
+No structural prewriting blocker remains.
+Do not auto-draft prose unless user explicitly requests EP001/body manuscript.
 
 ---
 
@@ -29,16 +32,21 @@ Repository: `storm-credit/only-one-human-aboard`
 4. `canon/ACT_BIBLE-v1.md`
 5. `canon/CANON_STATUS.md`
 
-Candidate / Freeze-Draft / old provisional 문서는 history이며 current Canon보다 우선하지 않는다.
+Old candidates/freeze drafts/superseded execution docs are history only.
 
 ---
 
 # Writing Ready Completion
 
-## Full Episode Matrix
-`EP001~230 / 230 COMPLETE`
+- EP001~230 Full Episode Matrix = COMPLETE
+- high-risk Deep Cards = COMPLETE
+- 23 Sub-Act turn cards = COMPLETE
+- Harness M1~M8 = PASS
+- Hostile QA = PASS WITH P1 GUARDRAILS
+- Final Writing Ready Red Team = PASS
+- silent Canon blocker = 0
 
-Active:
+Active episode blueprints:
 - Act1 v0.1
 - Act2 v0.1
 - Act3 v0.1
@@ -47,124 +55,133 @@ Active:
 - Act6 **v0.2 active**
 - Act7 v0.1
 
-## High-Risk Deep Cards
-`COMPLETE`
-
-- opening 001~020
-- all 23 Sub-Act turns
-- Count 053~058
-- Meaning 059~066
-- Amara 067~076
-- PR-H1 112~122
-- Final Approach 140~148
-- Human Settler 142~151
-- time bridges
-- insertion/ending 207~230
-
-## Harness
-`M1~M8 ALL PASS`
-
-## Hostile QA
-`PASS WITH P1 EXECUTION GUARDRAILS`
-
-## Final Writing Ready Red Team
-`PASS`
-
-Blocking P0:
-**0**
+M1 Time/Age = exact execution clock authority.
 
 ---
 
 # Prose Execution Protocol
 
-Locked file:
-`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.md`
+Current locked authority:
+`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
 
 Model:
-`PEP-H1R — Causal-Owner Single-POV Close Third + Maren Series Anchor + Act-Ahead POV Mapping`
+`PEP-H1R + POV-H1R — Causal-Owner Single-POV Close Third + Maren-Led Plurality Anchor`
 
-Core rules:
+Protocol v1 is superseded for POV-share diagnostics.
+Its old ~45~60% Maren estimate is no longer active.
+
+Hard rules:
 - one POV per episode
 - close-third limited
-- no scene-level head hopping
-- Maren = largest single POV owner
-- POV chosen by choice/cost/info fairness
+- no head hopping
 - Primary Actor ≠ automatic POV
-- explanation only as needed for current decision
-- consequence-driven hooks preferred
-- same-writer/perfect-agent dialogue prohibited
-- Canon-impact failure = STOP and review
+- choice/cost/information fairness selects POV
+- tie → prefer Maren
+- no exposition-convenience POV
 
 ---
 
-# Act 1 POV Map
+# Full-Series POV Architecture
 
-File:
-`docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
+All 230 episodes mapped and QA passed.
 
-QA:
-`docs/qa/ACT1-POV-MAP-MINI-QA-v1.md = PASS`
+Files:
+- `ACT1-EXECUTION-POV-MAP-v1.md`
+- `ACT2-EXECUTION-POV-MAP-v1.md`
+- `ACT3-EXECUTION-POV-MAP-v1.md`
+- `ACT4-EXECUTION-POV-MAP-v1.md`
+- `ACT5-EXECUTION-POV-MAP-v1.md`
+- `ACT6-EXECUTION-POV-MAP-v1.md`
+- `ACT7-EXECUTION-POV-MAP-v1.md`
 
-Distribution:
-- Maren 13/28 = 46.4%
-- Ella 5/28
-- Noah 4/28
-- Jun 3/28
-- Raul 2/28
-- Ines 1/28
+Final regression:
+`docs/qa/ALL-ACTS-POV-LOCK-QA-v1.md = PASS`
 
-Important refinement:
-- initial EP005 Ines POV was moved to Maren
-- Ines direct POV moved to EP013
-- reason: reduce first-9 POV overload while improving mundane medical handling of Seed-completion records
+Full-series totals:
+- Maren **45 / 230**
+- Ella 27
+- Amara 25
+- Noah 17
+- Raul 17
+- Jun 15
+- Tomas 13
+- Kai 13
+- Leo 12
+- Ines 10
+- Mina 5
+- remaining POVs = recurring/rare functional actors
 
-Blocking P0:
-**0**
+Maren is plurality POV owner in Acts:
+**1, 2, 5, 6, 7**.
 
-P1 watch:
-- five POV owners still appear by EP009
-- execution must orient naturally and preserve family return gravity
+Intentional local owners:
+- Act3 Amara
+- Act4 Ella
+
+Maren anchors:
+EP001 / EP056 / EP120 / EP145 / EP216 / EP229 / EP230.
+
+Interpretation:
+**Maren is primary series anchor inside a true ensemble, not a majority-POV protagonist.**
+
+---
+
+# Important POV Execution P1s
+
+## Act1
+- first 9 episodes still use 5 POV owners
+- orientation must be immediate
+
+## Act2
+- Count EP053~058 = six-POV causal knowledge relay
+- do not collapse into one Truth Keeper
+
+## Act3
+- Meaning EP059~066: stop explaining when current choice has enough information
+- Amara behavior must vary; no repeated symbol-refusal speech
+
+## Act4
+- Ella owns 7-episode PR-H1 run 112~118
+- vary action/location; do not make seven screen-reading episodes
+- EP117 Ella POV, EP120 Maren accountability POV
+
+## Act5
+- highest specialist POV load
+- cut technical explanation before cutting human cost
+
+## Act6
+- young voices must visibly age across T-8→T-3
+- career/future choices need varied physical actions, not forms
+
+## Act7
+- insertion without disaster must still feel climactic
+- EP219~230 cannot feel like twelve epilogues
+- EP230 Maren cannot summarize cast or deliver final humanity thesis
 
 ---
 
 # Current Canon Snapshot
 
-- Ship: **Meridian / 메리디언**
+- Ship: Meridian
 - Population: ~300k
-- Destination: **Epsilon Indi A / 인디계**
-- Story start: ~T-14 to insertion
-- Natural/Bio-Origin current active count: 1
-- identity: **Amara Okoro**
-- main protagonist: **Maren Vale**
+- Destination: Epsilon Indi A / 인디계
+- Start: ~T-14
+- current Natural/Bio-Origin active count: 1
+- identity: Amara Okoro
+- protagonist anchor: Maren Vale
 - public Count: EP058
 - Meaning complete: EP066
 - Amara public confirmation: EP075
-- series center: ~230 episodes
+- insertion: EP216 region
 - ending: Costly Polycentric Arrival
-
----
-
-# P1 Execution Risks
-
-1. first-20 title-promise balance
-2. legacy Human semantic-cheat perception
-3. Amara refusal repetition
-4. Act5 engineering/institution density
-5. Human Settler late-conflict contrivance perception
-6. insertion without disaster still needing climax force
-7. same-writer/perfect-agent dialogue
-8. jargon spike
-9. notification/report hook repetition
-10. downtime/humor absence
-11. early POV load
 
 ---
 
 # Hard Stop During Writing
 
-Stop and run Canon-impact review if an episode requires:
+Stop + Canon-impact review if prose needs:
 - adult origin scanner
-- Seed memory/personality programming
+- Seed memory/personality/command programming
 - anchorless adult restoration
 - Amara sovereignty/admin key
 - mass citizenship erasure
@@ -179,15 +196,22 @@ Stop and run Canon-impact review if an episode requires:
 
 # Current Next Work
 
-No structural prewriting task is blocking EP001.
+All structural + POV prerequisites for EP001 are complete.
 
-## If user requests prose
-1. read EP001 card
-2. use Maren POV per Act1 POV Map
-3. draft under `PROSE-EXECUTION-PROTOCOL-v1.md`
-4. run after-draft Episode QA
-5. sync manuscript/progress according to repository protocol
+## If user explicitly requests prose
+1. read EP001 Blueprint
+2. read Protocol v1.1
+3. Act1 POV Map → Maren
+4. draft EP001
+5. run after-draft QA
+6. sync accepted manuscript/progress to GitHub
 
-## If user does not request prose
-Do not auto-generate scenes.
-May continue with execution support such as Act2 POV mapping, style calibration, or manuscript pipeline QA only if requested/appropriate.
+## If user only says `이어서`
+Do not auto-generate manuscript.
+Optional useful execution-support only, e.g.:
+- Act1 prose style calibration **without writing a scene**
+- manuscript repository/file naming pipeline
+- after-draft QA template
+- platform-length/serialization formatting rules
+
+Story/Canon/POV architecture should not be reopened without a new P0.
