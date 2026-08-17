@@ -155,6 +155,31 @@ CHG-001~026 전체 원문은 Git의 immutable blob에 보존되어 있다.
 
 ---
 
+### CHG-032 — Full-series POV architecture + Protocol v1.1 보정
+- Date: 2026-08-17
+- Change Location: Manuscript execution architecture / all Acts POV
+- Previous: Protocol v1은 `Maren ~45~60%`를 soft diagnostic으로 두었고 Act1만 exact POV Map이 잠겨 있었음.
+- New:
+  - Act2~Act7까지 EP029~230 exact Execution POV Map 작성 + 각 Act mini QA 통과.
+  - EP001~230 전체가 한 화 한 POV로 배정됨.
+  - 전체 POV 합계는 Maren 45 / Ella 27 / Amara 25 / Noah 17 / Raul 17 / 기타 분산.
+  - Maren은 Acts 1/2/5/6/7의 plurality POV owner. Act3는 Amara, Act4는 Ella가 구조적 이유로 Act-level owner.
+  - full-series regression 4안 비교 결과, 45%를 맞추려면 최소 59화 이상을 Maren POV로 재배정해야 하며 이는 non-Maren causality / Information Ladder / C8 및 PR-H1 agency를 크게 훼손한다고 판정.
+  - `POV-H1R Maren-Led Plurality Anchor` 채택: Maren은 majority POV가 아니라 **primary series anchor inside a true ensemble**.
+  - Protocol v1의 45~60% diagnostic을 폐기하고 `PROSE-EXECUTION-PROTOCOL-v1.1.md`로 보정.
+  - v1.1 hard anchor: Maren = full-series largest single POV owner, majority of Acts plurality, EP001/EP229/EP230 및 핵심 checkpoint ownership, percentage-driven POV theft 금지.
+  - `ALL-ACTS-POV-LOCK-QA-v1.md` 결과 blocking P0 = 0.
+- Reason: 화별 인과 주체를 끝까지 실제 배정한 뒤 드러난 실행구조가 초기 추정치와 충돌했기 때문. 수치를 맞추기 위해 인물자율성을 훼손하는 것보다 full-series data에 맞춰 execution diagnostic을 수정하는 편이 작품 구조와 주제/정보공정성을 모두 보존함.
+- Trigger / Evidence: `ACT2~ACT7-EXECUTION-POV-MAP-v1.md`, 각 Act mini QA, `FULL-SERIES-POV-REGRESSION-4-DESIGNS-v1.md`, `ALL-ACTS-POV-LOCK-QA-v1.md`.
+- Characters Affected: 모든 recurring POV character 및 functional specialist POV.
+- Acts Affected: 전체 EP001~230.
+- Foreshadowing Affected: Count/Meaning/Amara/PR-H1/arrival-law information observer selection; facts/timing 자체는 변경 없음.
+- World Rules Affected: 없음. Canon truth unchanged.
+- Documents Repaired: `PROSE-EXECUTION-PROTOCOL-v1.1.md`, `CLAUDE.md`, `canon/CANON_STATUS.md`, `docs/current-work-status.md`, `docs/NEXT-CHAT-HANDOFF.md`, POV Map/QA 문서군.
+- Status: `ALL-ACTS POV ARCHITECTURE = LOCKED / PROTOCOL v1.1 ACTIVE / NO CANON REOPEN`
+
+---
+
 # Current Change-Control Rule
 
 Story/Canon은 Frozen이다.
@@ -167,6 +192,7 @@ Story/Canon은 Frozen이다.
 - arrival-law authority range
 - Amara authority or identity meaning
 
-실행 POV, 문장표현, minor names 같은 비-Canon 조정은 Prose Protocol 범위 안에서 가능하지만 정보시점/인과를 바꾸면 별도 QA한다.
+Execution POV/wording/minor names can change within Protocol v1.1 only if local causality + information-fairness QA passes.
+Changing full-series Maren anchor architecture requires full POV regression.
 
 새 blocking P0가 발견되면 관련 Freeze를 재개방한다.
