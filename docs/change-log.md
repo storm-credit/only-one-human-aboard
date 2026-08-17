@@ -137,6 +137,57 @@ This file continues from CHG-033.
 
 ---
 
+### CHG-035 — Material Culture / Equipment / Relics를 독립 완성도 Gate로 승격
+- Date: 2026-08-17
+- Change Location: Encyclopedic Setting Bible / material culture / equipment / heritage / collection engine
+- Previous:
+  - weapons, equipment, historical artifacts, heirlooms and collectibles were scattered implicitly across Infrastructure, Culture, History and Act-level strategic assets.
+  - no single reference layer prevented scene-by-scene invention or `old object = secret lore key` drift.
+- New:
+  - mandatory cross-cutting **Package C-M = Material Culture / Equipment / Relics Bible** added without renumbering stabilized A~I packages.
+  - four material-culture models compared.
+  - `MC-H1 — Layered Material Ecology + Selective Heritage Objects` selected as provisional base.
+  - object ecology O1~O5 defined: ordinary cycle goods / durable personal goods / professional-controlled equipment / strategic commons assets / heritage-provenance objects.
+  - provenance states defined by evidence and restoration history rather than RPG rarity rank.
+  - weapon/public-safety direction set as a closed-habitat safety/legal problem, not a combat progression system.
+  - Earth-origin objects, voyage-era artifacts, family heirlooms, museums, collectibles, salvage and strategic heritage become explicit design domains.
+  - collection pleasure is defined as recognition → provenance → return → completion, not loot → power progression.
+  - Material Culture-specific adversarial tests added to the final completeness gate.
+- Reason:
+  - user explicitly asked whether weapons/relics/equipment and collection-worthy material objects must be part of the complete setting bible.
+  - a 450-year 300k-person civilization would otherwise remain materially underdesigned despite strong macro world logic.
+- Trigger / Evidence:
+  - direct user instruction on 2026-08-17.
+  - `docs/material-culture/MATERIAL-CULTURE-EQUIPMENT-RELICS-4-DESIGNS-v0.1.md`
+  - `docs/material-culture/MATERIAL-CULTURE-BIBLE-v0.1.md`
+  - `docs/qa/MATERIAL-CULTURE-EQUIPMENT-RELICS-RED-TEAM-v0.1.md`
+- Characters Affected:
+  - none locked yet; recurring personal objects remain deferred to Character Encyclopedia v2.
+  - future candidates may support Ella/Noah/Jun/Amara and ordinary supporting cast without becoming character gimmicks.
+- Acts Affected:
+  - Act 1~4 primarily through everyday texture / heirloom / work equipment.
+  - Act 5~7 through strategic machinery, heritage/function conflicts and arrival transfer.
+  - no Act ordering or reveal architecture changed.
+- Foreshadowing Affected:
+  - only high-salience objects may enter Package G Device Atlas.
+  - ordinary objects must greatly outnumber clue-bearing props.
+  - no new universal MacGuffin added.
+- World Rules Affected:
+  - new provisional material-culture domain only.
+  - public-safety/weapon, AI/autonomous security, property/inheritance/salvage and exact historical provenance remain dependency-blocked until Packages A/C/D etc. are completed.
+- Documents Repaired/Created:
+  - `docs/material-culture/MATERIAL-CULTURE-EQUIPMENT-RELICS-4-DESIGNS-v0.1.md`
+  - `docs/material-culture/MATERIAL-CULTURE-BIBLE-v0.1.md`
+  - `docs/qa/MATERIAL-CULTURE-EQUIPMENT-RELICS-RED-TEAM-v0.1.md`
+  - `docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.3.md`
+  - `docs/current-work-status.md`
+- Status:
+  - `MC-H1 STRUCTURAL BASE = PASS`
+  - `PACKAGE C-M FULL PASS = BLOCKED BY CROSS-PACKAGE DEPENDENCIES`
+  - `CORE v1 UNCHANGED / MANUSCRIPT STILL BLOCKED`
+
+---
+
 # Current Change-Control Rule
 
 Core v1 is a stable baseline, but v2 completeness expansion is active.
@@ -151,6 +202,8 @@ If new material contradicts v1:
 - regression-test affected Episode Cards
 
 Narrative Engineering maps are metadata/index/QA only; Canon/active Blueprint/M1/POV always override map summaries.
+
+Material Culture Bible is provisional until its legal/economic/AI/history/arrival dependencies are reconciled.
 
 Do not draft manuscript until:
 `ENCYCLOPEDIC CANON FREEZE v2 = PASSED`.
