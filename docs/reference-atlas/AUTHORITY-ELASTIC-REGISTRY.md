@@ -4,218 +4,279 @@ Status: `PACKAGE H REFERENCE / NAVIGATION ONLY / NOT CANON`
 Date: 2026-08-18
 
 Purpose:
-Prevent search-result drift. This file identifies **status and owner**, not replacement prose.
+Prevent search-result drift by identifying **status + current owner**.
+This file is never a substitute for the owner document.
 
 ## Status Vocabulary
 
 | Status | Meaning |
 |---|---|
-| CANON-V1 | current locked world/character/act Canon |
-| LOCKED-STORY | locked execution authority such as Blueprint/POV/M1 |
-| V2-CANDIDATE | structurally passed deep-design candidate awaiting v2 Canon Freeze |
-| C2-ELASTIC | bounded range/detail intentionally open |
+| CANON-V2 | current world/character Canon |
+| ACTIVE-NARRATIVE-CANON | current Act macro-story Canon |
+| LOCKED-STORY | Blueprint / POV / M1 / Deep-Card execution authority |
+| C2-ELASTIC | bounded detail/range intentionally open |
 | IMPLEMENTATION | tooling/file/UI concern, not story truth |
-| SUPERSEDED | preserved design history, not current truth |
-| REJECTED | intentionally not selected |
-| FORBIDDEN | anti-drift hard stop |
+| SUPERSEDED | preserved history, not current truth |
+| REJECTED | intentionally excluded |
+| FORBIDDEN | hard anti-drift stop |
 
 ---
 
-# 1. Core Ontology / Seed / Reconstruction
+# 1. Current Authority
 
-| Topic | Status | Current rule / locator | Owner |
-|---|---|---|---|
-| Current citizens have biological human-form bodies/brains | CANON-V1 | origin distinction is developmental, not body material | `canon/WORLD_BIBLE-v1.md` |
-| Seed | CANON-V1 | prenatal developmental prior/attractor during critical window; not finished mind/personality/loyalty | `canon/WORLD_BIBLE-v1.md` |
-| Seed completion | CANON-V1 | prenatal verified process; Natural-Origin only if full relevant window completes without verified Seed success | `canon/WORLD_BIBLE-v1.md` |
-| Adult origin scanner | FORBIDDEN | no casual adult body/brain scan proves origin | `canon/WORLD_BIBLE-v1.md` |
-| Recovery Map | CANON-V1 | reconstruction constraint map, not executable soul-file | `canon/WORLD_BIBLE-v1.md` |
-| Neural Anchor | CANON-V1 | surviving/preserved neural substrate required for normal adult Reconstruction | `canon/WORLD_BIBLE-v1.md` |
-| Anchorless adult restoration | FORBIDDEN | no routine restored civic person from map alone | `canon/WORLD_BIBLE-v1.md` |
-| Routine chronological age reset | FORBIDDEN | Reconstruction is not a youth reset | `canon/WORLD_BIBLE-v1.md` |
-| Lifespan ranges | C2-ELASTIC | center ~100–110y; broad ~90–120; exceptional ~120–130+ | `canon/WORLD_BIBLE-v1.md` |
+| Domain | Status | Owner |
+|---|---|---|
+| World / society / history / infrastructure / culture / destination | CANON-V2 | `canon/WORLD_BIBLE-v2.md` |
+| Core + C1 character authority | CANON-V2 | `canon/CHARACTER_BIBLE-v2.md` |
+| 7 Acts / reveal / ending macro architecture | ACTIVE-NARRATIVE-CANON | `canon/ACT_BIBLE-v1.md` |
+| Exact episode story work | LOCKED-STORY | active `EPISODE-BLUEPRINT-ACT*.md` |
+| POV | LOCKED-STORY | `ACT*-EXECUTION-POV-MAP-v1.md` |
+| Exact writing-ready time/age | LOCKED-STORY | `HARNESS-M1-TIME-AGE-v0.1.md` |
+| Knowledge fences / episode retrieval | LOCKED-STORY metadata | Package G Registry |
+| Reference Atlas | NAVIGATION ONLY | `docs/reference-atlas/*` |
 
----
+Historical:
+- `canon/WORLD_BIBLE-v1.md` = SUPERSEDED
+- `canon/CHARACTER_BIBLE-v1.md` = SUPERSEDED
 
-# 2. Natural / Seeded Origin / Count
-
-| Topic | Status | Current rule / locator | Owner |
-|---|---|---|---|
-| Current active Natural-Origin count | CANON-V1 | exactly 1 at Reveal | `canon/WORLD_BIBLE-v1.md` |
-| Identity of current one | CANON-V1 | Amara Okoro | `canon/CHARACTER_BIBLE-v1.md` |
-| Exact-one preservation program | SUPERSEDED + FORBIDDEN | current count is demographic state, not designed protocol | `docs/world-logic/WL11-HISTORY-REPAIR-v0.2-4-DESIGNS.md` + Canon |
-| Witness/keeper bloodline | FORBIDDEN | no chosen lineage | Canon + anti-drift docs |
-| Future Natural-Origin births | CANON-V1 | possible; count need not remain one | `canon/WORLD_BIBLE-v1.md` |
-| Modern civic personhood by origin | CANON-V1 | origin alone cannot downgrade citizenship/personhood | `canon/WORLD_BIBLE-v1.md` |
-| `Human = Natural-Origin` as objective narrator ontology | FORBIDDEN | only legacy schema/translation shock; not moral/objective ontology | `canon/WORLD_BIBLE-v1.md` |
+Act6:
+- Blueprint v0.2 = ACTIVE
+- Blueprint v0.1 = SUPERSEDED.
 
 ---
 
-# 3. History
+# 2. Core Ontology
 
-| Topic | Status | Current rule / locator | Owner |
+| Topic | Status | Current rule | Owner |
 |---|---|---|---|
-| Original passengers | CANON-V1 | Natural-Origin humans | `canon/WORLD_BIBLE-v1.md` |
-| Fate of original humans | CANON-V1 | lived, reproduced, aged/died across generations; no replacement event | `canon/WORLD_BIBLE-v1.md` |
-| Seed historical adoption | CANON-V1 core / V2-CANDIDATE depth | practical medicine + network effects + rights normalization | Canon + `docs/design-v2/HISTORICAL-BIBLE-v0.1.md` |
-| 8-era 450y history | V2-CANDIDATE | HIST-H1 | `docs/design-v2/HISTORICAL-BIBLE-v0.1.md` |
-| Exact historical milestone years | C2-ELASTIC | broad Voyage-Year bands preferred until final v2 micropass | Historical Bible |
-| Earth destroyed/cut off catastrophically | REJECTED as requirement | Earth need not be destroyed; delay/social distance sufficient | Historical Bible |
-| Central AI coup explains modern society | REJECTED | federated automation evolves institutionally | Historical Bible / Package C |
+| biological human-form bodies/brains | CANON-V2 | current citizens are living biological persons | World v2 |
+| Seed | CANON-V2 | prenatal developmental prior; not finished mind/personality/commands | World v2 |
+| verified Seed completion | CANON-V2 | prenatal provenance required | World v2 |
+| adult origin scanner | FORBIDDEN | casual adult scan cannot establish origin | World v2 |
+| Recovery Map | CANON-V2 | recovery constraint/reference, not executable soul | World v2 |
+| Neural Anchor | CANON-V2 | required for normal adult Reconstruction | World v2 |
+| anchorless adult restoration | FORBIDDEN | no ordinary restored civic person from map alone | World v2 |
+| routine age reset | FORBIDDEN | Reconstruction is not youth reset | World v2 |
+| lifespan | C2-ELASTIC | center ~100–110y; broad ~90–120; exceptional 120–130+ | World v2 |
 
 ---
 
-# 4. Society / Economy / Law
+# 3. Origin / Count / Personhood
 
-| Topic | Status | Current rule / locator | Owner |
+| Topic | Status | Current rule | Owner |
 |---|---|---|---|
-| Layered Commons + Market City | CANON-V1 | civic survival floor + money/markets + capacity commons | `canon/WORLD_BIBLE-v1.md` |
-| Detailed governance GOV-H1 | V2-CANDIDATE | layered civic republic + commons constraints + narrow safety command | `docs/design-v2/SOCIETY-BIBLE-v0.1.md` |
-| CJ-H1 public safety | V2-CANDIDATE | restorative default + narrow coercive escalation; no universal surveillance | Society Bible |
-| ECO-H1 economy | V2-CANDIDATE | one money economy above civic floor; mixed enterprise | Society Bible |
-| PROP-H1 property | V2-CANDIDATE | common survival structure + meaningful residential tenure/private interiors | Society Bible |
-| LAB-H1 | V2-CANDIDATE | career choice + incentives/training; no lifetime job assignment | Society Bible |
-| FAM-H1 | V2-CANDIDATE | partnership/parenthood/guardianship/property separate | Society Bible |
-| EDU-H1 | V2-CANDIDATE | public foundation + adolescent choice + apprenticeship/higher/adult retraining | Society Bible |
-| MED-H1 | V2-CANDIDATE | universal clinical floor + advanced medicine + supported autonomy | Society Bible |
-| DEATH-H1 | V2-CANDIDATE | clinical death / Continuity review / legal finality / mourning distinct | Society Bible |
-| AI sovereign officeholder | FORBIDDEN | no central AI sovereignty/adjudicator | Canon + Society/Infrastructure |
+| Natural-Origin active Count | CANON-V2 + LOCKED reveal | exactly 1 at Reveal | World v2 / Act Bible |
+| identity | CANON-V2 | Amara Okoro | Character v2 |
+| exact-one preservation protocol | SUPERSEDED + FORBIDDEN | Count=1 is demographic state | World v2 |
+| Witness/keeper lineage | FORBIDDEN | no chosen bloodline | World v2 |
+| future Natural-Origin births | CANON-V2 | possible | World v2 |
+| origin-based civic inferiority | FORBIDDEN | modern personhood/citizenship equal | World v2 |
+| `Human = Natural-Origin` objective narrator truth | FORBIDDEN | only legacy schema mapping/translation shock | World v2 / Act Bible |
 
 ---
 
-# 5. Meridian Geography / Infrastructure
+# 4. Society / Law / Economy
 
-| Topic | Status | Current rule / locator | Owner |
-|---|---|---|---|
-| 1환 / 2환 / 3환 + Spine + Outer Works | CANON-V1 | three large rotating Habitats plus nonrotating Spine/external works | `canon/WORLD_BIBLE-v1.md` |
-| 1환 emphasis | CANON-V1 | civic/old urban; contains 구시가지; mixed class/jobs | Canon |
-| 2환 emphasis | CANON-V1 | green/watershed/ecology mixed urban | Canon |
-| 3환 emphasis | CANON-V1 | technical/mixed industrial | Canon |
-| Habitat caste | FORBIDDEN | no elite/farmer/worker partition | Canon |
-| Exact Habitat dimensions | C2-ELASTIC | radius ~1 km order, length ~5–7 km order | Canon |
-| Household count | C2-ELASTIC | ~120k–130k | Canon living-world sanity |
-| Cross-Habitat commute | C2-ELASTIC | ordinary door-to-door ~60–120m | Canon living-world sanity |
-| URB/TRANS/UTIL/EMG/AI/NET/ARC/OPS/MAP/BIO-PET | V2-CANDIDATE | Package C structural models | `docs/design-v2/INFRASTRUCTURE-OPERATIONS-BIBLE-v0.1.md` |
-| Exact pressure-sector/node/reserve numbers | C2-ELASTIC | unresolved quantitative P1 | Package C status |
+All promoted to CANON-V2 through World v2:
+- Layered Civic Republic + physical commons constraints
+- restorative/reparative justice default + bounded coercion
+- Layered Commons + Market City
+- meaningful money/wages/tax/rent/debt/business
+- structural commons + residential tenure + private interiors
+- occupational choice / training / labor organization
+- family dimensions separated: partnership / parenthood / guardianship / residence / property
+- common education + lifelong retraining
+- universal clinical floor / supported autonomy
+- death / Continuity review / legal finality / mourning.
+
+Specific recurring policy locks:
+- civil majority 18 + staged youth autonomy
+- DATA-H1 purpose-class retention/versioned correction
+- FORCE-H1 closed-habitat tool/force tiers
+- STRIKE-H1 strike right + minimum life-safety service.
+
+Owner: `canon/WORLD_BIBLE-v2.md`.
+
+FORBIDDEN:
+AI sovereign officeholder / Habitat caste / wealth purchase of personhood or hard-capacity priority.
 
 ---
 
-# 6. Power / Propulsion / Protection
+# 5. Meridian / Infrastructure
 
-| Topic | Status | Current rule / locator | Owner |
+| Topic | Status | Current rule | Owner |
 |---|---|---|---|
-| Civil power | CANON-V1 / C2 numbers | advanced distributed fusion, multi-GW to ~10GW order | `canon/WORLD_BIBLE-v1.md` |
-| Heat rejection | CANON-V1 | real civilization constraint | Canon |
-| Interstellar propulsion | CANON-V1 | dedicated high-output fusion direct-exhaust, scale separated from civil grid | Canon |
-| `engine steals household GW` | FORBIDDEN | arrival pressure comes via spares/heat/labor/reaction mass/redundancy | Canon |
-| Forward protection | CANON-V1 | layered sensing/sacrificial/EM/massive bow system | Canon |
+| 1환 / 2환 / 3환 + Spine + Outer Works | CANON-V2 | mixed cities with functional emphasis | World v2 |
+| Habitat caste | FORBIDDEN | no elite/farmer/worker partition | World v2 |
+| radius | CANON-V2 working band | 0.9–1.1 km | World v2 |
+| length | CANON-V2 working band | 5–7 km order | World v2 |
+| main urban gravity | CANON-V2 working band | ~0.9–1.0g | World v2 |
+| rotation | CANON-V2 working band | ~0.9–1.0 rpm | World v2 |
+| giant one-volume atmosphere | FORBIDDEN | internally compartmented pressure architecture | World v2 |
+| major pressure sectors | C2-ELASTIC inside Canon band | ~1k–3k population-equivalent; ~35–80/Habitat order | World v2 |
+| public Spine interfaces | C2-ELASTIC inside Canon band | ~8–12/Habitat order | World v2 |
+| cross-Habitat door-to-door | C2-ELASTIC | ~60–120m | World v2 |
+| civil power | CANON-V2 / C2 detail | multi-GW to ~10GW order | World v2 |
+| thermal constraint | CANON-V2 | real; ~10–20% normal headroom author band | World v2 |
+| direct critical infrastructure workforce | CANON-V2 working band | ~15k–25k | World v2 |
+| wider technical/industrial/logistics ecosystem | CANON-V2 working band | ~40k–60k order, overlapping | World v2 |
+
+---
+
+# 6. AI / Network / Archives
+
+CANON-V2:
+- federated domain AI
+- bounded personal agents
+- segmented critical networks
+- permissioned gateways
+- local fallback
+- versioned/deep archives
+- human accountability for rights decisions.
+
+FORBIDDEN:
+- central sovereign ship AI
+- one flat omniscient database
+- universal citizen score
+- automatic AI guilt/personhood judgment.
+
+Owner: World v2.
 
 ---
 
 # 7. Destination / Arrival
 
-| Topic | Status | Current rule / locator | Owner |
+| Topic | Status | Current rule | Owner |
 |---|---|---|---|
-| Destination star | CANON-V1 | Epsilon Indi A | `canon/WORLD_BIBLE-v1.md` |
-| Habitable rocky candidate + resource bodies | CANON-V1 | future mission-era discoveries | Canon |
-| Exact modern exoplanet letter for settlement world | C2-ELASTIC | reader-facing proper letter not required | Canon |
-| PLAN-H1 planet environment | V2-CANDIDATE | water-rich, temperate, pressure-compatible but oxygen-poor | `docs/design-v2/DESTINATION-ARRIVAL-BIBLE-v0.1.md` |
-| Planet ~0.52AU / 150–160d / 0.97g / 29.5h | C2-ELASTIC | working candidates only | Destination Bible |
-| SYS-H1 resource triangle | V2-CANDIDATE | planet + volatile + metal/silicate + orbital bootstrap | Destination Bible |
-| Arrival sequence | CANON-V1 core / V2-CANDIDATE depth | Meridian retained; orbit/ISRU first; small surface foothold; new habitat delayed | Canon + Destination Bible |
-| Costly Polycentric Arrival | CANON-V1 | no free third way | Canon |
-| Instant mature colony | FORBIDDEN | end ~+1y remains small external footholds | Canon |
-| Alien invasion/complex-life takeover | FORBIDDEN without Canon reopening | destination conflict stays physical/industrial/civic | Canon |
+| destination star | CANON-V2 | Epsilon Indi A | World v2 |
+| rocky settlement world | CANON-V2 story-world fact | future mission-era fictional discovery | World v2 |
+| orbit | CANON-V2 working band | ~0.50–0.54 AU | World v2 |
+| year | CANON-V2 working band | ~150–165d | World v2 |
+| gravity | CANON-V2 working band | ~0.93–1.02g | World v2 |
+| day | CANON-V2 working band | ~28–31h | World v2 |
+| atmosphere | CANON-V2 | ~85–110 kPa order; O2 far below safe human breathing | World v2 |
+| ordinary outdoor rule | CANON-V2 | breathing support mandatory; no routine full-pressure EVA | World v2 |
+| exact atmosphere composition | C2-ELASTIC | bounded by above rule | World v2 |
+| Meridian in-system staging | CANON-V2 working family | high planetocentric ~30k–80k km center-distance | World v2 |
+| arrival sequence | CANON-V2 | Meridian retained; orbit/ISRU first; small surface foothold; new habitat delayed | World v2 |
+| Year-1 simultaneous off-Meridian | C2-ELASTIC inside Canon ceiling | ~250–700 order | World v2 |
+| instant mature colony | FORBIDDEN | external footholds remain small | World v2 |
+| alien takeover | FORBIDDEN absent Canon reopening | no second-premise alien conflict | World v2 |
 
 ---
 
 # 8. Arrival Law / Amara
 
-| Topic | Status | Current rule / locator | Owner |
-|---|---|---|---|
-| Human Settler legacy class | CANON-V1 | obsolete destination mapping cross-references Natural/Bio-Origin | `canon/WORLD_BIBLE-v1.md` |
-| Ship citizenship erased by mapping | FORBIDDEN | current citizenship remains | Canon |
-| Amara activation/admin/settler key | FORBIDDEN | no sovereignty, voting, ownership, genetic/archive authority | Canon |
-| Count publication | CANON-V1 | lawful aggregate schema-integrity process; identity protected initially | Canon |
-| JUR-H1 migration/property | V2-CANDIDATE | shared citizenship + capacity-gated voluntary migration + gradual local rights | Destination Bible |
+CANON-V2:
+- Human Settler = obsolete destination mapping cross-reference
+- current ship citizenship is not erased
+- shared civic baseline continues across early nodes
+- location/service nexus supports early off-ship tax/jurisdiction
+- surface use begins as capacity/environment-bound stewardship
+- biosecurity uses contained systems + outdoor release moratorium during ending window.
+
+FORBIDDEN:
+Amara sovereignty / land / vote / genetic/archive/admin/settler key.
+
+Owner: World v2.
 
 ---
 
 # 9. Characters
 
-| Topic | Status | Current rule / locator | Owner |
-|---|---|---|---|
-| Core goals/ages/voices/arcs | CANON-V1 | Maren/Ella/Noah/Raul/Tomas/Ines/Jun/Amara household | `canon/CHARACTER_BIBLE-v1.md` |
-| Maren family-case recusal | CANON-V1 | mandatory | Character Canon |
-| PR-H1 truth | CANON-V1 | unfinished nonbinding Ella draft; Maren lawful access + omission | Character Canon |
-| Character ordinary-life encyclopedia | V2-CANDIDATE | CHAR-H1 layered depth | `docs/design-v2/CHARACTER-ENCYCLOPEDIA-v0.1.md` |
-| Final residences not Blueprint-locked | C2-ELASTIC | do not force symbolic ship/orbit/surface symmetry | Character Encyclopedia |
-| Amara pre-Reveal body/taste/object clue | FORBIDDEN | ordinary presentation | Character Encyclopedia QA |
+Current character owner:
+`canon/CHARACTER_BIBLE-v2.md`.
+
+CANON-V2 includes:
+- core goals/flaws/voices/arcs/PR-H1
+- mandatory Maren family recusal
+- C1 home/money/health/hobby/AI/object anchors
+- Amara anti-clue
+- 14 stable-if-used C1 support names
+- 14-year trajectories.
+
+C2:
+- exact birthdays/heights/salaries/addresses
+- Mina exact adult field
+- final residence when Blueprint leaves it open
+- S2 names.
+
+Superseded Package-F names:
+- Toma Rhee → Eli Rhee
+- Mara Diniz → Dalia Diniz
+- Sana Idris → Nadia Idris
+- Imani Okoro → Abeni Okoro
+- Leonie Wu → Hana Wu.
 
 ---
 
-# 10. Narrative / Execution Authority
+# 10. Culture / Material
 
-| Topic | Status | Current rule / locator | Owner |
-|---|---|---|---|
-| 7 Acts / 230 episodes | LOCKED-STORY | Act Bible + active Blueprints | `canon/ACT_BIBLE-v1.md` + writing-ready Blueprints |
-| Act6 active Blueprint | LOCKED-STORY | **v0.2** | `docs/writing-ready/EPISODE-BLUEPRINT-ACT6-v0.2.md` |
-| Act6 v0.1 | SUPERSEDED | do not use for active execution | writing-ready history |
-| POV maps | LOCKED-STORY | one POV per episode | `docs/writing-ready/ACT*-EXECUTION-POV-MAP-v1.md` |
-| M1 Time/Age | LOCKED-STORY | exact execution clock/ages | `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md` |
-| Full Context Registry | LOCKED-STORY metadata / NOT CANON | 230/230 retrieval/fence rows | `docs/narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md` |
-| Count internal/public | LOCKED-STORY | EP056 / EP058 | Blueprint + Deep Card |
-| Meaning complete | LOCKED-STORY | EP066 | Blueprint + Deep Card |
-| Amara private/public confirmation | LOCKED-STORY | EP068 / EP075 | Blueprint + Deep Card |
-| PR-H1 discovery starts | LOCKED-STORY | EP112 | Blueprint + Deep Card |
-| Insertion | LOCKED-STORY | EP216 region; active Blueprint EP216 | Act7 Blueprint/M1 |
-| EP230 thesis speech | FORBIDDEN | ending through lived consequences, not author lecture | Act7/Prose protocol |
+CANON-V2 recurring set includes:
+- 출항일 / 동등시민일 / 메리디언의 밤
+- 겹전 / 야간면 / 수로빵 / 검은장
+- 한 바퀴 늦다 / 축 잡아 / 환 건너
+- 항해연속극 / 저중력 무용 / archive remix
+- Rebound sport.
+
+Material principles:
+- O1~O5 functional classes
+- Old ≠ powerful
+- Rare ≠ useful
+- ordinary recurring object ≠ clue by default.
+
+FORBIDDEN:
+founder key / superweapon / origin-scanner relic / RPG rarity logic.
+
+Owner: World v2 + Character v2 for personal objects.
 
 ---
 
-# 11. Narrative Device Repairs
+# 11. Narrative / Execution
 
-| Old/tempting reading | Status | Correct current direction |
+| Topic | Status | Rule / Owner |
 |---|---|---|
-| MG-01 Seed planted SA-1A | SUPERSEDED | Seed clue begins SA-1B / EP012~013 |
-| EP014 transit fault = Arrival Clock | SUPERSEDED | ordinary transit/world texture |
-| EP026 repair scarcity = strategic CK-01 | SUPERSEDED | ordinary maintenance texture |
-| Sub-Act active device appears in every episode | FORBIDDEN | Sub-Act is candidate scope only; episode-explicit authority required |
+| 7 Acts / 230 episodes | ACTIVE-NARRATIVE-CANON | `ACT_BIBLE-v1.md` |
+| Act6 Blueprint | LOCKED-STORY | v0.2 active |
+| Act6 v0.1 | SUPERSEDED | do not execute |
+| POV | LOCKED-STORY | one POV/episode; locked maps |
+| M1 | LOCKED-STORY | exact time/age execution authority |
+| Context Registry | LOCKED-STORY metadata | 230/230 knowledge-fence rows |
+| internal/public Count | LOCKED-STORY | EP056 / EP058 |
+| Meaning complete | LOCKED-STORY | EP066 |
+| Amara protected/public confirmation | LOCKED-STORY | EP068 / EP075 |
+| PR-H1 discovery starts | LOCKED-STORY | EP112 |
+| Human Settler operational | LOCKED-STORY | EP142~151 |
+| insertion | LOCKED-STORY | EP216 |
+| EP230 thesis speech | FORBIDDEN | lived ending, no author lecture |
 
-Owner:
-`docs/narrative-engineering/NARRATIVE-ENGINEERING-REPAIR-ADDENDUM-v0.2.md`
-and full Manifest Regression.
+Device repairs:
+- MG-01 Seed clue begins SA-1B / EP012~013
+- EP014 transit fault ≠ Arrival Clock
+- EP026 routine repair scarcity ≠ strategic CK-01
+- Sub-Act active device does not auto-load into every episode.
 
 ---
 
-# 12. Material Culture
+# 12. Implementation-only
 
-| Topic | Status | Current rule / locator | Owner |
-|---|---|---|---|
-| MC-H1 material ecology | V2-CANDIDATE | ordinary/durable/professional/strategic/heritage object classes | `docs/material-culture/MATERIAL-CULTURE-BIBLE-v0.1.md` |
-| Old = powerful | FORBIDDEN | age/provenance ≠ power | Material Culture Bible |
-| Rare = useful | FORBIDDEN | rarity and utility separate | Material Culture Bible |
-| hidden superweapon/founder key relic | FORBIDDEN | no loot-MacGuffin takeover | Material Culture Bible |
-| character personal objects | V2-CANDIDATE | meaning through use/history, not power | character-object integration |
+| Item | Status |
+|---|---|
+| Split EP029~230 Context Registry into individual Markdown | IMPLEMENTATION |
+| Dataview views | IMPLEMENTATION |
+| database/YAML backend | IMPLEMENTATION |
+| graph UI layout | IMPLEMENTATION |
 
----
-
-# 13. Implementation-only Items
-
-| Item | Status | Rule |
-|---|---|---|
-| Split EP029~230 Registry into individual Markdown | IMPLEMENTATION | may be generated later; creates no new design/Canon |
-| Dataview views | IMPLEMENTATION | optional |
-| database/YAML canonical backend | IMPLEMENTATION | optional future tooling |
-| exact UI graph layout | IMPLEMENTATION | not story truth |
+These are not missing Deep Design or Canon.
 
 ---
 
 # Usage Guardrail
 
-Before using any searched sentence from an old file:
-1. identify topic in this registry,
-2. inspect status,
-3. follow owner link,
-4. if owner and old file conflict, owner/status wins,
-5. if unresolved, do not guess.
+Before using any old search result:
+1. identify its domain,
+2. check this status registry,
+3. follow the current owner,
+4. if old file conflicts, current owner wins,
+5. if a detail is C2, stay inside the Canon grammar,
+6. if unresolved and consequential, do not guess—use change control.
