@@ -1,268 +1,221 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
-> 롤링 인수인계 — 2026-08-17 최신.
-> **Core v1은 안정적. Encyclopedic Deep Design v2 진행 중. Package A/B 구조설계는 PASS. 원고는 계속 BLOCKED.**
+> Rolling handoff — 2026-08-17 latest.
+> **Core v1 stable. Encyclopedic Deep Design v2 active. Packages A/B/C/D/E structural design PASS. Manuscript remains BLOCKED.**
 
 ---
 
-# 새 채팅 복구 순서
+# Repository / Recovery Order
 
 Repository:
 `storm-credit/only-one-human-aboard`
 
-다른 프로젝트 설정을 가져오지 않는다.
-
-GitHub Connector로 먼저 읽는다:
+Read first:
 1. `CLAUDE.md`
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `canon/CANON_STATUS.md`
 5. `docs/change-log.md`
-6. `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
-7. `docs/qa/SOCIETY-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
-8. `docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
-9. `docs/qa/CULTURE-DAILY-LIFE-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
-10. `docs/material-culture/00-MATERIAL-CULTURE-MOC.md`
-11. `docs/narrative-engineering/00-NARRATIVE-MOC.md`
+6. `canon/WORLD_BIBLE-v1.md`
+7. `canon/CHARACTER_BIBLE-v1.md`
+8. `canon/ACT_BIBLE-v1.md`
 
-Stable core Canon baseline:
-12. `canon/WORLD_BIBLE-v1.md`
-13. `canon/CHARACTER_BIBLE-v1.md`
-14. `canon/ACT_BIBLE-v1.md`
+Integrated v2 candidates already completed:
+9. `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
+10. `docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
+11. `docs/design-v2/INFRASTRUCTURE-OPERATIONS-BIBLE-v0.1.md`
+12. `docs/design-v2/HISTORICAL-BIBLE-v0.1.md`
+13. `docs/design-v2/DESTINATION-ARRIVAL-BIBLE-v0.1.md`
+14. `docs/material-culture/00-MATERIAL-CULTURE-MOC.md`
+15. `docs/narrative-engineering/00-NARRATIVE-MOC.md`
 
-Existing structural assets remain valid:
-- EP001~230 episode Blueprints
-- Deep Cards
-- Harness M1~M8
-- Prose Protocol v1.1
-- full POV Maps
-
-Do NOT use them to begin prose until v2 completeness gate closes.
+QA counterparts exist under `docs/qa/*INTEGRATED-RED-TEAM-v0.1.md`.
 
 ---
 
-# 현재 공식 상태
+# Global State
 
-Historical/core:
 - `CORE DESIGN FREEZE v1 = PASSED`
 - `CORE CANON FREEZE v1 = PASSED`
 - `STRUCTURAL WRITING READY = PASSED`
 - `EP001~230 BLUEPRINT = COMPLETE`
 - `EP001~230 POV = COMPLETE / PASS`
-
-Current active gate:
-- `ENCYCLOPEDIC DEEP DESIGN = IN PROGRESS / BLOCKED`
+- `ENCYCLOPEDIC DEEP DESIGN = IN PROGRESS`
 - `ENCYCLOPEDIC CANON FREEZE v2 = NOT PASSED`
 - `MANUSCRIPT = BLOCKED`
 
-Core v1 blocking P0: **0**
-
-Current package milestones:
-- `PACKAGE A SOCIETY STRUCTURAL DEEP DESIGN = PASS / NOT CANON`
-- `PACKAGE B CULTURE & DAILY LIFE STRUCTURAL DEEP DESIGN = PASS / NOT CANON`
-- `PACKAGE C = NEXT ACTIVE / NOT COMPLETE`
-- `PACKAGE C-M MATERIAL CULTURE STRUCTURAL BASE = PASS / FULL PACKAGE OPEN`
-- `PACKAGE D = NOT COMPLETE`
-- `PACKAGE E = NOT COMPLETE`
-- `PACKAGE F = NOT COMPLETE`
-- `PACKAGE G NARRATIVE GRAPH FOUNDATION = PASS / EP MANIFEST 28/230`
-- `PACKAGE H = NOT COMPLETE`
-- `PACKAGE I = NOT COMPLETE`
-
-Do not write EP001 on generic `진행/이어서`.
-Generic continuation means continue Encyclopedic Deep Design.
+Generic `진행/이어서` means continue deep design, never prose.
 
 ---
 
-# Package A — COMPLETE STRUCTURAL DESIGN
+# Package Status
 
-Integrated authority candidate:
-`docs/design-v2/SOCIETY-BIBLE-v0.1.md`
+## A — Society
+`STRUCTURAL PASS / P0=0 / NOT CANON`
+Models:
+GOV-H1 / CJ-H1 / ECO-H1 / PROP-H1 / LAB-H1 / FAM-H1 / EDU-H1 / MED-H1 / DEATH-H1.
 
-QA:
-`docs/qa/SOCIETY-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
+## B — Culture & Daily Life
+`STRUCTURAL PASS / P0=0 / NOT CANON`
+Models:
+LNG-H1 / REL-H1 / CAL-H1 / FOOD-H1 / CLO-H1 / DOM-H1 / MEDIA-H1 / ENT-H1 / INT-H1 / ID-HOME-H1.
 
-Integrated P0: **0**
+## C — Infrastructure & Operations
+`STRUCTURAL PASS / P0=0 / NOT CANON`
+Models:
+URB-H1 / TRANS-H1 / UTIL-H1 / EMG-H1 / AI-H1 / NET-H1 / ARC-H1 / OPS-H1 / MAP-H1 / BIO-PET-H1.
 
-Selected provisional models:
-1. `GOV-H1` Layered Civic Republic + Commons Constraints + Narrow Safety Command
-2. `CJ-H1` Layered Public Safety + Restorative Default + Narrow Coercive Escalation
-3. `ECO-H1` Civic Floor + Monetary Market + Capacity Commons + Mixed Enterprise
-4. `PROP-H1` Layered Residential Tenure + Common Structure + Transferable Household Interests
-5. `LAB-H1` Open Occupational Mobility + Plural Worker Power + Safety-Credential Boundaries
-6. `FAM-H1` Civil Partnership + Independent Parenthood + Protected Dependency + Flexible Household
-7. `EDU-H1` Common Civic Foundation + Choice-Rich Adolescence + Apprenticeship/Higher Training + Lifelong Retraining
-8. `MED-H1` Universal Clinical Floor + Advanced Biological Repair + Privacy-Bounded Prevention + Supported Autonomy
-9. `DEATH-H1` Clinical Death + Continuity Review + Bounded Legal Finality + Material Return + Plural Mourning
-
-Core Society results:
-- democratic civic rule, no captain/AI sovereignty
-- public safety real but no universal surveillance
-- market money above civic survival floor
-- hard birth/Reconstruction/strategic capacity not auctioned
-- private/co-op/public mixed enterprise
-- valuable residential rights without private hull sovereignty
-- person continuity does not roll back every lawful property change
-- career choice + incentives/training, not lifetime job assignment
-- partnership/parenthood/guardianship/property distinct
-- donor/sole-parent/adoption/guardianship coherent
-- public education + apprenticeship/higher/adult retraining
-- advanced medicine without immortality/cure-all
-- mental illness ≠ criminality
-- clinical death / Reconstruction review / legal finality / mourning / estate distinct
-
-Do NOT Canon-freeze A until C/D/E/F and quant dependencies close.
-
----
-
-# Package B — COMPLETE STRUCTURAL DESIGN
-
-Integrated authority candidate:
-`docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
-
-QA:
-`docs/qa/CULTURE-DAILY-LIFE-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
-
-Integrated P0: **0**
-
-Selected provisional models:
-1. `LNG-H1` Evolved Ship Common + Heritage Language Ecology + Translation Assist
-2. `REL-H1` Plural Inherited Traditions + Secular Life + Ship-Born Civic Rituals + Small New Movements
-3. `CAL-H1` Synchronized Earth-Descended Civil Time + Voyage-Epoch Archival Time + Ship-Born Observance Calendar
-4. `FOOD-H1` Closed-Loop Staples + Heritage Recipe Lineages + Ship-Born Adaptation + Real Hospitality Market
-5. `CLO-H1` Recognizable Civilian Fashion + Closed-Loop Textiles + Specialized Workwear + Selective Wearables
-6. `DOM-H1` Urban Comfort + High-Efficiency Closed Loops + Repairable Domestic Systems + Selective Automation
-7. `MEDIA-H1` Public-Service Information + Plural Journalism/Creators + Interoperable Social Layer + Bounded Recommenders
-8. `ENT-H1` Layered Heritage + Ship-Born Creative Canon + Live/Physical Culture + Bounded Immersion
-9. `INT-H1` Plural Adult Intimacy + Strong Consent/Privacy + Reproduction Decoupled From Partnership
-10. `ID-HOME-H1` Meridian-Home Majority + Layered Heritage + Contested Mission Memory + Plural Arrival Futures
-
-Core Culture results:
-- one evolved Common; Korean prose is natural translation convention
-- heritage languages survive unevenly
-- 24h/7d/~365d Earth-derived civil calendar + Voyage Year
-- plural religion/nonreligion; shared civic ritual without shared metaphysics
-- real cuisine/restaurants, not nutrient paste
-- civilian fashion, not jumpsuits
-- normal showers/laundry/cooking under efficient loops
-- plural news/social/private messaging, no single truth feed
-- Earth archive + 450 years Meridian-created culture
-- provisional physically grounded zero-g ball sport candidate
-- consent/privacy strong; population control does not regulate private intimacy
-- Meridian is actual home; Earth is ancestral/archive memory
-- founders not genetic aristocracy
-- surface not automatically `real home`.
-
-Do NOT Canon-freeze B until C/D/E/F and exact historic/physical examples close.
-
----
-
-# Package C-M — Material Culture / Equipment / Relics
-
-MOC:
-`docs/material-culture/00-MATERIAL-CULTURE-MOC.md`
-
-Selected:
-- `MC-H1 — Layered Material Ecology + Selective Heritage Objects`
-- `CE-H1 — Civilization Completion + Living-World Recognition + Selective Material Return`
-
-Core rules:
+## C-M — Material Culture / Equipment / Relics
+`STRUCTURAL BASE PASS / FULL PACKAGE OPEN`
+Models:
+MC-H1 / CE-H1.
+Rules:
 - Old ≠ powerful
 - Rare ≠ useful
-- no founder key / hidden superweapon / origin scanner / chosen-one relic
-- high-penetration/high-energy weapons strongly restricted due Habitat externality
-- industrial tools remain realistically dangerous professional tools
-- collection pleasure = reader recognition/recontextualization, not loot progression
+- no founder key/hidden superweapon/origin scanner/chosen-one relic
+- collection engine = reader recognition/recontextualization, not loot.
+D/E dependencies are now structurally closed; F/G/H/final QA remain.
 
-Public-safety integration completed structurally.
-Exact catalog waits C/D/E/F.
+## D — Historical Bible
+`STRUCTURAL PASS / P0=0 / NOT CANON`
+Models:
+- HIST-H1 8-era spine
+- SRR-H1 Seed/Reconstruction/Rights chronology
+- CIV-HIST-H1 civic/economy/infrastructure evolution
+- CUL-HIST-H1 cultural/information evolution
+- EC-H1 delayed non-governing Earth contact.
 
----
+Approx overlapping eras:
+- VY0–20 founding
+- 20–80 early voyage
+- 60–140 Continuity/first Seed
+- 120–230 Seed normalization/rights
+- 220–320 civic maturation/urban layering
+- 300–380 networked civilization
+- 370–420 mature Meridian/Earth ancestral relation
+- 420→insertion final approach.
 
-# Package G — Narrative Engineering
+No replacement catastrophe / exact-one protocol / chosen lineage / AI coup / required Earth destruction.
 
-Foundation completed:
-- NAM-H1
-- Device Atlas
-- 7/7 Act nodes
-- 23/23 Sub-Act nodes
-- CP-H1 Context Pack
-- knowledge layers AUTHOR/POV/PUBLIC/PROTECTED
-- EP001~028 exact Context Manifests = **28/230**
+## E — Destination & Arrival
+`STRUCTURAL PASS / P0=0 / NOT CANON`
+Models:
+- PLAN-H1 temperate water-rich rocky world, pressure-compatible oxygen-poor air
+- SYS-H1 planet + volatile cluster + metal/silicate cluster + orbital depot
+- ARR-H1 Meridian retained + orbit/ISRU first-mover + small surface foothold
+- JUR-H1 shared citizenship + transitional commons + voluntary capacity-gated migration + gradual local municipal rights.
 
-Known repairs NOT YET APPLIED:
-1. MG-01 Atlas Seed clue plant incorrectly says SA-1A; correct Blueprint = EP012~013 / SA-1B.
-2. EP014 transit fault over-tagged as TK-01 Arrival Clock; remove.
-3. EP026 general repair scarcity over-tagged as CK-01 industrial spare; remove device tag, keep world texture.
-4. Some IDs in map (`RI-01`, `RC-LAW-01`, etc.) need formal Atlas registration or repair.
+Planet working candidates only:
+- ~0.52 AU
+- ~150–160 Earth-day year
+- ~0.97g
+- ~29.5h day
+- modest tilt
+- near-Earth pressure, low enough O2 that breathing support is required
+- abundant surface water / cool-temperate.
 
-Later:
-EP029~230 manifests + orphan/premature/noise/knowledge QA.
+The rocky planet is a **future mission-era fictional discovery**, not a claim about a currently confirmed real exoplanet.
 
----
+Ending ~+1y:
+- Meridian overwhelming population center
+- small persistent orbit/resource sites
+- small permanent surface foothold
+- new-habitat program begun, not a city.
 
-# CURRENT NEXT WORK — PACKAGE C
+No first-come land/asteroid sovereignty; no Amara privilege; empty land ≠ birth capacity.
 
-Start:
-## `Housing / Neighborhood / Urban Architecture — 4 Designs`
+## F — Character Encyclopedia v2
+**NEXT ACTIVE / NOT COMPLETE**
 
-Must examine:
-- physical dwelling types / sizes / household fit
-- mixed-use neighborhood architecture
-- common/private spaces
-- gravity/rotation effects on buildings
-- Old Quarter vs newer districts
-- window/view logic
-- sound/vibration
-- civic minimum/temporary/protected housing stock
-- market/co-op/rental tenure physical implementation
-- accessible housing
-- moving/repair/condemnation
-- emergency compartment/isolation
-- relation to transit hubs
-- anti-Habitat-class/caste regression
+## G — Narrative Engineering
+`GRAPH FOUNDATION PASS / EP CONTEXT MANIFEST 28/230`
+Known repairs before continuation:
+- MG-01 Seed plant belongs SA-1B EP012~013, not SA-1A
+- remove EP014 TK-01 overtag
+- remove EP026 CK-01 overtag
+- repair/register unresolved IDs
+Then EP029~230 manifests and final device QA.
 
-Then:
-2. Transit / Commute / Freight
-3. Utilities / Domestic Interfaces
-4. Emergency / Fire / Decompression / Contamination
-5. Everyday AI / Automation / Robotics
-6. Communication Networks
-7. Archives / Knowledge / Data Retention
-8. Routine Operations / Maintenance
-9. Geography / Map Integration
-10. Pet/animal/ecology operational feasibility
-11. Package C integrated Bible + hostile Red Team
+## H — Reference Atlas
+Not complete.
 
-Workflow remains:
-`4 designs → compare → blind spots/traps → hybrid → hostile Red Team → provisional integration`.
+## I — Final Completeness Harness
+Not complete.
 
 ---
 
 # Core Canon Do-Not-Break
 
-- living biological human-form bodies/brains
-- Seed = prenatal developmental prior only
+- biological bodies/brains
+- Seed prenatal developmental prior only
 - no adult origin scanner
-- Recovery Map + Neural Anchor
+- Recovery Map + surviving Neural Anchor
 - no anchorless adult restoration
-- current Natural-Origin = 1 = Amara
-- no Witness/exact-one protocol
+- current Natural-Origin active count = 1 = Amara
+- no exact-one/Witness protocol
 - no Habitat caste
-- no Amara chosen authority
-- no mass citizenship deletion
+- no Amara sovereignty/admin/land/genetic key
+- no mass citizenship erasure
 - no civil-grid propulsion theft
 - no instant mature colony
-- no bigger late ontology twist
-- Maren does not adjudicate own family
+- no larger late ontology twist
+- Maren cannot adjudicate own family
 - no central AI dictatorship.
+
+Reveal locks:
+- Count internal EP056
+- Count public EP058
+- Meaning complete EP066
+- protected Amara confirmation EP068
+- controlled public confirmation EP075
+- insertion around EP216
+- ending Costly Polycentric Arrival.
+
+---
+
+# Next Active Work — Package F Character Encyclopedia v2
+
+Workflow:
+`4 architecture designs → compare → Hybrid → hostile QA → deep cards → support-network graph → integrated Character Encyclopedia v2 → hostile QA`.
+
+Must add for each core character:
+- physical appearance / body language
+- residence / housing standard / neighborhood
+- worksite / commute / daily routines
+- finances/property
+- education/training history
+- hobbies/sports/media/music/food/clothing tastes
+- religion/ritual if relevant
+- health/medical history
+- devices/personal AI habits
+- personal objects/heirlooms/material culture
+- friends/coworkers/neighbors/supporting cast
+- relationships outside main plot
+- ordinary-day and bad-day behavior
+- age/voice/body changes through 14 years
+- ship/orbit/surface future choices.
+
+Hard rule:
+Do not flatten everyone into theme-delivery functions.
+Every character needs ordinary life that could exist without the main mystery.
+
+Package F should also create a reusable recurring supporting cast instead of disposable NPCs.
+
+After F:
+1. close C-M with character objects/tastes
+2. repair/finish G EP029~230 manifests
+3. H Reference Atlas
+4. I Final Completeness Harness
+5. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 consolidation
+6. full Canon/episode regression
+7. `ENCYCLOPEDIC CANON FREEZE v2`
+8. only then manuscript READY.
 
 ---
 
 # Chat Operation
 
-- If already in a new chat, do not ask user to open another.
-- Keep meaningful results synced to GitHub.
-- Before context gets too dense, refresh this handoff again.
-- `진행/이어서` = continue deep design, not prose.
-- Manuscript remains blocked until `ENCYCLOPEDIC CANON FREEZE v2 = PASSED`.
+- Never ask user to repeat already-known project state.
+- Sync meaningful design results to GitHub.
+- Refresh this handoff before context becomes unsafe.
+- Do not draft prose until v2 Freeze.
