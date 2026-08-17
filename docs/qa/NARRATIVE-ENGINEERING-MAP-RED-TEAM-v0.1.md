@@ -1,6 +1,6 @@
 # Narrative Engineering Map Red Team v0.1
 
-Status: `PACKAGE F INTERIM QA / NOT FINAL PASS`
+Status: `PACKAGE G INTERIM QA / NOT FINAL PASS`
 Date: 2026-08-17
 
 Scope:
@@ -168,7 +168,7 @@ Verdict: `PASS`
 
 ---
 
-## RT-NE-12 — Is Package F complete now?
+## RT-NE-12 — Is Package G complete now?
 No.
 
 Remaining blockers:
@@ -180,7 +180,7 @@ Remaining blockers:
 6. premature-payoff audit,
 7. clue-density/noise audit,
 8. final cross-check against M1/POV/Blueprint,
-9. final Package F hostile QA.
+9. final Package G hostile QA.
 
 Verdict:
-`PACKAGE F = IN PROGRESS / STRUCTURAL MAP FOUNDATION PASS`
+`PACKAGE G = IN PROGRESS / STRUCTURAL MAP FOUNDATION PASS`
