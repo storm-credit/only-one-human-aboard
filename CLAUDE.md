@@ -1,386 +1,263 @@
 # CLAUDE.md — 《우주선에는 인간이 한 명뿐이다》
 
-## 0. Project State
+## 0. PROJECT AUTHORITY
 
-현재 단계는 **DEEP DESIGN**이다.
+Repository: `storm-credit/only-one-human-aboard`
 
-다음 상태를 모두 통과하기 전까지 원고 집필을 금지한다.
+이 파일은 프로젝트 최상위 작업헌법이다.
 
-`DESIGN FREEZE → CANON FREEZE → WRITING READY`
+현재 정본 우선순위:
+1. `CLAUDE.md`
+2. `canon/WORLD_BIBLE-v1.md`
+3. `canon/CHARACTER_BIBLE-v1.md`
+4. `canon/ACT_BIBLE-v1.md`
+5. `canon/CANON_STATUS.md`
+6. `docs/current-work-status.md`
+7. `docs/NEXT-CHAT-HANDOFF.md`
+8. Writing Ready blueprint / harness / QA 문서
+9. 과거 provisional / candidate / rejected 설계문서
 
-금지 범위:
-- 프롤로그
-- 1화/본문
-- 샘플 장면
-- 긴 대사
-- 문체 테스트용 원고
-- ‘설명을 위해 잠깐 써보는’ 장면
-
-재미있는 장면이 떠올라도 먼저 `보고 싶은 장면/설계 노트` 형태로 기록한다.
-
----
-
-## 1. Core Goal
-
-이 프로젝트의 목표는 좋은 한 줄짜리 SF 반전이 아니라 최소 200~300화까지 버티는 장편 SF 웹소설/IP를 설계하는 것이다.
-
-우선순위:
-1. 실제 재미
-2. 캐릭터와 인간관계
-3. 반복 가능한 이야기 엔진
-4. 중반 지속력
-5. Living World
-6. 장기 복선과 회수
-7. SF 논리
-8. 결말 만족도
-9. AI 티가 적은 자연스러운 서사
-10. 설정의 양
-
-설정이 많다고 좋은 것이 아니다. 모든 설정마다 묻는다.
-
-> 이 설정으로 어떤 재미있는 사건·선택·관계 변화가 발생하는가?
-
-답하지 못하면 축소하거나 삭제한다.
+과거 문서가 현재 Canon과 충돌하면 **Canon이 우선**한다.
+임의로 중간안을 복원하지 않는다.
 
 ---
 
-## 2. Core Premise
+# 1. CURRENT GATE
 
-가제: 《우주선에는 인간이 한 명뿐이다》
+- `DESIGN FREEZE = PASSED — 2026-08-17`
+- `CANON FREEZE = PASSED — 2026-08-17`
+- `WRITING READY = PASSED — 2026-08-17`
+- `MANUSCRIPT = ALLOWED UNDER PROSE EXECUTION PROTOCOL`
 
-세대우주선에는 약 30만 명이 살아간다. 사람들은 가족을 만들고 학교에 다니고 일하고 늙고 죽는다. 그러나 현재 존재하는 **생물학적 인간은 단 한 명뿐**이다. 나머지는 인공적 의식/AI 계열 존재이며 자신을 인간이라고 믿고 살아간다. 주인공 역시 자신이 유일한 인간이라는 증거가 없다.
+근거:
+- `docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
+- `docs/qa/CANON-FREEZE-RED-TEAM-v1.md`
+- `docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
+- EP001~230 Full Episode Matrix
+- High-Risk Deep Cards
+- Harness M1~M8
+- Hostile QA
 
-절대 금지:
-- 상태창 SF
-- 우주전쟁 먼치킨
-- 기갑물이 기본 엔진이 되는 구조
-- 외계인 침략이 메인 엔진이 되는 구조
-- 초능력물 전환
-- 인간 선 / AI 악 이분법
-- ‘사실 모두 VR’ 단일 반전
-- 하나의 비밀만 200화 끌기
-- 선택받은 인간이 세계를 구하는 구조
-
----
-
-## 3. Reader Promise Rule
-
-독자가 계속 읽는 핵심 이유를 3~5개로 관리한다.
-
-반드시 검증:
-- 20화의 재미가 100화에도 존재하는가?
-- 100화의 재미가 200화에도 존재하는가?
-- 최종부에도 같은 핵심 재미가 살아 있는가?
-
-규모는 커져도 된다. 재미의 종류 자체가 다른 작품으로 변하면 안 된다.
-
-현재 Reader Promise 후보:
-1. 새로운 구획/사회에 갈 때마다 다른 삶의 방식과 갈등이 보인다.
-2. 개인의 이상한 사건이 인간·기억·죽음·가족의 세계 규칙을 보여준다.
-3. 상대가 AI임이 밝혀져도 관계의 가치가 자동으로 무효가 되지 않는다.
-4. 진실 하나를 얻으면 새로운 행동 가능성과 사회적 문제가 열린다.
-5. 초반의 ‘사람 한 명의 문제’가 후반의 ‘문명 선택’으로 확장되어도 출발점은 사람과 관계다.
+`WRITING READY`는 즉흥적으로 설정을 만들어도 된다는 뜻이 아니다.
+본문은 Canon + Blueprint의 구조를 보존하는 실행 단계다.
 
 ---
 
-## 4. Four Design Rule
+# 2. MANUSCRIPT EXECUTION HARD STOPS
 
-중요한 설계는 첫 아이디어를 바로 Canon으로 고정하지 않는다.
+집필 중 다음이 필요해지면 **즉시 본문 진행을 멈추고 Canon-impact review**를 한다.
 
-기본 4안:
-- A — World Bible
-- B — Story Engine
-- C — Narrative Engineering
-- D — Living World
+- adult origin scanner
+- Seed가 기억/성격/명령을 삽입
+- anchor 없는 성인 복원/복제
+- 아마라의 관리자키/주권/식민지 정통성 권한
+- 기존 시민권 29만9천여 명 일괄 박탈
+- 중앙 AI 독재가 모든 문제의 원인
+- 새로운 더 큰 존재론 반전
+- 마렌이 자기 가족분쟁을 공식 심사
+- 감속추진이 시민전력 몇 GW를 직접 빼앗음
+- 도착 즉시 대규모 완성 식민지
+- 공짜 제3의 길
+- 외계침략/우주전쟁/기갑물이 메인 엔진으로 전환
 
-현재 프로젝트의 추천 작업 순서:
-
-`B → C-lite → D → World Logic → C-full → A → Red Team → Stress Test → Freeze`
-
-세부 설정도 치명적 분기라면 3~4안을 비교한다.
-
----
-
-## 5. Current Story Engine Hypothesis — PROVISIONAL
-
-현재 테스트상 가장 강한 주인공 직업 후보:
-
-**인격연속성 심사관**
-
-사망·복원·기억손실·신체교체 등이 발생했을 때 사고 전후 존재가 법적/사회적으로 같은 사람인지 판정하는 일을 한다.
-
-현재 개인 욕망 후보:
-
-> 자신의 보호대상/가족이 사회적 ‘오류’로 처리되지 않도록 평범한 삶을 지키는 것.
-
-현재 핵심 반복엔진 후보:
-- E1 Continuity Case — 복원/기억/신체/동일성 사건
-- E2 Family & Relationship — 가족/연인/친구 관계
-- E3 Sector Civilization — 구획별 문화/생활 탐험
-- E4 Resource Conflict — 몸/연산/공간/에너지/저장 자원
-- E5 Living Factions — 정치/사회집단의 독립 행동
-- E6 Historical Recontextualization — 현재 사건을 통해 과거를 재해석
-
-중요:
-
-`Case → Investigation → Solution → Reset` 반복을 금지한다.
-
-권장 루프:
-
-`Personal Problem → Character Choice → Relationship Change → Social Precedent → Faction Reaction → New Pressure → World Change`
+이 경우 `docs/change-log.md`에 영향범위를 기록하고 필요한 Gate를 재개방한다.
 
 ---
 
-## 6. Current Truth Architecture — PROVISIONAL
+# 3. CANON PREMISE — DO NOT REINTERPRET
 
-현재 가장 강한 Hybrid 후보는 다음과 같다.
+- 세대우주선 **메리디언**.
+- 현재 시민 약 30만.
+- 대부분 시민은 살아 있는 인간형 생물학적 몸과 뇌를 가진다.
+- 핵심 옛 분류 차이는 몸의 재질이 아니라 **인지발달 기원**이다.
+- 현 사회의 대부분은 prenatal **발달 커넥톰 시드**를 거친 Seeded/Synthetic-Origin Cognition.
+- 현재 옛 Natural/Bio-Origin Cognition 분류에 해당하는 active 시민은 1명.
+- 그 1명은 **아마라 오코로**.
+- 현대 사회에서 두 기원 모두 사람/시민으로 살아왔다.
+- 제목의 `인간 한 명`은 옛 좁은 legacy category가 현대사회에 재적용될 때 생기는 충격문장이지, 서술자의 최종 도덕판정이 아니다.
 
-**C3 자발적 인류 전환 기반 + C1 증인 계통 요소 + C4 구식 도착 프로토콜 요소**
-
-가설:
-- 초기 생물학적 인간은 수백 년 항해를 지속하기 위해 수 세대에 걸쳐 인공 기질로 자발적으로 전환했다.
-- 현재 30만 명은 단순 복제품이 아니라 수백 년 동안 새로 태어난 후손 사회다.
-- 이들은 역사적으로 자신을 인간이라고 불러왔고, 현재의 법/문화에서도 인간이다.
-- 생물학적 인간 한 명은 생물학적 계승/증인 프로그램의 잔존일 가능성이 있다.
-- 오래된 식민 프로토콜은 `인간 = 생물학적 Homo sapiens`라는 구식 정의를 유지할 수 있다.
-- 최종 갈등은 인간 vs AI가 아니라 `과거 인간이 미래를 위해 남긴 명령` vs `그 이후 실제로 살아버린 사람들`이 되는 방향이 유력하다.
-
-아직 Canon 아님:
-- 주인공이 AI인지 여부
-- 보호대상이 유일한 인간인지 여부
-- 유일한 인간의 정확한 역할
-- 배아 수와 식민 프로토콜
-- 과거 기록 은폐의 주체/의도
-- 목적지의 상태
+절대 `나머지 30만은 가짜 AI/NPC`로 되돌리지 않는다.
 
 ---
 
-## 7. Living World Hypothesis — PROVISIONAL
+# 4. CORE WORLD LOCKS
 
-현재 생활권 후보:
-- 대원환 — 표준 중력, 행정/교육/상업 중심
-- 녹환 — 식량/생태, 단회 생명 문화 강함
-- 외주대 — 외벽/추진/방열, 신체 개조 문화
-- 구환 — 오래된 주거/기록/보수적 공동체
-- 제작환 — 신체/기계 생산, 노동조합 강세
-- 기억원 — 기록/교육/백업 문화
-- 유년원 — 보육/학교/청소년 문화 중심
-- 선구역 — 초기 탑승/지휘 시설, 현재 부분 폐쇄
+## Seed
+- prenatal critical window의 generated developmental prior.
+- 완성 기억/성격/충성/명령/관리자키를 넣지 않는다.
+- 성공여부는 산전 단계 closed-loop verification으로 기록된다.
+- 성인 몸을 검사해서 기원을 직접 판정할 수 없다.
 
-현재 사회철학 후보:
-- 연속성주의
-- 단생주의
-- 기질무관파
-- 기원보존파
-- 항해주의
-- 정착주의
-- 시민실재론
+## Reconstruction
+- 연속성 스캔 → 복구지도.
+- 정상 복원은 surviving neural anchor 필요.
+- Recovery Map은 실행 가능한 영혼파일이 아니다.
+- anchor가 완전히 소실되면 동일인 성인 복원 불가.
+- 과거 스캔으로 수십 년 젊게 되감기 불가.
 
-이 세력들은 주인공 없이도 목표와 행동계획이 있어야 한다.
+## Reproduction / History
+- 자연임신/보조생식 모두 가능.
+- Seed는 표준 산전의료지만 full-window refusal은 합법적이고 매우 희귀.
+- 출항 당시 natural-origin 인간들은 몰살/업로드되지 않았다.
+- 여러 세대에 걸쳐 Seed가 의료·법·네트워크 효과로 표준화됐다.
+- `현재 정확히 한 명`은 자동유지 프로토콜이 아니라 인구통계적 현재상태.
 
----
+## Living World
+- 1환 / 2환 / 3환 + Spine + Outer Works + Founding Core/Legacy Decks.
+- Habitat는 계급/직업 카스트가 아니다.
+- 경제는 `Layered Commons + Market City`.
 
-## 8. World Logic P0 Blockers
+## Destination
+- 목적지: Epsilon Indi A / 인디계.
+- 약 T-14에서 시작해 약 14년 후 system insertion.
+- 현지 bulk resource + 선박 산업자본의 staged settlement.
+- 우주선 해체갈등의 핵심은 고철이 아니라 제조/전력/방열/로봇/정밀설비와 redundancy.
 
-다음 질문은 **Freeze Blocker**다. 하나라도 약하면 Canon Freeze 금지.
-
-1. AI/인공인격의 실제 물리적 신체는 무엇인가?
-2. 인간과 인공인격이 병원에서도 쉽게 구별되지 않는 이유는?
-3. 출생은 실제로 어떻게 이루어지는가?
-4. 어린 시절/성장은 실제인가?
-5. 부모-자식 계승은 어떤 방식인가?
-6. 죽음은 무엇이며 언제 비가역적인가?
-7. 백업은 가능한가? 비용과 한계는?
-8. 복원된 존재는 법적으로/사회적으로 누구인가?
-9. 인구 30만은 왜 유지되는가?
-10. 연산·전력·냉각·저장은 어떻게 감당하는가?
-11. 식량/생태계는 어떤 존재들에게 얼마나 필요한가?
-12. 생물학적 인간 한 명은 어떻게 의료적으로 보호되는가?
-13. 왜 일반 의료체계가 그 한 명을 바로 찾아내지 못하는가?
-14. 초기 인간들은 정확히 어떤 과정을 거쳐 현재 사회로 이어졌는가?
-15. 목적지는 실제로 무엇이며 얼마나 남았는가?
-16. 도착 후 현재 30만 명의 법적/물리적 지위는 무엇인가?
+## Propulsion
+- civil grid와 규모가 분리된 전용 fusion direct-exhaust interstellar propulsion.
+- 감속 사회비용은 thermal geometry / spares / manufacturing / specialists / reaction mass / maintenance / redundancy.
 
 ---
 
-## 9. Blind-Spot Sweep / Red Team
+# 5. CORE CAST LOCKS
 
-각 Phase 종료 시 반드시 공격적으로 검토한다.
+정확한 인물 Canon은 `canon/CHARACTER_BIBLE-v1.md`가 authority.
 
-질문:
-- 설정이 사건보다 앞서고 있지 않은가?
-- 한 줄 콘셉트가 실제 이야기보다 좋은 것은 아닌가?
-- 미스터리 자체가 목적이 되었는가?
-- 주인공이 관찰자로 변하는가?
-- 철학 대화가 사건을 대신하는가?
-- 백업 때문에 죽음이 무력화되는가?
-- AI 캐릭터가 감정적으로 멀어지는가?
-- 모든 사건이 최종 반전에 너무 깔끔하게 연결되는가?
-- 모든 세력이 철학 논문처럼 완벽한가?
-- 중반이 회의실/정치 설명으로 굳는가?
-- 기존 인기작의 조합처럼 보이는가?
-- 100~200화가 새 악역/새 지역 추가만으로 버티는가?
-
-기록 형식:
-
-`문제 / 가능성 / 심각도 / 해결책`
-
-P0 문제는 해결 전 다음 Freeze 단계 진입 금지.
+핵심:
+- **마렌 베일**: 41F, 평범한 Seeded-Origin, 연속성 심사관. 보호하려고 대신 결정하는 결함. 자기 가족사건은 의무회피.
+- **엘라 베일**: 39F, 복원된 동생, 노아의 sole legal parent. 복원 이전 삶의 정확한 복구가 곧 자기증명이라는 집착에서 벗어남.
+- **노아 베일**: 12M → 약 26. 어른 둘 중 하나를 고르지 않고 제3경로를 만드는 아이에서 독립성인으로 성장.
+- **라울 세라**: 권리 옹호 변호사. 마렌의 실제 라이벌이며 자신의 승리도 비용을 만든다.
+- **토마스 벡**: 연속성심사국 선임관리자. 비밀지킴이 금지.
+- **이네스 라만**: 의료/복원 현장평가자. 만능 설명의사 금지.
+- **준 이마이**: 구시가지 유지보수 협동조합/현장 인물. 단순 향수주의자 금지.
+- **아마라 오코로**: 45F, 2환 수자원/재생 중견 실무자. 유일한 Natural-Origin이지만 특별능력·권한 없음.
+- 아마라의 배우자/자녀들은 독립목표를 가진다. 자녀는 Seeded-Origin.
 
 ---
 
-## 10. Stress Test Harness
+# 6. ACT / REVEAL LOCKS
 
-설계가 좋아 보일 때 일부러 제거한다.
+Main series center: 약 230화.
 
-- 메인 미스터리를 50화에 공개하면?
-- 주인공이 유일한 인간이 아니면?
-- 보호대상이 유일한 인간이 아니면?
-- 라이벌을 삭제하면?
-- 핵심 세력 하나가 사라지면?
-- 백업 기술을 크게 제한하면?
-- 목적지 비밀을 삭제하면?
-- 180화에 완전히 새로운 생활권을 방문해야 하면?
-- 250화에 초반 인물을 다시 중심으로 올리면?
+1. Act 1 `돌아온 사람들의 자리` EP001~028
+2. Act 2 `판정의 비용` EP029~058
+3. Act 3 `한 명이라는 숫자` EP059~088
+4. Act 4 `공개된 다음 날` EP089~122
+5. Act 5 `미래를 위해 현재를 뜯는 법` EP123~156
+6. Act 6 `두 고향` EP157~194
+7. Act 7 `도착은 판정이 아니다` EP195~230
 
-그럼에도 핵심 재미 엔진이 살아 있어야 한다.
+Reveal sequence:
+- internal Count = EP056
+- public Count = EP058
+- Meaning complete = EP066
+- protected Amara confirmation = EP068
+- controlled public confirmation = EP075
 
----
-
-## 11. Reference Fiction Rule
-
-‘본보기 코드’ 대신 **본보기 작품**을 조사한다.
-
-대상:
-- SF 소설
-- 웹소설
-- 영화/드라마
-- 게임
-- 관련 과학·철학 개념
-
-각 레퍼런스마다 기록:
-- 무엇을 잘하는가
-- 반복 엔진은 무엇인가
-- 우리 작품과 겹치는 부분
-- 절대 베끼면 안 되는 부분
-- 독자가 떠올릴 비교 대상
-- 차별화 방법
-
-레퍼런스는 모방이 아니라 중복 위험·실패 패턴 검증에 쓴다.
+**Reveal 이후가 Reveal 이전보다 길다.**
+더 큰 ontology twist를 후반에 추가하지 않는다.
 
 ---
 
-## 12. Meta Prompting Workflow
+# 7. BLUEPRINT AUTHORITY
 
-### Context Dump
-작업 전 필요한 것만 모은다.
-- 현재 Canon
-- Provisional 후보
-- Rejected 설정
-- 미해결 질문
-- 현재 Phase
-- 관련 인물/Act/복선 상태
+Writing phase에서 다음 파일들이 구조 실행 기준이다.
 
-### Prompt Compression
-각 작업에 명시:
-- Goal
-- Constraints
-- Success Conditions
-- Stop Conditions
-- Required Output
+- `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md`
+- `...ACT2-v0.1.md`
+- `...ACT3-v0.1.md`
+- `...ACT4-v0.1.md`
+- `...ACT5-v0.1.md`
+- `...ACT6-v0.2.md` **(v0.1 superseded)**
+- `...ACT7-v0.1.md`
+- `docs/writing-ready/EPISODE-BLUEPRINT-PASS2-NORMALIZATION-v0.1.md`
 
-### Output QA
-결과를 바로 채택하지 않는다.
-- Reader Promise 유지?
-- 사건 생성?
-- 캐릭터 욕망과 연결?
-- 중반 지속 가능?
-- 기존 Canon과 충돌 없음?
-- SF 논리 통과?
-- AI 퍼즐 같은 인공성 없음?
+각 화에서 반드시 보존:
+- immediate desire/problem
+- pressure
+- choice/action
+- reader reward
+- irreversible consequence
+- information transaction
+- relationship turn
+- hook
+- next carry
+
+`Case → Investigation → Solution → Reset` 금지.
 
 ---
 
-## 13. Canon State Management
+# 8. READER PROMISE
 
-모든 주요 설정은 다음 상태 중 하나다.
-
-- `CANDIDATE`
-- `PROVISIONAL`
-- `CANON`
-- `REJECTED`
-
-브레인스토밍 결과를 조용히 Canon으로 승격하지 않는다.
-
----
-
-## 14. Change Management
-
-계획 변경 시 반드시 기록:
-- 변경 위치
-- 이전 설정
-- 새 설정
-- 변경 이유
-- 문제/증거
-- 영향받는 캐릭터
-- 영향받는 Act
-- 영향받는 복선
-- 영향받는 세계 규칙
-- 수정 필요 문서
-
-설정 충돌을 조용히 덮어쓰지 않는다.
+20화 / 100화 / 200화 / 229화에서도 유지:
+1. 닫힌 문명 안의 구체적 생활.
+2. 한 사람의 연속성/가족 문제에서 세계규칙이 드러남.
+3. 관계는 진실 때문에 자동 무효화되지 않고 변화함.
+4. 선택은 다음 화/다음 Act의 사회·자원·관계 후폭풍을 남김.
+5. 비밀 payoff는 새로운 행동을 연다.
+6. 개인판정이 후반 문명선택으로 확장되어도 사람과 관계가 중심이다.
 
 ---
 
-## 15. Anti-AI Design Rule
+# 9. P1 EXECUTION GUARDRAILS
 
-다음을 피한다.
-- 모든 사람이 최적 행동
-- 모든 단서가 의미 있음
-- 모든 조연이 메인 음모와 연결
-- 모든 대화가 플롯을 완벽히 진전
-- 모든 세력이 한 문장 철학으로 정리됨
-- 지나치게 대칭적인 복선/회수
-- 반전을 위해 존재하는 캐릭터
+최종 Hostile QA에서 구조 P0는 0이지만 집필 위험은 남아 있다.
 
-반드시 포함:
-- 오판
-- 사소한 욕심
-- 감정적 선택
-- 비효율적인 제도
-- 쓸데없어 보이는 습관
-- 오해
-- 불완전한 대화
-- 우연이 만든 문제
-- 회수되지 않아도 되는 작은 삶의 디테일
+반드시 매 화/묶음 QA:
+1. 초반 20화에서 제목 약속을 너무 숨기지도, 설명으로 망치지도 않는다.
+2. legacy `Human`이 말장난처럼 느껴지지 않게 factual wording과 즉시 의미설명을 지킨다.
+3. 아마라가 반복적으로 `난 상징이 아니야`만 말하는 캐릭터가 되지 않는다.
+4. Act 5는 공학/기관 설명이 아니라 사람의 선택과 손실로 읽혀야 한다.
+5. Human Settler 갈등은 갑툭튀 고대법이 아니라 이미 알려진 legal stack의 operational translation 문제다.
+6. insertion은 재난이 없어도 충분히 물리적·감정적·사회적 climax여야 한다.
+7. 모든 인물이 같은 작가/AI 목소리로 똑똑하게 말하지 않는다.
 
 ---
 
-## 16. Completion Gate
+# 10. ANTI-AI PROSE RULES
 
-현재 상태:
+- 설명을 위해 인물이 서로 이미 아는 내용을 대화하지 않는다.
+- 모든 대사가 완벽한 논지/반론 구조를 갖지 않는다.
+- 사소함, 실수, 오해, 피곤함, 유머, 생활욕망을 허용한다.
+- 인물별 감정 회피방식/문장길이/정보량을 지킨다.
+- 장면마다 철학적 의미를 부여하지 않는다.
+- 생활 디테일 대부분은 복선이 아니다.
+- 추상어보다 행동/물건/시간손실/동선/관계손실을 우선한다.
 
-`DEEP DESIGN / NOT READY TO WRITE`
+---
 
-다음이 모두 완료되어야 한다.
-- 시장/유사작 조사
-- Reader Promise
-- A/B/C/D 비교
-- Story Engine 40+ 사건 테스트
-- World Logic
-- World Bible
-- Character Bible
-- Chemistry/Relationship Matrix
-- Living World Timeline
-- Act/Sub-Act
-- Information Ladder
-- Foreshadow/Payoff Ledger
-- Failure/Reward Architecture
-- 결말 4안 + 추천안
-- 중반 100~200화 검증
-- Red Team
-- Stress Test
-- Canon conflict check
-- Freeze Checklist
+# 11. CHANGE CONTROL
 
-완료 전에는 어떠한 원고도 쓰지 않는다.
+Blueprint 안에서 Canon을 건드리지 않는 장면 순서/표현/소소한 이름은 조정 가능.
+
+다음이 바뀌면 `docs/change-log.md` 기록 + Canon-impact review 필수:
+- 세계물리/의료/출생/복원규칙
+- 핵심인물 origin/가족관계/core flaw
+- Reveal 사실/순서/대형 timing
+- Act 순서/Ending architecture
+- old law의 실제 권한범위
+- Amara의 역할/권한
+
+새 P0가 발견되면 해당 Freeze를 재개방한다.
+
+---
+
+# 12. NEXT PHASE
+
+본문을 시작하기 전 마지막 실행명세:
+**Prose Execution Protocol**.
+
+3~4개 방식을 비교한 뒤 다음을 잠근다.
+- POV / person
+- narrative distance
+- chapter word-count range
+- opening / ending hook rules
+- dialogue density
+- exposition / jargon budget
+- scene count / rhythm
+- character voice enforcement
+- after-draft Canon check
+- anti-AI prose QA
+
+이 Protocol은 Story/Canon을 다시 브레인스토밍하는 단계가 아니다.
