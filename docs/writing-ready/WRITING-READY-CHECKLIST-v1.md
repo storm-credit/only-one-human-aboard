@@ -15,9 +15,9 @@ This is a workflow gate, not permission to write.
 - [x] Act 2 EP029~058 — `EPISODE-BLUEPRINT-ACT2-v0.1.md`
 - [x] Act 3 EP059~088 — `EPISODE-BLUEPRINT-ACT3-v0.1.md`
 - [x] Act 4 EP089~122 — `EPISODE-BLUEPRINT-ACT4-v0.1.md`
-- [ ] Act 5 EP123~156
-- [ ] Act 6 EP157~194
-- [ ] Act 7 EP195~230
+- [x] Act 5 EP123~156 — `EPISODE-BLUEPRINT-ACT5-v0.1.md`
+- [x] Act 6 EP157~194 — active corrected version `EPISODE-BLUEPRINT-ACT6-v0.2.md`; v0.1 retained as superseded history
+- [x] Act 7 EP195~230 — `EPISODE-BLUEPRINT-ACT7-v0.1.md`
 
 Every episode requires:
 - Act/Sub-Act
@@ -38,6 +38,9 @@ Every episode requires:
 - forbidden-drift check
 - next-episode carry
 
+Gate A status:
+`COMPLETE — EP001~230`.
+
 ---
 
 # Gate B — High-Risk Deep Cards
@@ -48,10 +51,10 @@ Every episode requires:
 - [x] Meaning cluster EP059~066 — `DEEP-CARD-MEANING-EP059-066-v0.1.md`
 - [x] Amara confirmation/re-identification EP067~076 — `DEEP-CARD-AMARA-IDENTITY-EP067-076-v0.1.md`
 - [x] Ella/Maren record rupture EP112~122 — `DEEP-CARD-PR-H1-EP112-122-v0.1.md`
-- [ ] Final Approach certification cluster
-- [ ] Human Settler legal-conflict cluster
+- [x] Final Approach certification cluster — `DEEP-CARD-FINAL-APPROACH-EP140-148-v0.1.md`
+- [x] Human Settler legal-conflict cluster — `DEEP-CARD-HUMAN-SETTLER-EP142-151-v0.1.md`
 - [ ] major time-skip bridge episodes
-- [ ] system insertion / ending EP207~230
+- [x] system insertion / ending EP207~230 — `DEEP-CARD-INSERTION-ENDING-EP207-230-v0.1.md`
 
 No prose/dialogue; beat functions only.
 
@@ -107,23 +110,27 @@ Until then:
 # Current Progress — 2026-08-17
 
 Completed episode matrix:
-**EP001~122 / planned EP001~230**
+**EP001~230 / 230**
 
-Completed high-risk deep cards:
+Completed named high-risk deep cards:
 - Count EP053~058
 - Meaning EP059~066
 - Amara identity/re-identification EP067~076
 - Ella/Maren PR-H1 rupture EP112~122
+- Final Approach certification EP140~148
+- Human Settler translation EP142~151
+- System insertion / ending EP207~230
 
 Current blocking P0 found in completed blueprint/deep-card passes:
 **0**
 
+Important repair already applied:
+- Act 6 v0.1 timeline labels over-expanded to ~7 years.
+- Active v0.2 corrects Act 6 to roughly **T-8 → T-3 (~5y)** with no structural episode changes.
+
 Current next work:
-**Act 5 EP123~156**, with special focus on:
-- arrival preparation becoming materially irreversible
-- no direct civil-grid-vs-engine power theft
-- pressure through spares/manufacturing/specialists/thermal geometry/redundancy
-- Final Approach certification becoming legally binding around this phase
-- legacy Human Settler field entering transition-law work without erasing ship citizenship
-- Old Quarter/resource tradeoffs becoming physical
-- multi-year time progression becoming visible
+1. M1 Time/Age Harness
+2. major time-skip Deep Card
+3. remaining full-series harness matrices M2~M8
+4. opening EP001~020 Deep Card + 23 Sub-Act turn coverage
+5. hostile QA / final Writing Ready Red Team
