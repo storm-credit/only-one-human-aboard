@@ -1,6 +1,6 @@
 # Act / Sub-Act Narrative Device Map v0.1
 
-Status: `PACKAGE F / 23-SUB-ACT MAP / NO PROSE`
+Status: `PACKAGE G / 23-SUB-ACT MAP / NO PROSE`
 Date: 2026-08-17
 
 Purpose:
