@@ -4,7 +4,19 @@ Status: `PACKAGE G INDEX / NO PROSE`
 
 Project: 《우주선에는 인간이 한 명뿐이다》
 
-## Core Navigation
+## Act Navigation
+
+- [ACT-01 — 돌아온 사람들의 자리](./acts/ACT-01.md)
+- [ACT-02 — 판정의 비용](./acts/ACT-02.md)
+- [ACT-03 — 한 명이라는 숫자](./acts/ACT-03.md)
+- [ACT-04 — 공개된 다음 날](./acts/ACT-04.md)
+- [ACT-05 — 미래를 위해 현재를 뜯는 법](./acts/ACT-05.md)
+- [ACT-06 — 두 고향](./acts/ACT-06.md)
+- [ACT-07 — 도착은 판정이 아니다](./acts/ACT-07.md)
+
+Each Act node links to its exact Sub-Act nodes. All **23 Sub-Act nodes now exist** under `docs/narrative-engineering/subacts/`.
+
+## Core Narrative Engineering
 
 - [Narrative Map Architecture — 4 Designs](./NARRATIVE-MAP-ARCHITECTURE-4-DESIGNS-v0.1.md)
 - [Narrative Device Atlas](./NARRATIVE-DEVICE-ATLAS-v0.1.md)
@@ -25,28 +37,35 @@ Project: 《우주선에는 인간이 한 명뿐이다》
 Narrative Engineering documents are a **map/index/QA layer**.
 They do not override Canon, active Blueprints, M1 exact time/age, or locked POV maps.
 
-## Obsidian Intent
+## Current Obsidian Graph State
 
-When this repository is used as an Obsidian vault, this file should become the entry MOC for:
+Completed:
+- Series MOC
+- 7 Act nodes
+- 23 Sub-Act nodes
+- Device Atlas
+- Cross-Sub-Act device lifecycle map
+- Episode Context Pack schema
 
-`Series → Act → Sub-Act → Episode`
+Not yet complete:
+- EP001~230 exact Context Manifest dataset
+- exact episode-level lifecycle binding for every tracked device
+- orphan/premature-payoff/noise-density regression
+- final Package G Red Team
 
-with cross-links to:
-- characters,
-- world rules,
-- devices,
-- information states,
-- locations,
-- previous carries,
-- future constraints.
+## Retrieval Target
+
+When an episode manifest layer is completed, retrieval will follow:
+
+`EP → Sub-Act → Act → relevant Canon/Character/Location/Device → incoming carry → future constraint`
+
+rather than loading the entire repository.
 
 ## Package G Completion Remaining
 
-- generate exact Act nodes for 7 Acts,
-- generate exact Sub-Act nodes for all 23 blocks,
-- generate EP001~230 Context Manifest layer,
-- bind exact device lifecycle events to active episode Blueprints,
-- add orphan/premature-payoff QA,
-- add density/overuse QA,
-- run full Narrative Engineering Red Team,
-- then decide whether Package G can be marked PASS.
+- generate EP001~230 Context Manifest layer from active Blueprint + POV + M1
+- bind exact device lifecycle events to active episode cards
+- add orphan/premature-payoff QA
+- add clue-density/noise QA
+- run full Narrative Engineering Red Team
+- then decide whether Package G can be marked PASS
