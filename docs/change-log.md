@@ -8,200 +8,133 @@
 - archive pointer: `docs/change-log-archive-001-026.md`
 
 ### CHG-027~032
-- previous active history preserved in Git history
+- previous history preserved in Git history
 - prior immutable blob reference: `586c6fd1a6d03009a297a13a78df61cfb47efd7b`
 
----
-
-## CHG-033 — Encyclopedic Deep Design Gate 신설 / 원고 재잠금
-- Date: 2026-08-17
-- New: Core v1 remains stable; encyclopedic v2 completion required before prose.
-- Status: `CORE v1 STABLE / ENCYCLOPEDIC v2 OPEN / MANUSCRIPT BLOCKED`
+### CHG-033~042
+- archive pointer: `docs/change-log-archive-033-042.md`
+- covers Encyclopedic gate opening, Packages A~G/C-M structural passes, Character Encyclopedia and full EP001~230 Context Registry.
 
 ---
 
-## CHG-034 — Narrative Engineering + Obsidian Context Atlas 추가
-- Date: 2026-08-17
-- New: Package G / NAM-H1 / Device Atlas / Act-SubAct graph / Context Pack architecture.
-- Status: `STRUCTURAL GRAPH PASS / FULL DATASET PENDING`
-
----
-
-## CHG-035 — Material Culture / Equipment / Relics 독립 Gate 승격
-- Date: 2026-08-17
-- New: Package C-M / MC-H1 / CE-H1; `Old ≠ powerful`, `Rare ≠ useful`.
-- Status: `STRUCTURAL BASE PASS / CROSS-PACKAGE DEPENDENCIES OPEN`
-
----
-
-## CHG-036 — Package A Society Bible 구조 완성
-- Date: 2026-08-17
-- New: GOV-H1 / CJ-H1 / ECO-H1 / PROP-H1 / LAB-H1 / FAM-H1 / EDU-H1 / MED-H1 / DEATH-H1.
-- Integrated blocking P0: 0
-- Status: `PACKAGE A STRUCTURAL DEEP DESIGN PASS / NOT CANON`
-
----
-
-## CHG-037 — Package B Culture & Daily Life 구조 완성
-- Date: 2026-08-17
-- New: LNG-H1 / REL-H1 / CAL-H1 / FOOD-H1 / CLO-H1 / DOM-H1 / MEDIA-H1 / ENT-H1 / INT-H1 / ID-HOME-H1.
-- Integrated blocking P0: 0
-- Status: `PACKAGE B STRUCTURAL DEEP DESIGN PASS / NOT CANON`
-
----
-
-## CHG-038 — Package C Infrastructure & Operations 구조 완성
-- Date: 2026-08-17
-- New:
-  - URB-H1 mixed-use compartmented city
-  - TRANS-H1 polycentric transit + Spine + freight separation
-  - UTIL-H1 hierarchical commons loops
-  - EMG-H1 layered emergency command
-  - AI-H1 federated AI/automation
-  - NET-H1 segmented resilient network
-  - ARC-H1 versioned federated archives
-  - OPS-H1 maintenance/fabrication/work control
-  - MAP-H1 civic/engineering dual overlay
-  - BIO-PET-H1 managed companion ecology/biosecurity
-- Integrated blocking P0: 0
-- No Core Canon reveal/ending change.
-- Status: `PACKAGE C STRUCTURAL DEEP DESIGN PASS / NOT CANON`
-
----
-
-## CHG-039 — Package D Historical Bible 구조 완성
-- Date: 2026-08-17
-- Change Location: ~450-year social/medical/civic/cultural/AI/Earth-contact history
-- Previous:
-  - Core v1 had repaired H8R-2 history but not reference-grade full-era evolution.
-  - an old superseded WL11 concept had once proposed an exact-one Natural-Origin preservation accord and was already rejected.
-- New:
-  - `HIST-H1 — Eight-Era Chronological Spine + Seven Cross-Cutting Evolution Threads + Selective Crisis Punctuation`
-  - `SRR-H1 — Multi-Generational Medical Adoption + Legal Normalization + Path-Dependent Seed Standardization`
-  - `CIV-HIST-H1 — Gradual Civilianization + Commons-to-Civic-Floor + Market/Co-op Expansion + Layered Urban Retrofit`
-  - `CUL-HIST-H1 — Layered Heritage Persistence + Ship-Born Cultural Canon + Federated Information Institutions`
-  - `EC-H1 — Persistent-but-Non-Governing Delayed Earth Contact`
-  - integrated `HISTORICAL-BIBLE-v0.1.md` + hostile QA.
-- Major result:
-  - original Natural-Origin generations live/age/die normally; no replacement event.
-  - Seed emerges from developmental/Continuity medicine and normalizes across generations.
-  - no exact-one preservation program, no secret last-human lineage.
-  - mission authority gradually civilianizes; market/co-op economy grows above commons floor.
-  - Old Quarter/modern infrastructure arise through centuries of retrofit.
-  - high-capability AI becomes federated through safety/privacy experience, not AI coup.
-  - Earth contact can persist while latency/social distance remove practical sovereignty.
-- Integrated blocking P0: 0
-- Status: `PACKAGE D STRUCTURAL DEEP DESIGN PASS / NOT CANON`
-
----
-
-## CHG-040 — Package E Destination & Arrival 구조 완성
-- Date: 2026-08-17
-- Change Location: destination planet physics / system resources / arrival operations / migration-property-jurisdiction
-- New:
-  - `PLAN-H1 — Temperate Water-Rich Rocky World + Pressure-Compatible Oxygen-Poor Atmosphere + Moderate Seasons`
-  - working planet candidates ~0.52 AU / ~150–160d year / ~0.97g / ~29.5h day / modest tilt / near-Earth pressure but low-O2 breathing-support environment.
-  - settlement world explicitly future mission-era discovery, not a currently confirmed real exoplanet.
-  - `SYS-H1 — Settlement World + Volatile Cluster + Metal/Silicate Cluster + Meridian-Centered Orbital Bootstrap Network`
-  - `ARR-H1 — Meridian Retained + Orbit/ISRU First-Mover + Small Surface Foothold + Capacity-Gated Migration`
-  - `JUR-H1 — Shared Civic Citizenship + Transitional Commons Stewardship + Capacity-Based Migration + Gradual Local Municipal Rights`
-  - integrated `DESTINATION-ARRIVAL-BIBLE-v0.1.md` + hostile QA.
-- Major result:
-  - planet is reward without Earth-clone paradise.
-  - local ISRU supplies bulk; Meridian supplies precision/medical/civic capital early.
-  - ending ~+1y remains modest: Meridian dominant; small persistent orbit/resource nodes; small permanent surface foothold; new-habitat program only beginning.
-  - first landing/mining does not grant sovereignty/hereditary land.
-  - Amara receives no migration/land/resource/political privilege.
-- Integrated blocking P0: 0
-- Status: `PACKAGE E STRUCTURAL DEEP DESIGN PASS / NOT CANON`
-
----
-
-## CHG-041 — Package F Character Encyclopedia v2 구조 완성
-- Date: 2026-08-17~18
-- Change Location: core cast lived life / households / finances / health / hobbies / material culture / recurring support network / longitudinal aging
-- Previous:
-  - Character Bible v1 strongly locked goals, flaws, voices, relationships and arcs, but intentionally left many ordinary-life details elastic.
-- New:
-  - `CHAR-H1 — Core Lock / Scene Anchor / Controlled Elastic / Incidental` selected as encyclopedia depth architecture.
-  - Vale household deepening completed without automatic old-home/property restoration for Ella.
-  - Okoro household deepening completed while keeping Amara ordinary before Reveal.
-  - Raul/Tomas/Ines/Jun receive distinct housing, work, hobby, health/social-life anchors instead of becoming theme-only professionals.
-  - personal possessions integrated with Material Culture without turning objects into destiny clues.
-  - recurring supporting-cast network designed, then trimmed to high-value reusable anchors rather than name inflation.
-  - Act6~7 longitudinal regression preserves exact Blueprint future choices while leaving final residences Controlled Elastic where not locked.
-  - character-name phonetic collision micropass added.
-  - integrated Character Encyclopedia hostile QA completed.
-- Major guardrails:
-  - Amara has no body/taste/object/health clue that reveals Natural-Origin early.
-  - no character receives a symbolically perfect ship/orbit/surface destiny just to make ensemble symmetry neat.
-  - ordinary-life detail may deepen scenes but cannot override v1 goals/arcs/relationships.
-- Documents:
-  - `docs/design-v2/CHARACTER-ENCYCLOPEDIA-v0.1.md`
-  - `docs/qa/CHARACTER-ENCYCLOPEDIA-INTEGRATED-RED-TEAM-v0.1.md`
-  - `docs/status/PACKAGE-F-CHARACTER-ENCYCLOPEDIA-PASS-2026-08-17.md`
-  - `docs/material-culture/MATERIAL-CULTURE-CHARACTER-OBJECT-INTEGRATION-v0.1.md`
-- Integrated blocking P0: 0
-- Status: `PACKAGE F STRUCTURAL DEEP DESIGN PASS / NOT CANON`
-
----
-
-## CHG-042 — Package G EP001~230 Context Manifest Registry + 최종 지식경계 회귀 완성
+## CHG-043 — Package H Reference Atlas + Package I Final Completeness Harness 완성
 - Date: 2026-08-18
-- Change Location: Narrative Engineering / Obsidian retrieval / episode-level authority and knowledge fences
+- Change Location:
+  - `docs/reference-atlas/`
+  - `docs/qa/FINAL-COMPLETENESS-*`
+  - `docs/qa/RANDOM-SCENE-FUZZ-20-v0.1.md`
+  - `docs/qa/FINAL-CANON-STORY-REGRESSION-v0.1.md`
 - Previous:
-  - 7 Act nodes, 23 Sub-Act nodes, Device Atlas and CP-H1 Context Pack existed.
-  - detailed individual Context Manifest examples existed only for EP001~028.
-  - early over-tag/invalid-ID issues were already repaired by `NARRATIVE-ENGINEERING-REPAIR-ADDENDUM-v0.2.md`.
+  - Packages A~G had structural/design passes, but there was no final current/superseded authority atlas and no arbitrary-scene completeness proof.
 - New:
-  - full-series `EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md` created.
-  - 230/230 episode rows map exact Act/Sub-Act, locked POV, knowledge fence and applicable Deep Card.
-  - authority hierarchy locked:
-    `Canon → active Blueprint → locked POV Map → M1 → Deep Card → Manifest Registry → Sub-Act candidate map`.
-  - `Sub-Act candidate ≠ episode exposure` made a hard rule; devices cannot be blanket-inherited into every episode.
-  - full Reveal/PR-H1/Arrival/Insertion/POV/Shadow-Canon regression added.
-  - exact locked full-series POV totals reproduced, including Maren 45 / Ella 27 / Amara 25.
-  - Act6 authority explicitly uses v0.2.
-- Reveal anchors preserved:
-  - EP056 internal Count
-  - EP058 public Count
-  - EP066 Meaning complete
-  - EP068 protected Amara confirmation
-  - EP075 controlled public confirmation
-  - EP112 PR-H1 discovery chain starts
-  - EP142~151 Human Settler operational cluster
-  - EP216 insertion
-  - EP230 no thesis speech.
-- Implementation distinction:
-  - detailed individual notes EP001~028 remain examples.
-  - EP029~230 individual file split is deferred mechanical implementation, not remaining Deep Design.
-  - later generated files must fail closed and may create no Canon.
-- Documents:
-  - `docs/narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md`
-  - `docs/qa/NARRATIVE-ENGINEERING-FULL-MANIFEST-REGRESSION-v0.1.md`
-  - updated `docs/narrative-engineering/00-NARRATIVE-MOC.md`
-- Blocking P0: 0
-- Status: `PACKAGE G NARRATIVE ENGINEERING DESIGN PASS / 230/230 REGISTRY / NOT CANON`
+  - `REF-H1` Reference Atlas built with 13/13 required views.
+  - Atlas separates human-readable navigation from current authority and prevents Shadow Canon.
+  - actual stale Package-F support-name defect discovered and repaired.
+  - `FC-H1` Final Completeness Harness created.
+  - deterministic citizen/lifecycle/crime/emergency/class/family/school/media/culture/AI/arrival/material suites PASS.
+  - **20/20 arbitrary random-scene fuzz tests PASS** without a new major civilization rule.
+  - full Canon/story/Reveal/POV regression PASS.
+- Blocking P0: **0**.
+- Status:
+  `PACKAGE H = PASS / PACKAGE I = PASS / FINAL P1 LEDGER EXPOSED`.
+
+---
+
+## CHG-044 — Final MUST-CLOSE P1 closure
+- Date: 2026-08-18
+- Change Location:
+  - `docs/design-v2/P1-Q-SHIP-QUANTITATIVE-CLOSURE-v0.2.md`
+  - `docs/design-v2/P1-Q-DEST-SCIENCE-LOGISTICS-CLOSURE-v0.2.md`
+  - `docs/design-v2/P1-LEGAL-OPERATIONAL-POLICY-GRAMMAR-CLOSURE-v0.1.md`
+  - `docs/design-v2/P1-CULTURE-HISTORY-SPORT-SUPPORT-CLOSURE-v0.2.md`
+  - corresponding hostile QA files.
+- Previous:
+  - core architecture existed, but final reference-grade ranges/policy grammars/examples remained open.
+- New — Q-SHIP:
+  - Habitat radius 0.9–1.1 km, 5–7 km length order, ~0.9–1.0g, ~0.9–1.0 rpm.
+  - explicit internally compartmented pressure architecture; no giant undivided air cylinder.
+  - pressure/refuge/transfer/water/power/thermal/workforce/spare working bands selected.
+- New — Q-DEST:
+  - Epsilon Indi A retained as real star anchor; rocky settlement world remains future fictional mission-era discovery.
+  - ~0.50–0.54 AU / ~150–165d / ~0.93–1.02g / ~28–31h.
+  - near-Earth pressure with oxygen far below safe breathing; outdoor breathing support mandatory but normal pressure EVA unnecessary.
+  - high planetocentric Meridian staging orbit, resource transfer/cargo/power/Year-1 population bands selected.
+- New — legal/operational:
+  - `AGE-H1` 18-year civil majority + staged youth autonomy.
+  - `DATA-H1` purpose-class retention + protected provenance + versioned correction.
+  - `FORCE-H1` closed-habitat T0~T4 dangerous-tool/force tiers.
+  - `STRIKE-H1` strike right + minimum life-safety service + rapid neutral review.
+  - `ARRLAW-H1` shared civic baseline + location/service nexus + staged local competence.
+  - `BIO-H1` quarantine/contained living systems + outdoor release moratorium during ending window.
+- New — culture/history/support:
+  - small recurring observance/food/idiom/art set.
+  - six representative historical anchors.
+  - `REBOUND-H1` repeatable low/zero-g sport model.
+  - 14 stable-if-used C1 support anchors; Sorin Das/Yuna Bekele remain C2 reserve.
+  - civic-equality holiday/history wording repaired so it does not leak EP059~066 Meaning.
+- Blocking P1 remaining: **0**.
+- Status:
+  `P1 CLOSURE = PASS / READY FOR CANON v2 CONSOLIDATION`.
+
+---
+
+## CHG-045 — Encyclopedic Canon Freeze v2 / World+Character 정본 승격 / 원고 게이트 해제
+- Date: 2026-08-18
+- Change Location:
+  - `canon/WORLD_BIBLE-v2.md`
+  - `canon/CHARACTER_BIBLE-v2.md`
+  - `docs/qa/ENCYCLOPEDIC-CANON-v2-FINAL-RED-TEAM.md`
+  - `canon/CANON_STATUS.md`
+  - `docs/current-work-status.md`
+  - `docs/manuscript/MANUSCRIPT-STATUS.md`
+  - `CLAUDE.md`
+  - `docs/NEXT-CHAT-HANDOFF.md`
+  - `docs/reference-atlas/*` authority/status navigation.
+- Previous:
+  - World/Character v1 remained formal Canon while A~I/P1 v2 material was candidate/supporting design.
+  - manuscript was blocked by the stronger encyclopedic completeness gate.
+- New:
+  - final hostile regression checked World/Character v2 against v1 Canon, Act Bible, all active Blueprints, Act6 v0.2, M1, POV maps, Package G Registry and final Harness.
+  - blocking P0 = **0**.
+  - blocking P1 = **0**.
+  - Reveal moved = NO.
+  - POV architecture changed = NO.
+  - core character arcs changed = NO.
+  - ending architecture changed = NO.
+  - Shadow Canon unresolved = NO.
+  - **`ENCYCLOPEDIC CANON FREEZE v2 = PASSED`**.
+  - `canon/WORLD_BIBLE-v2.md` promoted to **CANON**.
+  - `canon/CHARACTER_BIBLE-v2.md` promoted to **CANON**.
+  - `canon/WORLD_BIBLE-v1.md` / `CHARACTER_BIBLE-v1.md` become historical/superseded reference.
+  - `canon/ACT_BIBLE-v1.md` remains ACTIVE because macro narrative did not change.
+  - manuscript state changes from `BLOCKED` to **`READY / NOT STARTED`**.
+  - Accepted manuscript remains **0 / 230**; first eligible episode = EP001.
+- Milestone:
+  `docs/status/ENCYCLOPEDIC-CANON-FREEZE-v2-PASS-2026-08-18.md`
+- Status:
+  **`DESIGN/WORLD/SETTING-BIBLE COMPLETE / CANON v2 FROZEN / MANUSCRIPT READY`**.
 
 ---
 
 # Current Change-Control Rule
 
-Core v1 remains stable baseline.
+Current world/character authority:
+- `canon/WORLD_BIBLE-v2.md`
+- `canon/CHARACTER_BIBLE-v2.md`
 
-For meaningful new design:
-`3~4 designs → compare → blind-spot/trap check → Hybrid → hostile Red Team → status judgment`.
+Current narrative authority:
+- `canon/ACT_BIBLE-v1.md`
+- active Blueprint
+- locked POV Map
+- M1
+- applicable Deep Card / Context Registry.
 
-If new material contradicts v1:
-- do not silently overwrite
-- add CHG entry
-- identify affected Character / Act / Foreshadow / World rules
-- regression-test affected Episode Cards.
+For contradiction-level change after Freeze v2:
+`identify issue → alternatives/impact → CHG entry → hostile Red Team → affected-episode regression → deliberate Canon reopening/promotion`.
 
-Packages A–G and C-M remain provisional until Reference Atlas / Final Completeness Harness / v2 cross-package integration and quantitative QA.
+Never silently overwrite v2 Canon from prose.
 
-Current next package:
-**Package H — Reference Atlas.**
+C2 refinement inside frozen ranges is allowed, but recurring/clue-bearing/causal C2 must be promoted/logged before manuscript acceptance.
 
-Do not draft manuscript until:
-`ENCYCLOPEDIC CANON FREEZE v2 = PASSED`.
+Current manuscript state:
+**`READY / NOT STARTED`**.
