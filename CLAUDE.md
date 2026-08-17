@@ -8,62 +8,192 @@ Repository: `storm-credit/only-one-human-aboard`
 
 정본 우선순위:
 1. `CLAUDE.md`
-2. `canon/WORLD_BIBLE-v1.md`
-3. `canon/CHARACTER_BIBLE-v1.md`
+2. `canon/WORLD_BIBLE-v1.md` — stable core baseline during v2 expansion
+3. `canon/CHARACTER_BIBLE-v1.md` — stable core baseline during v2 expansion
 4. `canon/ACT_BIBLE-v1.md`
 5. `canon/CANON_STATUS.md`
 6. `docs/current-work-status.md`
-7. `docs/NEXT-CHAT-HANDOFF.md`
-8. active Blueprint / Prose Execution / POV Map / QA 문서
-9. 과거 provisional / candidate / freeze-draft / superseded 문서
+7. `docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.1.md`
+8. active v2 completeness-expansion documents
+9. Blueprint / Prose Protocol / POV Maps / QA
+10. old provisional/candidate/superseded documents
 
-과거 설계가 현재 Canon과 충돌하면 현재 Canon이 우선한다.
-
----
-
-# 1. CURRENT GATE
-
-- `DESIGN FREEZE = PASSED — 2026-08-17`
-- `CANON FREEZE = PASSED — 2026-08-17`
-- `WRITING READY = PASSED — 2026-08-17`
-- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED — 2026-08-17`
-- `ACT 1~7 EXECUTION POV ARCHITECTURE = LOCKED / PASS — 2026-08-17`
-- `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
-
-Current blocking P0 = **0**.
-
-사용자가 단순히 `이어서`라고 한 경우 본문을 자동 작성하지 않는다.
-EP001/본문 집필을 명시적으로 요청할 때만 원고를 시작한다.
+과거 문서가 current authority와 충돌하면 current authority가 우선한다.
 
 ---
 
-# 2. CANON PREMISE — DO NOT REINTERPRET
+# 1. CURRENT GATE — IMPORTANT
 
-- Ship = **Meridian / 메리디언**.
-- Current population roughly 300k.
-- Citizens generally have living human-form biological bodies and brains.
-- Old technical distinction = **cognitive developmental origin**, not body material.
-- Most citizens are prenatal Seeded/Synthetic-Origin Cognition.
-- Current active Natural/Bio-Origin Cognition = **1**.
-- That person = **Amara Okoro / 아마라 오코로**.
-- Modern society recognizes both origin classes as people/citizens/humans.
-- `우주선에는 인간이 한 명뿐이다` is a legacy-classification shock, not narrator's final moral ontology.
+Historical/core achievements remain valid:
+- `CORE DESIGN FREEZE v1 = PASSED — 2026-08-17`
+- `CORE CANON FREEZE v1 = PASSED — 2026-08-17`
+- `STRUCTURAL WRITING READY = PASSED — 2026-08-17`
+- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED`
+- `EP001~230 POV ARCHITECTURE = LOCKED / PASS`
+
+However, the user's quality bar is stricter than structural writability.
+The project must first possess a reference-grade, encyclopedically complete design/world/setting bible.
+
+Current active gate:
+- `ENCYCLOPEDIC DEEP DESIGN = IN PROGRESS / BLOCKED`
+- `ENCYCLOPEDIC CANON FREEZE v2 = NOT PASSED`
+- `MANUSCRIPT = BLOCKED`
+
+Do not draft EP001 even if the user merely says `이어서`.
+Do not reopen prose until v2 completeness + final harness pass.
+
+Existing core-logic blocking P0 = **0**.
+Current blocker = **COMPLETENESS**, not contradiction.
+
+---
+
+# 2. COMPLETENESS STANDARD
+
+The standard is no longer:
+> Can the story be written without a major structural invention?
+
+The standard is:
+> Can a normal citizen of any age/class/job/family/location live an ordinary day, face ordinary institutions, and move through birth/school/work/illness/crime/family/death/arrival without the author inventing a major world rule on the spot?
+
+Goal:
+**reference-grade completeness, not decorative lore bloat.**
+
+Every world domain should answer:
+- how a normal citizen experiences it
+- what institution handles it
+- what scarcity/constraint shapes it
+- how it differs across habitats without becoming caste theming
+- how it changes over the 14-year story
+- how it can add story texture without becoming a second premise
+
+---
+
+# 3. REQUIRED v2 COMPLETENESS PACKAGES
+
+## Package A — Society Bible
+Must complete:
+- full governance architecture
+- criminal justice / public safety / policing / surveillance limits
+- economy deep layer: currency, tax, wages, rent, property, debt, inheritance, business, welfare
+- labor culture / unions / co-ops / credentialing / retirement
+- class/inequality/status
+- family/marriage/divorce/adoption/guardianship/kinship
+- education from childhood through higher training/retraining
+- general medicine / mental health / disability / elder care
+- death / funeral / mourning / inheritance / memorial systems
+
+## Package B — Culture & Daily Life Bible
+Must complete:
+- language / multilingual survival / drift / slang
+- religion / philosophy / ritual
+- calendar / work week / holidays / anniversaries
+- cuisine / meals / hospitality / luxury-scarcity food
+- clothing / fashion / appearance norms
+- hygiene / domestic routines
+- media / journalism / social networks / rumor ecosystem
+- entertainment / art / music / games / sports
+- sexuality / intimacy / partnership social norms
+- ship-born identity / Earth memory / mission culture
+
+## Package C — Infrastructure & Operations Bible
+Must complete:
+- housing / neighborhood typology
+- intra-habitat and cross-habitat transport
+- domestic utilities / waste / water / air
+- emergency response: fire, decompression, contamination, quarantine, reactor/thermal incidents
+- everyday AI / automation / robotics ontology + legal authority limits
+- archives / knowledge access / preservation
+- routine ship operations and service hierarchy
+
+## Package D — Historical Bible
+Must complete:
+- broad ~450-year era timeline
+- launch/founding period
+- major survival crises / accidents / repairs
+- Seed adoption within broader political/cultural history
+- rights/institution evolution
+- economic/cultural/demographic eras
+- Earth-contact/isolation history
+- arrival-preparation eras
+
+## Package E — Destination & Arrival Reference
+Must complete:
+- target-planet environment
+- gravity/atmosphere/pressure/day/seasons/water/weather/radiation/biosafety
+- resource bodies/orbital geography
+- first depot/ISRU logistics
+- migration/property/inheritance/business/jurisdiction across ship/orbit/surface
+
+## Package F — Character Encyclopedia v2
+For recurring cast, lock or intentionally mark nonrecurring:
+- appearance / physical tells
+- home / commute
+- money/class position
+- education history
+- hobbies / tastes / dislikes / habits
+- health
+- family/social network beyond plot axis
+- personal timeline
+- non-plot secrets/embarrassments/preferences
+- 14-year job/residence checkpoints
+- reusable supporting cast network
+
+## Package G — Reference Atlas
+Must include:
+- reader-facing glossary
+- author deep glossary
+- institution authority chart
+- geography/map spec
+- 450-year history timeline
+- 14-year story timeline
+- technology dependency chart
+- citizen life-cycle chart
+- Canon vs Elastic registry
+
+## Package H — Final Completeness Harness
+Must pass:
+1. Random Citizen Day Test
+2. Child→Adult→Old-Age Life Cycle Test
+3. Crime/Accident/Emergency Test
+4. Rich/Poor/Disabled Citizen Test
+5. Birth/Marriage/Divorce/Death Test
+6. School/Work/Retirement Test
+7. News/Rumor/Privacy Test
+8. Religion/Culture/Leisure Test
+9. AI/Automation Ontology Test
+10. Arrival Migration/Property Test
+11. 20 random scene prompts without new major Canon invention
+12. regression against all EP001~230 cards
+
+---
+
+# 4. CORE CANON PREMISE — DO NOT REINTERPRET
+
+- Ship = **Meridian / 메리디언**
+- current population ≈300k
+- citizens generally have living human-form biological bodies/brains
+- old distinction = cognitive developmental origin, not body material
+- majority = prenatal Seeded/Synthetic-Origin Cognition
+- current active Natural/Bio-Origin Cognition = **1**
+- identity = **Amara Okoro / 아마라 오코로**
+- modern society recognizes both origin classes as people/citizens/humans
+- title's `one human` is a legacy-category shock, not narrator's final ontology
 
 ## Seed
 - prenatal developmental prior
 - no finished memory/personality/loyalty/command/admin-key programming
-- prenatal closed-loop completion verification
+- prenatal closed-loop success verification
 - no adult direct origin scanner
 
 ## Reconstruction
 - Recovery Map + surviving Neural Anchor
-- Recovery Map is not executable soul file
+- no executable soul file
 - no anchorless adult restoration
-- no routine chronological rollback
+- no routine chronological age rollback
 
 ## History
-- departure Natural-Origin humans were not exterminated or mass-uploaded
-- Seed standardized over generations through medicine/law/network effects
+- original Natural-Origin passengers not exterminated/mass-uploaded
+- Seed standardized over generations
 - no Witness/exact-one protocol
 - current `1` is demographic state
 
@@ -72,46 +202,47 @@ EP001/본문 집필을 명시적으로 요청할 때만 원고를 시작한다.
 - no Habitat caste
 - `Layered Commons + Market City`
 
-## Destination / Propulsion
+## Destination
 - Epsilon Indi A / 인디계
 - story roughly T-14 → insertion
-- local ISRU + ship industrial-capital bootstrap
-- dedicated interstellar propulsion separate in scale from civil grid
-- no direct `engine takes a few GW from homes` conflict
+- local ISRU + ship industrial capital
+- no direct civil-grid-vs-engine GW theft
 
 ## Arrival Law
 - 시민기본법 / 개척헌장 / 도착전환규정
-- Human Settler conflict = destination-jurisdiction translation
-- no mass deletion of current ship citizenship
+- Human Settler = destination-jurisdiction translation problem
+- no mass deletion of ship citizenship
 
 ---
 
-# 3. CORE CAST LOCKS
+# 5. CORE CAST LOCKS
 
 Authority: `canon/CHARACTER_BIBLE-v1.md`.
 
-- **Maren Vale / 마렌 베일** — 41F, ordinary Seeded-Origin Continuity adjudicator; protects by deciding; mandatory recusal from own family adjudication
-- **Ella Vale / 엘라 베일** — 39F, reconstructed sister; Noah sole legal parent
-- **Noah Vale / 노아 베일** — 12M → ~26
-- **Raul Serra / 라울 세라** — rights advocate/lawyer
-- **Tomas Beck / 토마스 벡** — senior Continuity administrator
-- **Ines Rahman / 이네스 라만** — field Reconstruction evaluator
-- **Jun Imai / 준 이마이** — Old Quarter maintenance/co-op actor
-- **Amara Okoro / 아마라 오코로** — 45F, sole current Natural-Origin; ordinary water/reclamation worker
+- Maren Vale — 41F, ordinary Seeded-Origin Continuity adjudicator; protects by deciding; mandatory family-case recusal
+- Ella Vale — 39F, reconstructed sister; Noah sole legal parent
+- Noah Vale — 12M → ~26
+- Raul Serra — rights advocate/lawyer
+- Tomas Beck — senior Continuity administrator
+- Ines Rahman — field Reconstruction evaluator
+- Jun Imai — Old Quarter maintenance/co-op actor
+- Amara Okoro — 45F, sole current Natural-Origin; ordinary water/reclamation worker
 
-Amara has no special power, admin key, sovereignty, settlement legitimacy, or reproductive duty.
+No Amara power/admin key/sovereignty/settlement legitimacy/reproductive duty.
+
+During Package F, expand reference depth without casually altering locked arcs/origins/family chronology.
 
 ---
 
-# 4. ACT / REVEAL LOCKS
+# 6. ACT / REVEAL LOCKS
 
-1. Act1 EP001~028 `돌아온 사람들의 자리`
-2. Act2 EP029~058 `판정의 비용`
-3. Act3 EP059~088 `한 명이라는 숫자`
-4. Act4 EP089~122 `공개된 다음 날`
-5. Act5 EP123~156 `미래를 위해 현재를 뜯는 법`
-6. Act6 EP157~194 `두 고향`
-7. Act7 EP195~230 `도착은 판정이 아니다`
+1. Act1 EP001~028
+2. Act2 EP029~058
+3. Act3 EP059~088
+4. Act4 EP089~122
+5. Act5 EP123~156
+6. Act6 EP157~194
+7. Act7 EP195~230
 
 Reveal:
 - internal Count EP056
@@ -122,194 +253,99 @@ Reveal:
 
 No later bigger ontology twist.
 
----
-
-# 5. BLUEPRINT AUTHORITY
-
-Active:
-- `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md`
-- `docs/writing-ready/EPISODE-BLUEPRINT-ACT2-v0.1.md`
-- `docs/writing-ready/EPISODE-BLUEPRINT-ACT3-v0.1.md`
-- `docs/writing-ready/EPISODE-BLUEPRINT-ACT4-v0.1.md`
-- `docs/writing-ready/EPISODE-BLUEPRINT-ACT5-v0.1.md`
-- `docs/writing-ready/EPISODE-BLUEPRINT-ACT6-v0.2.md` — v0.1 superseded
-- `docs/writing-ready/EPISODE-BLUEPRINT-ACT7-v0.1.md`
-- `docs/writing-ready/EPISODE-BLUEPRINT-PASS2-NORMALIZATION-v0.1.md`
-
-M1 Time/Age Harness = exact execution-clock authority.
-
-Every episode preserves:
-problem / pressure / choice / reward / irreversible consequence / information transaction / relationship turn / hook / next carry.
-
-No `Case → Investigation → Solution → Reset` loop.
+v2 additions must be regression-tested against this architecture.
 
 ---
 
-# 6. PROSE EXECUTION AUTHORITY
+# 7. EXISTING BLUEPRINT / POV AUTHORITY
 
-Current protocol:
-**`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`**.
+EP001~230 Full Episode Matrix = COMPLETE.
+Active Blueprint:
+- Act1 v0.1
+- Act2 v0.1
+- Act3 v0.1
+- Act4 v0.1
+- Act5 v0.1
+- Act6 v0.2 active; v0.1 superseded
+- Act7 v0.1
+- Pass2 Normalization v0.1
 
-`v1` is superseded for POV-share diagnostics.
-Its early `Maren ~45~60%` soft estimate was invalidated by full 230-episode causal mapping.
+M1 Time/Age = execution clock authority.
 
-Selected model:
-**PEP-H1R + POV-H1R — Causal-Owner Single-POV Close Third + Maren-Led Plurality Anchor**.
+Prose Protocol remains locked for future use:
+`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
 
-Hard rules:
-- one POV per episode
-- close-third limited
-- no mid-episode head hopping
-- Primary Actor ≠ automatic POV
-- choose by irreversible choice / immediate cost / information fairness
-- tie → prefer Maren
-- never choose POV only to explain information
+POV model:
+`Maren-Led Plurality Anchor`.
 
-## Maren Anchor
-This is not a majority-POV novel.
-Maren is the primary series anchor in a true ensemble.
-
-Full map:
-- Maren **45**
+Full-series core totals:
+- Maren 45
 - Ella 27
 - Amara 25
 - Noah 17
 - Raul 17
 - others lower
 
-Maren is plurality owner in Acts **1, 2, 5, 6, 7**.
-Intentional local owners:
-- Act3 = Amara
-- Act4 = Ella
-
-Maren owns EP001 / EP056 / EP120 / EP145 / EP216 / EP229 / EP230.
-Never steal another character's episode only to raise Maren percentage.
+These are not current work priorities while manuscript is blocked.
 
 ---
 
-# 7. POV MAP AUTHORITY
+# 8. FORBIDDEN DRIFTS
 
-All 230 episodes mapped:
-- `ACT1-EXECUTION-POV-MAP-v1.md`
-- `ACT2-EXECUTION-POV-MAP-v1.md`
-- `ACT3-EXECUTION-POV-MAP-v1.md`
-- `ACT4-EXECUTION-POV-MAP-v1.md`
-- `ACT5-EXECUTION-POV-MAP-v1.md`
-- `ACT6-EXECUTION-POV-MAP-v1.md`
-- `ACT7-EXECUTION-POV-MAP-v1.md`
-
-Final regression:
-`docs/qa/ALL-ACTS-POV-LOCK-QA-v1.md = PASS`.
-
-POV architecture blocking P0 = **0**.
-
-POV changes before prose require local causality/info-fairness QA.
-Full-series anchor changes require new regression.
-
----
-
-# 8. READER PROMISE
-
-At EP20 / 100 / 200 / 229:
-1. concrete ordinary life inside a closed civilization
-2. continuity/family cases expose world rules
-3. relationships change without being erased by truth
-4. choices create later social/resource/relationship consequences
-5. mystery payoff opens new action
-6. civilization-scale choices stay human-scale and relational
-
----
-
-# 9. ACTIVE P1 EXECUTION GUARDRAILS
-
-1. first-20 title-promise balance
-2. legacy Human semantic-cheat perception
-3. Amara behavior/speech repetition
-4. Act5 engineering/institution density
-5. Human Settler contrivance perception
-6. insertion climax without disaster gimmick
-7. same-writer/perfect-agent dialogue
-8. notification/report hook repetition
-9. jargon spikes
-10. downtime/humor absence
-11. early POV orientation
-12. Act2 Count six-POV relay continuity
-13. Act3 Meaning stop-explaining rule
-14. Act4 seven-Ella run action/location variation
-15. Act5 specialist POV density
-16. Act6 young voices visibly age
-17. Act7 first-new-days not twelve epilogues
-18. Maren returns feel like home base, not percentage maintenance
-19. EP230 no author thesis
-
----
-
-# 10. ANTI-AI PROSE RULES
-
-- no dialogue explaining facts everyone present already knows
-- no perfect thesis/counterthesis/synthesis exchange
-- allow tiredness, mistakes, selfishness, awkwardness, humor, irrelevant preference
-- characters need not understand themselves correctly
-- character voices differ by attention lens, not catchphrase
-- most ordinary details are not clues
-- prefer action/object/time loss/movement/relationship loss over abstraction
-- specialist POV must still contain real choice/cost if technical explanation is cut in half
-
----
-
-# 11. AFTER-DRAFT QA
-
-Every episode:
-- Blueprint choice/consequence/carry preserved?
-- Canon intact?
-- one POV + knowledge boundary?
-- voice distinct?
-- explanation-only paragraph?
-- consequence-driven hook?
-- dialogue too symmetric/complete?
-- every detail too meaningful?
-
-Canon-impact failure = **STOP**, log change, review Freeze impact.
-
-Every 5 episodes:
-reward/hook / location / voice / jargon / Maren-anchor continuity / ordinary-life absence.
-
-Every Sub-Act:
-baseline/payoff/causal-next-pressure.
-
-Every Act:
-Reader Promise / P1 / Canon / Maren anchor regression.
-
----
-
-# 12. MANUSCRIPT HARD STOPS
-
-Stop if prose requires:
-- adult origin scanner
-- Seed memory/personality/command programming
-- anchorless adult restoration
-- Amara sovereignty/admin key
-- mass citizenship erasure
-- central AI dictatorship
-- bigger ontology twist
-- Maren family adjudication
-- civil-grid propulsion theft
+- human-good / AI-evil binary
+- remaining citizens as fake NPCs
+- Witness Protocol
+- mass adult substrate upload
+- executable soul backup / adult duplicates
+- chosen-one Maren/Amara
+- bloodline legitimacy
+- central-AI-explains-everything
+- Habitat castes
+- direct civil-grid vs propulsion GW conflict
+- mass citizenship erasure by old law
+- free perfect settlement path
 - instant mature colony
-- free perfect third way
+- alien invasion / war-action takeover
+- later bigger ontology twist
+- Maren adjudicating own family case
+
+New culture/economy/security/AI design may not silently reintroduce these.
 
 ---
 
-# 13. CURRENT NEXT ACTION
+# 9. CHANGE CONTROL DURING v2
 
-All structural, Writing Ready and POV prerequisites for EP001 are complete.
+For every meaningful new design:
+`3~4 designs → compare → blind-spot/trap check → Hybrid → Red Team → status judgment`.
 
-If user explicitly requests manuscript:
-1. read EP001 card
-2. read Protocol v1.1
-3. use Act1 POV Map → **Maren POV**
-4. draft EP001
-5. run after-draft QA
-6. sync accepted manuscript/progress to GitHub
+If new material contradicts v1:
+- do not silently overwrite
+- add `docs/change-log.md`
+- record previous/new/reason
+- identify Character / Act / Foreshadow / World impact
+- regression-test affected 230-episode cards
 
-If user only says `이어서`:
-do not auto-write scenes. Continue only useful execution-support/QA work.
+If a new P0 appears, keep manuscript blocked until closed.
+
+---
+
+# 10. CURRENT NEXT ACTION
+
+Do not draft prose.
+
+Start **Package A — Society Bible** first.
+Recommended order:
+1. Governance 4 designs
+2. Criminal Justice / Security 4 designs
+3. Economy deep model 4 designs
+4. Family/Kinship 4 designs
+5. Education 4 designs
+6. General Medicine / Mental Health / Disability 4 designs
+7. Death/Funeral/Mourning 4 designs
+8. Society Bible consolidation + Red Team
+
+Then Package B→H.
+
+Only after:
+`ENCYCLOPEDIC CANON FREEZE v2 = PASSED`
+may manuscript status return to READY.
