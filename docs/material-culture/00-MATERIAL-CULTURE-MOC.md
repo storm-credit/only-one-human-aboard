@@ -10,11 +10,13 @@ Project: 《우주선에는 인간이 한 명뿐이다》
 - [Material Culture / Equipment / Relics — 4 Designs](./MATERIAL-CULTURE-EQUIPMENT-RELICS-4-DESIGNS-v0.1.md)
 - [Material Culture Bible v0.1](./MATERIAL-CULTURE-BIBLE-v0.1.md)
 - [Collection / Completion Engine — 4 Designs](./COLLECTION-COMPLETION-ENGINE-4-DESIGNS-v0.1.md)
+- [Material Culture × Public Safety Integration](./MATERIAL-CULTURE-PUBLIC-SAFETY-INTEGRATION-v0.1.md)
 
 ## QA
 
 - [Material Culture Hostile Red Team](../qa/MATERIAL-CULTURE-EQUIPMENT-RELICS-RED-TEAM-v0.1.md)
 - [Collection / Completion Engine Red Team](../qa/COLLECTION-COMPLETION-ENGINE-RED-TEAM-v0.1.md)
+- [Criminal Justice / Public Safety Red Team](../qa/SOCIETY-CRIMINAL-JUSTICE-PUBLIC-SAFETY-RED-TEAM-v0.1.md)
 - [Current Encyclopedic Completeness Audit](../qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.3.md)
 
 ## Selected Models
@@ -31,6 +33,18 @@ Define ordinary goods, equipment, weapons/safety boundaries, artifacts, heirloom
 Purpose:
 Create collection pleasure through reader familiarity and changed meaning:
 `Encounter → Recognition → Recontextualization → Transformation`.
+
+### CJ-H1 integration
+`Layered Public Safety + Restorative Default + Narrow Coercive Escalation`
+
+Material-culture consequence:
+- high-penetration/high-energy purpose-built weapons are strongly restricted because of habitat externality,
+- routine public-safety equipment favors separation/restraint/risk-reducing force,
+- higher-force response exists but is tightly controlled,
+- dangerous industrial tools remain common professional equipment rather than being magically eliminated,
+- no autonomous system independently decides guilt and applies open-ended lethal force.
+
+This remains provisional until Package A/C dependencies close.
 
 ## Authority Rule
 
@@ -63,8 +77,11 @@ Only concrete objects selected by later B/C/D/F design should become nodes.
 
 `PACKAGE C-M STRUCTURAL BASE = PASS`
 
+Closed/partially closed dependency:
+- legal/public-safety integration: **STRUCTURAL PASS via CJ-H1 cross-package addendum**
+
 Remaining:
-- legal/public-safety integration,
+- exact weapon licensing/offense catalog after Package A consolidation,
 - AI/security automation integration,
 - economy/property/inheritance/salvage,
 - exact heritage timeline,
