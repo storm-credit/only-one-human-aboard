@@ -1,10 +1,10 @@
 # CHARACTER BIBLE v2
 
-Status: `ENCYCLOPEDIC CANON v2 CANDIDATE — FINAL REGRESSION PENDING`
+Status: `CANON — ENCYCLOPEDIC CANON FREEZE v2 PASSED — 2026-08-18`
 Date: 2026-08-18
 Project: 《우주선에는 인간이 한 명뿐이다》
 
-This file consolidates:
+This file consolidates and supersedes for character authority:
 - `CHARACTER_BIBLE-v1.md` C0 locks,
 - Package F Character Encyclopedia,
 - final Package F name overrides,
@@ -12,8 +12,10 @@ This file consolidates:
 - Package G/H/I regression constraints,
 - P1 culture/support closure v0.2.
 
-Until final regression passes, `CHARACTER_BIBLE-v1.md` remains formal Canon.
-After Freeze v2, this file supersedes v1 for character authority.
+Freeze authority:
+`docs/qa/ENCYCLOPEDIC-CANON-v2-FINAL-RED-TEAM.md` → `PASS / P0=0 / blocking P1=0`.
+
+`CHARACTER_BIBLE-v1.md` remains historical/superseded reference only.
 
 Authority layers:
 - **C0 CORE LOCK** — goals, flaws, jobs, relationships, PR-H1, age architecture, knowledge boundaries, arcs.
