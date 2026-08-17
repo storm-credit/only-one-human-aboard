@@ -1,6 +1,6 @@
 # 00 — Narrative Engineering MOC
 
-Status: `PACKAGE F INDEX / NO PROSE`
+Status: `PACKAGE G INDEX / NO PROSE`
 
 Project: 《우주선에는 인간이 한 명뿐이다》
 
@@ -40,7 +40,7 @@ with cross-links to:
 - previous carries,
 - future constraints.
 
-## Package F Completion Remaining
+## Package G Completion Remaining
 
 - generate exact Act nodes for 7 Acts,
 - generate exact Sub-Act nodes for all 23 blocks,
@@ -49,4 +49,4 @@ with cross-links to:
 - add orphan/premature-payoff QA,
 - add density/overuse QA,
 - run full Narrative Engineering Red Team,
-- then decide whether Package F can be marked PASS.
+- then decide whether Package G can be marked PASS.
