@@ -21,11 +21,7 @@ Current stronger user quality gate:
 - `ENCYCLOPEDIC CANON FREEZE v2 = NOT PASSED`
 - `MANUSCRIPT = BLOCKED`
 
-Core v1 blocking P0:
-**0**
-
-Primary audit family:
-`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.3.md` + later package QA.
+Core v1 blocking P0: **0**
 
 ---
 
@@ -34,111 +30,146 @@ Primary audit family:
 Status:
 **`STRUCTURAL DEEP DESIGN = PASS / CROSS-PACKAGE CONSOLIDATION PENDING / NOT CANON`**
 
-Integrated provisional Bible:
+Integrated Bible:
 `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
 
-Integrated hostile QA:
+Integrated QA:
 `docs/qa/SOCIETY-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
 
-Integrated Package A P0:
-**0**
+Blocking P0: **0**
 
-## Selected provisional models
+Selected provisional models:
+- GOV-H1 governance
+- CJ-H1 criminal justice/public safety
+- ECO-H1 economy
+- PROP-H1 property/housing/inheritance
+- LAB-H1 labor/class/mobility
+- FAM-H1 family/parenthood/guardianship
+- EDU-H1 education/training
+- MED-H1 general medicine/mental health/disability
+- DEATH-H1 death/finality/funeral/mourning
 
-1. `GOV-H1 — Layered Civic Republic + Commons Constraints + Narrow Safety Command`
-2. `CJ-H1 — Layered Public Safety + Restorative Default + Narrow Coercive Escalation`
-3. `ECO-H1 — Civic Floor + Monetary Market + Capacity Commons + Mixed Enterprise`
-4. `PROP-H1 — Layered Residential Tenure + Common Structure + Transferable Household Interests`
-5. `LAB-H1 — Open Occupational Mobility + Plural Worker Power + Safety-Credential Boundaries`
-6. `FAM-H1 — Civil Partnership + Independent Parenthood + Protected Dependency + Flexible Household`
-7. `EDU-H1 — Common Civic Foundation + Choice-Rich Adolescence + Apprenticeship / Higher Training + Lifelong Modular Retraining`
-8. `MED-H1 — Universal Clinical Floor + Advanced Biological Repair + Privacy-Bounded Prevention + Supported Autonomy`
-9. `DEATH-H1 — Clinical Death + Continuity Review + Bounded Legal Finality + Material Return + Plural Mourning`
+Core result:
+A random citizen can structurally pass through birth → school → work → housing → family → illness/disability → retirement → death/estate without a missing Society-scale rule.
 
-## Package A core principles now designed
-
-- democratic civic government; technical safety does not equal sovereignty
-- no captain dictatorship / no central AI sovereignty / no Habitat sovereignty
-- ordinary crime and real coercive public-safety power, but no universal surveillance grid
-- restorative/repair tools for suitable lower-harm cases; secure custody for serious danger
-- no death penalty / no unsafe-space exile
-- one normal monetary market above a guaranteed civic survival/basic-services floor
-- hard physical capacities such as birth/Reconstruction/strategic reserves are not legal auction goods
-- mixed private/co-op/public enterprise economy
-- real wealth/class inequality without private ownership of life-support sovereignty
-- structural hull/life-support commons separated from valuable transferable residential occupancy interests
-- person continuity does not automatically roll back lawful third-party property changes
-- citizens choose careers; civilization steers skills through training/pay/incentives rather than lifetime assignment
-- unions/co-ops/professional credentials exist; critical-service exceptions narrow/reviewable
-- partnership, parenthood, guardianship, residence and property are legally distinct
-- sole parenthood/donor conception/adoption/guardianship supported
-- reconstructed parent legal continuity does not automatically restore every current caregiving function
-- common public education + later choice/apprenticeship/higher training + adult retraining
-- no deterministic AI aptitude sorting
-- universal clinical floor + advanced biological repair without abolishing disability/aging/death
-- mental illness ≠ automatic criminality; decision capacity is domain-specific
-- clinical death / Reconstruction review / legal finality / mourning / estate are distinct
-- no memorial avatar as executable continuation of the dead
-
-## Key Package A files
-
-Design:
-- `docs/design-v2/SOCIETY-GOVERNANCE-ARCHITECTURE-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-CRIMINAL-JUSTICE-PUBLIC-SAFETY-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-ECONOMY-DEEP-LAYER-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-PROPERTY-HOUSING-INHERITANCE-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-LABOR-CLASS-MOBILITY-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-FAMILY-MARRIAGE-PARENTHOOD-GUARDIANSHIP-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-EDUCATION-CHILDHOOD-TRAINING-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-GENERAL-MEDICINE-MENTAL-HEALTH-DISABILITY-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-DEATH-FINALITY-FUNERAL-MOURNING-4-DESIGNS-v0.1.md`
-- `docs/design-v2/SOCIETY-BIBLE-v0.1.md`
-
-QA:
-- matching `docs/qa/SOCIETY-*-RED-TEAM-v0.1.md` files
-- `docs/qa/SOCIETY-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
-
-## Package A remaining cross-package blockers
-
-- exact governance election/executive/campaign-finance details
-- Package C emergency / AI / data / housing quantitative implementation
-- Package B calendar / culture / religion / social norms / exact majority conventions
-- Package D historical evolution of institutions
-- Package E arrival cross-jurisdiction rules
-- Package F exact cast finances/homes/education/health
-- quantitative sanity for civic floor/workforce/custody/health/housing
-- final low-salience decision on medical aid in dying
-
-Do NOT Canon-freeze Package A yet.
+Still blocked from Canon v2 by B/C/D/E/F dependencies and quantitative sanity.
 
 ---
 
 # Package B — Culture & Daily Life Bible
 
-Status: `NEXT ACTIVE PACKAGE / NOT COMPLETE`
+Status:
+**`STRUCTURAL DEEP DESIGN = PASS / CROSS-PACKAGE CONSOLIDATION PENDING / NOT CANON`**
 
-Required blocks:
-- language / lingua franca / multilingual survival / slang
-- religion / philosophy / ritual
-- calendar / day-week-year / holidays / voyage commemorations
-- cuisine / meals / hospitality
-- clothing / fashion / appearance
-- hygiene / domestic routine
-- media / journalism / social networks / rumor
-- entertainment / art / sport / games
-- sexuality / intimacy / partnership culture
-- ship-born identity / Earth memory / mission culture
-- class taste / status display without caste coding
+Integrated Bible:
+`docs/design-v2/CULTURE-DAILY-LIFE-BIBLE-v0.1.md`
 
-Next block:
-**Language / Linguistic Drift — 4 designs → hybrid → hostile Red Team.**
+Integrated QA:
+`docs/qa/CULTURE-DAILY-LIFE-BIBLE-INTEGRATED-RED-TEAM-v0.1.md`
+
+Blocking P0: **0**
+
+## Selected provisional models
+
+- `LNG-H1 — Evolved Ship Common + Heritage Language Ecology + Translation Assist`
+- `REL-H1 — Plural Inherited Traditions + Secular Life + Ship-Born Civic Rituals + Small New Movements`
+- `CAL-H1 — Synchronized Earth-Descended Civil Time + Voyage-Epoch Archival Time + Ship-Born Observance Calendar`
+- `FOOD-H1 — Closed-Loop Staples + Heritage Recipe Lineages + Ship-Born Adaptation + Real Hospitality Market`
+- `CLO-H1 — Recognizable Civilian Fashion + Closed-Loop Textiles + Specialized Workwear + Selective Wearables`
+- `DOM-H1 — Urban Comfort + High-Efficiency Closed Loops + Repairable Domestic Systems + Selective Automation`
+- `MEDIA-H1 — Public-Service Information + Plural Journalism/Creators + Interoperable Social Layer + Bounded Recommenders`
+- `ENT-H1 — Layered Heritage + Ship-Born Creative Canon + Live/Physical Culture + Bounded Immersion`
+- `INT-H1 — Plural Adult Intimacy + Strong Consent/Privacy + Reproduction Decoupled From Partnership`
+- `ID-HOME-H1 — Meridian-Home Majority + Layered Heritage + Contested Mission Memory + Plural Arrival Futures`
+
+## Package B core results
+
+Language:
+- one evolved shipwide Common; launch international English strongest ancestor
+- heritage languages survive unevenly
+- Korean prose = natural reader translation convention
+- translation cannot solve institutional semantic drift
+
+Time:
+- synchronized 24h day / 7-day week / Earth-descended ~365-day civil year
+- Voyage Year secondary archive/history frame
+- artificial circadian lighting; no Habitat time zones
+
+Belief:
+- inherited religions + secular life + small new movements
+- shared civic rituals without shared metaphysics
+- no Seed/Natural religion coding
+
+Food:
+- closed-loop ingredients are ordinary food, not nutrient paste
+- heritage recipes + ship-born cuisine + real restaurant/hospitality market
+- Ella's food/co-op role fits
+
+Clothing:
+- civilians do not live in jumpsuits
+- recognizable fashion + circular textiles + specialist workwear
+- no Habitat costume caste
+
+Domestic life:
+- normal showers/toilets/laundry/cooking/cleaning under high-efficiency loops
+- sustainability is mostly built into infrastructure, not daily misery
+- class difference appears through space/view/acoustics/privacy/customization, not unsafe air/water
+
+Media:
+- public-service + private/co-op journalism + creators + social feeds + private messaging
+- no single feed/perfect truth AI
+- Count media path remains CP-H1/ID-H1R compatible
+
+Entertainment:
+- Earth archive survives but 450 years of Meridian culture exists
+- live art/music/games/immersive media/sports coexist
+- provisional zero-g sport: padded 3D rebound/ball court, push-off movement, no standard personal thrusters
+
+Intimacy:
+- consent/privacy strong
+- adult intimacy not population-control licensed
+- contraception/assisted reproduction decouple sex and actual birth throughput
+
+Identity:
+- Meridian is actual home for most citizens
+- Earth = ancestral/archive memory, not firsthand homeland
+- founders important but not aristocratic lineage
+- Habitat/district identity exists without caste
+- arrival futures remain plural.
+
+## Package B open dependencies
+
+- Package C exact physical implementation: homes/utilities/AI/networks/transit/zero-g facility/pets
+- Package D exact 450-year language/religion/holiday/art/identity history
+- Package E post-arrival calendar/environment/culture
+- Package F character-specific fluencies/beliefs/tastes/clothes/hobbies/media habits/relationships
+- zero-g sport quantitative sanity
+- exact civil-majority/age thresholds
+- exact named holidays and recurring cuisine/slang/art examples
+
+Do NOT Canon-freeze Package B yet.
 
 ---
 
 # Package C — Infrastructure & Operations Bible
-Status: `NOT COMPLETE`
 
-Housing architecture / transit / utilities / emergency / AI automation / archives / routine operations / geography logic.
+Status: `NEXT ACTIVE PACKAGE / NOT COMPLETE`
+
+Required blocks:
+1. housing/neighborhood architecture + quantitative stock
+2. transit / Spine / commute / freight
+3. utilities / water / air / power / thermal / waste at citizen-facing level
+4. emergency / fire / decompression / contamination / evacuation / drills
+5. everyday AI / automation / robotics ontology and authority limits
+6. communication/network infrastructure
+7. archives / knowledge / data retention / public-vs-protected access
+8. routine ship operations / maintenance / outage planning
+9. geography/map logic / emergency isolation zones
+10. pet/animal/ecology operational feasibility
+11. integrated Infrastructure & Operations Bible + hostile QA
+
+Immediate next block:
+**Housing / Neighborhood / Urban Architecture — 4 designs → hybrid → Red Team.**
 
 ---
 
@@ -148,41 +179,31 @@ Status:
 `STRUCTURAL BASE = PASS / FULL PACKAGE = IN PROGRESS`
 
 Selected:
-- `MC-H1 — Layered Material Ecology + Selective Heritage Objects`
-- `CE-H1 — Civilization Completion + Living-World Recognition + Selective Material Return`
+- MC-H1 material ecology
+- CE-H1 civilization completion engine
 
-Public-safety integration with CJ-H1:
-`STRUCTURAL PASS`.
+CJ-H1 public-safety integration: structural pass.
 
 Hard rules:
-- Old ≠ powerful.
-- Rare ≠ useful.
-- no founder key / hidden superweapon / origin scanner / chosen-one relic.
-- ordinary non-clue objects greatly outnumber high-salience props.
-
-Key MOC:
-`docs/material-culture/00-MATERIAL-CULTURE-MOC.md`
+- Old ≠ powerful
+- Rare ≠ useful
+- no hidden superweapon/founder key/origin scanner/chosen-one relic
+- ordinary objects greatly outnumber clues.
 
 ---
 
 # Package D — Historical Bible
 Status: `NOT COMPLETE`
 
-450-year era timeline / institutional evolution / major crises / Earth-contact history / cultural-economic eras.
-
 ---
 
 # Package E — Destination & Arrival Reference
 Status: `NOT COMPLETE`
 
-Planet / resources / orbital geography / first-settlement staging / cross-location law-property-family-economy.
-
 ---
 
 # Package F — Character Encyclopedia v2
 Status: `NOT COMPLETE`
-
-Appearance / homes / finance / education / hobbies / health / social network / recurring supporting cast / 14-year checkpoints.
 
 ---
 
@@ -191,66 +212,56 @@ Appearance / homes / finance / education / hobbies / health / social network / r
 Status:
 `STRUCTURAL GRAPH FOUNDATION = PASS / EP DATASET = 28/230`
 
-Completed:
-- NAM-H1 map architecture
-- Device Atlas
-- 7/7 Act nodes
-- 23/23 Sub-Act nodes
-- CP-H1 minimal Context Pack schema
-- AUTHOR/POV/PUBLIC/PROTECTED knowledge separation
-- EP001~028 Context Manifests
-
-Pending known repairs:
+Pending known Act1 map repairs:
 - MG-01 Seed plant should begin SA-1B/EP012~013, not SA-1A
-- remove EP014 over-tag as TK-01 Arrival Clock
-- remove EP026 over-tag as CK-01 industrial-spare device
-- register unresolved map IDs such as RI-01 / RC-LAW-01 where retained
+- remove EP014 over-tag as TK-01
+- remove EP026 over-tag as CK-01
+- register/repair unresolved device IDs such as RI-01 / RC-LAW-01 where retained
 
-Remaining:
-EP029~230 manifests + orphan/premature/noise/knowledge QA + final hostile QA.
+Then EP029~230 manifests + final device QA.
 
 ---
 
 # Package H — Reference Atlas
 Status: `NOT COMPLETE`
 
-Glossary / institution chart / geography / timelines / technology dependencies / life-cycle / Canon-vs-Elastic registry.
-
 ---
 
 # Package I — Final Completeness Harness
 Status: `NOT COMPLETE`
 
-Must eventually pass:
+Required final tests include:
 - Random Citizen Day
-- Whole Life Cycle
-- Crime/Accident/Emergency
-- Rich/Poor/Disabled
-- Birth/Marriage/Divorce/Death
-- School/Work/Retirement
-- Media/Rumor/Privacy
-- Religion/Culture/Leisure
-- AI/Automation Ontology
-- Arrival Migration/Property
-- 20 Random Scenes No-New-Major-Rule
-- Material Culture Random Object/Weapon/Heirloom/Salvage
-- Narrative Device orphan/premature/noise
-- EP001~230 regression
+- whole life cycle
+- crime/emergency
+- class/disability
+- family lifecycle
+- school/work/retirement
+- media/privacy
+- culture/religion/leisure
+- AI ontology
+- arrival migration/property
+- random objects/material culture
+- 20 random scenes no-new-major-rule
+- narrative-device regression
+- EP001~230 regression.
 
 ---
 
-# Current Canon Baseline
+# Canon Baseline Still Untouched
 
 - Meridian / ~300k
-- destination Epsilon Indi A
-- story start ~T-14
-- Natural/Bio-Origin active = 1 = Amara Okoro
-- Maren Vale primary series anchor in ensemble
-- public Count EP058
+- Epsilon Indi A
+- start ~T-14
+- Natural/Bio-Origin active count = 1 = Amara Okoro
+- Maren Vale series anchor in ensemble
+- Count public EP058
 - Meaning complete EP066
 - Amara public confirmation EP075
 - insertion EP216 region
-- Costly Polycentric Arrival ending
+- Costly Polycentric Arrival
+
+No core ontology/reveal/ending changes were made by Packages A/B.
 
 ---
 
@@ -258,17 +269,16 @@ Must eventually pass:
 
 Do **not** draft EP001.
 
-1. Package B Language / Linguistic Drift — 4 designs + Red Team
-2. Religion / philosophy / ritual
-3. Calendar / holidays / work-school cycles
-4. Food / hospitality
-5. clothing / hygiene / domestic life
-6. media / social networks / journalism
-7. entertainment / art / sport
-8. intimacy / social norms / ship-born identity
-9. integrated Culture & Daily Life Bible + Red Team
-10. Package C and onward
+Proceed with Package C:
+1. Housing / Neighborhood / Urban Architecture
+2. Transit / Commute / Freight
+3. Utilities / Domestic Interfaces
+4. Emergency Systems
+5. AI / Automation / Robotics
+6. Networks / Communications
+7. Archives / Knowledge
+8. Routine Operations
+9. Geography / Map Integration
+10. Integrated Package C Red Team
 
-Only after all encyclopedic packages + final regression pass may:
-`ENCYCLOPEDIC CANON FREEZE v2 = PASSED`
-and manuscript return to READY.
+Then continue D→E→F→H→I and v2 Canon consolidation.
