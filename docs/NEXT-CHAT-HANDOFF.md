@@ -1,7 +1,7 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
-> 롤링 인수인계. 현재 채팅이 길어질 경우 새 채팅에서 GitHub 정본을 직접 읽고 이어간다.
-> **현재는 DESIGN FREEZE를 통과했지만 CANON FREEZE / WRITING READY는 아직 아니다.**
+> 롤링 인수인계. 현재 채팅이 길어지거나 새 채팅에서 이어갈 때 GitHub 정본을 직접 읽어 복구한다.
+> **현재는 DESIGN FREEZE / CANON FREEZE / WRITING READY를 모두 통과했고, Prose Execution Protocol과 Act 1 POV Map까지 잠긴 상태다.**
 
 ---
 
@@ -23,318 +23,278 @@ GitHub Repository: `storm-credit/only-one-human-aboard`
 
 사용자에게 내용을 다시 붙여넣으라고 요구하지 않는다.
 
-## 현재 Canon Freeze 직결 필독
-6. `docs/design/WORLD-BIBLE-CONSOLIDATION-v0.1.md`
-7. `docs/characters/CHARACTER-BIBLE-CONSOLIDATION-AGE-4-DESIGNS-v0.1.md`
-8. `docs/characters/CHARACTER-MISSING-GAPS-4-DESIGN-PACK-v0.1.md`
-9. `docs/characters/PROTAGONIST-ORIGIN-4-DESIGNS-v0.1.md`
-10. `docs/act/C-FULL-H1-SUB-ACT-ARCHITECTURE-4-DESIGNS-v0.1.md`
-11. `docs/act/INFORMATION-LADDER-4-DESIGNS-v0.1.md`
-12. `docs/act/FORESHADOW-PAYOFF-LEDGER-4-DESIGNS-v0.1.md`
-13. `docs/act/TIME-ARCHITECTURE-ENDING-4-DESIGNS-v0.1.md`
-14. `docs/act/ENDING-BEAT-MAP-4-DESIGNS-v0.1.md`
-15. `docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
-16. `docs/qa/CANON-CONFLICT-CHECK-v0.1.md`
-17. `docs/qa/DESIGN-FREEZE-CHECKLIST-v0.1.md`
-18. `docs/qa/ENDING-COST-LEDGER-4-DESIGNS-v0.1.md`
-19. `docs/qa/ACT-NON-P-CAUSAL-REGRESSION-v0.1.md`
-20. `docs/qa/BIO-ORIGIN-REVEAL-WORDING-4-DESIGNS-v0.1.md`
-21. `docs/world-logic/WL11-HISTORY-REPAIR-v0.2-4-DESIGNS.md`
-22. `docs/world-logic/AGING-REJUVENATION-4-DESIGNS-v0.1.md`
-23. `docs/world-logic/ARRIVAL-TRANSITION-LEGAL-TRIGGER-4-DESIGNS-v0.1.md`
-24. `docs/world-logic/DEMOGRAPHY-UNIQUENESS-SANITY-v0.1.md`
-25. `docs/characters/C8-PUBLIC-IDENTITY-REFINEMENT-v0.2.md`
-26. `docs/design/LIVING-WORLD-FREEZE-SANITY-PACK-v0.1.md`
+## 현재 정본 필독
+6. `canon/WORLD_BIBLE-v1.md`
+7. `canon/CHARACTER_BIBLE-v1.md`
+8. `canon/ACT_BIBLE-v1.md`
+
+## 현재 집필 실행 직결 필독
+9. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.md`
+10. `docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
+11. `docs/qa/ACT1-POV-MAP-MINI-QA-v1.md`
+12. `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md`
+13. `docs/writing-ready/EPISODE-BLUEPRINT-PASS2-NORMALIZATION-v0.1.md`
+14. `docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
+15. `docs/qa/WRITING-READY-HOSTILE-QA-v0.1.md`
+
+전체 화수/후반 작업이 필요하면 해당 Act blueprint와 M1~M8 Harness를 추가로 읽는다.
 
 ---
 
-# 절대 규칙
+# 현재 공식 Gate
 
-현재 Gate:
 - `DESIGN FREEZE = PASSED — 2026-08-17`
-- `CANON FREEZE = NOT PASSED`
-- `WRITING READY = BLOCKED`
-- `MANUSCRIPT = BLOCKED`
+- `CANON FREEZE = PASSED — 2026-08-17`
+- `WRITING READY = PASSED — 2026-08-17`
+- `PROSE EXECUTION PROTOCOL = LOCKED — 2026-08-17`
+- `ACT 1 EXECUTION POV MAP = PASS — 2026-08-17`
+- `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
 
-따라서 아직 금지:
-- 프롤로그
-- 1화
-- 소설 본문
-- 샘플 장면
-- 긴 대사
-- 문체 테스트
+Current blocking P0:
+**0**
 
-Design Freeze 이후에는 구조를 임의로 다시 브레인스토밍하지 않는다.
-구조를 바꾸려면:
-1. 새 P0/명확한 근거
-2. change-log
-3. 영향분석
-4. Red Team
-을 거친다.
-
-`PROVISIONAL`은 아직 `CANON`이 아니다.
+중요:
+본문을 자동 시작하지 않는다.
+사용자가 `1화 써`, `EP001 집필`, `본문 시작`처럼 명시적으로 요청할 때만 원고를 작성한다.
 
 ---
 
-# Design Freeze 근거
+# Canon Authority
 
-`docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
-- current blocking P0 = **0**
-- Reader Promise 20/100/200 regression PASS
+정본 우선순위:
+1. `CLAUDE.md`
+2. `canon/WORLD_BIBLE-v1.md`
+3. `canon/CHARACTER_BIBLE-v1.md`
+4. `canon/ACT_BIBLE-v1.md`
+5. `canon/CANON_STATUS.md`
+6. active Blueprint / Prose Execution Protocol
 
-`docs/qa/CANON-CONFLICT-CHECK-v0.1.md`
-- latest priority models 간 current P0 contradiction 없음
-
-`docs/change-log.md`
-- CHG-026에서 DESIGN FREEZE PASS 기록
+CANDIDATE / FREEZE-DRAFT / 과거 provisional 문서는 history이며 current Canon을 덮어쓰지 못한다.
 
 ---
 
-# Design-Frozen World Priorities — 전부 아직 PROVISIONAL
+# Canon 핵심
 
-## H2R-A
-실제 생물학적 인간형 몸/뇌 + cognitive origin만 구분.
+## 세계
+- Ship = **Meridian / 메리디언**
+- 시민 약 30만.
+- 대부분 살아 있는 인간형 생물학적 몸/뇌.
+- 옛 기술분류의 핵심 차이 = **인지발달 기원**.
+- 대부분 prenatal `발달 커넥톰 시드`를 거친 Seeded/Synthetic-Origin Cognition.
+- 현재 active Natural/Bio-Origin Cognition = **1명**.
+- 그 인물 = **Amara Okoro / 아마라 오코로**.
+- 현 시민사회에서는 두 origin 모두 사람/시민으로 살아왔다.
+- 제목의 `인간 한 명`은 legacy classification의 충격이지 서술자의 최종 moral ontology가 아니다.
 
 ## Seed
-Developmental Connectomic Seed.
-초기 고차 자기모델/인지회로 형성에 computationally generated developmental prior를 제공.
-기억/성격/명령/원격조종/admin key 삽입 불가.
+- prenatal developmental prior.
+- 기억/성격/충성/명령/admin key 삽입 금지.
+- 성공은 산전 closed-loop verification으로 확인.
+- 성인 직접 origin scanner 없음.
 
-## H3/U-C
-자연임신/보조생식 모두 가능 + prenatal Seed 표준.
-Natural-origin은 full Seed-window deliberate refusal.
+## Reconstruction
+- Recovery Map + surviving Neural Anchor.
+- 실행 가능한 soul-file 아님.
+- anchorless adult restoration 불가.
+- routine age rollback 불가.
 
-## RB-B
-Recovery Map + surviving neural anchor.
-Standalone soul-file 아님.
+## History
+- 원 탑승 natural-origin 인간은 몰살/일괄 기계업로드되지 않음.
+- 여러 세대에 걸쳐 Seed가 표준 산전의료가 됨.
+- exact-one Witness Protocol 없음.
+- 현재 1명은 demographic state.
 
-## AG-H1
-손상복구는 현재 neural anchor 기준.
-옛 scan으로 젊은 시절 rollback 금지.
-건강수명은 늘지만 불멸 아님.
+## Living World
+- 1환 / 2환 / 3환 + Spine + Outer Works + Legacy areas.
+- Habitat caste 금지.
+- economy = `Layered Commons + Market City`.
 
-## H6
-약 30만 capacity band + birth/restoration/housing/medical commons.
+## Destination
+- **Epsilon Indi A / 인디계**.
+- 본편 시작 약 T-14, 약 14년 뒤 system insertion.
+- local ISRU + ship industrial capital staged settlement.
+- direct civil-grid-vs-interstellar-engine GW conflict 금지.
 
-## OH-D
-Rare Deliberate Unseeded Birth.
-Exact-one protocol 없음.
-현재 active natural-origin=1은 demographic state.
-
-## H8R-2
-원래 탑승자들은 몰살/기계업로드되지 않음.
-그들이 살고 자녀를 낳았고, 여러 세대에 걸쳐 Seeded birth가 의료표준이 됨.
-Natural-origin 세대는 노화로 감소.
-
-## H9R
-Quiet K-Dwarf System + Resource Triangle + Staged Settlement.
-약 12~14 ly 후보, 시작 시 system insertion까지 약 14년.
-
-## H9R-P1
-Dedicated Fusion Direct-Exhaust Drive.
-약 13 ly / 0.03c / total ~447y sanity candidate.
-Civil grid와 propulsion 직접전력경쟁 금지.
-
-## RS-H1
-Layered Ram Defense.
-
-## ATL-H1
-Final Approach Transition Certification.
-T-30~T-10 기술준비와 T-10±1y binding legal transition을 분리.
-C8가 법 발동키가 아님.
+## Arrival Law
+- 시민기본법 / 개척헌장 / 도착전환규정.
+- Human Settler 문제는 destination jurisdiction translation 문제.
+- 현 ship citizenship 대량삭제 금지.
 
 ---
 
-# Living World
+# Canon Core Cast
 
-3 Large Habitats + Spine + Outer Works + Founding Core.
+- **Maren Vale / 마렌 베일** — 41F, ordinary Seeded-Origin, 연속성 심사관. 보호하려고 대신 결정하는 결함. 자기 가족 공식사건 mandatory recusal.
+- **Ella Vale / 엘라 베일** — 39F, 복원된 동생, Noah의 sole legal parent.
+- **Noah Vale / 노아 베일** — 12M → 약 26.
+- **Raul Serra / 라울 세라** — rights advocate/lawyer.
+- **Tomas Beck / 토마스 벡** — senior Continuity administrator.
+- **Ines Rahman / 이네스 라만** — field Reconstruction evaluator.
+- **Jun Imai / 준 이마이** — Old Quarter maintenance/co-op actor.
+- **Amara Okoro / 아마라 오코로** — 45F, current sole Natural-Origin, 평범한 2환 water/reclamation worker.
 
-`LW-E1 Layered Commons + Market City`.
-
-Sanity central candidates:
-- lifespan ~100~110y
-- births/permanent exits ~2.7k~3.1k/y
-- minors ~45k~55k
-- school age ~30k~36k
-- households ~120k~130k
-- ordinary cross-Habitat 60~120m
-
-A/B/C hidden-caste 42-event regression PASS at design level.
+Amara에게 특별능력/admin key/주권/식민지 정통성/reproductive duty를 부여하지 않는다.
 
 ---
 
-# Character Current Priorities — 아직 PROVISIONAL
+# Series / Reveal Lock
 
-## P
-- field continuity adjudicator P-A + P-D
-- `P-OA Ordinary Seeded-Origin Citizen`
-- start age ~39~43 candidate
-- special ontology protagonist 금지
+약 230화.
 
-## S
-restored sibling / N parent.
-Food/hospitality cooperative operations current career candidate.
+1. Act1 EP001~028 `돌아온 사람들의 자리`
+2. Act2 EP029~058 `판정의 비용`
+3. Act3 EP059~088 `한 명이라는 숫자`
+4. Act4 EP089~122 `공개된 다음 날`
+5. Act5 EP123~156 `미래를 위해 현재를 뜯는 법`
+6. Act6 EP157~194 `두 고향`
+7. Act7 EP195~230 `도착은 판정이 아니다`
 
-## N
-start ~11~12 → ~25~26 ending candidate.
-Youth: zero-g sport/games/music.
-Adult direction: creative/media technical production.
+Reveal:
+- internal Count EP056
+- public Count EP058
+- Meaning complete EP066
+- protected Amara confirmation EP068
+- controlled public confirmation EP075
 
-## R
-civic/continuity rights advocate.
-Ordinary household/partner + community performance hobby candidate.
-
-## M
-senior institution administrator, B retirement plan candidate.
-
-## D
-field medical evaluator, community rehab long-term goal.
-
-## O
-Old Quarter friend/resident actor, building maintenance livelihood candidate.
-
-## C8-BR
-- ~42~47
-- Habitat B water/reclamation mid-level worker
-- spouse school operations candidate
-- first child 17~19, Spine logistics apprenticeship candidate
-- second child 7~9, future unfrozen
-- children seeded-origin
-- no admin key / prophecy / unique engineer status
-
-Exact names/genders/ages are Canon Freeze tasks.
+후반에 더 큰 ontology twist를 추가하지 않는다.
 
 ---
 
-# C-full / Reveal
+# Writing Ready 완료상태
 
-## 7 Acts
-1. 돌아온 사람들의 자리 ~1~28
-2. 판정의 비용 ~29~58
-3. 한 명이라는 숫자 ~59~88
-4. 공개된 다음 날 ~89~122
-5. 미래를 위해 현재를 뜯는 법 ~123~156
-6. 두 고향 ~157~194
-7. 도착은 판정이 아니다 ~195~230
+## Full Episode Matrix
+EP001~230 = COMPLETE.
 
-## SUB-H1
-23 Sub-Acts Braided Consequence Relay.
+Active:
+- Act1 v0.1
+- Act2 v0.1
+- Act3 v0.1
+- Act4 v0.1
+- Act5 v0.1
+- Act6 **v0.2 active**
+- Act7 v0.1
 
-Current detailed Reveal:
-- Count ~53~58
-- Meaning ~59~66
-- C8 identity ~67~76
-- social consequence ~77~88
+Act6 v0.1은 superseded history.
 
-Reveal 이후가 더 길어야 한다는 원칙은 Design-Frozen.
+## High-Risk Deep Cards
+Opening / 23 Sub-Act turns / Count / Meaning / Amara / PR-H1 / Final Approach / Human Settler / time bridges / insertion-ending 모두 COMPLETE.
 
-## RW-H1
-Layered Legacy Audit:
-- current civic persons ≈300k
-- natural/bio-origin =1
-- seeded/synthetic-origin remainder
-- `human`은 founding-era legacy mapping
+## Harness
+M1~M8 ALL PASS.
+M1 Time/Age가 exact execution clock authority.
 
-단독 `REAL HUMANS:1`은 rejected.
+## Final QA
+- Hostile QA = PASS WITH P1 EXECUTION GUARDRAILS
+- Final Writing Ready Red Team = PASS
+- silent Canon blocker = 0
 
 ---
 
-# C8 Public Identity
+# Prose Execution Protocol — LOCKED
 
-`ID-H1R Controlled Disclosure Under Re-identification Pressure`.
+File:
+`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.md`
 
-- official identity initially private
-- Count=1 makes harmless historical/public traces re-identifying
-- speculation/false candidates/family collateral
-- C8 chooses limited factual confirmation
-- no convenient villain/system leak
+Model:
+**PEP-H1R — Causal-Owner Single-POV Close Third + Maren Series Anchor + Act-Ahead POV Mapping**
 
----
+Hard rules:
+- 한 화 한 POV
+- close-third limited
+- mid-episode head hopping 금지
+- Primary Actor가 자동 POV는 아님
+- irreversible choice / immediate cost / information fairness 우선
+- 동률이면 Maren 우선
+- Maren은 시리즈 최대 단일 POV owner
+- 정보전달 편의를 위해 POV를 선택하지 않음
+- Canon-impact failure 시 STOP
 
-# Information / Foreshadow
-
-## IL-H1
-Distributed Staggered Knowledge.
-Count = legacy provenance + prenatal archive + current alive registry crosswalk.
-No single Truth Keeper.
-
-## FP-H1
-Mixed Signal Ledger.
-Hard clue + world residue + character tell + institutional residue + fair alternative interpretation + primer/mirror/MacGuffin.
-Most ordinary details are not clues.
-
----
-
-# Time / Ending
-
-## T-H1
-Longitudinal Wave, total ~14 in-world years.
-Early dense, later time scale expands.
-
-## E-H1
-Costly Polycentric Arrival.
-
-## EC-H1
-Visible costs include ship redundancy loss / Old Quarter partial loss / surface delay / continuing capacity scarcity / family separation / new habitat delay / incomplete transition law.
-
-## EB-H1
-Braided Irreversible Arrival.
-System insertion late Act 7B, first limited deployment/foothold in 7C.
-No mature colony instantly at T0.
+Soft guides:
+- 대략 5.5k~8k Korean characters/episode candidate
+- 2~4 substantial scenes typical
+- 대화비율/용어수/ordinary imperfection은 기계적 quota가 아니라 diagnostic
 
 ---
 
-# Mandatory Arrival-Law Guardrail
+# Act 1 POV Map — PASS
 
-Old arrival law cannot simply erase ordinary ship citizenship of 299,999 citizens.
-Conflict may affect:
-- destination settler category
-- mission-reserved assets/trusts
-- transition registry
-- settlement jurisdiction
-- stewardship language
-and must be reconciled with strong current civic personhood law.
+Final EP001~028 distribution:
+- Maren 13
+- Ella 5
+- Noah 4
+- Jun 3
+- Raul 2
+- Ines 1
 
----
+Important refinement:
+초기안은 EP001~009에 6개 POV owner가 있어 P1.
+Repair:
+- EP005 Ines → **Maren POV**. Ines는 medical action owner 유지.
+- EP013 Maren → **Ines POV**. mundane Seed completion record를 의료인의 평범한 시선으로 처리.
 
-# Rejected/Superseded — 재사용 금지
+결과:
+첫 9화 distinct POV owner = 5.
+Act1 mini QA blocking P0 = 0.
 
-- adult mass artificial-substrate conversion
-- exact-one Witness/Origin Continuity Protocol
-- executable soul backup
-- routine age-reset immortality
-- obvious mechanical-body majority
-- 8 philosophy-biome sectors
-- A=elite/B=farmers/C=workers caste
-- civil-grid powered interstellar deceleration
-- ship-vs-planet binary
-- C8 mission/admin key
-- public C8 name via system dump/villain leak as primary
-- mature surface colony immediately at T0
-- one-human mystery delayed to 200 episodes
+EP001 POV = **Maren**.
 
 ---
 
-# 지금 이어서 할 작업 — CANON FREEZE PREPARATION
+# Active P1 Execution Risks
 
-1. **Canonical World Bible v1 draft**
-   - Design-Frozen priorities를 Exact / Elastic / Forbidden으로 정리
-2. **Canonical Character Bible v1 design pass**
-   - naming/gender/age/family chronology 3~4안 비교 후 선택
-3. **Canonical Act Bible v1**
-4. terminology/institution naming pass
-5. P-S secret record exact form/timing lock
-6. C8 re-identification historical trace exact lock
-7. current law vs arrival law wording lock
-8. Canon Conflict Check v0.2
-9. Canon Red Team
-10. CANON FREEZE decision
+1. first-20 title-promise balance
+2. legacy Human semantic-cheat perception
+3. Amara same refusal beat repetition
+4. Act5 engineering/institution density
+5. Human Settler contrivance perception
+6. insertion climax without disaster gimmick
+7. same-writer/perfect-agent dialogue
+8. jargon spikes
+9. notification/report hook repetition
+10. downtime/humor absence
+11. early POV load/orientation
 
-그 전까지 소설 본문 절대 금지.
+---
+
+# Hard Stop During Prose
+
+본문이 아래를 요구하면 즉시 멈추고 change control:
+- adult origin scanner
+- Seed memory/personality programming
+- anchorless adult restoration
+- Amara sovereignty/admin key
+- mass citizenship erasure
+- central AI dictatorship
+- bigger ontology twist
+- Maren family adjudication
+- civil-grid propulsion theft
+- instant mature colony
+- free perfect settlement compromise
+
+---
+
+# 지금 이어서 할 작업
+
+## 사용자가 명시적으로 본문 집필을 요청한 경우
+EP001부터 시작 가능.
+
+순서:
+1. `EPISODE-BLUEPRINT-ACT1-v0.1.md`의 EP001 card를 직접 읽는다.
+2. `PROSE-EXECUTION-PROTOCOL-v1.md` 적용.
+3. `ACT1-EXECUTION-POV-MAP-v1.md`에 따라 **Maren POV**.
+4. EP001 초고 작성.
+5. 초고 직후 Episode QA.
+6. 수정/accepted 상태와 manuscript progress를 GitHub에 동기화.
+
+## 사용자가 본문을 요청하지 않고 단순히 `이어서`라고 한 경우
+본문을 자동 생성하지 않는다.
+현재 구조적 필수 선행작업은 끝났으므로, 다음 실행보조로 **Act 2 Execution POV Map**을 만드는 것이 가장 자연스럽다.
+단, Story/Canon은 다시 브레인스토밍하지 않는다.
 
 ---
 
 # 채팅 운영
 
-새 채팅이 필요해질 정도로 길어지기 전에 이 파일을 다시 업데이트한다.
-하지만 현재 채팅이 이미 새 채팅이라면 **또 이동하라고 하지 말고 여기서 계속 진행한다.**
+- 현재 채팅이 이미 새 채팅이라면 또 이동하라고 하지 않는다.
+- 컨텍스트가 위험해지기 전에 이 파일을 다시 최신화한다.
+- 사용자가 본문을 명시 요청하기 전까지 소설 장면을 자동 작성하지 않는다.
