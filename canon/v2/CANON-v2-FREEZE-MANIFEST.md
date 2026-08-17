@@ -13,17 +13,17 @@ Freeze basis:
 - Q9 final minor-rule closure: P0=0
 - Final Freeze adversarial Red Team: P0=0 / Freeze-relevant P1=0
 
-This manifest freezes the **content blobs below** as the authoritative Encyclopedic Canon v2 domain snapshot.
+This manifest freezes the exact Git content blobs below as the authoritative Encyclopedic Canon v2 snapshot.
 
 Important status rule:
-Some frozen domain files still contain a consolidation-era internal header such as `DRAFT CANON v2 / CONSOLIDATION IN PROGRESS`.
-That header records the phase in which the file was authored.
-**For authority state, this Freeze Manifest + `00-CANON-v2-INDEX.md` override those older internal status lines.**
-Any post-freeze content change creates a new blob SHA and therefore requires formal Canon Change Control plus impact regression.
+Some domain files retain a consolidation-era internal `DRAFT CANON v2 / CONSOLIDATION IN PROGRESS` header.
+That line records their authoring phase.
+**Authority state is controlled by this Freeze Manifest + `00-CANON-v2-INDEX.md`.**
+A later content edit changes the blob SHA and is not silently part of frozen Canon until Change Control + regression re-freezes it.
 
 ---
 
-# 1. Frozen Domain Blobs
+# 1. Frozen Normative Domain Blobs
 
 | Domain owner | Frozen blob SHA |
 |---|---|
@@ -41,29 +41,30 @@ These nine modules are the frozen normative domain owners.
 
 ---
 
-# 2. Support Authorities
+# 2. Frozen Support-Authority Blobs
 
-The following support files define routing/promotion/elasticity and are frozen in authority role by this manifest, with their final post-promotion blob SHAs to be recorded after status update:
-- `00-CANON-v2-INDEX.md`
-- `CANON-v2-PROMOTION-LEDGER.md`
-- `CANON-v2-ELASTIC-REGISTRY.md`
+| Support authority | Frozen blob SHA |
+|---|---|
+| `00-CANON-v2-INDEX.md` | `59ea66fc0f988c1fe49f4f71c4bfc13e940f2e6e` |
+| `CANON-v2-PROMOTION-LEDGER.md` | `e1d9f93c7bb6e8f1959d35139b4c45437c600f01` |
+| `CANON-v2-ELASTIC-REGISTRY.md` | `998bb76ecfe629679df21ef67fd3660773cffa36` |
 
-`CANON-v2-ARCHITECTURE-4-DESIGNS.md` remains a design-history document and is **not** a normative Canon owner.
+`CANON-v2-ARCHITECTURE-4-DESIGNS.md` remains design history and is **not** a normative Canon owner.
 
 ---
 
 # 3. Delegated Locked Execution Authorities
 
 Canon v2 deliberately does not duplicate episode-exact execution data.
-The following remain authoritative where Story Architecture delegates to them:
+Where `STORY-ARCHITECTURE-v2.md` delegates, use:
 - active Episode Blueprint by Act
 - Act6 **v0.2** only; v0.1 is superseded
 - locked Act POV Maps
-- `HARNESS-M1-TIME-AGE-v0.1.md`
+- `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
 - applicable locked Deep Cards
 - EP001~230 Context Manifest files / Registry for knowledge/reveal routing.
 
-A delegated execution file cannot overturn a Canon-v2 world/character hard stop unless formal Change Control reopens Canon.
+Delegated execution authority cannot overturn a frozen world/character/story hard stop without formal Canon Change Control.
 
 ---
 
@@ -93,7 +94,7 @@ Post-freeze work may not silently introduce:
 
 # 5. Change Control
 
-Any proposed change to a frozen domain blob must record:
+Any proposed change to a frozen blob must record:
 1. exact file/section
 2. old rule/value
 3. proposed rule/value
@@ -109,7 +110,20 @@ No silent edits.
 
 ---
 
-# 6. Freeze Verdict
+# 6. Freeze Evidence
+
+- `docs/qa/FINAL-COMPLETENESS-HARNESS-RESULT-v0.1.md`
+- `docs/qa/CANON-v2-v1-REGRESSION-v0.1.md`
+- `docs/qa/CANON-v2-EP001-230-REGRESSION-v0.1.md`
+- `docs/qa/CANON-v2-ONLY-20-RANDOM-SCENES-v0.1.md`
+- `docs/qa/CANON-v2-FINAL-FREEZE-RED-TEAM-v0.1.md`
+
+All blocking results: **P0=0**.
+Freeze-relevant unresolved P1: **0**.
+
+---
+
+# 7. Freeze Verdict
 
 # `ENCYCLOPEDIC DEEP DESIGN v2 = COMPLETE / PASS`
 
@@ -117,8 +131,12 @@ No silent edits.
 
 # `CANON v2 = FROZEN — 2026-08-18`
 
-This completes the design/worldbuilding/setting-bible gate.
+The design/worldbuilding/reference-setting-bible gate is complete.
 
-Manuscript status is a separate gate:
-**READY / NOT STARTED** after global status files are updated.
-Accepted manuscript remains **0 / 230** until actual prose is explicitly requested and accepted.
+Manuscript state after global status synchronization:
+**READY / NOT STARTED**.
+
+Accepted manuscript remains:
+**0 / 230**.
+
+Do not draft EP001 until the user explicitly requests manuscript execution.
