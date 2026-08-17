@@ -84,22 +84,12 @@
   - integrated `HISTORICAL-BIBLE-v0.1.md` + hostile QA.
 - Major result:
   - original Natural-Origin generations live/age/die normally; no replacement event.
-  - Seed emerges from developmental/Continuity medicine, first cohorts roughly VY80–120 working range, normalization/rights reform spans generations.
+  - Seed emerges from developmental/Continuity medicine and normalizes across generations.
   - no exact-one preservation program, no secret last-human lineage.
   - mission authority gradually civilianizes; market/co-op economy grows above commons floor.
   - Old Quarter/modern infrastructure arise through centuries of retrofit.
   - high-capability AI becomes federated through safety/privacy experience, not AI coup.
-  - Earth contact can persist while latency and social distance remove practical sovereignty.
-- Characters Affected:
-  - Amara's parents become late-era ordinary Seeded citizens making a rare legal refusal; no secret organization.
-  - all other core cast receive historical environment only; no locked personal backstory changed yet.
-- Acts Affected:
-  - all 7 Acts gain causal historical basis; no Act/reveal timing changes.
-- Foreshadowing Affected:
-  - old schema/Seed/history clues now have explicit historical provenance.
-  - no new larger mystery.
-- World Rules Affected:
-  - broad historical expansion, Core v1 preserved.
+  - Earth contact can persist while latency/social distance remove practical sovereignty.
 - Integrated blocking P0: 0
 - Status: `PACKAGE D STRUCTURAL DEEP DESIGN PASS / NOT CANON`
 
@@ -108,35 +98,90 @@
 ## CHG-040 — Package E Destination & Arrival 구조 완성
 - Date: 2026-08-17
 - Change Location: destination planet physics / system resources / arrival operations / migration-property-jurisdiction
-- Previous:
-  - Core v1 locked Epsilon Indi A, one habitable rocky candidate, volatile and metal/silicate resource bodies, four settlement paths and Costly Polycentric Arrival.
-  - exact environmental/settlement operating reference remained incomplete.
 - New:
   - `PLAN-H1 — Temperate Water-Rich Rocky World + Pressure-Compatible Oxygen-Poor Atmosphere + Moderate Seasons`
   - working planet candidates ~0.52 AU / ~150–160d year / ~0.97g / ~29.5h day / modest tilt / near-Earth pressure but low-O2 breathing-support environment.
-  - the settlement world is explicitly a future mission-era discovery, not claimed as a currently known real exoplanet.
+  - settlement world explicitly future mission-era discovery, not a currently confirmed real exoplanet.
   - `SYS-H1 — Settlement World + Volatile Cluster + Metal/Silicate Cluster + Meridian-Centered Orbital Bootstrap Network`
   - `ARR-H1 — Meridian Retained + Orbit/ISRU First-Mover + Small Surface Foothold + Capacity-Gated Migration`
   - `JUR-H1 — Shared Civic Citizenship + Transitional Commons Stewardship + Capacity-Based Migration + Gradual Local Municipal Rights`
   - integrated `DESTINATION-ARRIVAL-BIBLE-v0.1.md` + hostile QA.
 - Major result:
-  - planet is a genuine physical reward without becoming Earth clone/paradise.
-  - local ISRU supplies bulk, while Meridian remains precision/medical/civic capital early.
-  - ending ~+1y remains modest: Meridian dominant; persistent small orbit/resource nodes; small permanent surface foothold; new-habitat program only beginning.
-  - first landing/mining does not grant sovereignty or hereditary land rights.
-  - permanent civilian migration is voluntary and capacity-gated.
-  - existing citizenship continues off-ship; Human Settler is a translation conflict only.
-  - Amara receives no migration, land, resource, genetic-archive or political privilege.
-- Characters Affected:
-  - future personal location choices deferred to Package F.
-- Acts Affected:
-  - Acts 5–7 gain detailed physical/legal operating context; locked ending preserved.
-- Foreshadowing Affected:
-  - MG-03/arrival-law context gains concrete destination consequences; no new ontology twist.
-- World Rules Affected:
-  - destination/arrival reference expansion only.
+  - planet is reward without Earth-clone paradise.
+  - local ISRU supplies bulk; Meridian supplies precision/medical/civic capital early.
+  - ending ~+1y remains modest: Meridian dominant; small persistent orbit/resource nodes; small permanent surface foothold; new-habitat program only beginning.
+  - first landing/mining does not grant sovereignty/hereditary land.
+  - Amara receives no migration/land/resource/political privilege.
 - Integrated blocking P0: 0
 - Status: `PACKAGE E STRUCTURAL DEEP DESIGN PASS / NOT CANON`
+
+---
+
+## CHG-041 — Package F Character Encyclopedia v2 구조 완성
+- Date: 2026-08-17~18
+- Change Location: core cast lived life / households / finances / health / hobbies / material culture / recurring support network / longitudinal aging
+- Previous:
+  - Character Bible v1 strongly locked goals, flaws, voices, relationships and arcs, but intentionally left many ordinary-life details elastic.
+- New:
+  - `CHAR-H1 — Core Lock / Scene Anchor / Controlled Elastic / Incidental` selected as encyclopedia depth architecture.
+  - Vale household deepening completed without automatic old-home/property restoration for Ella.
+  - Okoro household deepening completed while keeping Amara ordinary before Reveal.
+  - Raul/Tomas/Ines/Jun receive distinct housing, work, hobby, health/social-life anchors instead of becoming theme-only professionals.
+  - personal possessions integrated with Material Culture without turning objects into destiny clues.
+  - recurring supporting-cast network designed, then trimmed to high-value reusable anchors rather than name inflation.
+  - Act6~7 longitudinal regression preserves exact Blueprint future choices while leaving final residences Controlled Elastic where not locked.
+  - character-name phonetic collision micropass added.
+  - integrated Character Encyclopedia hostile QA completed.
+- Major guardrails:
+  - Amara has no body/taste/object/health clue that reveals Natural-Origin early.
+  - no character receives a symbolically perfect ship/orbit/surface destiny just to make ensemble symmetry neat.
+  - ordinary-life detail may deepen scenes but cannot override v1 goals/arcs/relationships.
+- Documents:
+  - `docs/design-v2/CHARACTER-ENCYCLOPEDIA-v0.1.md`
+  - `docs/qa/CHARACTER-ENCYCLOPEDIA-INTEGRATED-RED-TEAM-v0.1.md`
+  - `docs/status/PACKAGE-F-CHARACTER-ENCYCLOPEDIA-PASS-2026-08-17.md`
+  - `docs/material-culture/MATERIAL-CULTURE-CHARACTER-OBJECT-INTEGRATION-v0.1.md`
+- Integrated blocking P0: 0
+- Status: `PACKAGE F STRUCTURAL DEEP DESIGN PASS / NOT CANON`
+
+---
+
+## CHG-042 — Package G EP001~230 Context Manifest Registry + 최종 지식경계 회귀 완성
+- Date: 2026-08-18
+- Change Location: Narrative Engineering / Obsidian retrieval / episode-level authority and knowledge fences
+- Previous:
+  - 7 Act nodes, 23 Sub-Act nodes, Device Atlas and CP-H1 Context Pack existed.
+  - detailed individual Context Manifest examples existed only for EP001~028.
+  - early over-tag/invalid-ID issues were already repaired by `NARRATIVE-ENGINEERING-REPAIR-ADDENDUM-v0.2.md`.
+- New:
+  - full-series `EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md` created.
+  - 230/230 episode rows map exact Act/Sub-Act, locked POV, knowledge fence and applicable Deep Card.
+  - authority hierarchy locked:
+    `Canon → active Blueprint → locked POV Map → M1 → Deep Card → Manifest Registry → Sub-Act candidate map`.
+  - `Sub-Act candidate ≠ episode exposure` made a hard rule; devices cannot be blanket-inherited into every episode.
+  - full Reveal/PR-H1/Arrival/Insertion/POV/Shadow-Canon regression added.
+  - exact locked full-series POV totals reproduced, including Maren 45 / Ella 27 / Amara 25.
+  - Act6 authority explicitly uses v0.2.
+- Reveal anchors preserved:
+  - EP056 internal Count
+  - EP058 public Count
+  - EP066 Meaning complete
+  - EP068 protected Amara confirmation
+  - EP075 controlled public confirmation
+  - EP112 PR-H1 discovery chain starts
+  - EP142~151 Human Settler operational cluster
+  - EP216 insertion
+  - EP230 no thesis speech.
+- Implementation distinction:
+  - detailed individual notes EP001~028 remain examples.
+  - EP029~230 individual file split is deferred mechanical implementation, not remaining Deep Design.
+  - later generated files must fail closed and may create no Canon.
+- Documents:
+  - `docs/narrative-engineering/EP001-230-CONTEXT-MANIFEST-REGISTRY-v0.1.md`
+  - `docs/qa/NARRATIVE-ENGINEERING-FULL-MANIFEST-REGRESSION-v0.1.md`
+  - updated `docs/narrative-engineering/00-NARRATIVE-MOC.md`
+- Blocking P0: 0
+- Status: `PACKAGE G NARRATIVE ENGINEERING DESIGN PASS / 230/230 REGISTRY / NOT CANON`
 
 ---
 
@@ -153,10 +198,10 @@ If new material contradicts v1:
 - identify affected Character / Act / Foreshadow / World rules
 - regression-test affected Episode Cards.
 
-Packages A–E/C-M and Package G remain provisional until v2 cross-package integration and quantitative/final QA.
+Packages A–G and C-M remain provisional until Reference Atlas / Final Completeness Harness / v2 cross-package integration and quantitative QA.
 
 Current next package:
-**Package F — Character Encyclopedia v2.**
+**Package H — Reference Atlas.**
 
 Do not draft manuscript until:
 `ENCYCLOPEDIC CANON FREEZE v2 = PASSED`.
