@@ -54,7 +54,7 @@ These remain valid unless a later v2 contradiction is intentionally approved.
 
 ---
 
-# Completeness Gaps To Close
+# Encyclopedic Completion Packages
 
 ## Package A — Society Bible
 - full governance architecture
@@ -64,6 +64,9 @@ These remain valid unless a later v2 contradiction is intentionally approved.
 - education system
 - general medicine/mental health/disability
 - death/funeral/mourning/inheritance
+
+Status: `IN PROGRESS`
+Current first design block: Governance Architecture.
 
 ## Package B — Culture & Daily Life Bible
 - language drift / lingua franca / slang
@@ -77,6 +80,8 @@ These remain valid unless a later v2 contradiction is intentionally approved.
 - sexuality/intimacy/social norms
 - ship-born identity / Earth memory / mission culture
 
+Status: `NOT COMPLETE`
+
 ## Package C — Infrastructure & Operations Bible
 - housing/neighborhood typology
 - transit and commute operations
@@ -86,17 +91,23 @@ These remain valid unless a later v2 contradiction is intentionally approved.
 - archive/knowledge architecture
 - routine ship operations
 
+Status: `NOT COMPLETE`
+
 ## Package D — Historical Bible
 - full ~450-year era timeline beyond Seed transition
 - major crises, repairs, reforms, demographic/cultural/economic eras
 - Earth-contact/isolation history
 - institutional evolution
 
+Status: `NOT COMPLETE`
+
 ## Package E — Destination & Arrival Reference
 - target-planet environment
 - resource-body/orbital geography
 - first settlement logistics
 - migration/property/inheritance/jurisdiction across locations
+
+Status: `NOT COMPLETE`
 
 ## Package F — Character Encyclopedia v2
 - appearance
@@ -110,7 +121,44 @@ These remain valid unless a later v2 contradiction is intentionally approved.
 - reusable supporting cast
 - 14-year career/residence checkpoints
 
-## Package G — Reference Atlas
+Status: `NOT COMPLETE`
+
+## Package G — Narrative Engineering & Obsidian Context Atlas
+Purpose:
+Make the 7 Act / 23 Sub-Act / EP001~230 design navigable as a linked graph so a human or agent can retrieve only relevant context for one episode.
+
+Completed foundation:
+- 4 narrative-map architectures compared
+- `NAM-H1 Hierarchical MOC + Cross-Linked Device Atlas + Episode Context Manifest` selected
+- major Narrative Device Atlas created
+- all 23 Sub-Acts mapped to Plant/Reinforce/Trigger/Payoff/Aftershock device work
+- Obsidian link/data-contract design created
+- `CP-H1` minimal Episode Context Pack retrieval model selected
+- interim Narrative Engineering Red Team run
+
+Current Package G state:
+`IN PROGRESS / STRUCTURAL MAP FOUNDATION PASS`
+
+Remaining:
+- exact 7 Act nodes
+- exact 23 Sub-Act Obsidian nodes
+- EP001~230 Context Manifest dataset
+- exact device lifecycle binding to active Blueprints
+- orphan-device QA
+- premature-payoff QA
+- clue-density/noise QA
+- M1/POV/Blueprint regression
+- final Package G hostile QA
+
+Key files:
+- `docs/narrative-engineering/00-NARRATIVE-MOC.md`
+- `docs/narrative-engineering/NARRATIVE-MAP-ARCHITECTURE-4-DESIGNS-v0.1.md`
+- `docs/narrative-engineering/NARRATIVE-DEVICE-ATLAS-v0.1.md`
+- `docs/narrative-engineering/ACT-SUBACT-NARRATIVE-DEVICE-MAP-v0.1.md`
+- `docs/narrative-engineering/OBSIDIAN-LINK-CONTEXT-PACK-SPEC-v0.1.md`
+- `docs/qa/NARRATIVE-ENGINEERING-MAP-RED-TEAM-v0.1.md`
+
+## Package H — Reference Atlas
 - glossary
 - institution authority chart
 - geography/map spec
@@ -119,7 +167,9 @@ These remain valid unless a later v2 contradiction is intentionally approved.
 - life-cycle chart
 - Canon vs Elastic registry
 
-## Package H — Final Completeness Harness
+Status: `NOT COMPLETE`
+
+## Package I — Final Completeness Harness
 Must pass:
 - Random Citizen Day Test
 - Child→Adult→Old Age Life Cycle Test
@@ -133,6 +183,9 @@ Must pass:
 - Arrival Migration/Property Test
 - 20 random-scene no-new-major-rule test
 - regression against EP001~230
+- Narrative Device orphan/premature-payoff/noise-density test
+
+Status: `NOT COMPLETE`
 
 ---
 
@@ -157,17 +210,16 @@ Must pass:
 
 Do **not** draft EP001.
 
-Begin Encyclopedic Deep Design expansion in this order:
-1. Package A — Society Bible 4-design blocks
-2. Package B — Culture & Daily Life
-3. Package C — Infrastructure & Operations
-4. Package D — Historical Bible
-5. Package E — Destination Reference
-6. Package F — Character Encyclopedia v2
-7. Package G — Reference Atlas
-8. Package H — adversarial completeness harness
-9. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 consolidation
-10. Canon conflict regression against ACT_BIBLE + EP001~230
-11. `ENCYCLOPEDIC CANON FREEZE v2`
+Immediate continuation from current conversation:
+1. finish Package G structural graph layer: 7 Act nodes + 23 Sub-Act nodes
+2. bind narrative-device lifecycle to exact episode Blueprint data
+3. generate EP001~230 Context Manifests
+4. run Package G orphan/premature-payoff/noise/knowledge-boundary QA
+5. return to Package A Society Bible deepening and continue A→F
+6. Package H Reference Atlas
+7. Package I adversarial completeness harness
+8. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 consolidation
+9. Canon conflict regression against ACT_BIBLE + EP001~230
+10. `ENCYCLOPEDIC CANON FREEZE v2`
 
 Only after v2 Freeze passes may manuscript status return to READY.
