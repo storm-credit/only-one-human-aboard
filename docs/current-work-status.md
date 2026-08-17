@@ -28,10 +28,10 @@ Completeness blocker:
 **YES**
 
 Reason:
-The project is structurally writable, but the user requires the design blueprint/worldbuilding/setting bible itself to be reference-grade complete before prose. Current v1 is strong on story-critical world logic but not yet encyclopedic across all everyday-life/cultural/institutional domains.
+The project is structurally writable, but the user requires the design blueprint/worldbuilding/setting bible itself to be reference-grade complete before prose. Current v1 is strong on story-critical world logic but not yet encyclopedic across all everyday-life/cultural/institutional/material domains.
 
 Primary current audit:
-`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.2.md`
+`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.3.md`
 
 ---
 
@@ -72,6 +72,64 @@ Housing / transit / utilities / emergency response / automation/AI / archives / 
 
 Status: `NOT COMPLETE`
 
+## Package C-M — Material Culture / Equipment / Relics Bible
+Mandatory cross-cutting package; kept as C-M so the stabilized A~I numbering does not churn again.
+
+Scope:
+- ordinary objects / durable goods / repair culture
+- personal interfaces
+- medical/Reconstruction equipment boundary
+- work/utility/industrial equipment
+- Outer Works / emergency gear
+- public-safety / weapon boundary
+- dangerous/restricted technology
+- Earth-origin objects / voyage artifacts
+- family heirlooms
+- museums / provenance
+- collectibles / antique market
+- salvage / found property
+- strategic industrial heritage
+- material status signals
+- subtle collection/completion pleasure
+
+Selected design:
+`MC-H1 — Layered Material Ecology + Selective Heritage Objects`
+
+Completed:
+- 4 material-culture architectures compared
+- MC-H1 selected
+- provisional `MATERIAL-CULTURE-BIBLE-v0.1.md` created
+- hostile Red Team run
+- functional object classes O1~O5 defined
+- provenance states defined without RPG rarity ranks
+- public-safety/weapon direction defined at high level
+- heritage era buckets defined provisionally
+- museum/collecting/salvage/strategic-heritage questions mapped
+- collection engine reframed as recognition/provenance/return/completion rather than loot progression
+
+Current state:
+`STRUCTURAL BASE = PASS / FULL PACKAGE = IN PROGRESS`
+
+Open dependencies before Freeze:
+- Package A criminal justice / weapon legality / property / inheritance / economy
+- Package B fashion/hobbies/ritual/material taste
+- Package C AI/autonomous security / emergency / utilities
+- Package D exact 450-year provenance timeline
+- Package E arrival transfer/export/heritage rules
+- Package F recurring character possessions
+- Package G high-salience object lifecycle only
+
+Hard rules:
+- Old ≠ powerful.
+- Rare ≠ useful.
+- no founder key / hidden superweapon / adult origin scanner / chosen-one relic.
+- most objects remain ordinary non-clues.
+
+Key files:
+- `docs/material-culture/MATERIAL-CULTURE-EQUIPMENT-RELICS-4-DESIGNS-v0.1.md`
+- `docs/material-culture/MATERIAL-CULTURE-BIBLE-v0.1.md`
+- `docs/qa/MATERIAL-CULTURE-EQUIPMENT-RELICS-RED-TEAM-v0.1.md`
+
 ## Package D — Historical Bible
 450-year era timeline / institutional evolution / major crises / Earth-contact history / cultural-economic eras.
 
@@ -103,13 +161,16 @@ Completed:
 - `CP-H1` minimal Episode Context Pack retrieval model selected
 - AUTHOR / POV / PUBLIC / PROTECTED knowledge separation required
 - interim Narrative Engineering Red Team run
+- **EP001~028 Context Manifests created — 28 / 230**
+- Act 1 manifest pass already exposed over-tagging / timing defects for repair: Sub-Act device presence does not mean every episode inherits the device automatically.
 
 Current Package G state:
-`STRUCTURAL GRAPH FOUNDATION = PASS`
+`STRUCTURAL GRAPH FOUNDATION = PASS / EP DATASET = 28/230`
 
 Remaining before full Package G PASS:
-- EP001~230 exact Context Manifest dataset from active Blueprint + POV + M1
+- EP029~230 exact Context Manifests
 - exact device lifecycle binding to episode cards
+- repair Act 1 device over-tag/orphan findings
 - orphan-device QA
 - premature-payoff / early-reveal QA
 - clue-density vs ordinary-noise QA
@@ -126,10 +187,11 @@ Key files:
 - `docs/narrative-engineering/OBSIDIAN-LINK-CONTEXT-PACK-SPEC-v0.1.md`
 - `docs/narrative-engineering/acts/ACT-01~07.md`
 - `docs/narrative-engineering/subacts/SA-1A~7C.md`
+- `docs/narrative-engineering/episodes/EP-001~028.md`
 - `docs/qa/NARRATIVE-ENGINEERING-MAP-RED-TEAM-v0.1.md`
 
 ## Package H — Reference Atlas
-Glossary / institution authority chart / geography map spec / 450y + 14y timelines / technology dependency chart / life-cycle chart / Canon-vs-Elastic registry.
+Glossary / institution authority chart / geography map spec / 450y + 14y timelines / technology dependency chart / life-cycle chart / Canon-vs-Elastic registry / material culture taxonomy.
 
 Status: `NOT COMPLETE`
 
@@ -148,6 +210,8 @@ Must pass:
 - 20 random-scene no-new-major-rule test
 - regression against EP001~230
 - Narrative Device orphan/premature-payoff/noise-density test
+- Random Object / Weapon / Heirloom / Salvage Test
+- Material Culture no-secret-superweapon regression
 
 Status: `NOT COMPLETE`
 
@@ -174,12 +238,12 @@ Status: `NOT COMPLETE`
 
 Do **not** draft EP001.
 
-Immediate continuation from current Narrative Engineering task:
-1. derive EP001~230 exact Context Manifests from active Blueprints + POV maps + M1
-2. bind narrative-device lifecycle to exact episode cards
-3. run Package G orphan/premature-payoff/noise/knowledge-boundary QA
-4. final Package G hostile Red Team
-5. return to Package A Society Bible deepening and continue A→F
+Immediate continuation:
+1. close current Package G Act 1 device-map repair findings
+2. continue EP029~230 Context Manifests from active Blueprints + POV + M1
+3. run Package G orphan/premature/noise/knowledge-boundary QA
+4. continue Package A Society Bible; criminal justice/economy will close several Package C-M dependencies
+5. continue B/C/C-M/D/E/F deep design
 6. Package H Reference Atlas
 7. Package I adversarial completeness harness
 8. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 consolidation
