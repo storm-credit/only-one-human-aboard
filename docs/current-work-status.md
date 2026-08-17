@@ -16,187 +16,227 @@ Historical/core:
 - `PROSE EXECUTION PROTOCOL v1.1 = LOCKED`
 - `EP001~230 POV ARCHITECTURE = LOCKED / PASS`
 
-Final stronger gate:
-- **`ENCYCLOPEDIC DEEP DESIGN = PASSED — 2026-08-18`**
+Final encyclopedic gate:
+- **`ENCYCLOPEDIC DEEP DESIGN v2 = COMPLETE / PASSED — 2026-08-18`**
 - **`PACKAGE A~I = PASS / BLOCKING P0=0`**
-- **`P1 CLOSURE = PASS / BLOCKING P1=0`**
+- **`Q1~Q9 REQUIRED CLOSURES = PASS`**
 - **`ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`**
 - **`MANUSCRIPT = READY / NOT STARTED`**
 
-Accepted manuscript: **0 / 230**.
+Accepted manuscript:
+**0 / 230**.
 
-Freeze authority:
-`docs/qa/ENCYCLOPEDIC-CANON-v2-FINAL-RED-TEAM.md`
+Primary Freeze authority:
+- `canon/v2/00-CANON-v2-INDEX.md`
+- `canon/v2/CANON-v2-FREEZE-MANIFEST.md`
+
+Final adversarial QA:
+`docs/qa/CANON-v2-FINAL-FREEZE-RED-TEAM-v0.1.md`.
 
 ---
 
 # Current Canon
 
-## Active
-- `canon/WORLD_BIBLE-v2.md` — **CANON**
-- `canon/CHARACTER_BIBLE-v2.md` — **CANON**
-- `canon/ACT_BIBLE-v1.md` — **ACTIVE NARRATIVE CANON**
+## Frozen modular v2 authority
+- `canon/v2/WORLD-CORE-v2.md`
+- `canon/v2/SOCIETY-v2.md`
+- `canon/v2/CULTURE-DAILY-LIFE-v2.md`
+- `canon/v2/INFRASTRUCTURE-OPERATIONS-v2.md`
+- `canon/v2/HISTORY-v2.md`
+- `canon/v2/DESTINATION-ARRIVAL-v2.md`
+- `canon/v2/CHARACTERS-v2.md`
+- `canon/v2/STORY-ARCHITECTURE-v2.md`
+- `canon/v2/QUANTITATIVE-BANDS-v2.md`
 
-## Superseded historical
+Routing / support:
+- `canon/v2/00-CANON-v2-INDEX.md`
+- `canon/v2/CANON-v2-FREEZE-MANIFEST.md`
+- `canon/v2/CANON-v2-PROMOTION-LEDGER.md`
+- `canon/v2/CANON-v2-ELASTIC-REGISTRY.md`.
+
+## Delegated execution authority
+- active Episode Blueprint by Act
+- Act6 active = **v0.2**; v0.1 superseded
+- locked POV Maps
+- M1 Time/Age
+- applicable Deep Cards
+- EP001~230 Context Manifests
+- Prose Execution Protocol v1.1.
+
+## v1 regression baseline
+Preserved for audit/regression:
 - `canon/WORLD_BIBLE-v1.md`
 - `canon/CHARACTER_BIBLE-v1.md`
+- `canon/ACT_BIBLE-v1.md`.
 
-Why Act Bible remains v1:
-The encyclopedic pass did not alter the locked 7-Act / EP001~230 architecture.
-
-Execution authority remains:
-active Blueprint → locked POV Map → M1 → applicable Deep Card / Package G Context Pack.
+Frozen v2 takes precedence for new work where it covers the same domain.
 
 ---
 
 # Package Results
 
 ## A — Society
-`PASS / P0=0 / INTEGRATED INTO WORLD_BIBLE-v2`
+`PASS / P0=0 / FROZEN INTO SOCIETY-v2`
 
-Core models:
+Core:
 GOV-H1 / CJ-H1 / ECO-H1 / PROP-H1 / LAB-H1 / FAM-H1 / EDU-H1 / MED-H1 / DEATH-H1.
 
+Final governance closure Q8:
+- franchise 18+
+- four-year general election
+- mixed-member two-vote 선내의회
+- ~120–180 seats bounded
+- collective Assembly-selected 5–7-member executive class
+- constructive no-confidence
+- directly elected local councils
+- multi-level judiciary
+- 시민항소원 = high civic/admin rights appeal, not sole court.
+
+Final minor-rule closure Q9:
+- found property ≠ ownership / salvage status rules
+- human-subject research consent + independent ethics + minimum data access
+- no Amara research duty
+- narrow competent-adult MAID-H1 / no proxy active authorization.
+
 ## B — Culture & Daily Life
-`PASS / P0=0 / INTEGRATED INTO WORLD_BIBLE-v2`
+`PASS / P0=0 / FROZEN INTO CULTURE-DAILY-LIFE-v2`
 
-Core models:
-LNG-H1 / REL-H1 / CAL-H1 / FOOD-H1 / CLO-H1 / DOM-H1 / MEDIA-H1 / ENT-H1 / INT-H1 / ID-HOME-H1.
-
-Final recurring culture set includes:
-- 출항일 / 동등시민일 / 메리디언의 밤
-- 겹전 / 야간면 / 수로빵 / 검은장
-- 한 바퀴 늦다 / 축 잡아 / 환 건너
-- 항해연속극 / 저중력 무용 / archive remix culture
-- REBOUND-H1.
+- evolved Ship Common + heritage languages
+- plural religion/nonbelief
+- 24h/7d/~365d civil calendar + Voyage Year reference
+- mature Meridian cuisine/hospitality
+- normal clothing/hygiene/domestic comfort
+- plural media/social ecosystem
+- entertainment/sport/intimacy
+- Meridian as lived home / Earth as ancestral high-latency relation.
 
 ## C — Infrastructure & Operations
-`PASS / P0=0 / QUANT P1 CLOSED / INTEGRATED INTO WORLD_BIBLE-v2`
+`PASS / P0=0 / FROZEN INTO INFRASTRUCTURE-OPERATIONS-v2`
 
-Core models:
-URB-H1 / TRANS-H1 / UTIL-H1 / EMG-H1 / AI-H1 / NET-H1 / ARC-H1 / OPS-H1 / MAP-H1 / BIO-PET-H1.
+- mixed-use layered-retrofit city
+- civic map ≠ engineering isolation map
+- multi-leg Habitat↔Spine transit
+- air/water/power/thermal/waste loops
+- local emergency containment
+- maintenance/fabrication/spares
+- federated AI + segmented networks
+- D0~D5-compatible archives
+- companion-animal/veterinary/biosecurity direction.
 
-Q-SHIP final working bands include:
-- Habitat radius 0.9–1.1 km
-- length 5–7 km order
-- main urban gravity ~0.9–1.0g
-- ~0.9–1.0 rpm
-- internally compartmented pressure architecture
-- pressure/refuge/transfer/water/power/thermal/workforce/spare bands.
-
-## C-M — Material Culture / Equipment / Relics
-`PASS / P0=0 / INTEGRATED INTO WORLD_BIBLE-v2 + CHARACTER_BIBLE-v2`
+## Material Culture / Equipment / Relics
+`PASS / P0=0`
 
 Hard:
 Old ≠ powerful / Rare ≠ useful / no founder key, superweapon, origin scanner or chosen-one relic.
 
-## D — Historical Bible
-`PASS / P0=0 / P1 MILESTONES CLOSED / INTEGRATED INTO WORLD_BIBLE-v2`
+Property/salvage final rule is now frozen in `SOCIETY-v2.md`.
 
-Representative anchors:
-- 제1 순환위기
-- 앵커 원칙 판결
-- 시민동등 개정
-- 공통경로 장애
-- 구시가지 안전협약
-- 도착전환규정 제정.
+## D — Historical Bible
+`PASS / P0=0 / FROZEN INTO HISTORY-v2`
+
+Seven representative author-facing anchors now explain:
+- utility/emergency governance
+- Continuity doctrine
+- Seed rights
+- property/commons
+- AI/network federation
+- Earth autonomy
+- arrival-asset/redundancy review.
 
 ## E — Destination & Arrival
-`PASS / P0=0 / Q-DEST CLOSED / INTEGRATED INTO WORLD_BIBLE-v2`
+`PASS / P0=0 / FROZEN INTO DESTINATION-ARRIVAL-v2`
 
-Final direction:
-- Epsilon Indi A real anchor
-- fictional future mission-era rocky settlement world
+Final bounded direction:
+- Epsilon Indi A real-star anchor
+- fictional future mission-era settlement world
 - ~0.50–0.54 AU / ~150–165d
 - ~0.93–1.02g / ~28–31h
-- near-Earth pressure but non-breathable oxygen-poor atmosphere
-- breathing support outdoors without normal pressure EVA
-- high planetocentric Meridian staging orbit
-- limited Year-1 external population/power/cargo
+- ~0.88–0.98 bar / O2 ~8–10%
+- outdoor breathing support mandatory; normal pressure EVA unnecessary
+- cool-temperate/water-rich
+- first-year external persistent/long-rotation population center ~600–1,000, ceiling <~1,500
+- surface ~80–250
+- orbit/resource ~250–600
+- new habitat not a city
 - Meridian remains >99% population center at ending order.
 
 ## F — Character Encyclopedia
-`PASS / P0=0 / INTEGRATED INTO CHARACTER_BIBLE-v2`
+`PASS / P0=0 / FROZEN INTO CHARACTERS-v2`
 
-Final C1 support set: 14 stable-if-used anchors.
-Sorin Das / Yuna Bekele remain C2 role-first reserve candidates.
-
-Amara remains hard anti-clue before Reveal.
-Final residences remain C2 where Blueprint does not lock them.
+- core v1 identities/arcs preserved
+- ordinary-life home/finance/hobby/social anchors deepened
+- longitudinal aging preserved
+- Amara remains hard anti-clue before Reveal
+- final residences remain Elastic where Blueprint does not lock them.
 
 ## G — Narrative Engineering / Obsidian Context
-`PASS / EP001~230 REGISTRY 230/230 / P0=0`
+`PASS / P0=0`
 
 - 7 Act nodes
 - 23 Sub-Act nodes
-- Device Atlas
-- CP-H1 Context Pack
+- Device / Mystery / Foreshadow / Character / Information architecture
 - AUTHOR / POV / PUBLIC / PROTECTED separation
-- 230/230 Context Manifest Registry
+- full Registry 230/230
+- **individual Context Manifest files EP001~230 physically exist on main**
+- minimal Context Pack routing
 - Reveal/POV/device regression.
-
-Individual detailed notes EP001~028 exist as examples.
-EP029~230 individual splitting remains **IMPLEMENTATION**, not incomplete design.
 
 Hard:
 `Sub-Act candidate device ≠ episode exposure`.
 
 ## H — Reference Atlas
-`PASS / 13/13 REQUIRED VIEWS / P0=0`
+`PASS / P0=0`
 
-Architecture:
-REF-H1.
-
-Reference Atlas is navigation-only and must never outrank Canon.
-It found and repaired one real stale-support-name defect during QA.
+Reference Atlas remains navigation-only and never outranks frozen Canon.
 
 ## I — Final Completeness Harness
 `PASS / P0=0`
 
 Results:
-- deterministic life-cycle/civic/emergency tests PASS
-- **20/20 random arbitrary-scene tests PASS**
-- full Canon/story regression PASS
-- post-consolidation spot regression PASS.
+- targeted cross-package suites PASS
+- 20/20 arbitrary-scene tests PASS
+- v1→v2 regression PASS
+- Canon v2 × EP001~230 regression PASS
+- Canon-v2-only 20/20 random scenes PASS
+- Final Freeze Red Team PASS.
 
 ---
 
-# P1 Closure Result
+# Quant / Legal Closure
 
-Checkpoint:
-`docs/status/P1-CLOSURE-PASS-2026-08-18.md`
+Frozen bounded or locked results include:
+- Q1 Ship/Habitat/Transit
+- Q2 Utilities/Thermal/Reserves
+- Q3 Destination physics/atmosphere
+- Q4 First-year arrival scale
+- Q5 Civil majority/youth autonomy
+- Q6 Data retention D0~D5
+- Q7 Historical anchors
+- Q8 Elections/executive/judiciary
+- Q9 Salvage/research ethics/MAID.
 
-All MUST-CLOSE P1s are closed:
-- ship quantitative sanity
-- destination science/logistics
-- civil-majority/youth autonomy
-- data retention/correction
-- weapon/dangerous-tool grammar
-- essential-service strike
-- early off-ship jurisdiction/tax
-- surface biosecurity
-- recurring culture
-- historical anchors
-- support-name promotion
-- Rebound play model.
-
-Blocking P1 remaining: **0**.
+Blocking P1 remaining:
+**0**.
 
 ---
 
-# C2 Controlled Elasticity
+# Controlled Elasticity
 
-Intentionally not overfrozen:
-- exact birthdays/addresses
-- exact ship internal geometry/counts inside bands
-- exact gas/radiator/storage values
-- exact planet atmospheric percentages / resource-body names
-- exact vehicle fleet/cargo/census inside ceilings
-- exact tax rates/product models/quarantine lists
-- incidental venues/fashion/minor names
+Official source:
+`canon/v2/CANON-v2-ELASTIC-REGISTRY.md`.
+
+Intentionally open examples:
+- exact birthdays/addresses/venues
+- exact tax/price/salary figures
+- exact Assembly seat count inside 120–180
+- electoral threshold/local staggering/judge count
+- exact ship station/sector values inside bounded ranges
+- destination trace chemistry/resource-body names
+- exact vehicle/product/weapon models
+- detailed zero-g sport rules only if a recurring match needs them
 - final residence where Blueprint leaves it open.
 
-If a C2 fact becomes recurring, clue-bearing or causally important, promote/log before manuscript acceptance.
+These are not Deep Design gaps.
 
 ---
 
@@ -209,12 +249,10 @@ If a C2 fact becomes recurring, clue-bearing or causally important, promote/log 
 - EP075 controlled public confirmation
 - EP112 PR-H1 exact discovery begins
 - EP142~151 Human Settler operational cluster
+- EP145 Final Approach certification band
 - EP216 insertion
 - EP230 no thesis speech
-
-Act6 active Blueprint = **v0.2**.
-
-No later bigger ontology twist.
+- no later bigger ontology twist.
 
 ---
 
@@ -223,11 +261,14 @@ No later bigger ontology twist.
 The design/world/setting-bible gate is complete.
 
 Current manuscript state:
-**`READY / NOT STARTED`**
+# **`READY / NOT STARTED`**
 
 First eligible episode:
-**EP001**
+**EP001**.
 
-Do not count anything as written until the manuscript pipeline reaches `accepted/` and the ledger is updated.
+Accepted:
+**0 / 230**.
 
-No prose is started merely by completing this status sync.
+Do not count anything as written until it reaches `manuscript/accepted/` and the manuscript ledger is updated.
+
+No prose begins merely because this status sync is complete.
