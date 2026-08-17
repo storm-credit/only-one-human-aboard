@@ -6,10 +6,14 @@ Date: 2026-08-18
 Owners:
 - C0 core: `canon/CHARACTER_BIBLE-v1.md`
 - C1/C2 everyday depth: `docs/design-v2/CHARACTER-ENCYCLOPEDIA-v0.1.md`
+- **latest support-name override checkpoint**: `docs/status/PACKAGE-F-CHARACTER-ENCYCLOPEDIA-PASS-2026-08-17.md`
 
 Warning:
 This global author map contains information that pre-Reveal POVs must not automatically receive.
 Episode drafting must route through Package G knowledge fences.
+
+Important supersession note:
+The integrated Character Encyclopedia body still contains some pre-micropass support-name candidates. For recurring support names, the Package F checkpoint's **Latest support-name override candidates** wins until Character Bible v2 consolidation.
 
 ## 1. Core Network
 
@@ -33,7 +37,7 @@ Amara ─ spouse ─ Leo
   ├── parent ─ Kai
   └── parent ─ Mina
   │
-  └── daughter of ─ Imani / Mateo
+  └── daughter of ─ Abeni / Mateo
 
 Amara ↔ Raul = rights precedent pressure / refusal of symbolic ownership
 ```
@@ -74,9 +78,10 @@ Core:
 - evolves toward adult-to-adult family connection.
 
 ## Vale ordinary-life anchors — V2 Candidate
-- Jae Kadir — Ella pre-accident co-op colleague/friend.
-- Toma Rhee — Noah sport peer, more competitive path.
-- Lina Marquez — Noah creative peer; no default romance.
+Latest Package F support-name override candidates:
+- **Jae Kadir** — Ella pre-accident co-op colleague/friend.
+- **Eli Rhee** — Noah same-age sport peer with more competitive path. (`Toma Rhee` is pre-micropass and superseded.)
+- **Lina Marquez** — Noah creative peer; no default romance.
 - Maren must have at least one nonprofessional neighborhood/exercise acquaintance, but exact recurring name can remain controlled until actual reuse.
 
 These supporting names are Package F candidates, not C0 unless later promoted.
@@ -160,10 +165,10 @@ no symbolic future-mother-of-humanity role, no origin clue.
 
 ## Amara Parents
 Status:
-parents alive in their 70s and their disagreement direction = `CANON-V1`; candidate names/details = `V2-CANDIDATE`.
+parents alive in their 70s and disagreement direction = `CANON-V1`; candidate names/details = `V2-CANDIDATE`.
 
-V2 candidate names:
-- **Imani Okoro** — more likely to continue defending the rare refusal as a legitimate parental ethical choice.
+Latest Package F candidate names after phonetic micropass:
+- **Abeni Okoro** — more likely to continue defending the rare refusal as a legitimate parental ethical choice. (`Imani Okoro` is pre-micropass and superseded.)
 - **Mateo Varga** — more likely to regret imposing a rare irreversible choice on a child who could not consent.
 
 Hard:
@@ -172,10 +177,10 @@ Hard:
 - disagreement must remain human/family-scale rather than faction avatars.
 
 ## Okoro ordinary-life anchors — V2 Candidate
-- Sami Dae — senior water/reclamation coworker.
-- Rina Vos — Amara community-sport friend outside utilities.
-- Rosa Imani — Leo school/program colleague/friend.
-- Arun Salcedo — Kai logistics mentor.
+- **Sami Dae** — senior water/reclamation coworker.
+- **Rina Vos** — Amara community-sport friend outside utilities.
+- **Rosa Imani** — Leo school/program colleague/friend. (Surname `Imani` is independent of the superseded `Imani Okoro` candidate.)
+- **Arun Salcedo** — Kai logistics mentor.
 
 Exact supporting recurrence determines whether these names are later promoted.
 
@@ -198,7 +203,39 @@ Neither is simply correct in every scene.
 
 ---
 
-# 6. Work / Community Pods
+# 6. Package F Latest Support Anchor Set — V2 Candidate
+
+Latest override candidates from the Package F checkpoint:
+- Eli Rhee
+- Jae Kadir
+- Sami Dae
+- Rina Vos
+- Rosa Imani
+- Arun Salcedo
+- Sorin Das
+- Yuna Bekele
+- Dalia Diniz
+- Dev Afolayan
+- Nadia Idris
+- Tavi Morgan
+- Abeni Okoro
+- Mateo Varga
+- Lina Marquez
+- Hana Wu
+
+These names are **not Canon v1**.
+They are the latest candidate set after phonetic collision cleanup and override earlier names where different.
+
+Known pre-micropass names that must not be resurrected as active candidate names:
+- Toma Rhee → Eli Rhee
+- Mara Diniz → Dalia Diniz
+- Sana Idris → Nadia Idris
+- Imani Okoro → Abeni Okoro
+- Leonie Wu → Hana Wu
+
+---
+
+# 7. Work / Community Pods
 
 Use pods to avoid disposable-NPC inflation.
 
@@ -215,7 +252,8 @@ not every official needs a name. Name only recurring relationship-bearing functi
 ## Reconstruction / Rehab Pod
 Anchors:
 - Ines,
-- recurring clinical/rehab staff only if they affect multiple scenes/arcs.
+- Dev Afolayan candidate if retained,
+- other recurring clinical/rehab staff only if they affect multiple scenes/arcs.
 
 Rule:
 medical characters may not become omniscient origin exposition sources.
@@ -223,6 +261,7 @@ medical characters may not become omniscient origin exposition sources.
 ## Old Quarter Pod
 Anchors:
 - Jun,
+- Nadia Idris / Tavi Morgan candidates if retained,
 - residents/tradespeople/heritage/maintenance contacts.
 
 Rule:
@@ -264,9 +303,17 @@ Anchors:
 Rule:
 no military/explorer-hero conversion.
 
+## Media / Archive Pod
+Potential recurring anchors:
+- Sorin Das — archive/data provenance specialist candidate.
+- Yuna Bekele — public-interest journalist/researcher candidate.
+
+Hard:
+neither may become convenient omniscient truth-delivery device.
+
 ---
 
-# 7. Social-Network Diversity Guardrails
+# 8. Social-Network Diversity Guardrails
 
 Core characters must not all share:
 - same income class,
@@ -286,7 +333,7 @@ Package F intentionally separates:
 
 ---
 
-# 8. Recurring Supporting Character Promotion Rule
+# 9. Recurring Supporting Character Promotion Rule
 
 A support candidate should gain stable name/card when at least one is true:
 1. appears meaningfully ≥2 times,
@@ -308,7 +355,7 @@ Do NOT name every:
 
 ---
 
-# 9. Arrival Network Guardrail
+# 10. Arrival Network Guardrail
 
 Act6~7 may physically separate families/work networks.
 
@@ -319,7 +366,7 @@ Do not convert social graph automatically into location graph:
 
 ---
 
-# 10. Episode Retrieval Guardrail
+# 11. Episode Retrieval Guardrail
 
 Never feed this full global map directly to a pre-Reveal POV as knowledge.
 
