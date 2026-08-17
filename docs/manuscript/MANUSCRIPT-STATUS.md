@@ -10,6 +10,20 @@ Only `manuscript/accepted/` + this ledger count as completed manuscript.
 
 ---
 
+# Current Gate
+
+- `ENCYCLOPEDIC DEEP DESIGN = IN PROGRESS / BLOCKED`
+- `ENCYCLOPEDIC CANON FREEZE v2 = NOT PASSED`
+- `MANUSCRIPT DRAFTING = BLOCKED`
+
+Reason:
+The user requires reference-grade completion of the design/world/setting bible before prose, even though structural Writing Ready had previously passed.
+
+Authority:
+`docs/qa/ENCYCLOPEDIC-DEEP-DESIGN-COMPLETENESS-AUDIT-v0.1.md`
+
+---
+
 # Current Summary
 
 - Accepted: **0 / 230**
@@ -20,10 +34,11 @@ Only `manuscript/accepted/` + this ledger count as completed manuscript.
 - Recheck Required: **0**
 - Published: **0**
 
-Next eligible episode:
+Next episode after future v2 Freeze:
 **EP001**
 
-Manuscript drafting has not started because user has not explicitly requested prose.
+Current eligible episode:
+**NONE — PROSE BLOCKED**
 
 ---
 
@@ -31,13 +46,13 @@ Manuscript drafting has not started because user has not explicitly requested pr
 
 | Act | Episodes | Accepted | Current State |
 |---|---:|---:|---|
-| Act1 | EP001~028 | 0/28 | NOT_STARTED |
-| Act2 | EP029~058 | 0/30 | NOT_STARTED |
-| Act3 | EP059~088 | 0/30 | NOT_STARTED |
-| Act4 | EP089~122 | 0/34 | NOT_STARTED |
-| Act5 | EP123~156 | 0/34 | NOT_STARTED |
-| Act6 | EP157~194 | 0/38 | NOT_STARTED |
-| Act7 | EP195~230 | 0/36 | NOT_STARTED |
+| Act1 | EP001~028 | 0/28 | BLOCKED_PRE_PROSE_V2 |
+| Act2 | EP029~058 | 0/30 | BLOCKED_PRE_PROSE_V2 |
+| Act3 | EP059~088 | 0/30 | BLOCKED_PRE_PROSE_V2 |
+| Act4 | EP089~122 | 0/34 | BLOCKED_PRE_PROSE_V2 |
+| Act5 | EP123~156 | 0/34 | BLOCKED_PRE_PROSE_V2 |
+| Act6 | EP157~194 | 0/38 | BLOCKED_PRE_PROSE_V2 |
+| Act7 | EP195~230 | 0/36 | BLOCKED_PRE_PROSE_V2 |
 
 ---
 
@@ -45,45 +60,17 @@ Manuscript drafting has not started because user has not explicitly requested pr
 
 `NONE`
 
-When drafting starts, record:
-- episode
-- state
-- work path
-- accepted path if any
-- POV
-- QA result
-- latest revision reason
-- downstream recheck if any
+Do not create `_work` prose files while the v2 completeness gate is open.
 
 ---
 
-# Episode Ledger
+# Reopen Condition
 
-No episode entries yet.
+Manuscript may return to READY only when:
+1. Completeness Packages A~G are complete,
+2. Package H Final Completeness Harness passes,
+3. WORLD_BIBLE-v2 / CHARACTER_BIBLE-v2 and supporting reference bibles are consolidated,
+4. regression against ACT_BIBLE-v1 + EP001~230 passes,
+5. `ENCYCLOPEDIC CANON FREEZE v2 = PASSED`.
 
-Add only when an episode enters DRAFT or later state.
-
-Recommended entry format:
-
-```markdown
-## EP001
-- State: DRAFT | QA_REVIEW | REVISION_REQUIRED | QA_PASS | ACCEPTED | RECHECK_REQUIRED | CANON_REVIEW
-- POV: Maren Vale
-- Work: manuscript/_work/act01/EP001.md
-- Accepted: manuscript/accepted/act01/EP001.md | none
-- Episode QA: docs/manuscript/qa/EP001-QA.md | none
-- Last updated: YYYY-MM-DD
-- Notes:
-```
-
----
-
-# Completion Rule
-
-Never infer completed count from:
-- chat history
-- `_work`
-- Blueprint
-- QA file alone
-
-An episode is complete only when Accepted path + ledger both agree.
+At that point EP001 becomes eligible again under Protocol v1.1 + POV Map + Style/QA rules.
