@@ -14,7 +14,7 @@ Repository: `storm-credit/only-one-human-aboard`
 5. `canon/CANON_STATUS.md`
 6. `docs/current-work-status.md`
 7. `docs/NEXT-CHAT-HANDOFF.md`
-8. Writing Ready blueprint / harness / QA 문서
+8. active Writing Ready / Prose Execution 문서
 9. 과거 provisional / candidate / rejected 설계문서
 
 과거 문서가 현재 Canon과 충돌하면 **Canon이 우선**한다.
@@ -27,19 +27,24 @@ Repository: `storm-credit/only-one-human-aboard`
 - `DESIGN FREEZE = PASSED — 2026-08-17`
 - `CANON FREEZE = PASSED — 2026-08-17`
 - `WRITING READY = PASSED — 2026-08-17`
-- `MANUSCRIPT = ALLOWED UNDER PROSE EXECUTION PROTOCOL`
+- `PROSE EXECUTION PROTOCOL = LOCKED — 2026-08-17`
+- `ACT 1 EXECUTION POV MAP = PASS — 2026-08-17`
+- `MANUSCRIPT = READY TO BEGIN ON EXPLICIT USER REQUEST`
 
 근거:
 - `docs/qa/FULL-PROJECT-RED-TEAM-v0.4.md`
 - `docs/qa/CANON-FREEZE-RED-TEAM-v1.md`
 - `docs/qa/FINAL-WRITING-READY-RED-TEAM-v1.md`
+- `docs/qa/PROSE-EXECUTION-PROTOCOL-RED-TEAM-v1.md`
+- `docs/qa/ACT1-POV-MAP-MINI-QA-v1.md`
 - EP001~230 Full Episode Matrix
 - High-Risk Deep Cards
 - Harness M1~M8
-- Hostile QA
 
-`WRITING READY`는 즉흥적으로 설정을 만들어도 된다는 뜻이 아니다.
-본문은 Canon + Blueprint의 구조를 보존하는 실행 단계다.
+현재 blocking P0 = **0**.
+
+본문을 자동 시작하지 않는다.
+사용자가 EP001/본문 집필을 명시적으로 요청할 때만 실행한다.
 
 ---
 
@@ -48,7 +53,7 @@ Repository: `storm-credit/only-one-human-aboard`
 집필 중 다음이 필요해지면 **즉시 본문 진행을 멈추고 Canon-impact review**를 한다.
 
 - adult origin scanner
-- Seed가 기억/성격/명령을 삽입
+- Seed가 기억/성격/충성/명령/관리자키를 삽입
 - anchor 없는 성인 복원/복제
 - 아마라의 관리자키/주권/식민지 정통성 권한
 - 기존 시민권 29만9천여 명 일괄 박탈
@@ -70,7 +75,7 @@ Repository: `storm-credit/only-one-human-aboard`
 - 현재 시민 약 30만.
 - 대부분 시민은 살아 있는 인간형 생물학적 몸과 뇌를 가진다.
 - 핵심 옛 분류 차이는 몸의 재질이 아니라 **인지발달 기원**이다.
-- 현 사회의 대부분은 prenatal **발달 커넥톰 시드**를 거친 Seeded/Synthetic-Origin Cognition.
+- 현 사회 대부분은 prenatal **발달 커넥톰 시드**를 거친 Seeded/Synthetic-Origin Cognition.
 - 현재 옛 Natural/Bio-Origin Cognition 분류에 해당하는 active 시민은 1명.
 - 그 1명은 **아마라 오코로**.
 - 현대 사회에서 두 기원 모두 사람/시민으로 살아왔다.
@@ -123,10 +128,9 @@ Repository: `storm-credit/only-one-human-aboard`
 
 정확한 인물 Canon은 `canon/CHARACTER_BIBLE-v1.md`가 authority.
 
-핵심:
 - **마렌 베일**: 41F, 평범한 Seeded-Origin, 연속성 심사관. 보호하려고 대신 결정하는 결함. 자기 가족사건은 의무회피.
-- **엘라 베일**: 39F, 복원된 동생, 노아의 sole legal parent. 복원 이전 삶의 정확한 복구가 곧 자기증명이라는 집착에서 벗어남.
-- **노아 베일**: 12M → 약 26. 어른 둘 중 하나를 고르지 않고 제3경로를 만드는 아이에서 독립성인으로 성장.
+- **엘라 베일**: 39F, 복원된 동생, 노아의 sole legal parent.
+- **노아 베일**: 12M → 약 26. 제3경로를 만드는 아이에서 독립성인으로 성장.
 - **라울 세라**: 권리 옹호 변호사. 마렌의 실제 라이벌이며 자신의 승리도 비용을 만든다.
 - **토마스 벡**: 연속성심사국 선임관리자. 비밀지킴이 금지.
 - **이네스 라만**: 의료/복원 현장평가자. 만능 설명의사 금지.
@@ -162,8 +166,7 @@ Reveal sequence:
 
 # 7. BLUEPRINT AUTHORITY
 
-Writing phase에서 다음 파일들이 구조 실행 기준이다.
-
+Writing phase 구조 실행 기준:
 - `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md`
 - `...ACT2-v0.1.md`
 - `...ACT3-v0.1.md`
@@ -172,6 +175,8 @@ Writing phase에서 다음 파일들이 구조 실행 기준이다.
 - `...ACT6-v0.2.md` **(v0.1 superseded)**
 - `...ACT7-v0.1.md`
 - `docs/writing-ready/EPISODE-BLUEPRINT-PASS2-NORMALIZATION-v0.1.md`
+
+M1 Time/Age Harness가 exact execution clock authority다.
 
 각 화에서 반드시 보존:
 - immediate desire/problem
@@ -188,7 +193,43 @@ Writing phase에서 다음 파일들이 구조 실행 기준이다.
 
 ---
 
-# 8. READER PROMISE
+# 8. PROSE EXECUTION AUTHORITY
+
+Locked protocol:
+`docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.md`
+
+Selected model:
+`PEP-H1R — Causal-Owner Single-POV Close Third + Maren Series Anchor + Act-Ahead POV Mapping`
+
+Hard default:
+- 한 화 = 한 POV
+- 근접 3인칭 제한시점
+- 장면 중 head hopping 금지
+- Primary Actor가 자동 POV는 아님
+- irreversible choice / immediate cost / information fairness를 우선해 POV 선택
+- 동률이면 마렌 우선
+- 마렌은 시리즈 전체 최대 단일 POV 소유자
+
+Act 1 POV authority:
+`docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
+
+Act 1 POV QA:
+`docs/qa/ACT1-POV-MAP-MINI-QA-v1.md = PASS`
+
+Act 1 final distribution:
+- Maren 13/28
+- Ella 5/28
+- Noah 4/28
+- Jun 3/28
+- Raul 2/28
+- Ines 1/28
+
+EP005 = Maren POV, Ines owns the medical action.
+EP013 = Ines POV for mundane Seed completion record handling.
+
+---
+
+# 9. READER PROMISE
 
 20화 / 100화 / 200화 / 229화에서도 유지:
 1. 닫힌 문명 안의 구체적 생활.
@@ -200,34 +241,68 @@ Writing phase에서 다음 파일들이 구조 실행 기준이다.
 
 ---
 
-# 9. P1 EXECUTION GUARDRAILS
+# 10. P1 EXECUTION GUARDRAILS
 
-최종 Hostile QA에서 구조 P0는 0이지만 집필 위험은 남아 있다.
-
-반드시 매 화/묶음 QA:
 1. 초반 20화에서 제목 약속을 너무 숨기지도, 설명으로 망치지도 않는다.
 2. legacy `Human`이 말장난처럼 느껴지지 않게 factual wording과 즉시 의미설명을 지킨다.
-3. 아마라가 반복적으로 `난 상징이 아니야`만 말하는 캐릭터가 되지 않는다.
-4. Act 5는 공학/기관 설명이 아니라 사람의 선택과 손실로 읽혀야 한다.
+3. 아마라가 반복적으로 `난 상징이 아니야`만 말하지 않는다.
+4. Act 5는 공학/기관 설명보다 사람의 선택과 손실로 읽혀야 한다.
 5. Human Settler 갈등은 갑툭튀 고대법이 아니라 이미 알려진 legal stack의 operational translation 문제다.
-6. insertion은 재난이 없어도 충분히 물리적·감정적·사회적 climax여야 한다.
+6. insertion은 재난 없이도 물리적·감정적·사회적 climax여야 한다.
 7. 모든 인물이 같은 작가/AI 목소리로 똑똑하게 말하지 않는다.
+8. notification/report hook 반복을 피한다.
+9. jargon spike를 관리한다.
+10. 밀집 구간에도 downtime/humor가 완전히 사라지지 않는다.
+11. EP001~009의 다중 POV는 자연스러운 orientation으로 혼란을 막는다.
 
 ---
 
-# 10. ANTI-AI PROSE RULES
+# 11. ANTI-AI PROSE RULES
 
 - 설명을 위해 인물이 서로 이미 아는 내용을 대화하지 않는다.
 - 모든 대사가 완벽한 논지/반론 구조를 갖지 않는다.
 - 사소함, 실수, 오해, 피곤함, 유머, 생활욕망을 허용한다.
-- 인물별 감정 회피방식/문장길이/정보량을 지킨다.
+- 인물별 감정 회피방식/관찰대상/문장 리듬을 지킨다.
 - 장면마다 철학적 의미를 부여하지 않는다.
 - 생활 디테일 대부분은 복선이 아니다.
 - 추상어보다 행동/물건/시간손실/동선/관계손실을 우선한다.
+- ordinary imperfection을 회차별 체크리스트 토큰처럼 강제로 넣지 않는다.
 
 ---
 
-# 11. CHANGE CONTROL
+# 12. AFTER-DRAFT QA
+
+각 화 집필 후 `PROSE-EXECUTION-PROTOCOL-v1.md` 기준으로 확인:
+
+## Blueprint
+- primary choice 보존?
+- irreversible consequence 보존?
+- next carry 보존?
+
+## Canon
+- silent new rule 없음?
+- forbidden technology/authority 없음?
+
+## POV
+- 한 POV 유지?
+- knowledge boundary 유지?
+
+## Voice
+- 다른 인물 이름으로 바꿔도 같은 문장인가?
+
+## Exposition / Hook / Anti-AI
+- 설명만 하는 문단?
+- random notification hook?
+- 대사가 너무 완벽/대칭적?
+- 모든 디테일이 지나치게 의미심장?
+
+Canon-impact failure면 **STOP**하고 change control.
+
+5화마다 batch QA, Sub-Act/Act 종료마다 baseline/Reader Promise QA를 한다.
+
+---
+
+# 13. CHANGE CONTROL
 
 Blueprint 안에서 Canon을 건드리지 않는 장면 순서/표현/소소한 이름은 조정 가능.
 
@@ -243,21 +318,17 @@ Blueprint 안에서 Canon을 건드리지 않는 장면 순서/표현/소소한 
 
 ---
 
-# 12. NEXT PHASE
+# 14. CURRENT NEXT ACTION
 
-본문을 시작하기 전 마지막 실행명세:
-**Prose Execution Protocol**.
+구조적 선행작업은 모두 완료됐다.
 
-3~4개 방식을 비교한 뒤 다음을 잠근다.
-- POV / person
-- narrative distance
-- chapter word-count range
-- opening / ending hook rules
-- dialogue density
-- exposition / jargon budget
-- scene count / rhythm
-- character voice enforcement
-- after-draft Canon check
-- anti-AI prose QA
+**EP001 본문은 사용자가 명시적으로 집필을 요청할 때 시작할 수 있다.**
 
-이 Protocol은 Story/Canon을 다시 브레인스토밍하는 단계가 아니다.
+그때 반드시:
+1. EP001 Blueprint를 읽는다.
+2. Act1 POV Map에 따라 Maren POV를 사용한다.
+3. `PROSE-EXECUTION-PROTOCOL-v1.md`를 따른다.
+4. 초고 작성 후 Episode QA를 수행한다.
+5. accepted manuscript/progress를 GitHub에 동기화한다.
+
+사용자가 본문을 요청하지 않았다면 자동으로 소설 장면을 생성하지 않는다.
