@@ -116,18 +116,73 @@
 
 ---
 
+## CHG-046 — EP001~230 개별 Context Manifest 완성 / 추가 맹점 점검 / Amendment A 승격
+- Date: 2026-08-18
+- Change Location:
+  - `docs/narrative-engineering/episodes/EP-029.md` ... `EP-230.md`
+  - `docs/change-control/CANON-v2-AMENDMENT-A-CHANGE-RECORD.md`
+  - `docs/change-control/CANON-v2-AMENDMENT-A-CANDIDATE.md`
+  - `docs/qa/CANON-v2-AMENDMENT-A-RED-TEAM.md`
+  - `canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md`
+  - `canon/v2/*` retraction notices
+  - global authority/status/handoff files.
+- Previous:
+  - Package G design Registry covered 230/230, but the old status/handoff still described EP029~230 individual split as a later implementation task.
+  - Official monolithic Canon v2 had already passed Freeze, but a further rare-scene fuzz pass found that ordinary election/executive/court mechanics plus salvage/research/MAID should not be invented ad hoc in prose.
+- New — Context Manifests:
+  - EP029~230 individual Markdown Context Manifest files materialized on main.
+  - key regression samples EP029 / EP058 / EP112 / EP145 / EP216 / EP230 read back successfully.
+  - Count, PR-H1, Final Approach, insertion and ending knowledge fences preserved.
+- New — additional blind-spot audit:
+  - Q8 governance design selected `Mixed-Member Civic Assembly + Assembly-Selected Collective Executive + Independent Multi-Level Courts`.
+  - Q9 closed found-property/salvage, human-subject research ethics and narrow competent-adult MAID rules.
+- Shadow Canon incident:
+  - an experimental modular authority set was created under `canon/v2/` during the additional audit.
+  - later comparison discovered that official `canon/WORLD_BIBLE-v2.md` / `CHARACTER_BIBLE-v2.md` were already newer and contained later P1 quantitative closures and support-name overrides.
+  - experimental modular set contained older candidates/names and was therefore **RETRACTED / NON-CANON**, retained only as design history.
+  - this prevents stale transfer/pressure/water/arrival bands and superseded support names from overriding the official Canon.
+- Official support names preserved from `CHARACTER_BIBLE-v2.md`, including:
+  - Eli Rhee
+  - Dalia Diniz
+  - Nadia Idris
+  - Abeni Okoro
+  - Hana Wu.
+- Amendment A formal Change Control:
+  - baseline remains official World v2 + Character v2 + Act Bible v1.
+  - governance additions: franchise 18+, 4-year election, mixed-member two-vote 선내의회, ~120–180 seats bounded, collective 5–7-member Assembly-selected executive, constructive no-confidence, local councils, multi-level judiciary, 시민항소원 role clarification, emergency-election guardrail.
+  - salvage: finding ≠ ownership; strategic/common/controlled property remains regulated.
+  - research: consent + ethics review + data minimization; **Amara has no research duty**.
+  - MAID: contemporaneously competent adult only under independent safeguards; no proxy active authorization for incapable person.
+- Amendment A Red Team:
+  - blocking P0 = **0**
+  - unresolved P1 = **0**
+  - Blueprint changes = **0**
+  - POV changes = **0**
+  - Reveal changes = **0**
+  - Character C0 changes = **0**
+  - official ship/destination quantitative changes = **0**.
+- Status:
+  **`OFFICIAL CANON v2 PRESERVED + AMENDMENT A FROZEN / EXPERIMENTAL MODULAR SHADOW CANON RETRACTED / EP001~230 CONTEXT FILES COMPLETE`**.
+
+---
+
 # Current Change-Control Rule
 
-Current world/character authority:
+Current official world/character authority:
 - `canon/WORLD_BIBLE-v2.md`
 - `canon/CHARACTER_BIBLE-v2.md`
 
+Current narrow post-freeze amendment:
+- `canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md`.
+
 Current narrative authority:
 - `canon/ACT_BIBLE-v1.md`
-- active Blueprint
+- active Blueprint — Act6 v0.2
 - locked POV Map
 - M1
-- applicable Deep Card / Context Registry.
+- applicable Deep Card / Context Manifest.
+
+**`canon/v2/` is NON-CANON experimental design history.**
 
 For contradiction-level change after Freeze v2:
 `identify issue → alternatives/impact → CHG entry → hostile Red Team → affected-episode regression → deliberate Canon reopening/promotion`.
@@ -138,3 +193,6 @@ C2 refinement inside frozen ranges is allowed, but recurring/clue-bearing/causal
 
 Current manuscript state:
 **`READY / NOT STARTED`**.
+
+Accepted manuscript:
+**0 / 230**.
