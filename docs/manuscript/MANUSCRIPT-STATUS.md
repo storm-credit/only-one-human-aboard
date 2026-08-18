@@ -31,7 +31,7 @@ Official Canon authority for drafting:
 
 # Current Summary
 
-- Accepted: **9 / 230**
+- Accepted: **10 / 230**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -49,19 +49,20 @@ Accepted episodes:
 - EP007 — 구시가지 점검 — Jun POV — QA PASS (`docs/manuscript/qa/EP007-QA.md`) — 2026-08-19
 - EP008 — 기억하던 맛 — Ella POV — QA PASS (`docs/manuscript/qa/EP008-QA.md`) — 2026-08-19
 - EP009 — 아무도 내 옆에 앉지 않는다 — Noah POV — QA PASS (`docs/manuscript/qa/EP009-QA.md`) — 2026-08-19
+- EP010 — 개별 진술 — Ella POV — QA PASS (`docs/manuscript/qa/EP010-QA.md`) — 2026-08-19
 
 Structure note: EP001에 플래시포워드 프롤로그 도입 (CHG-049, fence 검증 완료). 문체법: `STYLE-METHOD-v1` ACTIVE.
 
 Style note: **CALIBRATION C1 active** (PROSE-STYLE-RUBRIC §20) — EP001 전면 재작성, EP002 국소 개정 완료. 참고 문헌: `docs/manuscript/STYLE-REFERENCES-v1.md`.
 
 First eligible episode:
-**EP010**
+**EP011**
 
 Current active episode:
-**EP010 (next)**
+**EP011 (next)**
 
 Current state:
-# **IN PROGRESS — EP001~009 accepted; EP010까지 배치 집필 진행 중.**
+# **IN PROGRESS — EP001~010 accepted — 사용자 지시 배치(EP010까지) 완료. 배치 QA: docs/manuscript/qa/BATCH-EP001-010.md**
 
 ---
 
@@ -69,7 +70,7 @@ Current state:
 
 | Act | Episodes | Accepted | Current State |
 |---|---:|---:|---|
-| Act1 | EP001~028 | 9/28 | IN_PROGRESS |
+| Act1 | EP001~028 | 10/28 | IN_PROGRESS |
 | Act2 | EP029~058 | 0/30 | LOCKED_FUTURE |
 | Act3 | EP059~088 | 0/30 | LOCKED_FUTURE |
 | Act4 | EP089~122 | 0/34 | LOCKED_FUTURE |
@@ -171,6 +172,6 @@ Draft가 이 파이프라인을 통과해야만 Accepted로 계상된다.
 # Next Action
 
 Eligible next action:
-**EP010 manuscript execution** (사용자 지시 EP010까지 유효).
+**EP011 manuscript execution** (신규 사용자 지시 필요).
 
-# `IN PROGRESS / 9 of 230`.
+# `IN PROGRESS / 10 of 230`.

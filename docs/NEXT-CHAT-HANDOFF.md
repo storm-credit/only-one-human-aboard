@@ -1,7 +1,8 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
-> Rolling handoff — 2026-08-18 MANUSCRIPT IN PROGRESS.
-> **Accepted 5/230 (EP001~005, act01). Next eligible: EP006. 사용자 지시: EP010까지 집필.**
+> Rolling handoff — 2026-08-19 MANUSCRIPT IN PROGRESS.
+> **Accepted 10/230 (EP001~010). 사용자 지시 배치(EP010까지) 완료 + 배치 QA 완료. Next eligible: EP011 (신규 지시 대기).**
+> EP011 집필 전 필독: `docs/manuscript/qa/BATCH-EP001-010.md` 의 P1 하드 제약 6건 (종결 다변화 / 공적 파장 훅 EP013까지 금지 / 관료 조연 원형 금지 / 마렌 POV 복원 / 노아 청취 온스테이지 / 용어 상한) + C2 원장.
 
 ## 집필 세션 상태 (2026-08-18 갱신)
 - CHG-047: WORLD/CHARACTER Bible v2 본문이 스텁이었던 P0를 blob에서 복원 완료 (main 정상).
