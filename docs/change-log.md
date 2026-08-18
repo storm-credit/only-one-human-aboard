@@ -190,6 +190,27 @@
 
 ---
 
+## CHG-048 — PROSE STYLE CALIBRATION C1 + EP001~003 개정
+- Date: 2026-08-18
+- Change Location:
+  - `docs/manuscript/PROSE-STYLE-RUBRIC-v1.md` §20 CALIBRATION C1 신설
+  - `docs/manuscript/STYLE-REFERENCES-v1.md` 신설 (참고 작가/작품 10선)
+  - `manuscript/accepted/act01/EP001~003.md`
+- Previous:
+  - 초판 EP001~003이 QA PASS했으나 첫 독자(작가) 피드백 "재미없다".
+  - 진단: STYLE-H1R 절제의 과잉 적용 — 사건 온도·훅 강도·대사 열기 부족.
+- Process:
+  - 동일 장면(EP001 오프닝) 3-모델 A/B 테스트: Fable 리듬 강화 / Opus / Sonnet.
+  - 사용자 선택: **Fable 리듬 강화**.
+  - C1 규칙 신설(오프닝 인메디아스레스, 대사 온도 상향, 장면당 인물 펀치 1+, 서술자 격언 제한 유지).
+- New:
+  - EP001 전면 재작성(카운트다운 구조), EP002 국소 개정, EP003 QA 수리 + C1 반영.
+  - 3화 통합 QA 통과 후 accepted 교체.
+- Canon/Blueprint/POV/Reveal 변경: **0**.
+- Status: **`CALIBRATION C1 ACTIVE / EP001~003 ACCEPTED (3/230)`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character authority:

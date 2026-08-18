@@ -48,3 +48,19 @@ Blueprint = PASS / Canon = PASS / POV = PASS / Voice = PASS / Rhythm = PASS / Ex
 Accepted path: `manuscript/accepted/act01/EP001.md`
 Ledger update: Accepted 1/230, next eligible EP002
 Outstanding P1 for batch QA: 위 P2 4건
+
+---
+
+# REVISION 1 — CALIBRATION C1 전면 재작성 (2026-08-18)
+
+사유: 독자 피드백 "재미없다" → 문체 재보정 C1 (PROSE-STYLE-RUBRIC §20).
+A/B 테스트(Fable 리듬 강화 vs Opus vs Sonnet 동일 장면) 후 사용자가 Fable 리듬 강화 선택.
+
+재작성 QA (독립 에이전트):
+- Blueprint 5요소 보존 PASS / Canon PASS / mystery clue 0 / EP004 여지 강화 / EP002 연속성 PASS / C1 오프닝·펀치 PASS
+- REPAIR 3건 → 수리 완료:
+  1. 카운트다운 산술(3분 41초 → 1분 13초, 중간 타임스탬프 제거)
+  2. 격언 3→1회 (26행 사실화, 58행 행동 전환, 120행 유지)
+  3. 부정-반전 종지 3→2회
+
+# REVISION 1 RESULT: `PASS` — accepted 교체

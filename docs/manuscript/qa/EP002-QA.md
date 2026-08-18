@@ -40,3 +40,12 @@
 ## Promotion Note
 Accepted path: `manuscript/accepted/act01/EP002.md`
 Ledger: Accepted 2/230, next eligible EP003
+
+---
+
+# REVISION 1 — CALIBRATION C1 국소 개정 (2026-08-18)
+
+- 새 오프닝(대사 in medias res), 엘라 "준비됐다는 말" 대사 추가.
+- 검증 QA: 보이스 정합 PASS, 기존 PASS 요소 무훼손, PR-H1 소프트 플랜트 온존.
+
+# REVISION 1 RESULT: `PASS` — accepted 교체

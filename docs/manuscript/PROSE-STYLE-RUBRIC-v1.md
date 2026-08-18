@@ -347,8 +347,25 @@ update execution rubric only if Canon/Blueprint remains intact.
 
 ---
 
+# 20. CALIBRATION C1 — 2026-08-18 (ACTIVE)
+
+First-reader feedback on EP001~003 초기 원고: "재미가 없다."
+Diagnosis: 절제 규범의 과잉 적용 — 사건 온도 낮음, 훅 조용함, 대사 열기 부족.
+User-selected direction (A/B test vs Opus/Sonnet 동일 장면): **Fable 리듬 강화**.
+
+## C1 adjustments (Canon/Blueprint/POV/Reveal 불변)
+1. **오프닝**: in medias res + 실시간 압력(카운트다운/마감/물리적 긴박)을 기본값으로. 도착·배경 워밍업 금지.
+2. **대사 온도**: 인물 간 날 선 응수·유머 빈도 상향. Maren 드라이 유머는 화당 2~3회까지. 조연도 한 줄 펀치 허용.
+3. **장면당 감정 타격 1개 이상**: 독자가 스크린샷 찍고 싶은 한 줄(인물 발화)을 장면마다 최소 1개. 단 서술자 격언은 여전히 화당 최대 1회 — 펀치는 서술자가 아니라 인물 입에서 나온다.
+4. **종지**: quiet close 대신 대사/행동 펀치 종결 허용·장려. 반어 종지 반복 감시는 유지.
+5. **문단 리듬**: 모바일 호흡 — 짧은 문단 비율 상향, 단 기계적 1문장 분절 금지(기존 규칙 유지).
+6. **긴장 하한**: 어느 장면도 '행정 처리'로만 흐르지 않는다. 행정 절차는 항상 시간·감정·관계 압력 아래에서 진행된다.
+7. 금지 목록(§12 Anti-AI)·POV 경계·Reveal fence·용어 예산은 전부 기존 그대로.
+
+C1 이전 승인본(EP001~002 초판)은 개정 대상.
+
+---
+
 # Current Status
 
-`PROSE STYLE = LOCKED`
-
-No manuscript prose has been written.
+`PROSE STYLE = LOCKED + CALIBRATION C1 ACTIVE`

@@ -31,7 +31,7 @@ Official Canon authority for drafting:
 
 # Current Summary
 
-- Accepted: **2 / 230**
+- Accepted: **3 / 230**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -41,13 +41,16 @@ Official Canon authority for drafting:
 
 Accepted episodes:
 - EP001 — 돌아온 주민 — Maren POV — QA PASS (`docs/manuscript/qa/EP001-QA.md`) — 2026-08-18
-- EP002 — 회피 대상 — Maren POV — QA PASS (`docs/manuscript/qa/EP002-QA.md`) — 2026-08-18
+- EP002 — 회피 대상 — Maren POV — QA PASS + C1 개정 (`docs/manuscript/qa/EP002-QA.md`) — 2026-08-18
+- EP003 — 노아의 평범한 하루 — Noah POV — QA PASS (`docs/manuscript/qa/EP003-QA.md`) — 2026-08-18
+
+Style note: **CALIBRATION C1 active** (PROSE-STYLE-RUBRIC §20) — EP001 전면 재작성, EP002 국소 개정 완료. 참고 문헌: `docs/manuscript/STYLE-REFERENCES-v1.md`.
 
 First eligible episode:
-**EP003**
+**EP004**
 
 Current active episode:
-**EP003 (next)**
+**EP004 (next)**
 
 Current state:
 # **IN PROGRESS — EP001 accepted; drafting continues on explicit user instruction (EP001~010 batch ordered).**
