@@ -288,7 +288,13 @@ Writing model:
 - Maren-led plurality ensemble.
 
 Style:
-`STYLE-H1R — Restrained Commercial Social SF`.
+`STYLE-H1R — Restrained Commercial Social SF`
++ **`CALIBRATION C1 — ACTIVE (2026-08-18)`** — `docs/manuscript/PROSE-STYLE-RUBRIC-v1.md` §20.
+사유: 첫 독자 피드백 "재미없다" → 3-모델 A/B 테스트 후 사용자가 "Fable 리듬 강화" 선택.
+핵심: 인메디아스레스 오프닝 / 대사 온도 상향 / 장면당 인물 발화 펀치 1+ / 서술자 격언 화당 최대 1회 유지 / 행정 장면도 항상 시간·감정 압력 아래.
+
+문체 참고 문헌 (모사 금지, 감각 보정용):
+`docs/manuscript/STYLE-REFERENCES-v1.md` — 연산호(어두운 바다의 등불이 되어), Becky Chambers(Record of a Spaceborn Few), 이시구로(Never Let Me Go), Expanse(POV 회전), 산경/싱숑/김초엽/천선란/배명훈/KSR/위어.
 
 Draft generation is not completion.
 Only `manuscript/accepted/` + manuscript ledger counts.
