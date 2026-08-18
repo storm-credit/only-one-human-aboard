@@ -15,7 +15,7 @@ Only `manuscript/accepted/` + this ledger count as completed manuscript.
 - `ENCYCLOPEDIC DEEP DESIGN v2 = COMPLETE / PASSED — 2026-08-18`
 - `ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`
 - `CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`
-- **`MANUSCRIPT DRAFTING = READY / NOT STARTED`**
+- **`MANUSCRIPT DRAFTING = IN PROGRESS (EP001~010 batch, 사용자 지시)`**
 
 Official Canon authority for drafting:
 1. `canon/WORLD_BIBLE-v2.md`
@@ -31,7 +31,7 @@ Official Canon authority for drafting:
 
 # Current Summary
 
-- Accepted: **5 / 230**
+- Accepted: **6 / 230**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -45,19 +45,20 @@ Accepted episodes:
 - EP003 — 노아의 평범한 하루 — Noah POV — QA PASS (`docs/manuscript/qa/EP003-QA.md`) — 2026-08-18
 - EP004 — 라울의 첫 항고 — Raul POV — QA PASS (`docs/manuscript/qa/EP004-QA.md`) — 2026-08-18
 - EP005 — 앵커가 구할 수 있는 것 — Maren POV — QA PASS (`docs/manuscript/qa/EP005-QA.md`) — 2026-08-18
+- EP006 — 엘라, 일터로 돌아가다 — Ella POV — QA PASS (`docs/manuscript/qa/EP006-QA.md`) — 2026-08-18
 
 Structure note: EP001에 플래시포워드 프롤로그 도입 (CHG-049, fence 검증 완료). 문체법: `STYLE-METHOD-v1` ACTIVE.
 
 Style note: **CALIBRATION C1 active** (PROSE-STYLE-RUBRIC §20) — EP001 전면 재작성, EP002 국소 개정 완료. 참고 문헌: `docs/manuscript/STYLE-REFERENCES-v1.md`.
 
 First eligible episode:
-**EP006**
+**EP007**
 
 Current active episode:
-**EP006 (next)**
+**EP007 (next)**
 
 Current state:
-# **IN PROGRESS — EP001 accepted; drafting continues on explicit user instruction (EP001~010 batch ordered).**
+# **IN PROGRESS — EP001~006 accepted; EP010까지 배치 집필 진행 중.**
 
 ---
 
@@ -65,7 +66,7 @@ Current state:
 
 | Act | Episodes | Accepted | Current State |
 |---|---:|---:|---|
-| Act1 | EP001~028 | 5/28 | IN_PROGRESS |
+| Act1 | EP001~028 | 6/28 | IN_PROGRESS |
 | Act2 | EP029~058 | 0/30 | LOCKED_FUTURE |
 | Act3 | EP059~088 | 0/30 | LOCKED_FUTURE |
 | Act4 | EP089~122 | 0/34 | LOCKED_FUTURE |
@@ -160,14 +161,13 @@ Progress counts only after:
 5. accepted copy under `manuscript/accepted/`
 6. this ledger updated.
 
-Accepted remains **0 / 230** until that pipeline is actually completed.
+Draft가 이 파이프라인을 통과해야만 Accepted로 계상된다.
 
 ---
 
 # Next Action
 
 Eligible next action:
-**EP001 manuscript execution**, only when the user explicitly requests it.
+**EP007 manuscript execution** (사용자 지시 EP010까지 유효).
 
-Until then:
-# `READY / NOT STARTED / 0 of 230`.
+# `IN PROGRESS / 6 of 230`.
