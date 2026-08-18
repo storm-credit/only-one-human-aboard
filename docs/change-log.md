@@ -166,6 +166,30 @@
 
 ---
 
+## CHG-047 — 공식 World/Character Bible v2 본문 복원 (스텁 잔존 결함 수리)
+- Date: 2026-08-18
+- Change Location:
+  - `canon/WORLD_BIBLE-v2.md`
+  - `canon/CHARACTER_BIBLE-v2.md`
+- Previous:
+  - CHG-046에서 `canon/v2/` 실험 모듈이 RETRACTED 처리되고 상태/라우팅/handoff 문서는 공식 모놀리식 v2 권위로 복원되었으나,
+  - 정작 `canon/WORLD_BIBLE-v2.md` / `canon/CHARACTER_BIBLE-v2.md` 파일 본문은 실험 기간에 만들어진 32줄짜리 `SUPERSEDED POINTER → canon/v2/` 스텁 상태로 main에 잔존.
+  - 결과적으로 "선언된 정본 파일이 철회된 폴더를 가리키는" 라우팅 모순(P0) 발생.
+- New:
+  - 두 파일 본문을 Freeze 당시 보존 blob에서 기계적으로 복원:
+    - World: blob `6267807167cf162f920b9073315ebf6a451d0a53` (승격 커밋 `2adf6e0` 시점 파일과 동일함을 검증)
+    - Character: blob `dd4a061d31fca03b883fc01ea80d5f9b4fdb782e`
+  - 복원본 검증:
+    - Status 헤더 = `CANON — ENCYCLOPEDIC CANON FREEZE v2 PASSED — 2026-08-18`
+    - 최신 C1 지지 인물명 오버라이드(Eli Rhee / Dalia Diniz / Nadia Idris / Abeni Okoro / Hana Wu) 포함, 구명은 superseded 표기로만 존재
+    - Epsilon Indi A / Amara / Meridian 핵심 사실 존재
+    - `canon/v2/` 참조 없음.
+- 설계 변경: **0** (내용 변경 없는 기계적 복원. Blueprint/POV/Reveal/quant 영향 없음.)
+- Status:
+  **`OFFICIAL MONOLITHIC CANON v2 FILES PHYSICALLY RESTORED / ROUTING CONTRADICTION CLOSED / P0=0`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character authority:
