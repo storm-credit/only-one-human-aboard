@@ -31,7 +31,7 @@ Official Canon authority for drafting:
 
 # Current Summary
 
-- Accepted: **1 / 230**
+- Accepted: **2 / 230**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -41,12 +41,13 @@ Official Canon authority for drafting:
 
 Accepted episodes:
 - EP001 — 돌아온 주민 — Maren POV — QA PASS (`docs/manuscript/qa/EP001-QA.md`) — 2026-08-18
+- EP002 — 회피 대상 — Maren POV — QA PASS (`docs/manuscript/qa/EP002-QA.md`) — 2026-08-18
 
 First eligible episode:
-**EP002**
+**EP003**
 
 Current active episode:
-**EP002 (next)**
+**EP003 (next)**
 
 Current state:
 # **IN PROGRESS — EP001 accepted; drafting continues on explicit user instruction (EP001~010 batch ordered).**
@@ -57,7 +58,7 @@ Current state:
 
 | Act | Episodes | Accepted | Current State |
 |---|---:|---:|---|
-| Act1 | EP001~028 | 1/28 | IN_PROGRESS |
+| Act1 | EP001~028 | 2/28 | IN_PROGRESS |
 | Act2 | EP029~058 | 0/30 | LOCKED_FUTURE |
 | Act3 | EP059~088 | 0/30 | LOCKED_FUTURE |
 | Act4 | EP089~122 | 0/34 | LOCKED_FUTURE |
