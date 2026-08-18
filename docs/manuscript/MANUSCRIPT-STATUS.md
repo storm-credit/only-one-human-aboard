@@ -31,7 +31,7 @@ Official Canon authority for drafting:
 
 # Current Summary
 
-- Accepted: **3 / 230**
+- Accepted: **4 / 230**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -43,14 +43,15 @@ Accepted episodes:
 - EP001 — 돌아온 주민 — Maren POV — QA PASS (`docs/manuscript/qa/EP001-QA.md`) — 2026-08-18
 - EP002 — 회피 대상 — Maren POV — QA PASS + C1 개정 (`docs/manuscript/qa/EP002-QA.md`) — 2026-08-18
 - EP003 — 노아의 평범한 하루 — Noah POV — QA PASS (`docs/manuscript/qa/EP003-QA.md`) — 2026-08-18
+- EP004 — 라울의 첫 항고 — Raul POV — QA PASS (`docs/manuscript/qa/EP004-QA.md`) — 2026-08-18
 
 Style note: **CALIBRATION C1 active** (PROSE-STYLE-RUBRIC §20) — EP001 전면 재작성, EP002 국소 개정 완료. 참고 문헌: `docs/manuscript/STYLE-REFERENCES-v1.md`.
 
 First eligible episode:
-**EP004**
+**EP005**
 
 Current active episode:
-**EP004 (next)**
+**EP005 (next)**
 
 Current state:
 # **IN PROGRESS — EP001 accepted; drafting continues on explicit user instruction (EP001~010 batch ordered).**
@@ -61,7 +62,7 @@ Current state:
 
 | Act | Episodes | Accepted | Current State |
 |---|---:|---:|---|
-| Act1 | EP001~028 | 2/28 | IN_PROGRESS |
+| Act1 | EP001~028 | 4/28 | IN_PROGRESS |
 | Act2 | EP029~058 | 0/30 | LOCKED_FUTURE |
 | Act3 | EP059~088 | 0/30 | LOCKED_FUTURE |
 | Act4 | EP089~122 | 0/34 | LOCKED_FUTURE |
