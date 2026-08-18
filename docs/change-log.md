@@ -211,6 +211,27 @@
 
 ---
 
+## CHG-049 — STYLE-METHOD-v1 제정 + EP001 플래시포워드 프롤로그 도입
+- Date: 2026-08-18
+- Change Location:
+  - `docs/manuscript/STYLE-METHOD-v1.md` 신설 (10개 참고 작품 기법 합성 → M1~M11 실행 코덱스)
+  - `manuscript/*/act01/EP001.md` — 프롤로그 추가
+- Previous:
+  - 사용자 2차 피드백: C1 문체 보정 후에도 "1화가 재미없다".
+  - 진단: 문체가 아니라 구조 — 제목의 약속(1명)과 1화 소재(주거 분쟁) 사이 견인력 공백. Deep Card §9가 예고한 Title-Promise Delay 리스크의 현실화.
+- New:
+  - EP058 공표 순간의 익명 몽타주 프롤로그(~700자)를 EP001 앞에 배치.
+  - **Reveal fence 검증**: 노출 정보 = 제목이 이미 공개한 것(집계 1) + 공표가 언젠가 일어난다는 사실뿐.
+    - Amara/이름/신원 단서 0. 의미(Meaning) 설명 0 — "폐지된 지 오래된 기술 분류라고만" (§52 pre-explain 금지 준수).
+    - 공표 주체 = 정합 보고서 (§50 "schema-integrity report publishes aggregate 1" 정합).
+    - "나머지는 무엇인가"는 시민들의 질문으로 프레이밍 — 서술자 ontology 선언 아님 (§50 FORBIDDEN 준수).
+    - "열 달 전" = M1 산술 정합 (EP001 T-14.0 → EP058 T-13.15 ≈ 10.2개월).
+  - **POV 규칙 예외 기록**: 프롤로그는 에피소드가 아닌 프레이밍 장치. 공적 사실의 익명 몽타주만 허용, 에피소드 본문 POV 규칙은 불변. 이 장치는 EP001 1회 한정 — 남용 금지.
+- 스토리 락 이동: **0** (EP056/058 사건 시점 불변 — 표현 장치만 추가).
+- Status: **`PROLOGUE FRAME ADOPTED / STYLE-METHOD-v1 ACTIVE`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character authority:

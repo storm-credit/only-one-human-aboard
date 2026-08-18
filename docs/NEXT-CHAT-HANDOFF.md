@@ -1,7 +1,17 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
-> Rolling handoff — 2026-08-18 final design state.
-> **Encyclopedic Deep Design COMPLETE. Official Canon Freeze v2 PASSED. Amendment A FROZEN. Manuscript READY / NOT STARTED. Accepted 0/230.**
+> Rolling handoff — 2026-08-18 MANUSCRIPT IN PROGRESS.
+> **Accepted 5/230 (EP001~005, act01). Next eligible: EP006. 사용자 지시: EP010까지 집필.**
+
+## 집필 세션 상태 (2026-08-18 갱신)
+- CHG-047: WORLD/CHARACTER Bible v2 본문이 스텁이었던 P0를 blob에서 복원 완료 (main 정상).
+- CHG-048: **CALIBRATION C1** — 독자 피드백 "재미없다" → 3-모델 A/B 후 "Fable 리듬 강화" 채택. `PROSE-STYLE-RUBRIC-v1.md` §20.
+- **STYLE-METHOD-v1** (`docs/manuscript/STYLE-METHOD-v1.md`) — 10개 참고작 기법 합성 문체법 M1~M11. 집필·QA의 문장 단위 기준. 참고 목록: `STYLE-REFERENCES-v1.md`.
+- CHG-049: **EP001 플래시포워드 프롤로그** (EP058 공표 순간 익명 몽타주) — fence 검증 완료, 1회 한정 장치.
+- 파이프라인: 화당 draft(_work) → 독립 적대적 QA 서브에이전트 → 수리 → accepted 승격 → MANUSCRIPT-STATUS 갱신 → **매 화 main push** (사용자 지시).
+- QA 이월 감시: 일반화 지름길("~들은 ~한다"), 조연 반어 동질화(비반어 조연 화당 1+ 의무), 3항 나열, 훅 유형 로테이션 장부(EP005-QA.md 참조). EP006 훅은 '선택' 계열 회피.
+- EP011 제약: EP004 항고 인용 3건이 심사국 workload로 가시화되어야 함. "임시 지위 항고 닷새 심리 / 3인 재판부" C2 고정.
+- 신설 C2 인물: 에런 소사(복원 복귀자, 아내는 앵커 소실로 복원 불가), 미오 탄(현 점유 가구), 다닐로 레예스(EP005 환자). 재사용 시 이 설정 유지.
 
 ---
 

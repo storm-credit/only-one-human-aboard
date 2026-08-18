@@ -31,7 +31,7 @@ Official Canon authority for drafting:
 
 # Current Summary
 
-- Accepted: **4 / 230**
+- Accepted: **5 / 230**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -44,14 +44,17 @@ Accepted episodes:
 - EP002 — 회피 대상 — Maren POV — QA PASS + C1 개정 (`docs/manuscript/qa/EP002-QA.md`) — 2026-08-18
 - EP003 — 노아의 평범한 하루 — Noah POV — QA PASS (`docs/manuscript/qa/EP003-QA.md`) — 2026-08-18
 - EP004 — 라울의 첫 항고 — Raul POV — QA PASS (`docs/manuscript/qa/EP004-QA.md`) — 2026-08-18
+- EP005 — 앵커가 구할 수 있는 것 — Maren POV — QA PASS (`docs/manuscript/qa/EP005-QA.md`) — 2026-08-18
+
+Structure note: EP001에 플래시포워드 프롤로그 도입 (CHG-049, fence 검증 완료). 문체법: `STYLE-METHOD-v1` ACTIVE.
 
 Style note: **CALIBRATION C1 active** (PROSE-STYLE-RUBRIC §20) — EP001 전면 재작성, EP002 국소 개정 완료. 참고 문헌: `docs/manuscript/STYLE-REFERENCES-v1.md`.
 
 First eligible episode:
-**EP005**
+**EP006**
 
 Current active episode:
-**EP005 (next)**
+**EP006 (next)**
 
 Current state:
 # **IN PROGRESS — EP001 accepted; drafting continues on explicit user instruction (EP001~010 batch ordered).**
@@ -62,7 +65,7 @@ Current state:
 
 | Act | Episodes | Accepted | Current State |
 |---|---:|---:|---|
-| Act1 | EP001~028 | 4/28 | IN_PROGRESS |
+| Act1 | EP001~028 | 5/28 | IN_PROGRESS |
 | Act2 | EP029~058 | 0/30 | LOCKED_FUTURE |
 | Act3 | EP059~088 | 0/30 | LOCKED_FUTURE |
 | Act4 | EP089~122 | 0/34 | LOCKED_FUTURE |
