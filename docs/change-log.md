@@ -250,6 +250,34 @@
 
 ---
 
+## CHG-051 — 원고 진척 수치 동기화 + PROVISIONAL 줄거리 대조 진단
+- Date: 2026-08-19
+- Change Location:
+  - `CLAUDE.md` §1 / §12
+  - `docs/current-work-status.md`
+  - `canon/CANON_STATUS.md` §1 / §8
+  - `docs/NEXT-CHAT-HANDOFF.md` Global State / Manuscript State
+  - `docs/change-control/PROVISIONAL-LOGLINE-vs-CANON-v2-COMPARISON.md` 신설
+- Previous:
+  - EP001~010 승인 후에도 위 4개 파일이 `MANUSCRIPT = READY / NOT STARTED` / `Accepted 0 / 230` / `First eligible EP001` 로 잔존.
+  - `NEXT-CHAT-HANDOFF.md` 는 상단 롤링 블록(10/230)과 하단 절(0/230)이 **한 파일 안에서 자기모순**.
+  - 사용자 제기: "현재 줄거리가 내가 처음 설계한 것과 다른 것 같다" (장르 불일치 감각).
+- New:
+  - 4개 파일 수치를 `IN PROGRESS` / `10 / 230 (EP001~010)` / `First eligible EP011` 로 정정.
+  - 각 위치에 "원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`" 명시 — 재발 방지.
+  - **PROVISIONAL 줄거리 대조표 신설.** 사용자 기억 설계 ↔ CANON v2 항목별 대조 결과:
+    - **14개 항목 중 13개 일치.** 설계 유실 없음.
+    - 실질 불일치 = **주인공 성별 1건** (사용자 기억 = 남성 / 정본 = 마렌 베일 여성).
+    - 특히 §12 "유일한 인간 = 부모가 Seed를 거부해 태어났으나 본인은 자기 아이들에게 Seed를 시술한 평범한 부모" = 아마라 오코로 C0와 **완전 일치**.
+  - "장르가 다르다"의 원인 규명: 설계 문제 아님. **미스터리 실이 EP012(프라이머)/EP017(첫 이상징후)에서 시작하는데 승인 원고가 EP010에서 끝나** 독자가 엔진 점화 직전에 멈춘 구조.
+- 설계 변경: **0**. Canon / Blueprint / POV / Reveal / 원고 변경: **0**.
+- 열린 결정 2건 (미실행, 각각 별도 CHG 필요):
+  - **D1** 마렌 성별 남성화 — Character Bible C0 재개방 + EP001~010 호칭 회귀 필요.
+  - **D2** 미스터리 실 전진 배치 — Blueprint 조정 등급, Canon 무변경.
+- Status: **`STATUS SYNC COMPLETE / DESIGN MISMATCH SCOPED TO 1 ITEM / D1·D2 PENDING USER DECISION`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character authority:
@@ -276,7 +304,9 @@ Never silently overwrite v2 Canon from prose.
 C2 refinement inside frozen ranges is allowed, but recurring/clue-bearing/causal C2 must be promoted/logged before manuscript acceptance.
 
 Current manuscript state:
-**`READY / NOT STARTED`**.
+**`IN PROGRESS`**.
 
 Accepted manuscript:
-**0 / 230**.
+**10 / 230** (EP001~010). 다음 화 EP011.
+
+원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.

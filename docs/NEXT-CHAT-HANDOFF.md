@@ -63,8 +63,10 @@ Act Bible v1 remains current because macro narrative did not change.
 - `PACKAGE A~I = PASS / P0=0`
 - `ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`
 - **`CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`**
-- **`MANUSCRIPT = READY / NOT STARTED`**
-- Accepted manuscript = **0/230**.
+- **`MANUSCRIPT = IN PROGRESS`**
+- Accepted manuscript = **10/230** (EP001~010).
+
+원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 
 Generic `진행/이어서` does not automatically mean manuscript prose. Continue the active admin/design/QA task unless the user explicitly asks to draft.
 
@@ -275,10 +277,10 @@ Do NOT introduce without deliberate Canon reopening:
 
 `docs/manuscript/MANUSCRIPT-STATUS.md`
 
-- READY / NOT STARTED
-- Accepted 0/230
+- IN PROGRESS
+- Accepted 10/230 (EP001~010)
 - Active episode NONE
-- First eligible EP001.
+- First eligible EP011.
 
 When EP001 is explicitly started, load:
 1. official World v2 relevant sections

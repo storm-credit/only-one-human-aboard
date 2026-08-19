@@ -52,13 +52,15 @@ Completed:
 - **`CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`**
 
 Current manuscript state:
-**`READY / NOT STARTED`**
+**`IN PROGRESS`**
 
 Accepted manuscript:
-**0 / 230**.
+**10 / 230** (EP001~010).
 
 First eligible episode:
-**EP001**.
+**EP011**.
+
+원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 
 Important:
 A generic `이어서/진행` does not automatically mean write prose. Continue the current requested project/admin task unless the user explicitly asks to draft manuscript.
@@ -361,13 +363,16 @@ Official Canon v2 frozen.
 Amendment A frozen.
 
 Current state:
-**MANUSCRIPT READY / NOT STARTED**.
+**MANUSCRIPT IN PROGRESS**.
 
 First eligible episode:
-**EP001**.
+**EP011**.
 
 Accepted:
-**0 / 230**.
+**10 / 230**.
+
+원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
+EP011~ 집필 시 `docs/manuscript/qa/BATCH-EP001-010.md` 의 P1 하드 제약 6건 준수.
 
 Do not start prose merely to continue project administration/status work.
 Start manuscript only on explicit drafting/execution instruction.

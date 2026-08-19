@@ -17,10 +17,12 @@ Repository: `storm-credit/only-one-human-aboard`
 - **`ENCYCLOPEDIC DEEP DESIGN v2 = COMPLETE / PASSED — 2026-08-18`**
 - **`ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`**
 - **`CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`**
-- **`MANUSCRIPT = READY / NOT STARTED`**
+- **`MANUSCRIPT = IN PROGRESS`**
 
 Accepted manuscript:
-**0 / 230**.
+**10 / 230** (EP001~010).
+
+원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 
 ---
 
@@ -145,11 +147,11 @@ Act6 active Blueprint = **v0.2**.
 The world/design/setting-bible gate is complete.
 
 Current manuscript state:
-# **`READY / NOT STARTED`**
+# **`IN PROGRESS`**
 
 - first eligible episode: **EP001**
 - current active episode: **NONE**
-- accepted: **0 / 230**.
+- accepted: **10 / 230** (EP001~010). 다음 화 EP011.
 
 Do not start prose merely because Canon is ready.
 EP001 starts only when the user explicitly requests manuscript execution.

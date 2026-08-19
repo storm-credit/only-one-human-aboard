@@ -16,10 +16,12 @@ Project: 《우주선에는 인간이 한 명뿐이다》
 - `ENCYCLOPEDIC DEEP DESIGN v2 = COMPLETE / PASSED — 2026-08-18`
 - **`ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`**
 - **`CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`**
-- **`MANUSCRIPT = READY / NOT STARTED`**
+- **`MANUSCRIPT = IN PROGRESS`**
 
 Accepted manuscript:
-**0 / 230**.
+**10 / 230** (EP001~010).
+
+원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 
 ---
 
@@ -178,11 +180,13 @@ Hard:
 The world/design/setting-bible block is lifted.
 
 Current manuscript state:
-# **`READY / NOT STARTED`**
+# **`IN PROGRESS`**
 
-- Accepted: **0 / 230**
+- Accepted: **10 / 230** (EP001~010)
 - Active episode: **NONE**
-- First eligible episode: **EP001**.
+- First eligible episode: **EP011**.
+
+원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 
 Prose starts only when the user explicitly requests manuscript execution.
 
