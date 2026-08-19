@@ -6,286 +6,368 @@ Repository: `storm-credit/only-one-human-aboard`
 
 ---
 
-# 0. Critical split: official v2 vs completed v3 candidate
+# 0. Current top-level state
 
-## Official Canon
-Still:
+## Official track
+Still official:
 **ENCYCLOPEDIC CANON v2 + Amendment A = FROZEN / OFFICIAL**.
 
-Accepted v2 manuscript remains:
+Historical accepted v2 manuscript:
 **EP001~010 / 230**.
 
-No v2 Canon or accepted manuscript has been silently overwritten by v3.
+No v2 Canon or manuscript has been silently overwritten.
 
-## Current active design work
-The user reopened the architecture in parallel as v3.
+## Active v3 track
+# **V3 PREWRITING STRUCTURAL LOCK = PASS**
 
-Current v3 result:
-# **V3 DEEP DESIGN COMPLETE — CANDIDATE FREEZE PASS**
+Meaning:
+- v3 Deep Design COMPLETE,
+- Candidate Freeze PASS,
+- EP001~410 episode blueprint materialization COMPLETE,
+- all 9 Act hostile QAs PASS,
+- full-series regression PASS,
+- hard-science boundary PASS,
+- HUMAN medical/developmental boundary PASS,
+- minimal Context Pack architecture PASS,
+- Blocking P0 = 0,
+- Structural P1 requiring redesign = 0.
 
-This is NOT yet official Canon promotion.
-It means architecture redesign is complete enough to stop adding major ideas and move to prewriting blueprint materialization.
-
----
-
-# 1. v3 final gate result
-
-Authority:
-`docs/design-v3/V3-DEEP-COMPLETION-WORKFLOW-v0.1.md`
-
-Final QA:
-`docs/qa/V3-FINAL-DEEP-COMPLETENESS-HARNESS-v0.1.md`
-
-Result:
-- G01~G20 = PASS
-- Blocking P0 = 0
-- Structural P1 requiring redesign = 0
-- 20 random setting scenes = 20/20 PASS
-- originality/pacing/exposition hostile QA = PASS WITH EXECUTION DISCIPLINE
-- candidate series center ~410, elastic ~380~430
-
-Candidate Freeze package:
-`docs/design-v3/V3-CANDIDATE-FREEZE-PACKAGE-v0.1.md`
-
-Current v3 routing:
-`docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
+v3 has NOT yet been promoted to official Canon.
+Prose remains NOT authorized by generic continuation.
 
 ---
 
-# 2. Current v3 architecture — locked at candidate level
+# 1. Master v3 prewriting authorities
 
-## Ontology
+Read/rout through:
+1. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
+2. `docs/design-v3/V3-CANDIDATE-FREEZE-PACKAGE-v0.1.md`
+3. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.1.md`
+4. `docs/qa/V3-EP001-410-FULL-BLUEPRINT-REGRESSION-v0.1.md`
+5. `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md`
+6. `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`
+7. `docs/prewriting-v3/BLUEPRINT-REPAIR-ADDENDUM-v0.1.md`
+8. `docs/prewriting-v3/V3-CONTEXT-PACK-SPEC-v0.1.md`
+
+Promotion decision package:
+`docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
+
+---
+
+# 2. EP001~410 blueprint state
+
+All Acts have exact episode cards and independent hostile QA.
+
+| Act | Episodes | Count | Protagonist-owned |
+|---|---:|---:|---:|
+| 1 | 001~042 | 42 | 33 |
+| 2 | 043~094 | 52 | 36 |
+| 3 | 095~136 | 42 | 34 |
+| 4 | 137~181 | 45 | 29 |
+| 5 | 182~228 | 47 | 30 |
+| 6 | 229~279 | 51 | 29 |
+| 7 | 280~327 | 48 | 31 |
+| 8 | 328~370 | 43 | 26 |
+| 9 | 371~410 | 40 | 24 |
+
+Total:
+**410 / 410**.
+
+Protagonist-centered ownership:
+**272 / 410 = 66.3%**.
+
+Narrative identity:
+**주인공 중심 다중인과형 장편**.
+
+Act blueprint files:
+`docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md` through `ACT9-v0.1.md`.
+
+Each has corresponding:
+`docs/qa/V3-ACTN-EPISODE-BLUEPRINT-HOSTILE-QA-v0.1.md`.
+
+---
+
+# 3. Core v3 ontology
+
 - one physical interstellar Outer Ark: Meridian
-- microscopic anchors + distributed ultradense physical civilization substrate
-- astronomical possibility search
+- physical outer mission clock always forward
+- atomic/nanoscale addressable anchors + distributed ultradense physical substrate
+- astronomical search breadth
 - D0 Seed/Archive
 - D1 Forecast
 - D2 Deep Civic Model
 - D3 Fully Lived Civilization
 - D4 temporary Crisis Depth
-- most candidates are not conscious lived worlds
+- most possibilities NOT conscious lived worlds
+- D3 persons are full persons
 - finite power / heat / interconnect / radiation / repair
-- no cosmological parallel-universe truth
-- no literal pocket-universe truth
+- no cosmological multiverse truth
+- no literal pocket universes
 - no arbitrary 2~3 lived-world cap
 
-Authority:
-`docs/design-v3/V3-ULTRADENSE-CIVILIZATION-FIELD-CONSOLIDATION-v0.4-CANDIDATE.md`
+Important science boundary:
+**one ordinary atom/electron does NOT literally contain a whole 300k civilization.**
+Microscopic anchors address a state whose physical information/processing is distributed across the larger substrate.
 
-## Personhood / death
-- D3 citizens are full persons
+Science QA:
+`docs/qa/V3-HARD-SCIENCE-PLAUSIBILITY-PASS-v0.1.md`
+
+---
+
+# 4. Reader-facing history / memory
+
+- H-A = opening Meridian, Acts1~2
+- one rare protagonist continuity misbinding at Act2 end
+- H-B = current long-lived Meridian, Acts3~9
+- no repeated protagonist world-hopping by default
+- other histories surface through testimony, records, relationships, institutional knowledge, material evidence and very rare memory faults
+
+Explicit cross-history autobiographical memory = **extremely rare critical integrity bug**.
+
+No rememberer class.
+No stable occult API.
+Fraud/luck/coincidence > genuine carriers.
+
+---
+
+# 5. Personhood / death / ethics
+
+- D3 person = full person
 - counterpart != resurrection
 - backup != restored subjective continuity
 - branch-born child = new person
 - quiescence != deletion
-- active D3 persons cannot be silently degraded into non-person models
+- active D3 person cannot be silently degraded into a non-person model
+- historical Legacy Continuity Doctrine becomes inadequate as branches deepen into societies
+- final transitional norm restricts new involuntary full-person lived branching
 
-## Reader-facing history
-- H-A = opening Meridian, Acts1~2
-- one exceptional protagonist continuity misbinding
-- H-B = long current Meridian, Acts3~9
-- no repeated protagonist world-hopping by default
-- other histories mostly surface through testimony, records, relationships, institutional knowledge and physical evidence
-
-## Memory leakage
-Cross-history autobiographical memory is an **extremely rare critical integrity fault**.
-No recognized rememberer class.
-No stable occult API.
-Fraud/coincidence outnumber genuine cases.
-
-## HUMAN:1
-- `HUMAN` = Natural-Origin legacy category, not personhood
-- launch count >1
-- real centuries-long attrition leaves one
-- genetic diversity archive separate
-- leading biological form: early developmental arrest → final-approach gestation
-- no admin/sovereignty/ownership/moral superiority
+The work does not declare suffering morally justified because it generated useful information.
 
 ---
 
-# 3. v3 protagonist / cast
+# 6. HUMAN:1 — latest model
 
-Current Character authority:
-`canon/CHARACTER_BIBLE-v3.1-CANDIDATE.md`
+`HUMAN` = **Natural-Origin departure-continuity legacy category**, NOT personhood.
 
-Protagonist:
-- final name = TBD / intentional C2 exception
+Current strongest model:
+- launch HUMAN count >1, working low-dozens-class bounded idea only
+- real centuries-long physical attrition leaves one
+- separate genetic diversity archive
+- no admin/sovereignty/ownership/moral superiority
+- no research or reproduction duty
+- protagonist NOT HUMAN
+
+Medical/science-corrected form:
+**early-stage Natural-Origin embryo/zygote cryogenic preservation**
+→ final-approach thaw/viability protocol
+→ far-future ex vivo/artificial-uterus gestation
+→ ordinary birth/life.
+
+Do NOT write `a fetus stayed paused for centuries` as the primary model.
+
+Present-day embryo cryopreservation and partial animal extra-uterine fetal support are only limited scientific precedents; centuries storage and full embryo-to-term artificial gestation are explicit far-future SF assumptions.
+
+Medical QA:
+`docs/qa/V3-HUMAN1-MEDICAL-DEVELOPMENTAL-PLAUSIBILITY-PASS-v0.1.md`
+
+---
+
+# 7. Full-series working timeline
+
+Authority:
+`docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`
+
+Working center:
+- H-A Act1 ~7 weeks
+- Act2 ~52 hours
+- H-B Act3 ~8 weeks
+- Act4 ~8 weeks
+- Act5 ~8 weeks
+- Act6 ~10 weeks
+- Act7 ~8 weeks
+- Act8 ~12 weeks
+- Act9 ~18 weeks
+
+H-B narrative span ~72 weeks / ~16~17 months.
+
+HUMAN final gestation begins by mission clock around Act7 opening.
+Act7+8+9 ≈ **38 weeks**, allowing normal-class development to EP408 birth/first neonatal milestone without accelerated biology.
+
+Public discovery does NOT trigger gestation.
+
+---
+
+# 8. Act9 science repair
+
+Narrative structure fixed; physics wording repaired.
+
+Use:
+**energetic-particle / spacecraft-charging environment**
+→ node transient faults
+→ tightly shared power/control links amplify into common-mode cascade
+→ one commissioning node remains relatively stable because it was still electrically/control isolated with local reserve power/control
+→ staged physical/electrical/control segmentation + local control islands + staggered restart
+→ permanent infrastructure loss but continuity survival.
+
+Do NOT say `asynchronous timing blocks radiation`.
+
+No confirmed alien attacker is required.
+Echo Outside remains ambiguous.
+
+---
+
+# 9. Protagonist / family / Mira
+
+Protagonist final name:
+# **TBD / intentional C2 exception**
+
+Do not resurrect weak old candidates automatically.
+
+Profile:
 - male ~36~38
 - **선체 손상분석관** candidate
 - ordinary technical career
-- parents alive candidate
-- one sibling household candidate
+- parents alive
+- older sister household candidate
 - no opening spouse/child
-- serious former relationship with Mira-role candidate
-- one deep pre-series wound = Arun accident
 - no prior full regression
-- one tiny unresolved Arun-related memory mismatch before series
+- Arun accident = one deep pre-series wound
 
-Old `Rowan Han / 로언 한` and facilities/reliability-engineer wording are superseded design history for current v3 work.
+Family selected architecture:
+- father: retired/reduced-hours controlled-agriculture/greenhouse worker
+- mother: school administration/student-services worker
+- older sister ~40~42, hospitality/civic-service operations domain
+- sister has long-term partner/spouse + one school-age child ~8~10
+- H-A/H-B family difference is mundane relocation/school/community history, not tragedy
 
-Narrative identity:
-**주인공 중심 다중인과형 장편**.
-
-Current protagonist-centered ownership target:
-**272 / 410 = 66.3%**.
-
-World continues to act without protagonist, but protagonist remains strongest emotional/mystery spine.
-
----
-
-# 4. v3 lived Meridian setting
-
-Reference-grade domains now pass:
-- experienced geography
-- housing
-- economy / labor / resource scarcity
-- family / reproduction / childhood / aging / death
-- government / law / privacy / crime / emergency authority
-- language / naming / culture / religion / leisure
-
-Current world-setting authorities are routed in:
-`docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`.
-
-Peripheral decisions:
-- ghost-like SF residue = KEEP, very low density
-- zombie major arc = CUT
-- companion ecology = LIMITED texture
-- paleo/dinosaur adventure arc = CUT
-- occult = culture only, no deterministic mechanism
-- external signal = bounded late thread
-- confirmed alien-war arc = CUT
-
----
-
-# 5. v3 macro story
+Mira:
+- H-A serious 3~4-year-class relationship, ended before EP001
+- H-B only shorter earlier relationship, no same domestic history
+- final selected endpoint: **a NEW current relationship chosen after current-world history**, not restoration/destiny
+- no automatic marriage/child epilogue
 
 Authority:
-`canon/ACT_BIBLE-v3.2-CANDIDATE.md`
+`docs/design-v3/V3-PROTAGONIST-FAMILY-AND-MIRA-ENDPOINT-CLOSURE-v0.1.md`
 
-Center ~410 episodes / 9 Acts:
-1. EP001~042 — ordinary Meridian
-2. EP043~094 — first closed-sector catastrophe
-3. EP095~136 — wrong return / apparent regression
-4. EP137~181 — foreknowledge social thriller
-5. EP182~228 — officially nonexistent history / legacy area
-6. EP229~279 — H-B civic collapse
-7. EP280~327 — astronomical lineage inference
-8. EP328~370 — HUMAN:1 + rights of many
-9. EP371~410 — first unrehearsed settlement
+Core voice/private-life:
+`docs/design-v3/V3-CORE-VOICE-PRIVATE-LIFE-SHEETS-v0.1.md`
 
-Act2 concurrency:
-~48~52 hours.
+H-B Arun:
+industrial/technical safety trainer, current life outside protagonist's team.
 
-Act6 collapse:
-~8~10 weeks.
-
-No need to reopen the 9-Act macro unless blueprinting finds a concrete contradiction.
+Ivo:
+ordinary public-building/service coordination role, not mystic profession.
 
 ---
 
-# 6. Incident / reveal / writing architecture
+# 10. World / peripheral scope
 
-Current major arc authority:
-`docs/design-v3/MAJOR-ARC-POOL-v0.3-CANDIDATE.md`
+Meridian is a mature ~300k-scale home-city.
 
-Medium incident selection:
-`docs/design-v3/MEDIUM-INCIDENT-SELECTION-v0.2-CANDIDATE.md`
+Working reader orientation:
+- Central / Spine
+- Transfer Belt
+- Midring
+- Garden Commons
+- Old Works
+- Med-University Cluster
+- Rim / Expansion Belt
+- discontinuous Legacy Service Layer
 
-Reveal lifecycle:
-`docs/narrative-engineering/V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4-CANDIDATE.md`
+Final proper names C2.
 
-Writer grammar:
-`docs/narrative-engineering/WRITER-GRAMMAR-MATRIX-v0.3-CANDIDATE.md`
-
-Major lifecycle coverage:
-- Arun
-- C4 apparent regression
-- impossible infrastructure
-- rare memory leak
-- knowledge without history
-- HUMAN:1
-- historical HUMAN>1
-- uncountable lineages
-- D3 rights
-- settlement/promotion
-- external signal echo
-
-No universal truth file.
-No omniscient explainer.
-No lore-only payoff.
+Peripheral decisions:
+- ghost-like SF residue KEEP very rare
+- zombie major arc CUT
+- companion ecology LIMITED texture
+- paleo/dinosaur adventure CUT
+- occult culture only, no deterministic API
+- external signal bounded late thread
+- alien-war arc CUT
 
 ---
 
-# 7. Minimum Action Agent OS
+# 11. Context execution
 
-Applied as methodology only.
+Authority:
+`docs/prewriting-v3/V3-CONTEXT-PACK-SPEC-v0.1.md`
 
-- existing project structure preserved
-- Canon/Spec/Freeze not replaced by OS
-- agents added = 0
-- agents removed = 0
-- current custom `episode-qa` retained
-- all audited local action spaces <=5
-- Integration Result = PASS
+Default direct per-episode context <=5:
+1. episode card
+2. immediate continuity
+3. POV character slice
+4. world/zone slice
+5. active device/relationship slice
 
-Docs:
-- `docs/methodology/MINIMUM-ACTION-AGENT-OS-ADOPTION-v0.1.md`
-- `docs/methodology/MINIMUM-ACTION-AGENT-OS-LOCAL-ACTION-SPACE-AUDIT-v0.1.md`
-- `docs/qa/MINIMUM-ACTION-AGENT-OS-INTEGRATION-CRITIC-v0.1.md`
+Do not load entire repository for every episode.
+Do not create redundant 410 giant context files unless a future execution environment requires mechanical manifests.
 
 ---
 
-# 8. Change control
+# 12. Full prewriting QA result
 
-v3 did NOT silently edit official v2.
+Full-series regression:
+`docs/qa/V3-EP001-410-FULL-BLUEPRINT-REGRESSION-v0.1.md`
 
-Major v2→v3 candidate differences are recorded in:
-`docs/change-control/V2-TO-V3-CANDIDATE-FREEZE-CHANGE-RECORD-v0.1.md`
+Final lock QA:
+`docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md`
 
-Official `canon/CANON_STATUS.md` remains v2 until explicit promotion.
+Result:
+# **V3 PREWRITING STRUCTURAL LOCK = PASS**
+
+Blocking P0 = 0.
+Structural P1 = 0.
+Architecture redesign required = 0.
 
 ---
 
-# 9. Intentional C2 surface items still open
+# 13. Remaining surface C2
 
-These do NOT represent missing deep architecture:
+Not deep-design holes:
 - protagonist final name
-- protagonist family names
-- final district proper names
+- family member names
+- exact district proper names
 - currency/payment vocabulary
-- minor shop/room/citizen names
-- exact prices/local color
-- exact per-episode POV assignment within fixed allocation/fence rules
+- minor venue/shop/room names
+- exact final Mira scene surface
 
-Do not invent a protagonist name merely to satisfy a checklist; prior candidates did not feel natural to the user.
-
----
-
-# 10. Current next phase
-
-# **PREWRITING EXECUTION / BLUEPRINT MATERIALIZATION**
-
-Order:
-1. surface/naming calibration without reopening architecture
-2. materialize 410-scale episode blueprint/context structure from the 56-band density map
-3. exact episode POV allocation using current protagonist-centered target and POV eligibility fences
-4. per-episode clue / relationship / incident / causal-handoff cards
-5. full blueprint timeline / geography / reveal regression
-6. prepare explicit v3 Canon promotion decision package
-7. only after promotion decision determine treatment of old accepted v2 EP001~010 and manuscript start
-
-Generic `진행/이어서` continues this prewriting execution task.
-It does NOT automatically draft prose.
+Protagonist name MUST close before v3 prose EP001.
+Other C2 can close in the same naming/surface pass.
 
 ---
 
-# 11. Official v2 reminder
+# 14. Canon promotion decision
 
-Until explicit v3 promotion, official Canon remains:
-1. `canon/WORLD_BIBLE-v2.md`
-2. `canon/CHARACTER_BIBLE-v2.md`
-3. `canon/ACT_BIBLE-v1.md`
-4. `canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md`
+Package:
+`docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
 
-Accepted v2 manuscript remains EP001~010/230 as historical/official manuscript state.
-Do not continue or rewrite it from generic continuation while v3 prewriting is active.
+Four options evaluated:
+
+A. keep v2 official / v3 parallel — safe hold, inefficient long term
+
+B. **promote v3 as official; preserve v2 + old EP001~010 as frozen historical edition — RECOMMENDED**
+
+C. v3 world/characters + old v2 230-Act hybrid — REJECT
+
+D. force old v2 EP001~010 into new v3 EP001~010 — REJECT
+
+Why B:
+v3 changes ontology, 9-Act macro, 410 pacing, protagonist role, reveal order, H-A/H-B mechanism, HUMAN meaning, rights and settlement. It is a new edition architecture, not a narrow amendment.
+
+No promotion has been performed yet.
+`canon/CANON_STATUS.md` remains v2 official.
+
+---
+
+# 15. Current next step
+
+# **PROMOTION DECISION READY + SURFACE C2 PASS REMAINS**
+
+Recommended order:
+1. decide/execute v3 promotion when explicitly authorized
+2. preserve v2 Canon + v2 EP001~010 as historical frozen edition
+3. run final protagonist/district/currency/name read-aloud pass
+4. create v3 active manuscript status = 0/410
+5. only when user explicitly requests manuscript start, execute v3 EP001 from blueprint/context pack
+
+Generic `진행/이어서` BEFORE explicit promotion should continue preparation/surface closure, not silently promote Canon or draft prose.
