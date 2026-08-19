@@ -9,129 +9,147 @@ This file tracks only the reopened v3 redesign.
 
 ---
 
-# 1. Genre / length
+# 1. Current gate
 
-Target:
-**Closed-space SF mystery + thriller + survival + ensemble drama**
+**V3 DEEP DESIGN IN PROGRESS**
 
-Working length center:
-**~410 episodes**
+Current strongest macro structure:
+**`canon/ACT_BIBLE-v3.2-CANDIDATE.md`**
 
-Elastic:
-**~380–430**
+Hostile review:
+**`docs/qa/ACT-BIBLE-v3.2-HOSTILE-REGRESSION-v0.1.md = PASS WITH EXECUTION GATES / blocking P0=0`**
 
-Not frozen.
+Working length:
+- center ~410 episodes,
+- elastic 380~430,
+- not frozen.
+
+Do NOT reopen the 9-Act macro structure merely for novelty unless a later harness finds a blocking contradiction.
 
 ---
 
-# 2. Current core premise
+# 2. Core premise — LEADING
 
-There is one real interstellar vessel: **Meridian**.
+One physical interstellar vessel, Meridian, carries an **ultradense physical civilization substrate field**.
 
-Inside it exists an **ultradense physical civilization substrate field** containing an astronomically large number of microscopic civilization anchors, lineage states and possibility seeds.
+Inside that field are an astronomically large number of microscopic civilization anchors/lineage states/possibility seeds.
 
-The hidden system continuously:
-- generates enormous possibility spaces,
+The hidden system:
+- generates huge possibility spaces,
 - runs low-depth forecasts,
 - deepens informative branches,
-- executes some full lived civilization histories,
+- executes some full lived civilizations,
 - learns from failure/success/novel choice,
-- generates descendant civilization states across the centuries-long voyage.
+- generates descendant civilization states across the voyage.
 
-This is NOT cosmological parallel universes.
-It is NOT many macroscopic duplicate spaceships.
-It does NOT require literal pocket universes.
+Not cosmological parallel universes.
+Not many duplicate macroscopic spaceships.
+Not literal pocket universes.
 
----
-
-# 3. Physical architecture — LEADING
-
-Current authority for v3 candidate reasoning:
+Current ontology authority:
 `docs/design-v3/V3-ULTRADENSE-CIVILIZATION-FIELD-CONSOLIDATION-v0.4-CANDIDATE.md`
 
-Supporting physics candidate:
-`docs/design-v3/V3-ULTRADENSE-SUBSTRATE-PHYSICS-CONSTRAINTS-CANDIDATE.md`
+Ontology hostile review:
+`docs/qa/V3-ULTRADENSE-ONTOLOGY-HOSTILE-CRITIC-v0.4.md = PASS WITH P1 GATES`.
+
+---
+
+# 3. Physical architecture
 
 Three scales:
-1. **Outer Ark** — one macroscopic physical Meridian; physical time always moves forward.
-2. **Civilization Substrate Field** — microscopic anchors + distributed ultradense engineered-matter storage/compute/interconnect.
+1. **Outer Ark** — one macroscopic Meridian; physical time always moves forward.
+2. **Civilization Substrate Field** — microscopic anchors + distributed ultradense physical storage/compute/interconnect.
 3. **Experienced Meridian** — human-scale lived civic world experienced by citizens.
 
+Support:
+`docs/design-v3/V3-ULTRADENSE-SUBSTRATE-PHYSICS-CONSTRAINTS-CANDIDATE.md`
+
 Hard:
-- anchor does not mean one ordinary atom literally stores a whole civilization,
+- one ordinary atom does not literally contain every bit of one civilization,
 - full states are distributed,
 - power/heat/interconnect/radiation/repair remain finite,
-- outer ark damage can permanently destroy lineages.
+- outer physical damage can permanently kill lineages.
 
 ---
 
-# 4. Execution depth — LEADING
+# 4. Execution-depth / scale policy
 
-Working classes:
-- `D0 Seed/Archive`
-- `D1 Forecast`
-- `D2 Deep Civic Model`
-- `D3 Fully Lived Civilization`
-- `D4 Crisis Depth/Overdrive`
+Authority candidate:
+`docs/design-v3/V3-EXECUTION-DEPTH-RESOURCE-SCALE-POLICY-v0.1-CANDIDATE.md`
 
-Key distinction:
-**astronomical possibility count != astronomical simultaneous full-person civilizations.**
+Classes:
+- D0 Seed/Archive,
+- D1 Forecast,
+- D2 Deep Civic Model,
+- D3 Fully Lived Civilization,
+- D4 temporary Crisis Depth.
 
-D0/D1 may be effectively uncountable from a citizen perspective.
-D3 is much more expensive and physically limited.
+Key:
+**astronomical search breadth != every possibility is a conscious world.**
 
-Exact active D3 count is intentionally NOT frozen yet.
+No arbitrary `2~3 lived worlds` cap.
+No decorative exact concurrent D3 count yet.
+
+Resource model:
+**Lived Continuity Load** rather than fixed world slots.
+
+Under scarcity:
+search/depth reduction → subjective-time slowing → safe quiescence → destructive loss only under genuine unavoidable failure/triage.
+
+Active D3 persons may not be silently downgraded into non-person models.
 
 ---
 
-# 5. Superseded bounded-lineage assumption
+# 5. Superseded bounded-lineage repair
 
-For current v3 work the following earlier candidate assumptions are **SUPERSEDED DESIGN HISTORY**:
-- Primary lived lineage hard cap = 1,
-- Secondary lived lineage hard cap = 1,
+For current v3 reasoning, these are design history only:
+- Primary lived lineage = exactly 1,
+- Secondary = max 1,
 - third full lineage forbidden,
-- arbitrary `2~3 lived worlds` limit,
-- one macroscopic 300k civic baseline as mandatory hidden truth,
-- whole-population PSS overwrite as the central repetition engine.
+- arbitrary 2~3 full-world cap,
+- macroscopic 300k civic baseline as mandatory hidden truth,
+- PSS whole-population overwrite as central repetition engine.
 
-The earlier critic that passed those rules remains useful design history but is NOT the current v3 ontology gate authority.
+Earlier critics that passed those assumptions do NOT override current v0.4/v3.2.
 
-Current v0.4 hostile review:
-`docs/qa/V3-ULTRADENSE-ONTOLOGY-HOSTILE-CRITIC-v0.4.md`
-
-Result:
-**PASS WITH P1 GATES / blocking ontology P0 = 0.**
+Change control:
+`docs/change-control/CHG-052-V3-ULTRADENSE-ONTOLOGY-REOPENING-AND-ACT-v3.2.md`.
 
 ---
 
-# 6. Civilization repetition model
+# 6. Reader-facing history control
 
-History is a genealogical search process, not a clean loop.
+Authority candidate:
+`docs/design-v3/V3-ACT3-7-READER-LINEAGE-TRANSITION-LEDGER-v0.1.md`
 
-Author model:
+Current strongest structure:
+- H-A = opening Meridian, Acts1~2,
+- one exceptional protagonist continuity transfer,
+- H-B = current Meridian, Acts3~9.
 
-`seed → huge possibility expansion → prune/deepen → some lived histories → robust lessons/novelty → descendant seeds → expand again`
+Other histories appear mainly through:
+- testimony,
+- memory fragments,
+- records,
+- family/relationship contradictions,
+- institutional inheritance,
+- physical evidence.
 
-A later state may inherit:
-- institutions,
-- techniques,
-- warnings,
-- selected lineage seeds,
-- without receiving ordinary conscious memory of source histories.
+No repeated protagonist world-hopping by default.
 
-There is no required single `winner civilization` copied wholesale.
+This keeps astronomical ontology and bounded reader cognition simultaneously.
 
 ---
 
-# 7. Persons / identity
+# 7. Persons / choice / emergent importance
 
-Citizens are real persons, not NPCs.
+Citizens are real persons, never disposable NPCs.
 
-Recurring character lineages preserve tendencies, not scripts.
+Recurring lineages preserve tendencies, not scripts.
 
-Across histories a familiar person can:
-- choose similarly,
-- choose oppositely,
+A familiar person may:
+- make the same choice,
+- make the opposite choice,
 - invent a new choice,
 - die early,
 - never meet the protagonist,
@@ -139,199 +157,151 @@ Across histories a familiar person can:
 - remain ordinary,
 - become civilization-critical.
 
-**Importance itself is an emergent variable.**
+**Importance itself is a variable.**
 
-A minor/background person can become historically central under particular social conditions.
-
-Counterpart != resurrection.
-Fork divergence creates independent persons.
-
----
-
-# 8. Social-cascade model
-
-Civilization outcomes emerge from interactions among:
-- individual choice,
+Minor/background actors can become historically decisive through nonlinear social cascades involving:
 - family,
 - friendship,
-- romance,
-- parent/child attachment,
+- love,
 - grief,
 - altruism,
 - resentment,
 - reputation,
-- group identity,
 - institutions,
-- resource conditions,
-- accidents,
+- chance,
+- scarcity,
 - misinformation,
-- unknown actors,
-- chance encounters,
-- novel inventions/choices.
-
-Love/altruism are not magical uncomputable variables.
-The unpredictability comes from nonlinear interaction and path dependence.
+- novel action.
 
 ---
 
-# 9. D3 personhood / lifecycle rights — NEW LEADING
-
-Current design:
-`docs/design-v3/V3-D3-PERSONHOOD-LIFECYCLE-RIGHTS-4-DESIGNS-v0.1.md`
-
-Selected:
-**Legacy Continuity Doctrine as historical cause + Rights Escalation/Continuity Trusteeship as reform direction.**
-
-Historical problem:
-- early branches were shallow/short,
-- designers treated them as experience extensions,
-- depth increased over centuries,
-- stable families/polities/children appeared,
-- legal categories lagged behind.
-
-Hard candidate rights:
-- D3 persons have independent moral claims,
-- branch-born children are new full persons,
-- planned quiescence requires governance/due process,
-- emergency quiescence is allowed only as preservation under imminent physical danger,
-- deliberate termination merely because a test ended is not acceptable under final norm,
-- resource triage may not delete a civilization because its ideology or score is `worse`.
-
-Final reform can prohibit/suspend new involuntary D3 creation while allowing non-person forecasting to continue.
-
----
-
-# 10. Outer Ark ↔ internal civilization causality — NEW LEADING
-
-Current design:
-`docs/design-v3/V3-OUTER-ARK-INTERNAL-CIVILIZATION-CAUSAL-COUPLING-v0.1.md`
-
-Four source classes:
-- `C1 Endogenous Civic Event` — ordinary internal causality; most common.
-- `C2 Deliberate Boundary Perturbation` — bounded system stress input.
-- `C3 Outer-Ark Constraint Translation` — real outer power/thermal/radiation/hardware limits affect capacity.
-- `C4 Integrity Fault/Leakage` — rare boundary failure; main ontology leak channel.
-
-Hard:
-- not every disaster is a system test,
-- not every internal disaster maps to outer hardware damage,
-- outer scarcity normally changes execution capacity/time/depth before corrupting internal reality,
-- internal engineers and resources remain causally meaningful.
-
-Act2 leading source stack:
-**C1 ordinary crisis + human amplification + hidden C3 stress → climax C4 failover misbinding.**
-
----
-
-# 11. Memory anomaly — LEADING
-
-Cross-history autobiographical memory is NOT a feature.
-
-It is a **rare critical integrity fault family**.
-
-Most citizens experience zero such events in a lifetime.
-Strong coherent rememberers are series-scale exceptions.
-
-Possible social interpretations:
-- trauma,
-- déjà vu,
-- delusion,
-- past-life belief,
-- prophecy,
-- fraud,
-- secret information.
-
-No stable occult/past-life API.
-
----
-
-# 12. Protagonist — CURRENT PACKAGE
+# 8. D3 personhood / lifecycle ethics
 
 Authority candidate:
+`docs/design-v3/V3-D3-PERSONHOOD-LIFECYCLE-RIGHTS-4-DESIGNS-v0.1.md`
+
+Selected architecture:
+**Legacy Continuity Doctrine as historical cause + Rights Escalation/Continuity Trusteeship as reform.**
+
+Historical drift:
+shallow short branches → deeper social histories → families/children/polities emerge → old legal categories fail.
+
+Hard candidate:
+- D3 persons have independent claims,
+- branch-born children are new full persons,
+- safe quiescence != destructive termination,
+- deliberate deletion because `test finished` is not acceptable under final norm,
+- resource triage cannot delete a society because its ideology/score is worse,
+- new involuntary D3 creation is restricted under the final reform.
+
+---
+
+# 9. Outer Ark ↔ internal causality
+
+Authority:
+`docs/design-v3/V3-OUTER-ARK-INTERNAL-CIVILIZATION-CAUSAL-COUPLING-v0.1.md`
+
+Source classes:
+- C1 endogenous civic event — most common,
+- C2 bounded deliberate perturbation,
+- C3 real outer-ark capacity constraint,
+- C4 rare integrity fault/leakage.
+
+Hard:
+- not every disaster is a test,
+- not every internal disaster maps to outer hardware damage,
+- internal engineering/resource causality remains meaningful,
+- C4 remains rare.
+
+---
+
+# 10. Protagonist — CURRENT PACKAGE
+
+Authority:
 `docs/design-v3/V3-PROTAGONIST-OCCUPATION-FAMILY-BIOGRAPHY-CANDIDATE.md`
 
 Name:
 **TBD / NOT FROZEN.**
 
-Old `Rowan Han` and later temporary name suggestions are not locked.
+Older `Rowan Han` and later temporary suggestions are placeholders/design history.
 
 Working profile:
 - male,
-- late 30s (~36–38),
-- **선체 손상분석관** concept,
-- not investigator/military/system architect,
+- ~36–38,
+- **선체 손상분석관** candidate,
+- ordinary technical career,
+- not detective/military/system architect,
 - ordinary family background,
 - parents alive candidate,
 - one sibling household candidate,
 - no spouse/child in opening lineage,
-- one serious former relationship candidate,
+- serious former relationship candidate,
 - one deep pre-series wound: Arun accident.
 
-No prior full regression before series.
-Only one tiny unresolved autobiographical mismatch tied to the Arun incident is allowed.
+No prior full regression.
+Only one tiny unresolved Arun-related autobiographical mismatch before series.
 
 ---
 
-# 13. Protagonist apparent regression — LEADING
+# 11. Act2 first catastrophe / first apparent regression
 
-Authority candidate:
-`docs/design-v3/V3-PROTAGONIST-APPARENT-RETURN-4-DESIGNS.md`
+Authority:
+`docs/design-v3/V3-ACT2-CATASTROPHE-FAILOVER-CAUSAL-CHAIN-v0.1-CANDIDATE.md`
 
-Leading mechanism:
-**Emergency Continuity Failover Misbinding.**
+Leading chain:
+**real cooling failure → electrical/pressure/bulkhead cascade → human amplification → hidden outer thermal-margin loss → one rare C4 continuity failover misbinding.**
 
-Act2 catastrophe:
-- active continuity approaches failure,
-- failover begins before continuity death,
-- rare C4 routing/index fault connects that still-active process to a closely related lived lineage,
-- civic state looks earlier/similar.
+Protagonist's active continuity begins migration before confirmed death.
+He enters H-B through an integrity-routing error.
 
 Subjective interpretation:
 `I died and went back.`
 
 Author truth:
-- outer time never reversed,
-- no resurrection after confirmed death,
-- surrounding counterparts are not guaranteed replacements for people he lost,
-- protagonist cannot intentionally repeat it,
-- not chosen-one power.
+- no time reversal,
+- no resurrection after death,
+- no chosen-one power,
+- cannot intentionally reproduce.
+
+Act Bible v3.2 critic requires these pre-plants in detailed blueprint:
+- impossible repair layer,
+- legacy/duplicate maintenance identifier,
+- small evidence timestamp mismatch,
+- Arun decision echo.
 
 ---
 
-# 14. Protagonist personal history — LEADING
+# 12. Memory anomaly
 
-Career:
-ordinary inspection/maintenance technical route → Arun accident → damage/failure analysis specialization.
+Cross-history autobiographical memory is a **rare critical integrity fault**, not a feature.
 
-Arun accident:
-- late 20s candidate,
-- dangerous compartment/bulkhead decision,
-- wider disaster prevented,
-- Arun officially killed,
-- protagonist not legally at fault,
-- one small memory/evidence mismatch remains unexplained.
+Most people never experience one.
 
-Personal-life tone:
-**do not build a tragedy checklist.**
-The story should make an ordinary adult life become impossible.
+Current visible hierarchy:
+- protagonist = exceptional continuity-misbinding survivor,
+- Ivo-role = strongest independent coherent leak candidate,
+- Cassian-role = narrow/ambiguous fragmentary advantage,
+- very few one-off fragments,
+- many false claims/fraud/coincidence.
 
-Alternate-lineage marriage/child can exist as delayed Act5+ emotional device, but not opening biography.
+No reliable rememberer faction.
+No stable occult API.
 
 ---
 
-# 15. Everyday civilization — NEW DEEP DESIGN
+# 13. Everyday civilization setting
 
 Authority candidate:
 `canon/WORLD_BIBLE-v3-ADDENDUM-EVERYDAY-CIVILIZATION-CANDIDATE.md`
 
-Reader-facing Meridian is a mature home-city, not a military base/lab/ration camp.
+Meridian is a mature home-city, not a lab/military base/ration camp.
 
-Designed domains now include:
+Designed domains:
 - housing,
-- economy/Civic Floor,
+- Civic Floor + market/co-op economy,
 - work sectors,
 - education,
-- families/reproduction,
+- family/reproduction,
 - romance/sex,
 - children,
 - aging/medicine,
@@ -339,8 +309,8 @@ Designed domains now include:
 - food,
 - utilities,
 - transit,
-- politics,
-- security/crisis response,
+- government,
+- policing/crisis response,
 - crime,
 - privacy/surveillance,
 - media/social networks,
@@ -349,151 +319,179 @@ Designed domains now include:
 - music/art,
 - fashion,
 - optional companion ecology,
-- language/naming,
+- naming/language,
 - holidays,
 - class/status,
 - ordinary Act1 scene reservoir.
 
-Rule:
-**ordinary detail must greatly outnumber anomaly detail.**
+Hard:
+**ordinary detail greatly outnumbers anomaly detail.**
 
 ---
 
-# 16. HUMAN:1 — LEADING CANDIDATE
+# 14. HUMAN:1
 
-`HUMAN` = legacy Natural-Origin biological category, NOT personhood.
+Authorities:
+- `docs/design-v3/V3-HUMAN1-BIOLOGICAL-FORM-4-DESIGNS-v0.1.md`
+- `docs/design-v3/V3-HUMAN1-ATTRITION-CONTINUITY-TIMELINE-v0.1-CANDIDATE.md`
 
-Leading history:
-- multiple Natural-Origin continuities launched,
-- genuine outer-ark attrition leaves one viable living continuity,
-- separate gamete/embryo/genome biodiversity archive preserves genetic diversity,
-- last living Natural-Origin continuity remains outside ordinary civilization branching.
+`HUMAN` = legacy Natural-Origin departure-continuity category, NOT personhood.
 
-Biological-form comparison:
-`docs/design-v3/V3-HUMAN1-BIOLOGICAL-FORM-4-DESIGNS-v0.1.md`
+Selected attrition candidate:
+**distributed low-dozens departure cohort → major partial real loss → centuries-long independent attrition → critical-count preservation → one remaining continuity.**
 
-Current 1st choice:
-**early embryo during voyage → final-approach artificial gestation.**
+Therefore:
+`1` is history/contingency, not sacred design.
+
+Strong later payoff:
+old archive reveals `HUMAN > 1` before attrition.
+
+Genetic diversity archive is separate and should not be a rack of already-counted viable HUMAN embryos.
+
+Leading biological form:
+**early developmental arrest during voyage → final-approach artificial gestation.**
+
+No ruler/admin key/sovereignty/ship ownership/moral superiority.
+
+---
+
+# 15. Settlement / embodiment
+
+Authority:
+`docs/design-v3/V3-SETTLEMENT-EMBODIMENT-4-DESIGNS-v0.2.md`
+
+Selected:
+**planet-side ultradense substrate colony + voluntary/functional embodiment.**
+
+Modes:
+- remote avatar = equipment; loss != death,
+- persistent local embodiment/continuity node = can carry real death risk,
+- substrate-resident civic life,
+- biological HUMAN life.
+
+Universal human-sized body migration is rejected.
+
+Personhood does not depend on macro biological/synthetic body form.
+
+---
+
+# 16. Cross-lineage settlement governance
+
+Authority:
+`docs/design-v3/V3-CROSS-LINEAGE-SETTLEMENT-GOVERNANCE-4-DESIGNS-v0.1.md`
+
+Selected:
+**Emergency Transitional Compact → later dual person/polity representation.**
+
+Act8~9 needs only the temporary operational compact.
+Permanent constitution is not solved before the ending.
 
 Hard:
-- no ruler/admin key,
-- no sovereignty,
-- no ship ownership,
-- no moral superiority,
-- not the sole reason the civilization field exists.
+- H-B is not sovereign because it is protagonist-facing,
+- quiescent D3 claims are not forfeited by silence,
+- HUMAN:1 has no special political seat,
+- no vote manufacturing through new D3 branching,
+- shared government controls only cross-lineage/external commons, not every society's internal life.
 
 ---
 
-# 17. Final irreversibility — LEADING
+# 17. Act Bible v3.2
 
-Rejected:
-`arrival means branching computer simply shuts down.`
+Current strongest macro candidate:
+`canon/ACT_BIBLE-v3.2-CANDIDATE.md`
 
-Leading:
-- physical settlement embodiment becomes finite/costly,
-- current persons claim rights over their own continuation,
-- non-conscious forecasting can remain,
-- involuntary new D3 lived branching is suspended/prohibited without a rights/resource regime,
-- the settlement accepts consequences instead of endlessly rehearsing itself.
+Preserved:
+- 9 Acts,
+- ~410 center,
+- long first-home attachment,
+- first major transition late Act2,
+- Act3 regression imitation,
+- Act4 foreknowledge social thriller,
+- Act5 absent-history exploration,
+- Act6 H-B civilization collapse,
+- Act7 astronomical lineage reveal,
+- Act8 HUMAN:1 + D3 rights,
+- Act9 settlement survival and irreversible choice.
 
-Theme movement:
-`possibility search → no perfect answer → learn resilience → accept one chosen present's consequences`.
+Key updates from v3.1:
+- one major protagonist transfer only,
+- Act2 exact C1/C3/C4 chain,
+- Act5 HUMAN:1 is current count, not eternal invariant,
+- Act6 remains H-B rather than disposable war-world,
+- Act7 no new world transfer,
+- Act8 old HUMAN>1 attrition payoff,
+- Act9 no universal macro-body migration,
+- transitional cross-lineage governance.
 
----
-
-# 18. Narrative craft
-
-Core other-history reveal grammar:
-`reaction → testimony → current contradiction → delayed evidence → recontextualization`
-
-Do NOT explain:
-`저 사람은 다른 세계에서 악인이었다.`
-
-Instead show through:
-- distrust that makes no sense locally,
-- wrong family terms,
-- incompatible memories,
-- evidence that arrives later,
-- current behavior that contradicts another person's testimony.
-
-No ornate author slogans in prose merely because they sound thematic.
-
----
-
-# 19. Current Red Team
-
-`docs/qa/V3-ULTRADENSE-ONTOLOGY-HOSTILE-CRITIC-v0.4.md`
+Critic:
+`docs/qa/ACT-BIBLE-v3.2-HOSTILE-REGRESSION-v0.1.md`
 
 Result:
-**PASS WITH P1 GATES**
-
-Major attacks survived:
-- `it was all simulation`,
-- `countless copies make death meaningless`,
-- `microscopic means infinite compute`,
-- `why can system still be surprised`,
-- `why society never discovered memory leaks`,
-- `HUMAN:1 = biological supremacy`,
-- `too many worlds = story sprawl`,
-- `protagonist = hidden chosen one`,
-- `outer ship is decorative`,
-- `system ethics too ambiguous`.
+**PASS WITH EXECUTION GATES / blocking P0=0.**
 
 ---
 
-# 20. Active blockers / gates
+# 18. Act v3.2 execution gates
 
-## P0/P0-close candidates
-1. HUMAN:1 exact attrition chronology and biological preservation chain.
-2. final settlement embodiment/representation for existing D3 claims.
-3. Act2 exact physical/substrate trigger and pre-plant chain.
-4. Act7~9 consolidation under current ultradense ontology.
-
-## P1
-1. active D3/quiescent scale bands without fake precision.
-2. pre-reveal anomaly-density ceiling.
-3. counterpart-not-replacement emotional proof cases.
-4. Act3~7 reader-facing lineage transition ledger.
-5. exact everyday district map/economic/reproduction/language details.
-6. alien/external-signal final role.
-7. occult/horror/ecology density regression.
-8. final originality/pacing/exposition Red Team after Act consolidation.
+1. Act1 ordinary episodes still need local problem/choice/result rhythm.
+2. Act2 failover plants must exist before payoff.
+3. no additional strong rememberer without replacing an existing role.
+4. Act4 must produce social/economic consequences, not repeat Act3 clue function.
+5. Act5 cannot run lore-only episodes consecutively.
+6. Act6 external/alien signal remains secondary.
+7. Act7 reveal order = relationship → institution → physical evidence → scale inference.
+8. Act8 concrete rights case must precede/accompany HUMAN identity payoff.
+9. Act9 relevant characters need real persistent-continuity risk where survival demands it.
+10. final payoff ledger coverage must exceed new planting.
 
 ---
 
-# 21. Existing design assets already built
+# 19. Narrative writing rule
 
-- core-cast multi-lineage matrix,
-- emergent critical actor pool,
-- major arc pool v0.2,
-- medium incident pool,
-- 410-episode density map,
-- cast/incident density harness,
-- writer grammar candidates,
-- narrative device atlas candidates,
-- horror/paleo/companion candidate addenda,
-- anomaly/death/continuity/human1/resource/physical-coupling harnesses.
+Other-history morality appears through:
+`reaction → testimony → current contradiction → delayed evidence → recontextualization`.
 
-These must be regressed against v0.4 before promotion; do not rebuild them merely because ontology was reopened.
+Do not narrate:
+`저 사람은 다른 세계에서 악인이었다.`
 
----
+Show:
+- unexplained distrust,
+- wrong family title,
+- contradictory testimony,
+- later evidence,
+- current choice that echoes or rejects the remembered version.
 
-# 22. Next execution order
-
-1. HUMAN:1 attrition chronology.
-2. active D3/quiescent scale band pass.
-3. Act2 trigger + clue plants.
-4. inspect/regress `ACT_BIBLE-v3.1-CANDIDATE.md` against v0.4.
-5. build Act3~7 lineage transition ledger.
-6. update major/medium incident pools only where v0.4 requires.
-7. settlement representation/embodiment closure.
-8. final hostile logic/originality/pacing Red Team.
-9. only then consider v3 Canon promotion.
+No ornate thematic slogans just because they sound literary.
 
 ---
 
-# 23. Formal state
+# 20. Remaining Deep Design work
+
+Macro P0 structure is no longer the main problem.
+
+Next priorities:
+1. regress core-cast multi-lineage matrix against Act v3.2 and protagonist-name TBD.
+2. lock/select ordinary city districts and daily geography.
+3. deepen economy/resource/reproduction/language only to scene-usable level.
+4. regress major arc pool + medium incident pool against Act v3.2.
+5. regress Writer Grammar + Narrative Device Atlas.
+6. build exact foreshadow/payoff ledger for Act2 failover, Arun, HUMAN:1, lineage scale.
+7. rerun 410 density/fun harness.
+8. occult/horror/companion/paleo density regression — cut what does not serve the story.
+9. external-signal/alien role final comparison.
+10. protagonist naming pass later, before character Canon promotion.
+11. v2→v3 explicit Canon change-control only after all gates pass.
+
+---
+
+# 21. Formal state
 
 **V3 DEEP DESIGN IN PROGRESS**
 
-**ULTRADENSE ONTOLOGY v0.4 = LEADING / HOSTILE REVIEW PASS WITH P1 GATES / NOT CANON / NOT MANUSCRIPT-READY.**
+**ULTRADENSE ONTOLOGY v0.4 = LEADING**
+
+**ACT BIBLE v3.2 = PASS WITH EXECUTION GATES**
+
+**BLOCKING MACRO P0 = 0**
+
+**NOT CANON / NOT MANUSCRIPT-READY / DO NOT START PROSE.**
