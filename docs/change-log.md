@@ -232,6 +232,24 @@
 
 ---
 
+## CHG-050 — Minimum Action Agent OS 작업방법론 채택 (도메인 무변경)
+- Date: 2026-08-19
+- Change Location:
+  - `CLAUDE.md` §13 신설 (순수 가산 +41행, 삭제 0행)
+  - `.claude/agents/episode-qa.md` 신설
+- Previous:
+  - 프로젝트에 `.claude/` 없음. 작업체계가 전부 산문 규칙으로만 존재.
+  - 원고 QA를 매번 `general-purpose` 서브에이전트(도구 `*` = Write/Edit/Bash/Agent 포함)에 위임 — 심사자가 심사 대상을 수정할 수 있는 구조적 독립성 결함.
+- New:
+  - `storm-credit/minimum-action-agent-os`를 **작업 방법론으로만** 채택. Local action space 기본 `<= 5`, 전체 Agent 수 무제한, 5 초과 시 시정 사다리 명문화.
+  - OS 프리미티브 9종을 **기존 자산에 매핑**(Harness M1~M8 / Red Team 72건 / 4-DESIGNS 93건 / change-log 등) — 중복 기계장치 생성 0.
+  - `episode-qa` 에이전트: `tools: Read, Grep, Glob` 화이트리스트로 local action space **∞ → 3**. Write/Edit/Bash/Agent 차단으로 재위임 우회까지 봉쇄.
+- Canon / Blueprint / POV / Reveal / 원고 변경: **0**. Agent 삭제: **0**.
+- QA: 독립 Critic 검수 `PASS_WITH_RISKS` / blocking **0** / 지적 7건 전량 반영 완료.
+- Status: **`OS ADOPTED AS METHOD ONLY / DOMAIN CANON UNTOUCHED`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character authority:

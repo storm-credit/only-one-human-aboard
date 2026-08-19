@@ -371,3 +371,43 @@ Accepted:
 
 Do not start prose merely to continue project administration/status work.
 Start manuscript only on explicit drafting/execution instruction.
+
+---
+
+# 13. WORKING METHOD — MINIMUM ACTION AGENT OS
+
+이 프로젝트는 `storm-credit/minimum-action-agent-os`를 **작업 방법론으로만** 채택한다.
+OS는 `어떻게 일할지`만 규정한다. **도메인 정본은 언제나 이 저장소의 Canon / Blueprint / POV / M1 / Freeze 문서다.**
+
+## Adoption rule
+- Local action space 최소화: 각 reasoning node가 한 번에 직접 선택하는 Agent/Tool/Skill/MCP 등 callable action은 기본 **`<= 5`**.
+- 이는 **전체 Agent 수 제한이 아니다.** 필요하면 Router/Specialist 계층으로 확장한다.
+- Least Tool / Least Context / Least Authority. 위임 시 전체 대화 이력이 아니라 과업 관련 Context Pack만 전달한다.
+- 새 Agent는 **실제 경계**(도구·권한·컨텍스트·독립평가·증거체계)가 있을 때만 만든다. 그렇지 않으면 직접 작업 / 규칙 / Skill로 처리한다.
+- 어떤 노드가 5를 초과할 때만, **불필요 Tool 제거 → Skill로 묶기 → 역할 분리 → Router 계층화** 순으로 최소 수정한다. 사다리 최저단에서 해결되면 거기서 멈춘다.
+- 비자명한 작업의 사전 점검이 실제로 도움될 때만 `/minimum-action-agent-os:os-preflight`.
+- 상태·계획이 유의미하게 바뀐 뒤 `/minimum-action-agent-os:os-state`.
+- 계획 이탈은 침묵 수정하지 않고 기록한다(`docs/change-log.md` CHG 항목).
+
+## OS 프리미티브 → 이 프로젝트의 기존 구현 (중복 생성 금지)
+아래는 **이미 존재한다.** OS 채택을 이유로 같은 기능을 새로 만들지 마라.
+
+| OS 프리미티브 | 이 프로젝트의 정본 구현 |
+|---|---|
+| Intent / 사용자 의도 확인 | `docs/manuscript/MANUSCRIPT-PIPELINE-v1.md` §4 + 본 문서 §1 (`이어서/진행` ≠ 집필) |
+| Blindspot Scan | `docs/qa/FINAL-COMPLETENESS-*`, `RANDOM-SCENE-FUZZ-20-v0.1.md` |
+| Preflight Trap Check | 해당 Deep Card의 Failure Conditions + 본 문서 §10 Forbidden Drifts |
+| Four Alternatives | 본 문서 §11 Change Control + `docs/**/*-4-DESIGNS-*.md` |
+| Exemplar Research | `docs/manuscript/STYLE-REFERENCES-v1.md`, `docs/reference-atlas/` |
+| Independent Critique / Red Team | `.claude/agents/episode-qa.md` (원고), `docs/qa/*RED-TEAM*.md` (설계) |
+| Harness / Golden Case | `docs/writing-ready/HARNESS-M1~M8-*.md` |
+| State / Canon Update | `canon/CANON_STATUS.md`, `docs/current-work-status.md`, `docs/manuscript/MANUSCRIPT-STATUS.md`, `docs/NEXT-CHAT-HANDOFF.md` — **원고 진척 수치의 정본은 `MANUSCRIPT-STATUS.md`** |
+| Plan Drift Log | `docs/change-log.md` (CHG-nnn) + `docs/change-control/` |
+
+원고 심사는 범용 에이전트가 아니라 **읽기 전용 `episode-qa`** 에 위임한다.
+심사자는 원고를 수정할 수 없다. 수정은 호출자가 한다. 이것이 독립성의 근거다.
+
+## Source of truth
+- 작업 방법: 이 문서의 명시적 override → 본 §13 → OS 원칙.
+- 도메인 내용: Canon / Freeze / Blueprint / POV / M1 → 상태·결정 기록 → 과업 입력.
+- **공통 OS가 공유물이라는 이유로 프로젝트 Canon을 덮어쓸 수 없다.**
