@@ -127,7 +127,7 @@ Act6 active Blueprint = **v0.2**.
 
 ---
 
-# Locked Story Anchors
+# Locked Story Anchors — Official v2
 
 - EP056 internal Count
 - EP058 public Count
@@ -140,18 +140,121 @@ Act6 active Blueprint = **v0.2**.
 - EP230 no author thesis
 - no later bigger ontology twist.
 
+These remain official **v2** anchors until an explicit v3 promotion replaces them.
+
+---
+
+# Parallel v3 C0 Reopening — ACTIVE CANDIDATE, NOT CANON
+
+User-requested genre-engine redesign is active in parallel with frozen v2.
+It does **not** silently overwrite official Canon or the accepted EP001~010 manuscript.
+
+Target genre:
+**폐쇄공간 SF 미스터리 + 스릴러 + 생존 + 군상극**.
+
+Current v3 core candidate artifacts include:
+- `canon/WORLD_BIBLE-v3-CANDIDATE.md`
+- `canon/CHARACTER_BIBLE-v3-CANDIDATE.md`
+- `canon/ACT_BIBLE-v3-CANDIDATE.md`
+- `docs/design-v3/V3-BRAINSTORM-BLINDSPOT-REGISTER.md`
+- v3 horror / divination / companion-ecology candidate addenda.
+
+Current length center:
+**~410 episodes / elastic ~380–430 / NOT FROZEN**.
+
+## v3 P0 ontology gate — candidate result
+
+The ontology / ethics / death / HUMAN:1 mechanics pass has now reached:
+
+**`P0 = 0 AS CANDIDATE / NOT CANON`**
+
+Verified by:
+- `docs/design-v3/V3-P0-ONTOLOGY-ETHICS-DEATH-HUMAN1-CLOSURE-v0.1.md`
+- `docs/design-v3/V3-P0-ONTOLOGY-ETHICS-DEATH-HUMAN1-REPAIR-v0.2.md`
+- `docs/design-v3/V3-P0-L2-LIFECYCLE-REPAIR-v0.3.md`
+- `docs/qa/V3-P0-ONTOLOGY-ETHICS-DEATH-HUMAN1-RED-TEAM-v0.1.md`
+- `docs/qa/V3-P0-ONTOLOGY-RE-RED-TEAM-v0.2.md`
+- `docs/qa/V3-P0-ONTOLOGY-FINAL-CRITIC-v0.3.md`
+
+Current bounded model:
+- physical Meridian / mission clock never rolls back,
+- most scenario search is non-conscious low-fidelity,
+- physical Primary civic state retained,
+- full-conscious alternate lived lineage is bounded to at most one unresolved secondary,
+- normal test end does not delete a civilization,
+- personal return is not resurrection,
+- rare PSS is body/Anchor/gate constrained,
+- exact HUMAN:1 count is a historical invariant rather than a chosen-one rule.
+
+## Current strong P1 candidates
+
+### HUMAN:1 biological form
+Preferred:
+**early natural-origin embryo during voyage → final-approach gestation → settlement-era birth.**
+
+Documents:
+- `docs/design-v3/V3-HUMAN1-BIOLOGICAL-FORM-4-DESIGNS-v0.1.md`
+- `docs/qa/V3-HUMAN1-BIOLOGICAL-FORM-CRITIC-v0.1.md`
+
+Status:
+`STRONG ADOPT CANDIDATE / P0=0 / NOT CANON`.
+
+### Act1~3 reality grammar
+Preferred:
+**physical Primary A → alternate lived lineage B → later one rare physical succession → novel physical state.**
+
+Document:
+- `docs/design-v3/V3-ACT1-3-REALITY-LAYER-4-DESIGNS-v0.1.md`
+
+Status:
+`STRONG ADOPT CANDIDATE / NOT CANON`.
+
+### Prior historical PSS
+Preferred cause:
+**industrial/health infrastructure disaster + small identity/provenance contamination**, roughly 150~220 years before current story as a working band.
+
+Document:
+- `docs/design-v3/V3-PRIOR-PSS-HISTORICAL-SCAR-4-DESIGNS-v0.1.md`
+
+Status:
+`STRONG ADOPT CANDIDATE / NOT CANON`.
+
+### Rowan residue coherence
+Preferred:
+**Arun accident NCL recalibration + facilities procedural/spatial memory bias + small statistical outlier component.**
+
+Document:
+- `docs/design-v3/V3-ROWAN-RESIDUE-COHERENCE-4-DESIGNS-v0.1.md`
+
+Status:
+`STRONG ADOPT CANDIDATE / NOT CANON`.
+
+## v3 next design queue
+
+1. exact A→B transition event.
+2. Act7 PSS placement and consequences.
+3. Reality / Death / Carry writer ledger for major arcs.
+4. L1 / alternate-lineage compute duty-cycle quantitative pass.
+5. Mystery/Foreshadow ledger using body scars / maintenance serials / NCL gaps / thermal signatures.
+6. core-cast pressure matrix completion.
+7. major-arc + medium-incident density validation.
+8. originality / science / survival-stakes regression before any v3 promotion.
+
+Hard:
+**v3 candidate work does not authorize manuscript rewrite or v2 Canon replacement.**
+
 ---
 
 # Current Next Phase
 
-The world/design/setting-bible gate is complete.
-
-Current manuscript state:
+Official v2 manuscript state remains:
 # **`IN PROGRESS`**
 
-- first eligible episode: **EP001**
+- first eligible episode: **EP011**
 - current active episode: **NONE**
-- accepted: **10 / 230** (EP001~010). 다음 화 EP011.
+- accepted: **10 / 230** (EP001~010).
 
-Do not start prose merely because Canon is ready.
-EP001 starts only when the user explicitly requests manuscript execution.
+However, while the parallel v3 C0 reopening is active, do **not** continue v2 prose merely from a generic `진행/이어서` instruction.
+Prose starts only on an explicit manuscript execution request and after the user deliberately chooses which story architecture is active.
+
+원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
