@@ -38,6 +38,28 @@ If any old/design/experimental file conflicts with current authority, current au
 
 ---
 
+### 0.5 V3 TRACK POINTER — READ BEFORE ACTING ON §1 / §8 / §12
+
+**이 파일의 §1~§12는 공식 v2 트랙(7막 / 230화 / Maren·Amara)을 서술한다. 그것은 여전히 공식 Canon이다.**
+그러나 이 저장소에는 **별도의 v3 후보 트랙(9막 / 410화 / 신규 주인공 TBD)** 이 존재하며 현재 활성 설계 작업은 전부 그쪽이다.
+
+새 세션은 §1로 넘어가기 전에 반드시 확인한다:
+- `docs/NEXT-CHAT-HANDOFF.md`
+- `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
+- `docs/current-work-status.md`
+
+경계:
+- 공식 Canon = **여전히 v2 + Amendment A**. v3는 promotion-ready이나 **승격되지 않았다**.
+- 아래 §1/§12의 `10 / 230`, `First eligible EP011`은 **v2 역사 원고 라인**의 값이다. v3 원고 라인은 **0 / 410**이며 아직 시작되지 않았다.
+- §8의 EP001 retrieval order는 **v2 전용**이다. v3 회차 집필에 사용하지 마라.
+- v3 Act 블루프린트는 `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT{1..9}-v0.1.md`.
+  `docs/writing-ready/EPISODE-BLUEPRINT-ACT{1..7}-v0.1.md`와 **파일명이 같지만 다른 문서다**(v2).
+- v3 EP001 집필은 3개 게이트 뒤에 있다: v3 Canon 승격 / 주인공 최종 이름 승인 / 명시적 Manuscript Start.
+
+감사 기록: `docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md` (C-01).
+
+---
+
 # 1. CURRENT GATE
 
 Completed:
@@ -55,10 +77,10 @@ Current manuscript state:
 **`IN PROGRESS`**
 
 Accepted manuscript:
-**10 / 230** (EP001~010).
+**10 / 230** (EP001~010) — **v2 역사 라인 기준**.
 
 First eligible episode:
-**EP011**.
+**EP011** — **v2 라인 한정**. (v3 라인은 0 / 410, 미착수. §0.5 참조.)
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 
@@ -363,13 +385,13 @@ Official Canon v2 frozen.
 Amendment A frozen.
 
 Current state:
-**MANUSCRIPT IN PROGRESS**.
+**MANUSCRIPT IN PROGRESS (v2 라인)**.
 
 First eligible episode:
-**EP011**.
+**EP011** — v2 라인 한정.
 
 Accepted:
-**10 / 230**.
+**10 / 230** (v2). v3 라인 = **0 / 410**, 3개 게이트 미충족으로 미착수 — §0.5 참조.
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 EP011~ 집필 시 `docs/manuscript/qa/BATCH-EP001-010.md` 의 P1 하드 제약 6건 준수.

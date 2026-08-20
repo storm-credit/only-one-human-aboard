@@ -145,6 +145,82 @@ Protagonist final-name approval is a Manuscript Start gate, NOT a story-promotio
 
 ---
 
+# 3.1 POV OWNERSHIP PRECEDENCE — HARD ROUTING RULE
+
+Authority:
+`docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+
+그 문서는 스스로 다음을 선언한다:
+> "supersedes **whole-episode ownership interpretation** of individual `**POV:**` labels in Act1~9 blueprint v0.1 files where this overlay differs".
+
+그러나 현재 실행 계층은 이 선언을 반영하지 않는다:
+- Act1~9 블루프린트 카드 47건이 여전히 `**POV:** <조연>` 으로 표기되어 있고,
+- 그 47건의 `DEEP-V3-EPxxx` 사이드카도 조연 POV로 되어 있다.
+  블루프린트에서 컴파일된 다수(`mode=blueprint-compiled`)는
+  `OFF-POV / INFLUENCE_ONLY_UNLESS_BLUEPRINT_EXPLICIT` 및
+  `Do not reroute success, discovery, or emotional resolution through the protagonist merely for centrality.` 를 싣고 있고,
+  손으로 작성된 소수(`mode=manual-body-preserved`, 예: EP004)는 표현이 다르지만
+  (`mode: INFLUENCE_ONLY / not POV`) 결론은 동일하게 조연 POV다,
+- CTX/DEEP 820개 노드(410 CTX + 410 DEEP) 가운데 이 overlay를 참조하는 노드는 **0개다.**
+
+## 판정 방법 (재현 가능)
+
+overlay §0 규칙 1이 정본이다:
+> "Episodes NOT listed as secondary-owned below are protagonist-owned."
+
+따라서 **비주인공 집합 = 각 Act의 `## MIXED SECONDARY-OWNED` + `## FULL ABSENT` 불릿 항목뿐이다.**
+
+주의 — `## Converted to protagonist-owned mixed structure` 절의 `Reason:` 산문에서 에피소드 번호를 긁어내면 **안 된다.**
+그 산문은 부정 진술을 포함한다(예: Act3 "EP098 remains fully absent", Act5 "EP206 remains fully absent",
+Act7 "EP295 and EP301 are retained as full absence", Act9 "EP371 alone opens the final Act away from protagonist").
+Act5·Act7의 converted 목록은 불릿이 아니라 산문이므로 **열거가 아니라 차집합으로 도출해야 한다.**
+
+검산 (9막 전부 일치):
+- 비주인공 = **91**, 주인공 소유 = 410 − 91 = **319** — overlay 총계와 일치.
+- 블루프린트 카드가 주인공 POV로 표기한 화 = **272**.
+- 272 + **47** = **319**. 즉 충돌 집합은 정확히 **47화**다.
+
+## 규칙
+
+아래 47화에서 카드 `**POV:**` 라벨 또는 Deep 사이드카의 `OFF-POV` 지시와
+`POV-OWNERSHIP-REALLOCATION-v0.2` 가 충돌하면 **overlay가 이긴다.**
+
+해당 화는 `주인공 소유 / mixed structure` 로 집필한다.
+overlay §0 규칙 4에 따라, 원래 조연 장면·결정·기능은 **삭제하지 않고**
+분리된 B-plot / 오프닝 / 결과 장면 / 핸드오프로 보존한다.
+overlay §0 규칙 5는 유지된다: 주인공을 그가 소유하지 않은 권한 영역에
+단지 분량을 위해 밀어 넣지 마라.
+
+## 대상 47화
+
+- Act1 (3): EP004, EP031, EP034
+- Act2 (5): EP052, EP066, EP074, EP078, EP080
+- Act3 (3): EP101, EP114, EP130
+- Act4 (6): EP147, EP157, EP161, EP168, EP172, EP174
+- Act5 (6): EP186, EP198, EP200, EP202, EP217, EP219
+- Act6 (6): EP236, EP253, EP260, EP263, EP265, EP269
+- Act7 (6): EP281, EP285, EP307, EP309, EP322, EP325
+- Act8 (6): EP348, EP350, EP358, EP363, EP366, EP369
+- Act9 (6): EP377, EP390, EP395, EP402, EP404, EP408
+
+## 명시적 비대상 — overlay가 조연/부재로 **유지**하는 화
+
+아래는 전환 대상이 **아니며** 조연 소유 또는 완전 부재로 남는다. 주인공을 밀어 넣지 마라.
+- 완전 부재로 명시 유지: EP098, EP111, EP206, EP295, EP301, EP371
+- 그 외 `MIXED SECONDARY-OWNED` / `FULL ABSENT` 불릿에 등재된 전체 91화.
+
+## 집필 시 처리
+
+해당 47화를 집필할 때는 max-5 번들의 3번 레인
+(`POV/Relationship Microbundle`) 을 구성하기 전에 이 절을 확인한다.
+`POV-OWNERSHIP-REALLOCATION-v0.2` 는 6번째 번들이 아니라
+**3번 레인의 소유권 판정 기준**이다.
+
+근거: `docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md` C-02.
+설계 변경 없음. 새 결정 없음. 기존 overlay 선언의 집행일 뿐이다.
+
+---
+
 # 4. ASSET / COLLECTIBILITY AUTHORITY
 
 Master roster:
