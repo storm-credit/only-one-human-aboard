@@ -1,0 +1,31 @@
+name: Deep Context Integrity
+
+on:
+  push:
+    branches:
+      - prewriting/deep-context-410
+    paths:
+      - 'docs/obsidian-v3/deep-contexts/**'
+      - 'docs/obsidian-v3/contexts/**'
+      - 'tools/deep_context_integrity.py'
+      - '.github/workflows/deep-context-integrity.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'docs/obsidian-v3/deep-contexts/**'
+      - 'docs/obsidian-v3/contexts/**'
+      - 'tools/deep_context_integrity.py'
+      - '.github/workflows/deep-context-integrity.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate deep projected Context contract
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python tools/deep_context_integrity.py
+          else
+            python tools/deep_context_integrity.py --allow-partial
+          fi
