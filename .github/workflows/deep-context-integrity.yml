@@ -38,12 +38,10 @@ jobs:
       - name: Validate full Deep Projected Context contract
         run: python tools/deep_context_integrity.py
 
-      - name: Verify PR contains current compiled output
-        if: github.event_name == 'pull_request'
-        run: git diff --exit-code -- docs/obsidian-v3/deep-contexts
-
-      - name: Commit compiled Deep Context on feature push
-        if: github.event_name == 'push'
+      - name: Commit compiled Deep Context back to feature branch
+        if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository)
+        env:
+          TARGET_BRANCH: ${{ github.event_name == 'pull_request' && github.head_ref || 'prewriting/deep-context-410' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -52,5 +50,8 @@ jobs:
             echo "Deep Context output already current."
           else
             git commit -m "Compile Deep Context 410/410 from Blueprint authority"
-            git push origin HEAD:prewriting/deep-context-410
+            git push origin HEAD:${TARGET_BRANCH}
           fi
+
+      - name: Verify generated output is committed
+        run: git diff --exit-code -- docs/obsidian-v3/deep-contexts
