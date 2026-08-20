@@ -16,6 +16,11 @@ Authorities:
 - `V3-C2-READER-FACING-ASSET-LABEL-LEDGER-v0.1.md`
 - current Act/Asset overlays.
 
+Hostile-QA patches applied:
+- family read-aloud names use `클라라 / 사미르 / 에바`,
+- M06 boundary equipment is context-described, not a stable memorization label,
+- stable non-character labels remain 19 + 1 reserve.
+
 ---
 
 # 0. Reader-language rule
@@ -72,7 +77,7 @@ Strategic work vocabulary:
 - 점검 승인.
 
 Family language:
-- 아버지/엄마/누나/리아 naturally,
+- 아버지/엄마/누나/에바 naturally,
 - no family full-name roll call.
 
 H-A Mira:
@@ -95,8 +100,10 @@ Language goal:
 Earned new salient labels:
 - 구조 스키프,
 - 이송 크래들,
-- 배리어 드론,
 - 서비스 프레임 only where needed.
+
+M06 public-safety boundary equipment:
+use contextual words such as `차단 드론 / 이동식 차단판 / 안전 경계 장비`; do not teach one fixed product term.
 
 Emergency vocabulary:
 - 봉쇄,
@@ -136,7 +143,7 @@ H-B difference should be shown through:
 not new H-B terminology.
 
 Family:
-`미드링` becomes emotionally important because Elena/Samir/Ria's move predates protagonist arrival.
+`미드링` becomes emotionally important because **클라라 / 사미르 / 에바** household's move predates protagonist arrival.
 
 Mira address boundary:
 - current Mira = `미라`,
@@ -268,7 +275,7 @@ Hard:
 - no five new ship-class names.
 
 Familiar bridge vocabulary:
-- 구조 크롤러 clamp/attachment logic,
+- 구조 크롤러 attachment logic,
 - 화물 터그 coupling logic,
 - 검교정,
 - 올드웍스 repair layers.
@@ -341,7 +348,7 @@ A1:
 family names mostly hidden behind kinship; Mira familiarity established.
 
 A3:
-Elena/Samir/Ria current household details can prove H-B without exposition.
+**클라라 / 사미르 / 에바** current household details can prove H-B without exposition.
 
 A6:
 family autonomous choices; no protagonist command language treated as family authority.
@@ -361,7 +368,8 @@ FAIL if:
 5. Act7 creates a ship-class glossary,
 6. Act8 turns moral conflict into acronym dialogue,
 7. Act9 gives every new landmark a mythic proper name,
-8. credits are used as a universal solution to strategic scarcity.
+8. credits are used as a universal solution to strategic scarcity,
+9. the 20th terminology reserve slot is consumed without demonstrated recurring need.
 
 ---
 
