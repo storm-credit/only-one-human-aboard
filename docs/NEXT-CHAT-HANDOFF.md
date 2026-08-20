@@ -1,11 +1,11 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
 > Rolling handoff — 2026-08-20.
-> Active state: **V3 PREWRITING STRUCTURAL LOCK PASS + IP/VISUAL/MATERIAL CANDIDATE FREEZE PASS**.
+> Active state: **STRUCTURAL PREWRITING PASS + IP/MATERIAL CANDIDATE FREEZE PASS + REFERENCE/PRE-CONCEPT RESEARCH PASS**.
 > EP001~410 blueprint materialization COMPLETE.
-> POV v0.2: protagonist-owned **319/410 = 77.8%**, protagonist-present **386/410 = 94.1%**, fully absent **24/410 = 5.9%**.
-> Reopened IP/visual/material/collectibility phase: hostile QA v0.2 PASS, previous IP P1 5→0.
-> Blocking P0 = 0 / structural P1 = 0 / IP structural P1 = 0.
+> POV: protagonist-owned **319/410 = 77.8%**, protagonist-present **386/410 = 94.1%**, fully absent **24/410 = 5.9%**.
+> Reference collection/pre-concept synthesis is now CLOSED after final QA v0.3.
+> Actual visual concept differentiation is NOT yet proven.
 > Official v2 Canon + accepted v2 EP001~010 remain preserved until explicit v3 promotion.
 > Generic continuation does not authorize prose or Canon promotion.
 
@@ -17,6 +17,7 @@ Do NOT redesign from scratch.
 Do NOT ask user to paste previous work.
 Do NOT draft prose from generic `진행/이어서`.
 Do NOT silently promote v3.
+Do NOT restart broad reference hunting without an empirical visual failure.
 
 Repository:
 `storm-credit/only-one-human-aboard`
@@ -26,288 +27,232 @@ Read first:
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
-5. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
-6. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
-7. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
-8. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
-9. `docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
-10. `docs/prewriting-v3/V3-MANUSCRIPT-START-READINESS-CHECKLIST-v0.1.md`
-11. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
-12. `canon/CANON_STATUS.md` only to remember official status is still v2.
+5. `docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
+6. `docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
+7. `docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
+8. `docs/reference-v3/V3-ORIGINAL-MERIDIAN-SYNTHESIS-BOARDS-v0.1.md`
+9. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
+10. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+11. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+12. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
+13. `canon/CANON_STATUS.md` only to remember official status is still v2.
 
-Read Act-specific blueprints/QA only when needed.
+Read Act-specific blueprint/QA only as needed.
 
 ---
 
-# 1. Official vs candidate
+# 1. Current completion boundary
 
-## Official v2
-Still official:
-- v2 World/Character Canon,
-- Act Bible v1,
-- Amendment A governance/ethics,
-- accepted historical manuscript EP001~010 / 230.
-
-## Active v3
-Current state:
-# **STRUCTURAL + IP DEEP DESIGN CANDIDATE FREEZE PASS**
-
-Completed:
-- Deep Design architecture,
-- Candidate Freeze structural package,
-- 410 episode blueprint materialization,
-- 9 Act hostile QAs,
+## Story / prewriting
+**PASS**
+- 9 Acts / 410 episode cards,
+- all Act hostile QAs,
 - full-series regression,
-- hard-science boundary,
+- hard-science boundaries,
 - HUMAN medical/development boundary,
-- context-pack architecture,
-- POV v0.2 recalibration,
-- post-POV Act audit,
-- targeted micro-brainstorm + scene overlay,
-- reopened IP/visual/material/collectibility deep-design phase,
-- core-cast drawable illustration sheets,
+- targeted scene-risk patches,
+- protagonist-heavy POV recalibration.
+
+## IP / visual / material deep design
+**CANDIDATE FREEZE PASS**
+- core cast visual/material rules,
+- civilian material culture,
 - machine/craft/equipment ecology,
-- Experienced-Meridian vs physical Outer-Ark machine separation,
-- Outer-Ark macro topology/maintenance-control architecture,
-- background art-direction + nonindustrial landmarks,
-- destination environment/settlement art direction,
-- 15 exact collection-completion chains,
-- integrated IP hostile QA v0.2.
+- Outer Ark physical topology/maintenance,
+- background art direction,
+- destination material direction,
+- 15 exact collection/recognition chains.
 
-P0=0 / structural P1=0 / IP structural P1=0.
+## Reference research / pre-concept synthesis
+# **PASS / CLOSED**
 
----
-
-# 2. Narrative identity / POV
-
-# **주인공 중심 다중인과형 장편**
-
-Current:
-- protagonist-owned 319/410 = 77.8%,
-- protagonist-present 386/410 = 94.1%,
-- full protagonist-absent 24/410 = 5.9%.
-
-Secondary causal ownership remains real.
-Act6 neutral corridor still bypasses protagonist as origin/intermediary.
-
----
-
-# 3. Core ontology
-
-One real physical Outer Ark Meridian.
-Outer physical time always moves forward.
-
-Inside:
-- atomic/nanoscale addressable anchors,
-- distributed ultradense substrate,
-- astronomical possibility search,
-- most states not conscious,
-- selected D3 histories fully lived.
-
-D3 persons are full persons.
-
-Hard:
-- no cosmological multiverse truth,
-- no literal pocket universe,
-- no fixed 2~3 lived-world cap,
-- no repeated protagonist world-hopping,
-- finite power/heat/interconnect/radiation/repair.
-
-H-A = Acts1~2 opening Meridian.
-One rare continuity misbinding at Act2 end.
-H-B = Acts3~9 current world.
-
-Experienced Meridian is not authorially `fake`; Outer Ark reveal changes implementation scale, not moral/causal reality.
-
----
-
-# 4. HUMAN:1
-
-`HUMAN` = Natural-Origin departure-continuity legacy category, NOT personhood.
-
-- launch HUMAN >1,
-- real outer-ark attrition leaves one,
-- separate genetic archive,
-- protagonist NOT HUMAN,
-- no sovereignty/admin/research/reproduction duty.
-
-Medical form:
-early-stage natural-origin embryo/zygote cryopreservation → final-approach thaw → far-future ectogenesis → ordinary development/birth.
-
----
-
-# 5. Character state
-
-Protagonist:
-- male ~36~38,
-- final name TBD,
-- `선체 손상분석관` working title/function,
-- ordinary family,
-- Arun accident = one deep wound,
-- no prior full regression.
-
-Current visual direction:
-- lean practical build,
-- short asymmetric-wear field jacket,
-- narrow hard field case,
-- surface-reading crouch/body language,
-- no armor/weapon hero coding.
-
-Family:
-- both parents alive,
-- older sister household + school-age child,
-- no secret/chosen lineage.
-
-Mira:
-- H-A serious former relationship,
-- H-B shorter/different prior history,
-- endpoint by current choice, not restoration/destiny.
-
-Arun H-B:
-independent current life outside protagonist team.
-
----
-
-# 6. IP / visual / material current authority
-
-Freeze candidate:
-`docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+Current master:
+`docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
 
 Final QA:
-`docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
+`docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
 
-Key principles:
-- civilian city, not sterile mission set,
-- characters recognized in grayscale silhouette before color dependence,
-- no surname→costume/phenotype automation,
-- no universal jumpsuits,
-- utility machines, not fighter/mecha progression,
-- no ace machine / protagonist signature craft,
-- no RPG rarity language,
-- Old Works not sole iconic environment,
-- nonindustrial landmarks for Transfer/Midring/Garden/Med,
-- collectibility belongs to reader recognition, not protagonist inventory.
+Broad reference collection is no longer justified.
+Remaining uncertainty requires actual original concept testing, not more source accumulation.
 
-Exact collection chains assigned: **15**.
+## Actual visual art
+# **NOT YET FROZEN / EMPIRICAL QA OPEN**
 
 ---
 
-# 7. Physical Outer Ark / craft
+# 2. Reference synthesis now selected
 
-Current topology:
-**forward protection → protected substrate/biological/HUMAN core → service/fabrication/settlement cargo spine → major thermal rejection architecture → aft propulsion complex.**
+Characters:
+**grounded human morphology + selective strong silhouette/posture anchors**.
 
-Old v2 giant 3-habitat population geometry is NOT current v3 exterior authority.
+Machines:
+**shared interface lineage + role-specific body geometry**.
 
-Outer maintenance:
-**hard safeties + robotic maintenance fleet + bounded non-conscious planning/diagnostics + validated civilization lesson input.**
+Civic environments:
+**shared Meridian standards + mixed-function landmark identity**.
 
-No hidden D3 teleoperation and no secret AI god.
+Destination:
+**process-synthesized cool-temperate water-rich world**, not an Iceland/Faroe/Earth-location copy.
 
-Physical craft roles:
-- inspection pod,
-- service tug,
-- rescue/access craft,
-- radiator/shield carriage,
-- deployment barge,
-- later environment-justified surface lander/utility vehicles.
+Material culture:
+**durable ordinary diversity** — repair, replacement, personalization, reissue and disposable everyday objects coexist.
 
-Acts1~6 Experienced-Meridian machines are a separate layer.
+Collectibility:
+**lineage + use history**, not rarity/power.
 
 ---
 
-# 8. Destination
+# 3. Character same-face control
 
-Current qualitative direction:
-**temperate water-rich rocky world + near-compatible total pressure + oxygen-poor managed breathing + real weather/open horizon + incomplete bio/chemical certainty.**
+Authority:
+`docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
 
-Consequences:
-- open-sky emotional reward,
-- no full EVA suit default outdoors,
-- breathing/monitoring still required,
-- no instant Earth 2.0 mass migration,
-- early settlement remains industrial/logistical/medical and incomplete.
+13/13 core cast have differentiated:
+- face length/width,
+- jaw/cheek,
+- nose,
+- eyes/brows,
+- age texture,
+- body mass,
+- posture,
+- asymmetry,
+- explicit collision pair.
 
-Exact atmosphere numbers/lander aerodynamics remain open.
+Highest-risk first visual-test batch:
+# **Protagonist / Arun / Gideon / Ivo**
 
----
+Why:
+AI/concept art can easily collapse them into one tired technical/middle-aged male face.
 
-# 9. IP execution watch
+Required test:
+- same neutral background/light,
+- grayscale,
+- same neutral clothing,
+- hair/head-cover neutralized,
+- front / 3-4 / side,
+- 64px silhouette,
+- pairwise confusion.
 
-Mandatory during art/prose:
-1. at least 3 recurring personal possessions remain persistence-only,
-2. at least 1 recurring old machine is retired because newer is genuinely better,
-3. Act9 brand-new HIGH machine/craft families <=2,
-4. ordinary-noise majority,
-5. no forced return just to satisfy ledger,
-6. no authoritative `all fake simulation` framing,
-7. reject weaponized/humanoid heroic mecha drift,
-8. preserve nonindustrial key-art share.
-
-These are execution constraints, not structural blockers.
-
----
-
-# 10. Brainstorming policy
-
-Broad premise/world brainstorming:
-# **CLOSE**
-
-Broad IP/visual/material brainstorming:
-# **CLOSE AFTER EXPLICIT REOPENED PHASE PASS**
-
-Reopen only if actual art/prose/physics regression proves a concrete failure, or user explicitly changes aesthetic target.
-
-Targeted brainstorming remains allowed for concrete failures.
+Hair/color/clothing cannot rescue failed faces.
 
 ---
 
-# 11. Remaining C2 / tone
+# 4. Machine differentiation control
 
-Required before normal EP001 prose preparation:
-- **protagonist final full name**.
+First visual-test batch:
+# **Structural crawler / Mapping drone / Utility tug / Rescue skiff**
 
-Surface open:
-- family names,
-- district proper names,
-- currency/payment vocabulary,
-- minor venue names,
-- exact color palettes,
-- manufacturer/model names,
-- violence presentation ceiling,
-- romance surface share,
-- ending emotional temperature.
+No color/logo dependence.
+Function must produce the silhouette:
+- crawler = attachment/access,
+- mapping drone = sensor viewpoint,
+- tug = load/coupling,
+- rescue skiff = casualty access.
+
+No fighter noses, hero cockpits, weapons or humanoid mecha drift.
 
 ---
 
-# 12. Promotion
+# 5. Environment recognition control
 
-Recommended later:
-**promote v3 as official active Canon while preserving v2 + old accepted EP001~010 as frozen historical edition.**
+First visual-test batch:
+# **Transfer / Midring / Garden / Med / Old Works**
 
-No promotion performed yet.
-Generic continuation does NOT authorize promotion.
+Must be distinguishable through:
+- geometry,
+- dominant motion,
+- public/private use,
+- material age,
+- acoustic implication,
+- landmark,
+while still sharing Meridian signage/utility/construction ancestry.
+
+No game-biome palette coding.
 
 ---
 
-# 13. Current next step
+# 6. Destination respiratory correction
 
-Generic `진행/이어서` now means:
-1. continue protagonist full-name calibration from scratch,
-2. narrow name candidates by Korean readability/rhythm, age/job fit, future multicultural plausibility, and famous-character collision,
-3. then family/district/payment naming consistency,
-4. bundled tone calibration if needed,
-5. promotion preparation.
+Authority:
+`docs/design-v3/V3-DESTINATION-RESPIRATORY-SUPPORT-REPAIR-v0.1.md`
 
-Do NOT return to `Rowan Han`, `Kyle Han`, or fixed surname Han.
-Do NOT default to clipped Korean 2+2 rhythm such as `에런 베일 / 레온 케인 / 이안 로웰 / 노아 벡` because user found it awkward.
-Prefer asymmetric full-name rhythm such as 3+2, 2+3, 3+3 where natural.
+Current destination has near-compatible total pressure but oxygen-poor atmosphere.
+Therefore:
+- filter-only mask = REJECT,
+- normal outdoors = supplemental breathing gas/oxygen enrichment + monitoring,
+- contaminant filtration = separate/optional,
+- long-range work can use larger/semi-closed support,
+- processed indoor spaces are breathable,
+- no full pressure-suit default.
+
+This was a real science blindspot found during reference research and is now repaired.
+
+---
+
+# 7. Collectibility rules
+
+Current 15 exact return chains remain active.
+
+Collectibility layers:
+1. character attachment,
+2. functional recognition,
+3. historical completion.
+
+Hard:
+- no rarity colors,
+- no S/A/B tiers,
+- no `new=always better`,
+- no `old=always better`,
+- no hero-machine inventory,
+- no every-object-Chekhov rule,
+- ordinary/no-payoff objects must remain majority.
+
+---
+
+# 8. Protagonist naming state
+
+Final full name:
+# **TBD**
+
+Do NOT re-freeze `다니엘 마레크`; user said it does not land.
+Do NOT return to fixed `한` surname.
+
+Important Korean-reader rule:
+after final full name is chosen, fix **one primary reader-facing call name**.
+Do not alternate first name and surname casually enough to make them feel like two characters.
+
+Name work remains C2 and can resume after/alongside visual execution QA, but current generic continuation should prioritize the visual test phase because that is the user’s latest focus.
+
+---
+
+# 9. Current next phase
+
+Generic `진행/이어서` should now continue:
+
+1. define neutral concept-test presentation spec,
+2. run V-A character confusion test on protagonist/Arun/Gideon/Ivo,
+3. Red Team same-face result,
+4. then V-B machine confusion test,
+5. then V-C environment recognition test,
+6. only after these pass create cinematic/final key art directions,
+7. later return to final protagonist name/C2 and Canon promotion.
 
 Do NOT start prose automatically.
+Do NOT silently promote Canon.
 
 ---
 
-# 14. Context-length protection
+# 10. Official status
 
-Before chat becomes unreliable, update this handoff and `docs/current-work-status.md` again.
-Never ask user to paste project state that GitHub can recover.
+Official v2 remains frozen/official.
+v3 promotion is still only recommended, not executed.
+
+Recommended promotion package remains:
+`docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`.
+
+---
+
+# 11. Context protection
+
+Before context becomes unreliable, update this file and `docs/current-work-status.md` again.
+Never ask user to paste state that GitHub can recover.
