@@ -22,14 +22,15 @@ Episode retrieval order is now:
 <!-- DEEP-CONTEXT-410-STATUS:END -->
 
 
-Status: `ACTIVE ROUTING FOR V3 CANDIDATE / PROMOTION-READY / NOT OFFICIAL CANON / NO PROSE`
-Date: 2026-08-20
+Status: `ACTIVE ROUTING / v3 = OFFICIAL CANON (PROMOTED 2026-08-21) / MANUSCRIPT NOT STARTED`
+Date: 2026-08-21
 Project: 《우주선에는 인간이 한 명뿐이다》
 
 Critical distinction:
-- official Canon remains **v2 + Amendment A** until explicit v3 promotion,
-- v3 story architecture has passed the final pre-promotion audit,
-- generic `진행/이어서` does NOT authorize promotion or prose.
+- **official Canon = v3 since 2026-08-21** (`docs/change-control/CHG-055-V3-CANON-PROMOTION.md`),
+- v2 + Amendment A = **FROZEN HISTORICAL EDITION**, preserved, not active for new work,
+- protagonist final name = **루카스 켈러**, APPROVED,
+- generic `진행/이어서` still does NOT authorize prose.
 
 ---
 
@@ -67,7 +68,7 @@ Visual production:
 21. `docs/visual-production-v3/V3-VISUAL-PRODUCTION-INDEX-v0.1.md`
 
 Official status check:
-`canon/CANON_STATUS.md` remains v2 until explicit promotion.
+`canon/CANON_STATUS.md` — **v3 is the active Canon since 2026-08-21 (CHG-055)**; v2 is the frozen historical edition.
 
 ---
 
@@ -122,26 +123,28 @@ Character authority:
 `canon/CHARACTER_BIBLE-v3.1-CANDIDATE.md`
 
 Protagonist final full name:
-# **TBD**
+# **루카스 켈러 / Lukas Keller**
 
-Current leading surface candidate:
-# **루카스 베르너**
+Status: **APPROVED / FROZEN — 2026-08-21 (CHG-055)**.
 
-If approved later:
-primary reader-facing call = **루카스**.
+Primary reader-facing call = **루카스** only.
 Do not alternate surname/given name casually.
 
-Candidate family surface:
-- 마르틴 베르너
-- 나디아 소토
-- 클라라 베르너
-- 사미르 코스타
-- 에바 코스타
+Superseded candidate `루카스 베르너` was rejected: `베르너 / Werner` is both a given name and a
+surname in German, and the repo's own scoring ranked it 4th (32/35) with a `HERO` flag.
+`켈러 / Keller` is surname-only and removes the ambiguity.
+
+Family surface (frozen with the name):
+- 마르틴 켈러 (부)
+- 나디아 소토 (모)
+- 클라라 켈러 (누나)
+- 사미르 코스타 (매형)
+- 에바 코스타 (조카)
 
 Mira endpoint:
 new current relationship may begin in Act9; never H-A destiny restoration.
 
-Protagonist final-name approval is a Manuscript Start gate, NOT a story-promotion blocker if promotion keeps the field TBD.
+Protagonist final-name approval is **CLOSED** — `루카스 켈러`, approved 2026-08-21 (CHG-055).
 
 ---
 
@@ -333,19 +336,19 @@ After promotion:
 
 # 10. REMAINING GATES
 
-1. **Explicit v3 Canon promotion authorization**
-2. **Protagonist final-name approval** before v3 EP001 prose
-3. **Targeted empirical visual QA** before final-art freeze
-4. **Explicit Manuscript Start request** after promotion/name closure
-
-These are separate gates.
+1. ~~Explicit v3 Canon promotion authorization~~ — **CLOSED 2026-08-21 (CHG-055)**
+2. ~~Protagonist final-name approval~~ — **CLOSED — 루카스 켈러**
+3. **Targeted empirical visual QA** — before final-art freeze only; does NOT block prose
+4. **Explicit Manuscript Start request** — **the only remaining blocking gate**
 
 ---
 
 # FINAL ROUTING VERDICT
 
-# **V3 STORY = PROMOTION-READY**
-# **OFFICIAL CANON = STILL v2 UNTIL EXPLICIT PROMOTION**
+# **OFFICIAL CANON = v3 (PROMOTED 2026-08-21)**
+# **v2 = FROZEN HISTORICAL EDITION**
+# **PROTAGONIST = 루카스 켈러**
+# **MANUSCRIPT = 0 / 410, NOT STARTED**
 # **NO BROAD DESIGN REOPENING**
 # **NO AUTOMATIC PROSE**
 # **NO MASS IMAGE GENERATION**

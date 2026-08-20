@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 4 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 4: **미래를 안다고 믿는 사람들 — EP137~181**
 
@@ -11,8 +11,8 @@ Authority:
 - `docs/narrative-engineering/V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4-CANDIDATE.md`
 - `docs/narrative-engineering/WRITER-GRAMMAR-MATRIX-v0.3-CANDIDATE.md`
 
-Protagonist label:
-`[주인공/TBD]`.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (final name APPROVED 2026-08-21, CHG-055).
 
 ## Act contract
 
@@ -45,7 +45,7 @@ Hard:
 # B20 EP137~145 — 먼저 아는 사람
 
 ## EP137 — 소문이 값이 되는 순간
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Transfer Belt / Midring
 **Want:** understand why Act3 anomaly rumor has spread beyond the small investigation circle.
 **Action:** sees people exchanging alleged `before-it-happens` tips about outages, routes and prices; most are derivative gossip.
@@ -55,7 +55,7 @@ Hard:
 **End Turn:** one wealthy operator, Cassian, appears to have moved assets before several disruptions.
 
 ## EP138 — 너무 일찍 준비한 사람
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Transfer Belt commercial/industrial interface
 **Want:** determine whether Cassian's preparation pattern overlaps known anomalies.
 **Action:** reviews public timing with Sora's limited access; finds several uncanny but individually explainable moves.
@@ -75,7 +75,7 @@ Hard:
 **End Turn:** Cassian voluntarily supplies some records but withholds one private planning source.
 
 ## EP140 — 맞힌 것만 세면 누구나 예언자다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** records / ordinary social space
 **Want:** test Cassian's track record against misses.
 **Action:** discovers many failed preparations and false alarms hidden by reputation; accuracy drops substantially.
@@ -95,7 +95,7 @@ Hard:
 **End Turn:** prediction names a transit/industrial target and a narrow time window.
 
 ## EP142 — 막을수록 달라진다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / Transfer planning
 **Want:** decide whether to act on a prediction he cannot validate.
 **Action:** recommends only low-cost technical precautions where evidence independently supports them.
@@ -115,7 +115,7 @@ Hard:
 **End Turn:** the fake predictor repeats one detail apparently copied from a genuinely restricted source.
 
 ## EP144 — 누가 먼저 알았나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** security/technical interface
 **Want:** distinguish copied restricted detail from impossible memory.
 **Action:** traces the detail through ordinary leakage chain; this case is not supernatural.
@@ -139,7 +139,7 @@ Hard:
 # B21 EP146~150 — 진짜보다 그럴듯한 가짜
 
 ## EP146 — 믿을 이유가 생기면
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** predicted target / technical inspection
 **Want:** assess whether the new anomaly is evidence of an imminent physical attack.
 **Action:** finds one genuine vulnerability but no proof anyone intends to exploit it.
@@ -159,7 +159,7 @@ Hard:
 **End Turn:** one claimant is exposed as buying leaked schedules.
 
 ## EP148 — 가짜를 잡아도 남는 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** security/Old Works
 **Want:** reduce noise around the actual predicted target.
 **Action:** helps separate physical vulnerabilities from rumor-generated movement; high-profile false claimant case closes.
@@ -179,7 +179,7 @@ Hard:
 **End Turn:** one regular customer reports seeing suspicious pre-positioned equipment near target route.
 
 ## EP150 — 경보를 올릴 만큼
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** target infrastructure
 **Want:** decide whether new physical evidence justifies escalating precautions.
 **Action:** confirms suspicious equipment/access pattern is operationally dangerous regardless of prophecy source.
@@ -193,7 +193,7 @@ Hard:
 # B22 EP151~159 — 예고된 공격
 
 ## EP151 — 예정된 시간
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works/Transfer target family
 **Want:** prepare structural/system safety without assuming exact remembered sequence.
 **Action:** checks barriers, pressure/power isolation and fallback routes.
@@ -203,7 +203,7 @@ Hard:
 **End Turn:** one predicted detail occurs early and differently.
 
 ## EP152 — 첫 번째로 틀린 순서
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** target sector
 **Want:** determine whether attack has begun or normal anomaly is being misread.
 **Action:** an access disturbance resembles predicted pattern but sequence is wrong; he resists overreacting.
@@ -223,7 +223,7 @@ Hard:
 **End Turn:** hostile action starts at an alternate access point.
 
 ## EP154 — 알고 있던 공격, 모르는 공격자
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** infrastructure target
 **Want:** contain physical consequences of real sabotage/hostage event.
 **Action:** uses technical familiarity but realizes the actual actor's route/motive is not in remembered prediction.
@@ -243,7 +243,7 @@ Hard:
 **End Turn:** one perpetrator expects a security reaction that did not happen because Selene changed plan.
 
 ## EP156 — 기억에 없는 사람들
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** trapped civilian/service route
 **Want:** keep a damaged barrier/utility path stable during extraction.
 **Action:** confronts people whose presence here is entirely H-B-specific; old sequence cannot guide him.
@@ -263,7 +263,7 @@ Hard:
 **End Turn:** attack shifts because traffic patterns changed.
 
 ## EP158 — 다른 결말을 만드는 재료
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** target boundary
 **Want:** adapt to Mira/Selene/Sora-created current geometry.
 **Action:** uses H-A memory only as one warning among present evidence; helps prevent a structural secondary casualty the remembered path never contained.
@@ -287,7 +287,7 @@ Hard:
 # B23 EP160~165 — 맞았는데 틀렸다
 
 ## EP160 — 사건의 끝과 예언의 끝은 다르다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** post-incident review
 **Want:** understand what the prediction actually got right.
 **Action:** separates target family, broad event class and a few details from wrong timing/order/people/outcome.
@@ -307,7 +307,7 @@ Hard:
 **End Turn:** one suspect claims they acted because they too `knew` something would happen.
 
 ## EP162 — 예언이 범죄를 만들었나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** security/technical review
 **Want:** determine whether rumor itself helped cause attack behavior.
 **Action:** finds some actors exploited public prediction to hide preparation; prophecy became part of causal chain.
@@ -327,7 +327,7 @@ Hard:
 **End Turn:** the person has made other claims—some wrong, some disturbingly specific.
 
 ## EP164 — 틀린 예언자
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring / interview preparation
 **Want:** evaluate the new source before meeting them.
 **Action:** reviews their misses and sees why institutions ignored them; one old claim overlaps an impossible-history detail.
@@ -337,7 +337,7 @@ Hard:
 **End Turn:** meeting arranged under ordinary legal/medical/privacy limits.
 
 ## EP165 — 맞았던 건 과거일 수도 있다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** meeting/interview
 **Want:** test whether Ivo predicts future or remembers something.
 **Action:** Ivo describes one event as something already lived, not a vision, yet parts of it clearly did not happen in H-B.
@@ -351,7 +351,7 @@ Hard:
 # B24 EP166~174 — 이보 / 실제 누출과 이용
 
 ## EP166 — 같은 기억도 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** controlled interview / evidence route
 **Want:** compare Ivo's memories to H-A/H-B/Act3 claimant evidence.
 **Action:** finds overlap plus contradiction; Ivo is not simply sharing protagonist's past.
@@ -361,7 +361,7 @@ Hard:
 **End Turn:** one Ivo detail is testable and high-risk if public.
 
 ## EP167 — 검증할수록 위험해지는 말
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** service/archive interface
 **Want:** test one Ivo claim privately.
 **Action:** current evidence partially supports it, but another detail fails.
@@ -381,7 +381,7 @@ Hard:
 **End Turn:** Ivo chooses to speak publicly despite advice.
 
 ## EP169 — 말하면 미래가 바뀐다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** public/media boundary
 **Want:** persuade Ivo to label his claims as uncertain lived memories rather than prophecy.
 **Action:** fails to control him; Ivo has his own reasons and agency.
@@ -402,7 +402,7 @@ Hard:
 **End Turn:** a prediction he just repeated is already becoming less likely because of public response.
 
 ## EP171 — 예언이 자기 길을 지운다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** citywide practical consequences
 **Want:** observe what changed after Ivo's disclosure.
 **Action:** public/official precautions remove one condition required for Ivo's remembered event.
@@ -422,7 +422,7 @@ Hard:
 **End Turn:** evidence shows Cassian once dumped an advantage publicly at personal cost.
 
 ## EP173 — 알았으면 왜 말하지 않았나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Cassian interview
 **Want:** confront Cassian about using possible remembered information privately.
 **Action:** Cassian explains—without yet direct POV confirmation—that early successful fragments were followed by failures, disbelief and risks of causing worse outcomes.
@@ -446,7 +446,7 @@ Hard:
 # B25 EP175~181 — 둘 다 있었던 일
 
 ## EP175 — 서로 맞지 않는 두 증거
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical/archive interface
 **Want:** compare Ivo/Cassian evidence without assuming one is correct.
 **Action:** two evidence chains support histories that cannot both be H-B and do not match each other fully.
@@ -456,7 +456,7 @@ Hard:
 **End Turn:** a physical/cultural artifact offers an independent route.
 
 ## EP176 — 기억이 없는 증거
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** ordinary civic/maintenance location
 **Want:** test a non-memory artifact connected to one history.
 **Action:** finds a procedure/object/record that corroborates an event nobody locally remembers.
@@ -466,7 +466,7 @@ Hard:
 **End Turn:** evidence supports one fragment while contradicting another.
 
 ## EP177 — 둘 다 거짓말하지 않을 수 있다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** private discussion
 **Want:** formulate a theory that does not require picking one liar.
 **Action:** considers multiple histories/versions as provisional model; refuses to call them parallel universes as fact.
@@ -476,7 +476,7 @@ Hard:
 **End Turn:** institutions must decide how to handle future claims after Act4 attack.
 
 ## EP178 — 예언자를 만드는 제도
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** civic/security review
 **Want:** prevent a policy response that either canonizes or criminalizes all claimants.
 **Action:** contributes evidence that genuine cases are too sparse/unreliable for predictive authority.
@@ -486,7 +486,7 @@ Hard:
 **End Turn:** public still creates informal markets/beliefs despite policy.
 
 ## EP179 — 미래를 거래하지 않는 법
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Transfer Belt/Midring
 **Want:** see whether policy changed behavior.
 **Action:** scams persist but high-profile confidence falls; some legitimate safety reporting improves because claims are separated from prophecy labels.
@@ -496,7 +496,7 @@ Hard:
 **End Turn:** protagonist receives notice about an old infrastructure/record anomaly from Act1/2 material.
 
 ## EP180 — 다시 과거를 보러 가는 이유
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works/Central interface
 **Want:** decide whether physical evidence can answer what memories cannot.
 **Action:** reconnects impossible repair chronology with old restricted service records.
@@ -506,7 +506,7 @@ Hard:
 **End Turn:** one retired sector identifier maps to a place with no matching disaster history.
 
 ## EP181 — 있었던 일
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** threshold to Act5 investigation
 **Want:** summarize only what can now be responsibly claimed.
 **Action:** concludes: some people hold sincere fragments of incompatible lived pasts; predictions decay; current evidence shows at least two incompatible histories have left real traces.
@@ -520,7 +520,7 @@ Hard:
 # ACT 4 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **29**
+- 루카스: **29**
 - Sora: 5 — EP139, 141, 155, 163, 168
 - Mira: 2 — EP145, 157
 - Selene: 2 — EP153, 161

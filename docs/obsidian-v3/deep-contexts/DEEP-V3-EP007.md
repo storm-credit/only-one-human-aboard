@@ -79,13 +79,13 @@ Router: [[../contexts/CTX-V3-EP007]] · Episode: [[../episodes/EP-V3-007]]
 - pov_known: ordinary cause resolved.
 - reader_confirmed: sometimes there is nothing uncanny underneath.
 - reader_suspected: NONE_AUTHORIZED.
-- allowed_reveal: bounded payoff=`ordinary repair is genuinely ordinary`.
+- allowed_reveal: bounded payoff=`ordinary repair is genuinely ordinary` + D05 mundane primer=`an old emergency-bracing checklist is carried forward as routine inherited safety knowledge`.
 - forbidden_future_reveal: all hidden ontology.
 
 ## Foreshadow / MacGuffin / Payoff
-- active_chain: `B01 practical payoff, NOT mystery chain`.
+- active_chain: `B01 practical payoff` + `D05 mundane primer`.
+- ordinary_event_guard: `HARD — the checklist is ordinary paperwork. No anomaly, no ominous framing, nobody finds it strange.`
 - current_touch_purpose: close first work problem completely.
-- ordinary_event_guard: HARD.
 
 ## Genre Engine
 - primary_engine: procedural.
@@ -117,4 +117,4 @@ realized_asset_lifecycle_delta: PENDING
 actual_next_episode_carry: PENDING
 
 ## Retrieval Compile Map
-1 EP007 Blueprint. 2 B01 closure carry. 3 C01/C07/C08. 4 repaired Old Works/signoff. 5 no mystery device/no new collectible.
+1 EP007 Blueprint. 2 B01 closure carry. 3 C01/C07/C08. 4 repaired Old Works/signoff. 5 D05 mundane primer only (ordinary safety knowledge; no anomaly, no collectible)/no new collectible.

@@ -1,6 +1,6 @@
 # V3 C2 TONE / VIOLENCE / ROMANCE / ENDING / PALETTE v0.1
 
-Status: `C2 SURFACE-TONE CANDIDATE / NOT CANON / NO PROSE`
+Status: `ACTIVE C2 TONE AUTHORITY under v3 Canon (promoted 2026-08-21) / NO PROSE`
 Date: 2026-08-20
 Project: 《우주선에는 인간이 한 명뿐이다》
 

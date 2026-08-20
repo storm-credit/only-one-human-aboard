@@ -1,14 +1,14 @@
 # ACT BIBLE v3.2 — ULTRADENSE CIVILIZATION FIELD
 
-Status: `C0 REOPENING / CURRENT LONG-FORM CANDIDATE / NOT CANON`
+Status: `OFFICIAL ACTIVE CANON — v3 PROMOTED 2026-08-21 (CHG-055)`
 Project: 《우주선에는 인간이 한 명뿐이다》
 Genre: **폐쇄공간 SF 미스터리 + 스릴러 + 생존 + 군상극**
 
 Important:
-- Existing v2 Canon remains official until explicit v3 promotion.
-- This file is the current consolidated **v3 candidate** Act architecture.
+- **v3 is the official active Canon since 2026-08-21.** v2 is a FROZEN HISTORICAL EDITION.
+- This file is the **official** consolidated v3 Act architecture. The `CANDIDATE` suffix is retained deliberately (minimal-mutation promotion); authority comes from `canon/CANON_STATUS.md`, not the filename.
 - It preserves the successful 9-Act / ~410 structure from v3.1 and patches only mechanics contradicted by the later ultradense ontology.
-- Protagonist name is **TBD**. Older `Rowan Han` references are placeholders only.
+- Protagonist is **루카스 켈러 / Lukas Keller**, reader-facing call-name `루카스` (APPROVED 2026-08-21). Older `Rowan Han` references are design history only.
 
 Working authorities:
 - `docs/design-v3/V3-ULTRADENSE-CIVILIZATION-FIELD-CONSOLIDATION-v0.4-CANDIDATE.md`
@@ -86,7 +86,7 @@ Reader sees:
 
 Protagonist:
 - male late 30s,
-- name TBD,
+- **루카스 켈러 / Lukas Keller**, reader-facing `루카스`,
 - **선체 손상분석관** candidate,
 - ordinary family background,
 - old Arun accident exists but is not explained fully.
@@ -787,9 +787,10 @@ Never let the answer become:
 
 ---
 
-# 9. Freeze gates remaining
+# 9. Freeze gates — CLEARED
 
-Before v3 Canon promotion:
+All items below were cleared before the 2026-08-21 promotion (CHG-055); item 1 closed with
+`루카스 켈러`. Retained as the record of what promotion required:
 1. protagonist final name pass,
 2. core cast exact family/relationship lock,
 3. everyday-city exact district/economy/language selective freeze,
@@ -806,7 +807,7 @@ Before v3 Canon promotion:
 
 # 10. Current verdict
 
-**ACT BIBLE v3.2 = CURRENT STRONGEST CANDIDATE.**
+**ACT BIBLE v3.2 = OFFICIAL ACTIVE NARRATIVE CANON (promoted 2026-08-21, CHG-055).**
 
 - 9 Acts preserved.
 - ~410 center preserved.
@@ -819,4 +820,5 @@ Before v3 Canon promotion:
 - Act9 uses substrate settlement + mixed embodiment + transitional governance.
 
 Status:
-**STRUCTURALLY READY FOR DEEP REGRESSION / NOT CANON / NOT MANUSCRIPT-READY.**
+**OFFICIAL ACTIVE NARRATIVE CANON — PROMOTED 2026-08-21 (CHG-055).**
+Manuscript start is gated only by an explicit user instruction.

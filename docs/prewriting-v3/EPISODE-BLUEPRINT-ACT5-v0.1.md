@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 5 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 5: **없었던 역사 — EP182~228**
 
@@ -10,8 +10,8 @@ Authority:
 - `docs/narrative-engineering/V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4-CANDIDATE.md`
 - `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
 
-Protagonist label:
-`[주인공/TBD]`.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (final name APPROVED 2026-08-21, CHG-055).
 
 ## Act contract
 
@@ -45,7 +45,7 @@ Hard:
 # B26 EP182~188 — 오래된 구역
 
 ## EP182 — 기록보다 장소
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works → Legacy Service Layer access
 **Want:** inspect a retired service complex because current safety work requires it.
 **Action:** earns access through a real maintenance/safety need, not curiosity alone; route is awkward but known to exist.
@@ -55,7 +55,7 @@ Hard:
 **End Turn:** one sealed route suggests an older traffic/service pattern absent from current maps.
 
 ## EP183 — 폐쇄된 이유
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Legacy Service Layer
 **Want:** determine whether the old route is safe enough to inspect.
 **Action:** finds mundane reasons for most closures—pressure/fire code changes, obsolete utilities, redevelopment—but one structural seam/traffic scar has no matching renovation event.
@@ -75,7 +75,7 @@ Hard:
 **End Turn:** one record references casualty logistics without named disaster.
 
 ## EP185 — 사람이 다녔던 흔적
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Legacy Service Layer
 **Want:** explain physical wear pattern.
 **Action:** traces floor/door/vent repairs indicating sustained use inconsistent with `rare service access` official history.
@@ -95,7 +95,7 @@ Hard:
 **End Turn:** a family/ordinary person notices an old memorial marker associated with the area.
 
 ## EP187 — 지워진 사건이 아니라 없는 사건
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Legacy Layer / public edge
 **Want:** test whether missing history is simple censorship/deletion.
 **Action:** finds current H-B civic history lacks downstream consequences expected from a major hidden disaster—suggesting not merely a cover-up.
@@ -119,7 +119,7 @@ Hard:
 # B27 EP189~196 — 있었던 적 없는 수리
 
 ## EP189 — 수리 횟수
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Legacy Layer
 **Want:** establish minimum physical history of the structure.
 **Action:** counts repair generations/material transitions and proves at least one major intervention missing from H-B chronology.
@@ -139,7 +139,7 @@ Hard:
 **End Turn:** one document references a registry batch that still exists.
 
 ## EP191 — 실제로 고쳐진 벽
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Legacy Layer
 **Want:** tie orphan record period to material evidence.
 **Action:** material age/repair sequence and orphan records converge within a broad historical band.
@@ -159,7 +159,7 @@ Hard:
 **End Turn:** Registry Worker flags impossible person/death references in the old batch.
 
 ## EP193 — 사람이 섞인 기록
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Central registry interface
 **Want:** understand why structural/casualty record includes people not linked to any H-B disaster.
 **Action:** sees names/status transitions that cannot all fit current family/civic history.
@@ -179,7 +179,7 @@ Hard:
 **End Turn:** current address of one `dead` person exists.
 
 ## EP195 — 살아 있는 사망자
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** registry/public records
 **Want:** verify whether the death marker is simple mistaken identity.
 **Action:** compares age, identity data and family links; mismatch remains too specific for easy namesake explanation.
@@ -203,7 +203,7 @@ Hard:
 # B28 EP197~203 — 죽은 사람의 기록
 
 ## EP197 — 아룬이라는 이름
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** archive/registry interface
 **Want:** determine whether the Arun reference is another person.
 **Action:** identifiers/age/work history align too closely with his Arun to dismiss.
@@ -223,7 +223,7 @@ Hard:
 **End Turn:** protagonist is informed Arun has a current H-B work/home life.
 
 ## EP199 — 만나러 갈 자격
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring/Transfer route
 **Want:** go directly to Arun.
 **Action:** is forced to ask whether his H-A guilt gives him any claim on current H-B Arun; delays impulsive confrontation long enough to verify contact route.
@@ -243,7 +243,7 @@ Hard:
 **End Turn:** protagonist recognizes he is about to make the same mistake with Arun.
 
 ## EP201 — 살아 있다는 사실
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Arun current worksite vicinity `[exact occupation C2/TBD, outside protagonist team]`
 **Want:** confirm with his own eyes that H-B Arun exists.
 **Action:** sees Arun working with current colleagues/obligations before any confrontation; current life is visibly not a waiting-room for protagonist.
@@ -263,7 +263,7 @@ Hard:
 **End Turn:** protagonist receives permission/contact window with Arun.
 
 ## EP203 — 만나기 전날
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** home / Old Works
 **Want:** decide what he actually wants from Arun—absolution, proof, or information.
 **Action:** replays only necessary H-A facts and recognizes he cannot ask current Arun to forgive an event this Arun may not have lived.
@@ -277,7 +277,7 @@ Hard:
 # B29 EP204~212 — 아룬
 
 ## EP204 — 처음 보는 얼굴이 아닌 사람
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** neutral current-H-B meeting place
 **Want:** determine what Arun remembers without imposing H-A narrative.
 **Action:** current Arun recognizes protagonist from a different shared history; basic facts diverge.
@@ -287,7 +287,7 @@ Hard:
 **End Turn:** Arun states a fact about the old incident that directly contradicts protagonist's guilt memory.
 
 ## EP205 — 내가 닫았던 문
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** meeting / later technical record route
 **Want:** test Arun's version against H-B evidence.
 **Action:** Arun says the closure sequence/outcome differed; protagonist insists on details, risking treating him as witness rather than person.
@@ -307,7 +307,7 @@ Hard:
 **End Turn:** Arun decides to provide one current record because it matters to safety/history, not to comfort protagonist.
 
 ## EP207 — 서로 다른 죄책감
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical/archive comparison
 **Want:** compare H-A memory and H-B record without forcing one original.
 **Action:** discovers current Arun may remember protagonist making a different consequential choice—or Arun making the decisive sacrifice himself.
@@ -327,7 +327,7 @@ Hard:
 **End Turn:** protagonist must face Arun again without asking which version is real.
 
 ## EP209 — 사과할 수 없는 일
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** neutral meeting
 **Want:** apologize for H-A without demanding acceptance.
 **Action:** realizes an apology for an event current Arun did not live can itself be coercive/confusing; instead owns how he treated Arun now.
@@ -347,7 +347,7 @@ Hard:
 **End Turn:** provided record points toward a deeper administrative classification chain unrelated to his personal case.
 
 ## EP211 — 죽은 사람은 돌아오지 않았다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring/Old Works
 **Want:** integrate the encounter without calling H-B Arun a resurrection.
 **Action:** behaviorally accepts that his H-A Arun remains lost even while current Arun lives.
@@ -357,7 +357,7 @@ Hard:
 **End Turn:** Hana asks protagonist to examine a technical field attached to legacy preservation records.
 
 ## EP212 — 다음 질문
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Central archive / technical interface
 **Want:** move from personal Arun case back to broader evidence.
 **Action:** links records from absent history to a preservation/mission data chain containing unfamiliar count/category fields.
@@ -371,7 +371,7 @@ Hard:
 # B30 EP213~220 — 숫자 하나
 
 ## EP213 — HUMAN: 1
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Central archive/technical terminal
 **Want:** determine what the field counts.
 **Action:** confirms `HUMAN: 1` is not a typo and appears across more than one old subsystem/record family.
@@ -381,7 +381,7 @@ Hard:
 **End Turn:** access to one deeper record is restricted by mission-era classification.
 
 ## EP214 — 사람 수가 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** archive / public statistics comparison
 **Want:** test obvious meanings—population, crew, survivors, biological patients.
 **Action:** current 300k-scale citizen data makes those interpretations impossible; field is a special category.
@@ -401,7 +401,7 @@ Hard:
 **End Turn:** physical maintenance references suggest the field corresponds to something actually preserved, not mere metadata.
 
 ## EP216 — 숫자와 몸
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / preservation-support infrastructure interface
 **Want:** see whether `HUMAN` field maps to a physical maintenance load.
 **Action:** finds indirect power/maintenance/protection routes that bypass ordinary civic services, but cannot locate endpoint.
@@ -421,7 +421,7 @@ Hard:
 **End Turn:** one rumor targets a restricted facility, creating real security/resource consequences.
 
 ## EP218 — 하나를 찾는 사람들
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Central/Old Works interface
 **Want:** keep investigation from becoming a hunt for a person.
 **Action:** helps Sora/Hana separate field verification from identity claims; physical route is too indirect to name endpoint.
@@ -441,7 +441,7 @@ Hard:
 **End Turn:** deeper records confirm the count is current and actively maintained.
 
 ## EP220 — 현재값
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical/archive verification
 **Want:** establish whether `1` is historical artifact or live current state.
 **Action:** independent records/maintenance signaling confirm it is a current count/state field.
@@ -455,7 +455,7 @@ Hard:
 # B31 EP221~228 — 한 명은 누구인가
 
 ## EP221 — 사람을 세는 방식
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Central / civic records
 **Want:** test what attributes correlate with HUMAN classification.
 **Action:** ordinary demographic/medical/civic categories do not map; current citizens are not tagged in a way that explains it.
@@ -465,7 +465,7 @@ Hard:
 **End Turn:** protagonist's own anomaly makes him a public/private suspect candidate despite no matching field evidence.
 
 ## EP222 — 내가 한 명이라면
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** home / work
 **Want:** privately test the chosen-one theory without believing it.
 **Action:** checks what his current medical/civic/technical records actually show; nothing grants special HUMAN/admin status.
@@ -475,7 +475,7 @@ Hard:
 **End Turn:** one archival route suggests old `HUMAN` values changed over voyage history, but data are incomplete.
 
 ## EP223 — 숫자는 늘 같았나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** archive provenance
 **Want:** determine whether `1` has always been the value.
 **Action:** finds damaged/partial historical references that imply the field may once have differed, but cannot yet prove exact count.
@@ -495,7 +495,7 @@ Hard:
 **End Turn:** release fails to stop speculation but makes false claims easier to challenge.
 
 ## EP225 — 다른 숫자들
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical record comparison
 **Want:** see what neighboring legacy fields mean to infer HUMAN by context.
 **Action:** neighboring categories cover biological/genetic/preservation/mission assets but nomenclature has drifted; none equates `HUMAN` with citizen/person.
@@ -505,7 +505,7 @@ Hard:
 **End Turn:** one preservation route physically lies outside ordinary civic substrate/service topology.
 
 ## EP226 — 우회하는 전력
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / deep support routing
 **Want:** map why preservation support bypasses familiar civic infrastructure.
 **Action:** traces redundant protected load paths but reaches access boundary before endpoint.
@@ -515,7 +515,7 @@ Hard:
 **End Turn:** unusual resource margin concerns begin appearing elsewhere in the city.
 
 ## EP227 — 질문이 너무 많아진다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring/Transfer
 **Want:** return to normal life after weeks of anomaly investigation.
 **Action:** ordinary shortages/delays/political distrust are growing; people care about current services more than his ontology puzzle.
@@ -525,7 +525,7 @@ Hard:
 **End Turn:** one small transit-routing decision is made by the already-seeded Dispatcher under increasing load.
 
 ## EP228 — 하나는 확인됐다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Central/Old Works/Midring transition
 **Want:** state the narrow truth he can carry into the next crisis.
 **Action:** current `HUMAN:1` is real; meaning and identity are unresolved; Arun proves current people cannot be reduced to remembered versions; absent history is physically real.
@@ -539,7 +539,7 @@ Hard:
 # ACT 5 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **30**
+- 루카스: **30**
 - Hana: 5 — EP184, 190, 196, 215, 224
 - Sora: 3 — EP186, 192, 208
 - Arun H-B: 2 — EP206, 210

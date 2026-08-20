@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 7 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 7: **셀 수 없는 삶 — EP280~327**
 
@@ -10,8 +10,8 @@ Authority:
 - `docs/narrative-engineering/V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4-CANDIDATE.md`
 - `docs/narrative-engineering/WRITER-GRAMMAR-MATRIX-v0.3-CANDIDATE.md`
 
-Protagonist label:
-`[주인공/TBD]`.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (final name APPROVED 2026-08-21, CHG-055).
 
 ## Act contract
 
@@ -55,7 +55,7 @@ Hard:
 # B39 EP280~287 — 내가 기억하는 곳이 없다
 
 ## EP280 — 그대로 남은 것은 없다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** damaged Midring → Old Works
 **Want:** return to normal work after Act6 stabilization.
 **Action:** finds routes, staffing, utility priorities and neighborhood routines permanently changed; the practical task is a housing/utility repair, not ontology research.
@@ -75,7 +75,7 @@ Hard:
 **End Turn:** protagonist notices one older rule whose origin still predates H-B evidence.
 
 ## EP282 — 돌아갈 기준점
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** home / work
 **Want:** identify which remembered Meridian should count as `original` or desired baseline.
 **Action:** compares H-A, early H-B and post-Act6 current state; each contains people/relationships/institutions the others lack.
@@ -85,7 +85,7 @@ Hard:
 **End Turn:** Juno's network preserves a crisis practice nobody plans to undo.
 
 ## EP283 — 고장 전으로 돌아갈 수 없는 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
 **Want:** restore a damaged utility route to its pre-Act6 topology.
 **Action:** discovers new loads/settlements/social dependencies make exact restoration unsafe; designs a forward repair instead.
@@ -95,7 +95,7 @@ Hard:
 **End Turn:** an older inherited procedure proves unexpectedly relevant to the redesign.
 
 ## EP284 — 왜 그렇게 만들었는지 모르는 규칙
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / civic standards
 **Want:** determine whether inherited rule is still technically justified.
 **Action:** rule prevents one failure mode but includes extra restrictions nobody can trace to H-B history.
@@ -115,7 +115,7 @@ Hard:
 **End Turn:** protagonist learns similar unexplained safeguards exist across domains.
 
 ## EP286 — 너무 많은 우연
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Central/Old Works
 **Want:** test whether missing-origin knowledge is just archival decay.
 **Action:** compiles a small cross-domain sample—engineering, emergency procedure, perhaps law/cultural taboo—too patterned to dismiss but not enough to explain mechanism.
@@ -139,17 +139,17 @@ Hard:
 # B40 EP288~295 — 배우지 않은 지식
 
 ## EP288 — 맞는 규칙이 틀릴 때
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
-**Want:** apply the inherited safeguard to a current repair.
-**Action:** discovers one inherited rule is overcautious/poorly fitted to present topology; blindly following it would worsen recovery time.
-**Relationship:** Niko proposes adaptation; protagonist accepts evidence-based modification.
-**World:** inherited learning is useful but not perfect optimization.
+**Want:** restore one current utility/repair path without blindly applying an inherited safeguard.
+**Action:** discovers one inherited rule is overcautious/poorly fitted to present topology; following it would preserve a theoretical margin but leave a real neighborhood service offline. He and Niko test a bounded modification and physically restore the smaller route.
+**Relationship:** Niko proposes the adaptation; protagonist accepts the evidence and lets Niko own the field check.
+**World:** inherited learning is useful but must answer to present bodies, time and resources.
 **Clue:** D05 guards against omniscient-system interpretation.
-**End Turn:** another domain shows a safeguard that saved lives for reasons nobody recalls.
+**End Turn:** the repaired route holds, but the modification must be justified before the next service window.
 
 ## EP289 — 기억보다 오래 사는 제도
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Civic/technical interface
 **Want:** understand how lessons move when people do not remember source events.
 **Action:** traces ordinary pathways—standards revisions, policy ancestry, templates—yet finds discontinuities requiring missing source histories.
@@ -160,16 +160,16 @@ Hard:
 
 ## EP290 — 기록의 계보
 **POV:** Hana
-**Zone:** archive
-**Want:** determine whether `lineage` in metadata means document versions, organizations or something else.
-**Action:** demonstrates ordinary meanings explain some uses but fail across several preservation/learning records.
-**Relationship:** Hana does not jump to civilization theory; asks protagonist to inspect associated physical asset IDs.
-**World:** archive and engineering must converge.
-**Clue:** D08 namespace seed strengthens.
+**Zone:** archive / asset registry interface
+**Want:** turn `lineage` metadata into a testable present-world consequence instead of collecting more unexplained records.
+**Action:** ordinary document/personnel meanings explain most uses; one preservation record only resolves when paired with a live maintenance asset ID that still draws protected power.
+**Relationship:** Hana does not jump to civilization theory; asks protagonist to measure the associated physical load before she names any mechanism.
+**World:** archive and engineering converge through a measurable resource draw, not another missing-origin survey.
+**Clue:** D08 namespace seed strengthens through asset-linked physical evidence.
 **End Turn:** one ID maps to a maintenance load not attributable to known city systems.
 
 ## EP291 — 도시가 쓰지 않는 전력
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / protected support routing
 **Want:** explain a persistent protected load while city remains resource-constrained.
 **Action:** confirms the load is real, distributed and larger/more structured than the known HUMAN preservation route alone.
@@ -179,7 +179,7 @@ Hard:
 **End Turn:** access request triggers legacy protection rules.
 
 ## EP292 — 누구의 전력인가
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Civic/engineering review
 **Want:** gain lawful access to enough protected-load metadata to assess safety.
 **Action:** must argue current technical risk, not curiosity; review grants bounded diagnostics but not contents.
@@ -199,7 +199,7 @@ Hard:
 **End Turn:** one preservation incident links the load to continuity cases.
 
 ## EP294 — 모르는 지식의 값
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** repair/recovery site
 **Want:** decide whether to use another inherited rule despite unknown source.
 **Action:** adapts it cautiously and prevents a local failure; shows why civilization would preserve successful lessons even without autobiographical context.
@@ -223,7 +223,7 @@ Hard:
 # B41 EP296~303 — 다른 사람의 나
 
 ## EP296 — 저 사람을 왜 믿어요
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring/current civic recovery
 **Want:** resolve a practical safety/community interaction involving a known character.
 **Action:** a rare witness reacts with disproportionate distrust to someone currently behaving responsibly, citing an incompatible remembered atrocity/decision.
@@ -233,7 +233,7 @@ Hard:
 **End Turn:** evidence is insufficient to decide whether witness is genuine.
 
 ## EP297 — 지금 한 행동
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** same/current incident chain
 **Want:** judge current person on current action rather than remembered reputation.
 **Action:** current actor makes a difficult but defensible choice; protagonist resists importing guilt from other history.
@@ -253,7 +253,7 @@ Hard:
 **End Turn:** one fragment concerns Arun/protagonist in a way neither remembers.
 
 ## EP299 — 내가 죽었던 역사
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** evidence comparison
 **Want:** test a claim that in another history he, not Arun, died or was absent.
 **Action:** finds indirect records consistent with a different Arun/protagonist outcome.
@@ -263,7 +263,7 @@ Hard:
 **End Turn:** current Arun agrees to review evidence on his own terms.
 
 ## EP300 — 없는 사람의 책임
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** neutral current-Arun interaction
 **Want:** discuss incompatible histories without asking which one is `real`.
 **Action:** protagonist shares evidence, current Arun rejects responsibility for acts another history's Arun performed and likewise refuses to blame protagonist for another counterpart's acts.
@@ -283,7 +283,7 @@ Hard:
 **End Turn:** their evidence points to an identity/continuity registry collision.
 
 ## EP302 — 서로 다른 삶을 같은 이름으로 부를 때
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** registry/medical interface
 **Want:** understand why systems sometimes group related identities while current law treats current persons separately.
 **Action:** sees legacy identity-lineage references that are not ordinary aliases or backups.
@@ -317,7 +317,7 @@ Hard:
 **End Turn:** current registry cannot resolve case through normal death/identity rules.
 
 ## EP305 — 같은 정보와 같은 사람
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** registry/technical consultation
 **Want:** understand whether technical identity linkage implies personal continuity.
 **Action:** learns systems can preserve/reference related state information without guaranteeing uninterrupted subjectivity.
@@ -327,7 +327,7 @@ Hard:
 **End Turn:** one older continuity record shows interrupted and uninterrupted cases are treated differently.
 
 ## EP306 — 끊긴 뒤의 권리
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** civic review
 **Want:** see whether claimant can obtain current practical rights without pretending to be the deceased/other-history person.
 **Action:** supports a limited solution based on present relationship/evidence/consent, not identity substitution.
@@ -347,7 +347,7 @@ Hard:
 **End Turn:** Leila finds medical continuity metadata relevant to protagonist's Act2 event.
 
 ## EP308 — 죽기 전에 옮겨진 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** medical/technical continuity review
 **Want:** determine whether his Act2 event was resurrection after death.
 **Action:** evidence indicates active continuity migration began **before confirmed death**, distinguishing his case from reconstructing a dead snapshot.
@@ -367,7 +367,7 @@ Hard:
 **End Turn:** Registry Worker locates the destination-binding record family.
 
 ## EP310 — 잘못된 주소
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** registry/maintenance cross-reference
 **Want:** explain why his active continuity migrated into H-B.
 **Action:** finds a rare legacy routing/index collision pattern connecting his origin binding and a closely related H-B endpoint; no deliberate selector field points to him.
@@ -391,7 +391,7 @@ Hard:
 # B43 EP312~319 — 너무 큰 주소
 
 ## EP312 — 몇 개가 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / registry-maintenance interface
 **Want:** estimate what the address namespace is actually indexing.
 **Action:** simple person/room/document/version models fail by orders of structural depth even without exact count.
@@ -401,7 +401,7 @@ Hard:
 **End Turn:** protected maintenance map contains repeated microscopic/distributed anchor terminology.
 
 ## EP313 — 주소가 있는 물리장치
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** protected support infrastructure
 **Want:** determine whether namespace corresponds to actual hardware/resources.
 **Action:** traces distributed protected nodes/anchor maintenance loads; no one atom contains a city, and no one node equals one simple world.
@@ -411,7 +411,7 @@ Hard:
 **End Turn:** load patterns imply different execution depths.
 
 ## EP314 — 같은 주소, 다른 깊이
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical analysis
 **Want:** explain why some indexed states consume dramatically different resources.
 **Action:** infers tiers from usage behavior: many shallow/archival/predictive states, fewer deep interactive states, rare crisis-depth spikes.
@@ -431,7 +431,7 @@ Hard:
 **End Turn:** some deep-lineage records include births/families/institutions, not just test agents.
 
 ## EP316 — 살았던 기록
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** archive/technical evidence
 **Want:** determine whether high-depth lineages are merely simulations without persons.
 **Action:** encounters operational traces impossible to reduce to abstract forecasts—long-lived relationships, births, institutions, local history and continuity resource protections.
@@ -441,7 +441,7 @@ Hard:
 **End Turn:** Sora asks who authorized creation/termination of these lives.
 
 ## EP317 — 누가 알고 있었나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Civic/technical oversight
 **Want:** identify current actor responsible for the lineage field.
 **Action:** finds distributed legacy automation, inherited mandates and partial human/civic oversight—not one secret mastermind.
@@ -461,7 +461,7 @@ Hard:
 **End Turn:** one protected route clearly separates ordinary lineage infrastructure from HUMAN preservation chain.
 
 ## EP319 — 다른 길
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** deep support routing boundary
 **Want:** test whether his own continuity path could be the `HUMAN:1` path.
 **Action:** physical/registry evidence shows protagonist belongs to ordinary civilization-lineage infrastructure; HUMAN support chain is distinct.
@@ -475,7 +475,7 @@ Hard:
 # B44 EP320~327 — 셀 수 없는 계보
 
 ## EP320 — 우주선은 하나다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** physical/navigation/maintenance evidence interface
 **Want:** distinguish multiple universes/ships from one-ark architecture.
 **Action:** verifies all relevant substrate/resource/maintenance evidence belongs to one physical Meridian whose external mission clock never rewound.
@@ -485,7 +485,7 @@ Hard:
 **End Turn:** lineage indices expand beyond any small finite set characters have encountered.
 
 ## EP321 — 숫자를 셀 필요가 없을 만큼
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** data/maintenance inference
 **Want:** estimate scale without trusting an unexplained dashboard count.
 **Action:** samples namespace breadth, generations and archived/depth records; exact total remains inaccessible/meaningless, but astronomical search scale is unavoidable.
@@ -505,7 +505,7 @@ Hard:
 **End Turn:** some fully lived lineages clearly contain persons with independent claims.
 
 ## EP323 — 왜 이렇게 많이
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** post-reveal practical review
 **Want:** infer purpose from what lineages preserve/transfer rather than one mission statement.
 **Action:** sees pattern: risks, failures, institutional learning, novel choices, descendant states; does not find a single `better civilization` score.
@@ -515,7 +515,7 @@ Hard:
 **End Turn:** question immediately becomes what happened to fully lived lineages after tests.
 
 ## EP324 — 끝난 시험의 사람들
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** continuity/resource policy records
 **Want:** determine how deep lived histories were historically treated when no longer active.
 **Action:** finds old Continuity Doctrine language equating related branches with one continuing lineage more than current people would accept.
@@ -535,7 +535,7 @@ Hard:
 **End Turn:** protagonist must make a similar current choice.
 
 ## EP326 — 고칠 수 없는 원본
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring/Old Works
 **Want:** decide whether any past state deserves restoration priority.
 **Action:** abandons search for a unique current original; chooses to protect present H-B people and threatened lived persons based on current continuity/rights, not resemblance to H-A.
@@ -545,7 +545,7 @@ Hard:
 **End Turn:** an immediate preservation/resource case requires society to decide whether a lived lineage can be treated as expendable.
 
 ## EP327 — 알게 된 뒤 해야 하는 일
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Civic/technical preservation interface
 **Want:** respond to the first concrete post-reveal resource/rights problem.
 **Action:** recognizes the new truth does not solve policy; it makes old categories inadequate. He contributes technical facts but cannot decide personhood alone.
@@ -559,7 +559,7 @@ Hard:
 # ACT 7 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **31**
+- 루카스: **31**
 - Hana: 4 — EP287, 290, 315, 322
 - Sora: 3 — EP293, 303, 318
 - Leila: 2 — EP295, 309

@@ -38,12 +38,12 @@ stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|characte
 FORECAST from EP176: End Turn=evidence supports one fragment while contradicting another. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
 
 ## Protagonist Context
-- POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=formulate a theory that does not require picking one liar. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV: 루카스
+- OFF-POV / INFLUENCE_ONLY_UNLESS_BLUEPRINT_EXPLICIT. 루카스 owns the episode's lived decision line. Do not reroute success, discovery, or emotional resolution through the protagonist merely for centrality.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: [주인공/TBD], Mira
+- projected_active_core: 루카스, Mira
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -104,6 +104,6 @@ actual_next_episode_carry: PENDING
 ## Retrieval Compile Map
 1. Episode Card — exact EP177 Blueprint selector; A-Plot/Want/End Turn authority.
 2. Immediate Continuity — prior realized CONTINUITY-FROZEN + this forecast selector; never future guessed Actual.
-3. POV/Relationship — POV=[주인공/TBD]; relationship line + current role/relationship graph, active core <=3.
+3. POV/Relationship — POV=루카스; relationship line + current role/relationship graph, active core <=3.
 4. World/Zone/Material — Zone=private discussion; current world/material/location router, branch=H-B.
 5. Active Device/Return/Collectibility — clue/payoff selector + eligible asset overlay; foreground chosen JIT, not by quota.

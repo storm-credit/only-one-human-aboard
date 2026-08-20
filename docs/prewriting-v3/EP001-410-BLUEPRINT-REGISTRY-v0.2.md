@@ -27,7 +27,7 @@ Underlying Act1~9 episode blueprint v0.1 files remain current for event/clue/rel
 POV reallocation QA:
 `docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md`.
 
-Protagonist final name remains `[주인공/TBD]` as intentional C2 surface exception.
+Protagonist final name remains `루카스` as intentional C2 surface exception.
 
 ---
 

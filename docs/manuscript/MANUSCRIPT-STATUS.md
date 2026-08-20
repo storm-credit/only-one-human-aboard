@@ -2,44 +2,49 @@
 
 Project: 《우주선에는 인간이 한 명뿐이다》
 
-Pipeline:
-`docs/manuscript/MANUSCRIPT-PIPELINE-v1.md`
+Pipeline: `docs/manuscript/MANUSCRIPT-PIPELINE-v1.md`
 
 Official rule:
 Only `manuscript/accepted/` + this ledger count as completed manuscript.
 
-> **V3 TRACK NOTICE.** 이 원장은 **v2 라인(7막 / 230화 / Maren·Amara) 전용**이다.
-> 아래 `10 / 230`, `EP011`, `EP001 Execution Contract`는 전부 v2 값이며 v3 회차에 사용하지 마라.
-> v3 후보 트랙(9막 / 410화 / 주인공 TBD)의 원고 라인은 **0 / 410**, 미착수이며
-> v3 Canon 승격 · 주인공 최종 이름 승인 · 명시적 Manuscript Start 3개 게이트 뒤에 있다.
-> v3 블루프린트는 `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT{1..9}-v0.1.md`
-> (`docs/writing-ready/` 의 동명 파일은 v2다).
-> 라우팅: `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md` · `CLAUDE.md` §0.5.
+---
+
+# 0. TWO LINES — DO NOT MIX
+
+## Active line — v3 (9 Acts / 410 episodes)
+# **0 / 410 — NOT STARTED**
+
+Official Canon since **2026-08-21** (`docs/change-control/CHG-055-V3-CANON-PROMOTION.md`).
+Protagonist: **루카스 켈러**, reader-facing call-name `루카스`.
+
+## Historical line — v2 (7 Acts / 230 episodes)
+# **10 / 230 — FROZEN / PRESERVED / CLOSED**
+
+`manuscript/accepted/` EP001~010 belong to this line. They are **not** failed and **not** deleted.
+Do **not** carry them into the v3 line, and do not treat v2 reveal locks
+(EP056/058/066/068/075) as v3 constraints.
 
 ---
 
-# Current Gate
+# 1. CURRENT GATE
 
-- `ENCYCLOPEDIC DEEP DESIGN v2 = COMPLETE / PASSED — 2026-08-18`
-- `ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`
-- `CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`
-- **`MANUSCRIPT DRAFTING = IN PROGRESS (EP001~010 batch, 사용자 지시)`**
+- `V3 CANON PROMOTION = EXECUTED — 2026-08-21`
+- `PROTAGONIST FINAL NAME = APPROVED — 루카스 켈러`
+- `EP001~410 BLUEPRINT = 410 / 410`
+- `DEEP PROJECTED CONTEXT = 410 / 410 / P0=0 / P1=0`
+- `FINAL PRE-MANUSCRIPT BLIND-SPOT AUDIT = PATCH → 해소`
+- **`MANUSCRIPT DRAFTING = NOT STARTED`**
 
-Official Canon authority for drafting:
-1. `canon/WORLD_BIBLE-v2.md`
-2. `canon/CHARACTER_BIBLE-v2.md`
-3. `canon/ACT_BIBLE-v1.md`
-4. `canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md` for its narrow domains
-5. active Blueprint / POV / M1 / Deep Cards / Context Manifest
-6. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`.
+Remaining gate:
+# **explicit user Manuscript Start instruction**
 
-**`canon/v2/` is RETRACTED / NON-CANON design history and must never be loaded as normative manuscript context.**
+A generic `이어서/진행` does **not** authorize prose.
 
 ---
 
-# Current Summary
+# 2. CURRENT SUMMARY — v3 ACTIVE LINE
 
-- Accepted: **10 / 230**
+- Accepted: **0 / 410**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -47,139 +52,97 @@ Official Canon authority for drafting:
 - Recheck Required: **0**
 - Published: **0**
 
-Accepted episodes:
-- EP001 — 돌아온 주민 — Maren POV — QA PASS (`docs/manuscript/qa/EP001-QA.md`) — 2026-08-18
-- EP002 — 회피 대상 — Maren POV — QA PASS + C1 개정 (`docs/manuscript/qa/EP002-QA.md`) — 2026-08-18
-- EP003 — 노아의 평범한 하루 — Noah POV — QA PASS (`docs/manuscript/qa/EP003-QA.md`) — 2026-08-18
-- EP004 — 라울의 첫 항고 — Raul POV — QA PASS (`docs/manuscript/qa/EP004-QA.md`) — 2026-08-18
-- EP005 — 앵커가 구할 수 있는 것 — Maren POV — QA PASS (`docs/manuscript/qa/EP005-QA.md`) — 2026-08-18
-- EP006 — 엘라, 일터로 돌아가다 — Ella POV — QA PASS (`docs/manuscript/qa/EP006-QA.md`) — 2026-08-18
-- EP007 — 구시가지 점검 — Jun POV — QA PASS (`docs/manuscript/qa/EP007-QA.md`) — 2026-08-19
-- EP008 — 기억하던 맛 — Ella POV — QA PASS (`docs/manuscript/qa/EP008-QA.md`) — 2026-08-19
-- EP009 — 아무도 내 옆에 앉지 않는다 — Noah POV — QA PASS (`docs/manuscript/qa/EP009-QA.md`) — 2026-08-19
-- EP010 — 개별 진술 — Ella POV — QA PASS (`docs/manuscript/qa/EP010-QA.md`) — 2026-08-19
-
-Structure note: EP001에 플래시포워드 프롤로그 도입 (CHG-049, fence 검증 완료). 문체법: `STYLE-METHOD-v1` ACTIVE.
-
-Style note: **CALIBRATION C1 active** (PROSE-STYLE-RUBRIC §20) — EP001 전면 재작성, EP002 국소 개정 완료. 참고 문헌: `docs/manuscript/STYLE-REFERENCES-v1.md`.
-
-First eligible episode:
-**EP011**
-
-Current active episode:
-**EP011 (next)**
-
-Current state:
-# **IN PROGRESS — EP001~010 accepted — 사용자 지시 배치(EP010까지) 완료. 배치 QA: docs/manuscript/qa/BATCH-EP001-010.md**
+First eligible v3 episode:
+# **EP001 — 오래된 진동**
 
 ---
 
-# Act Progress
+# 3. ACT PROGRESS — v3
 
-| Act | Episodes | Accepted | Current State |
-|---|---:|---:|---|
-| Act1 | EP001~028 | 10/28 | IN_PROGRESS |
-| Act2 | EP029~058 | 0/30 | LOCKED_FUTURE |
-| Act3 | EP059~088 | 0/30 | LOCKED_FUTURE |
-| Act4 | EP089~122 | 0/34 | LOCKED_FUTURE |
-| Act5 | EP123~156 | 0/34 | LOCKED_FUTURE |
-| Act6 | EP157~194 | 0/38 | LOCKED_FUTURE |
-| Act7 | EP195~230 | 0/36 | LOCKED_FUTURE |
+| Act | Episodes | Count | Accepted | State |
+|---|---|---:|---:|---|
+| Act1 우리가 살던 메리디언 | EP001~042 | 42 | 0 | NEXT |
+| Act2 닫힌 구획 | EP043~094 | 52 | 0 | LOCKED_FUTURE |
+| Act3 같은 아침이 아니다 | EP095~136 | 42 | 0 | LOCKED_FUTURE |
+| Act4 미래를 안다고 믿는 사람들 | EP137~181 | 45 | 0 | LOCKED_FUTURE |
+| Act5 없었던 역사 | EP182~228 | 47 | 0 | LOCKED_FUTURE |
+| Act6 멸망했던 메리디언 | EP229~279 | 51 | 0 | LOCKED_FUTURE |
+| Act7 셀 수 없는 삶 | EP280~327 | 48 | 0 | LOCKED_FUTURE |
+| Act8 한 명과 수많은 사람 | EP328~370 | 43 | 0 | LOCKED_FUTURE |
+| Act9 처음 가는 곳 | EP371~410 | 40 | 0 | LOCKED_FUTURE |
+| **Total** | **EP001~410** | **410** | **0** | |
 
-`LOCKED_FUTURE` means designed/Canon-locked but not the next manuscript episode.
+`LOCKED_FUTURE` = designed and Canon-locked, but not the next manuscript episode.
 
 ---
 
-# EP001 Execution Contract
+# 4. EP001 EXECUTION CONTRACT — v3
 
 When EP001 drafting is explicitly started, retrieve in this order:
 
 1. `CLAUDE.md`
-2. `canon/WORLD_BIBLE-v2.md` — only EP001-relevant sections
-3. `canon/CHARACTER_BIBLE-v2.md` — Maren/Ella/Noah and relevant support only
-4. `canon/ACT_BIBLE-v1.md` — Act1 macro limits
-5. `canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md` only if an Amendment-A domain is actually relevant to the episode
-6. `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md` — exact EP001 card
-7. `docs/writing-ready/ACT1-EXECUTION-POV-MAP-v1.md`
-8. `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
-9. applicable locked Deep Card if any
-10. `docs/narrative-engineering/episodes/EP-001.md`
-11. relevant incoming carry / future author constraint from Package G
-12. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
-13. style/QA rules.
+2. `canon/CANON_STATUS.md` — confirm v3 active
+3. `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md` — **exact EP001 card only**
+4. `docs/obsidian-v3/contexts/CTX-V3-EP001.md` — thin router
+5. `docs/obsidian-v3/deep-contexts/DEEP-V3-EP001.md` — deep sidecar + its 5-lane Retrieval Compile Map
+6. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md` — POV ownership check
+7. `canon/CHARACTER_BIBLE-v3.1-CANDIDATE.md` — 루카스 / Gideon / Niko only
+8. `canon/WORLD_BIBLE-v3-*` — only EP001-relevant sections (Old Works)
+9. `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`
+10. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md` — EP001~014 execution locks
+11. `docs/manuscript/PROSE-STYLE-RUBRIC-v1.md` §20 + `STYLE-METHOD-v1.md`
+
+**Max 5 direct context bundles.** Large matrices are routers only.
 
 Do NOT load:
-- experimental `canon/v2/` as Canon,
-- superseded Act6 v0.1,
-- the entire encyclopedia when a narrow Context Pack is enough.
+- `canon/v2/` (retracted),
+- v2 bibles / `ACT_BIBLE-v1.md` / Amendment A as active Canon,
+- `docs/writing-ready/EPISODE-BLUEPRINT-ACT1-v0.1.md` — **that is the v2 file with the same name**,
+- the whole encyclopedia when a narrow Context Pack is enough.
 
 Hard:
-- one POV per episode
+- one POV per episode, close third, causal-owner POV, no head hopping
 - AUTHOR future knowledge must not leak into POV
 - Sub-Act candidate device ≠ episode exposure
 - no new major world rule invented during prose
-- C2 details must stay inside official World/Character/Amendment constraints
-- any recurring/causal new fact must be logged and passed through Change Control before accepted status.
+- C2 detail must stay inside frozen v3 constraints
+- any recurring/causal new fact must be logged through Change Control before accepted status
 
 ---
 
-# Canon / Story Execution Locks
+# 5. ACT1 EARLY-SERIES EXECUTION LOCKS
 
-- Act6 active Blueprint = **v0.2**; v0.1 superseded
-- EP056 internal Count
-- EP058 public Count
-- EP066 Meaning complete
-- EP068 protected Amara confirmation
-- EP075 controlled public confirmation
-- EP112 PR-H1 exact discovery begins
-- EP142~151 Human Settler operational cluster
-- EP216 insertion
-- EP230 no author thesis
-- no later larger ontology twist.
+From `V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md` + CHG-055 (D2 실행):
 
----
-
-# Official Character Name Guardrail
-
-Use latest `canon/CHARACTER_BIBLE-v2.md` names where those support roles appear:
-- Eli Rhee
-- Dalia Diniz
-- Nadia Idris
-- Abeni Okoro
-- Hana Wu.
-
-Do not resurrect superseded experimental support names.
+- EP001~006: deliberately clue-free. Reading promise = `이 주인공은 일하는 걸 보는 재미가 있다`.
+- **EP007** — D05 mundane primer. Ordinary safety knowledge, no anomaly, **no ominous framing**.
+- **EP008~014** — the genuine industrial accident arc carries the early genre load.
+- **EP012** — D05 professional PLANT. Noticed for professional reasons only.
+- **EP014** — the accident really was an accident **and** one inherited procedure has no origin.
+- **EP022 / EP028** — REINFORCE and second bounded payoff.
+- `ordinary_event_guard: HARD` — ordinary failures must stay genuinely ordinary.
+- EP042 ends on an ordinary next-work state; no manufactured cliffhanger.
 
 ---
 
-# Package G Retrieval State
+# 6. ACCEPTANCE RULE
 
-- Registry covers EP001~230
-- **individual Context Manifest files EP001~230 are materialized on main**
-- AUTHOR / POV / PUBLIC / PROTECTED separation is mandatory
-- exact episode device loading requires Blueprint / Deep Card / locked ledger evidence.
+A generated draft does not count as completed. Progress counts only after:
 
----
-
-# Acceptance Rule
-
-A generated draft does not count as completed.
-
-Progress counts only after:
 1. work draft
 2. prose/voice/continuity QA
-3. Canon/reveal/knowledge-fence QA
+3. Canon/reveal/knowledge-fence QA (read-only `episode-qa` agent)
 4. required revision
 5. accepted copy under `manuscript/accepted/`
-6. this ledger updated.
+6. this ledger updated
 
 Draft가 이 파이프라인을 통과해야만 Accepted로 계상된다.
 
 ---
 
-# Next Action
+# 7. NEXT ACTION
 
 Eligible next action:
-**EP011 manuscript execution** (신규 사용자 지시 필요).
+**v3 EP001 manuscript execution** — requires a new explicit user instruction.
 
-# `IN PROGRESS / 10 of 230`.
+# `NOT STARTED / 0 of 410`

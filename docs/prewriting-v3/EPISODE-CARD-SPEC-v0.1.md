@@ -23,7 +23,7 @@ No card may silently invent a new ontology rule.
 
 Each episode card records:
 
-- **POV Owner** — primary close-third owner. `[주인공/TBD]` until final name freeze.
+- **POV Owner** — primary close-third owner. `루카스` until final name freeze.
 - **Time / Duration** — relative chronology, especially strict in Acts2/6.
 - **Primary Zone** — experienced-Meridian location.
 - **Immediate Want** — what the POV person wants now; must work without lore.

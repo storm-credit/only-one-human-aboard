@@ -35,15 +35,15 @@ stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|characte
 - Current-lived namespace remains H-B; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Projected Incoming
-FORECAST from EP359: End Turn=final-approach gestation requires a decision/timetable by medical/preservation authority. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
+FORECAST from EP359: End Turn=the ongoing gestation now requires protected medical support through the settlement timetable. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
 
 ## Protagonist Context
-- POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=ensure no political faction can claim control of activation/gestation because of uniqueness. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV: 루카스
+- OFF-POV / INFLUENCE_ONLY_UNLESS_BLUEPRINT_EXPLICIT. 루카스 owns the episode's lived decision line. Do not reroute success, discovery, or emotional resolution through the protagonist merely for centrality.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: [주인공/TBD]
+- projected_active_core: 루카스
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP359: End Turn=final-approach gestation requires a decision/timet
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: establishes current rules: medical welfare/mission conditions/guardianship-style protection, no sovereign owner or reproduction duty. Immediate Want: ensure no political faction can claim control of activation/gestation because of uniqueness. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: establishes current rules: medical welfare/mission conditions/guardianship-style protection, no sovereign owner or reproduction duty. Immediate Want: ensure no political faction can claim control of the ongoing gestation, birth timing or guardianship because of uniqueness. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
 - exact Blueprint A-Plot: establishes current rules: medical welfare/mission conditions/guardianship-style protection, no sovereign owner or reproduction duty.
-- exact Immediate Want: ensure no political faction can claim control of activation/gestation because of uniqueness.
+- exact Immediate Want: ensure no political faction can claim control of the ongoing gestation, birth timing or guardianship because of uniqueness.
 - exact End Turn: preservation operator reports final system-readiness tradeoffs.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
@@ -104,6 +104,6 @@ actual_next_episode_carry: PENDING
 ## Retrieval Compile Map
 1. Episode Card — exact EP360 Blueprint selector; A-Plot/Want/End Turn authority.
 2. Immediate Continuity — prior realized CONTINUITY-FROZEN + this forecast selector; never future guessed Actual.
-3. POV/Relationship — POV=[주인공/TBD]; relationship line + current role/relationship graph, active core <=3.
+3. POV/Relationship — POV=루카스; relationship line + current role/relationship graph, active core <=3.
 4. World/Zone/Material — Zone=civic/medical planning; current world/material/location router, branch=H-B.
 5. Active Device/Return/Collectibility — clue/payoff selector + eligible asset overlay; foreground chosen JIT, not by quota.

@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 1 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 1: **우리가 살던 메리디언 — EP001~042**
 
@@ -9,8 +9,8 @@ Authority:
 - `docs/design-v3/V3-410-EPISODE-DENSITY-MAP-v0.2.md`
 - `docs/prewriting-v3/EPISODE-CARD-SPEC-v0.1.md`
 
-Protagonist label:
-`[주인공/TBD]` until naming C2 closes.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (CHG-055, 2026-08-21).
 
 ## Act contract
 
@@ -42,7 +42,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 # B01 EP001~007 — 일과 집
 
 ## EP001 — 오래된 진동
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
 **Immediate Want:** finish a routine structural-damage call without expanding the shutdown.
 **A-Plot:** a freight-service support rail shows abnormal vibration and hairline cracking. He reconstructs load order, rejects a supervisor's easy `sensor fault` explanation, and narrows the physical cause.
@@ -53,7 +53,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **Continuity Output:** Old Works diagnostics base, Gideon/Niko work triangle, protagonist method.
 
 ## EP002 — 원인은 한 칸 앞에 있다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works service corridor
 **Immediate Want:** locate the actual load source before operations resume.
 **A-Plot:** traces repeated cargo shock through a miscalibrated transfer damper and proves the crack was consequence, not cause.
@@ -64,7 +64,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **Continuity Output:** protagonist prefers causal reconstruction over quick patch.
 
 ## EP003 — 퇴근은 이동이다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works → Transfer Belt → Midring home
 **Immediate Want:** get home in time for a family obligation after shift delay.
 **A-Plot:** ordinary commute is disrupted by the freight timing change from EP002; he navigates crowding and a missed connection.
@@ -87,7 +87,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **Continuity Output:** Mira↔Juno independent edge begins.
 
 ## EP005 — 남의 결정도 내 하루가 된다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Transfer Belt / Old Works
 **Immediate Want:** reach a follow-up inspection despite changed route.
 **A-Plot:** deals with Mira's reroute consequence, then sees why the allocation decision was rational even though it inconveniences him.
@@ -98,7 +98,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **Continuity Output:** protagonist↔Mira current baseline is familiar but bounded.
 
 ## EP006 — 집에 있는 일
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring
 **Immediate Want:** keep a promised family visit rather than taking optional overtime.
 **A-Plot:** chooses family over a noncritical call; sees sibling household/childcare or parent routine in normal use.
@@ -109,13 +109,13 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **Continuity Output:** world works without protagonist; family boundaries seeded.
 
 ## EP007 — 고친 뒤의 하루
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / Midring
 **Immediate Want:** close the first case cleanly.
-**A-Plot:** final verification confirms the repair. Nothing uncanny is hiding underneath it.
+**A-Plot:** final verification confirms the repair. Nothing uncanny is hiding underneath it; closure paperwork also carries forward an old emergency-bracing checklist for the next safety renewal as routine inherited knowledge.
 **Relationship:** Gideon credits Niko for one useful observation; protagonist realizes he over-controlled the junior.
 **World:** closure paperwork, ordinary work satisfaction.
-**Clue:** NONE.
+**Clue:** D05 mundane primer: an old emergency-bracing checklist exists as ordinary safety knowledge. No anomaly, no ominous framing; nobody finds it strange.
 **End Turn:** a separate small industrial alarm breaks the routine.
 **Continuity Output:** first practical payoff complete; ordinary failures are real.
 
@@ -124,7 +124,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 # B02 EP008~014 — 평범한 사고
 
 ## EP008 — 경보는 이유가 있다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works light-fabrication edge
 **Immediate Want:** determine whether a localized industrial incident threatens adjacent structure.
 **A-Plot:** a fabrication fixture fails, injuring workers and jamming a service barrier. Protagonist assesses secondary collapse risk.
@@ -134,7 +134,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** trapped worker cannot be reached through the obvious route.
 
 ## EP009 — 사고 순서
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** accident sector
 **Immediate Want:** reconstruct failure order fast enough to choose a safe access path.
 **A-Plot:** distinguishes heat damage from impact damage and identifies a service approach that remains structurally viable.
@@ -144,7 +144,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** response command refuses entry until its own hazard threshold is satisfied.
 
 ## EP010 — 문을 열 수 있다고 해서 여는 사람은 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** accident perimeter
 **Immediate Want:** convince response command his access route is viable without exceeding his authority.
 **A-Plot:** presents evidence rather than issuing an order; Selene challenges assumptions and imposes a narrower rescue window.
@@ -165,13 +165,13 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** authorizes a limited entry contingent on a field measurement protagonist must supply.
 
 ## EP012 — 제한된 길
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** damaged service access
 **Immediate Want:** keep the rescue path within Selene's limit.
-**A-Plot:** field measurement changes mid-entry; he aborts one route and finds a less direct brace point.
+**A-Plot:** field measurement changes mid-entry; he aborts one route and uses the old bracing checklist to find a less direct brace point inside Selene's limit.
 **Relationship:** accepts Selene's authority when she cuts off a tempting extension.
 **World:** time and distance matter under damage.
-**Clue:** NONE.
+**Clue:** D05 professional PLANT: one oddly specific inherited brace step proves useful under live damage. Noticed for professional reasons only; no origin claim, no mystery music.
 **End Turn:** Rafi chooses to stay with one trapped casualty during extraction.
 
 ## EP013 — 한 명 더
@@ -186,13 +186,13 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** rescue succeeds, but the last failure evidence is about to be destroyed by cleanup.
 
 ## EP014 — 사고는 사고였다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / post-incident review
 **Immediate Want:** close cause before cleanup erases evidence.
-**A-Plot:** confirms an ordinary wear + procedural timing failure, not sabotage or hidden-system interference.
+**A-Plot:** confirms an ordinary wear + procedural timing failure, not sabotage or hidden-system interference; the one unresolved note is administrative — the brace step that helped has no matching origin incident under current identifiers.
 **Relationship:** professional respect with Selene/Rafi improves; protagonist admits his first route would have been worse.
 **World:** incident review and worker consequences.
-**Clue:** PAYOFF of ordinary-accident expectation: sometimes nothing deeper is hiding.
+**Clue:** PAYOFF of ordinary-accident expectation + D05 **local bounded reward** (not a ledger payoff): the accident was exactly what it looked like, and one useful inherited procedure still has no local origin. D05 `PARTIAL/FINAL PAYOFF` remains untouched in its Act7 window.
 **End Turn:** after-shift family/community commitment pulls him away from work.
 **Continuity Output:** teaches reader cause diversity.
 
@@ -201,7 +201,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 # B03 EP015~021 — 다른 사람들의 일상
 
 ## EP015 — 저녁 자리
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring / Juno venue
 **Immediate Want:** eat, keep a social promise, avoid talking about work all evening.
 **A-Plot:** community venue faces a delivery delay and a small dispute over reservation/food allocation.
@@ -211,7 +211,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** Juno decides to challenge the allocation process directly rather than asking protagonist to intervene.
 
 ## EP016 — 해결해 주지 않는 일
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring
 **Immediate Want:** help Juno with the logistics problem.
 **A-Plot:** Juno refuses his attempt to mediate; he lacks authority and would complicate it.
@@ -231,7 +231,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** Mira offers a different supply window with a condition Juno dislikes.
 
 ## EP018 — 가족에게는 사건이 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring family neighborhood
 **Immediate Want:** handle an ordinary sibling/parent request after work.
 **A-Plot:** practical household problem—repair appointment, school pickup, or housing-office issue—forces him to live outside professional competence.
@@ -251,7 +251,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** the new arrangement creates a minor commute pattern protagonist notices later.
 
 ## EP020 — 이미 끝난 결정
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Transfer Belt / Midring
 **Immediate Want:** understand why his route changed again.
 **A-Plot:** encounters the consequences of a conflict that resolved without him.
@@ -261,31 +261,31 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** Niko invites him to a leisure/community event he normally skips.
 
 ## EP021 — 일하지 않는 시간
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Garden Commons / leisure venue
 **Immediate Want:** spend a few hours not working.
 **A-Plot:** sport/club/community event; a tiny practical mishap is solved by others before he can take over.
 **Relationship:** Niko's independent social life and peer network become visible; protagonist is not mentor every minute.
 **World:** leisure, public green space, young-adult culture.
 **Clue:** NONE or purely mundane false oddity.
-**End Turn:** next workday assigns protagonist to review an old safety procedure.
+**End Turn:** next workday assigns protagonist to review another old safety procedure.
 
 ---
 
 # B04 EP022~028 — 아주 작은 어긋남
 
 ## EP022 — 출처 없는 절차
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works diagnostics base
 **Immediate Want:** validate an old emergency-bracing procedure before renewal.
-**A-Plot:** procedure is technically effective but its origin case cannot be found in the accessible archive.
+**A-Plot:** a second old emergency-bracing procedure is technically effective, but its origin case cannot be found in the accessible archive either.
 **Relationship:** Gideon tells him undocumented institutional knowledge is not automatically conspiracy.
 **World:** safety knowledge can outlive paperwork.
-**Clue:** D05 Knowledge Without History — PLANT.
-**End Turn:** procedure contains one oddly specific step that seems excessive.
+**Clue:** D05 Knowledge Without History — PLANT (second procedure family). Ledger allows `one or two procedures` inside the Act1~3 PLANT window; this is the second, not a REINFORCE.
+**End Turn:** this procedure contains a different oddly specific step that seems excessive.
 
 ## EP023 — 너무 조심스러운 규칙
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works test bay
 **Immediate Want:** determine whether the odd step is obsolete bureaucracy.
 **A-Plot:** controlled test shows the extra step prevents a rare secondary failure but costs time/resources.
@@ -295,7 +295,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** archive search returns no originating incident under current identifiers.
 
 ## EP024 — 기록에 없다고 없던 일은 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** local records / Old Works
 **Immediate Want:** close the procedure review without inventing a mystery.
 **A-Plot:** finds partial provenance through renamed departments but still no incident matching the precise lesson.
@@ -305,7 +305,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** procedure is renewed provisionally.
 
 ## EP025 — 다른 길을 배우는 사람
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Garden Commons / training facility
 **Immediate Want:** keep Niko on a conservative qualification path.
 **A-Plot:** watches Niko perform a practical exercise with peers; Niko is more competent outside protagonist's supervision than expected.
@@ -326,7 +326,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** protagonist learns only after the application is already filed.
 
 ## EP027 — 허락하지 않아도 되는 일
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
 **Immediate Want:** persuade Niko to withdraw or delay.
 **A-Plot:** realizes he has no authority to veto a valid application; shifts from prohibition to demanding preparation.
@@ -336,13 +336,13 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** a real field case becomes Niko's next supervised test.
 
 ## EP028 — 이상한 절차, 평범한 결과
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works field site
 **Immediate Want:** use the renewed safety procedure during a mundane repair.
 **A-Plot:** the procedure works and prevents a small secondary fault; the job closes normally.
 **Relationship:** protagonist gives Niko a real responsibility and does not take it back.
 **World:** ordinary competence payoff.
-**Clue:** D05 local bounded payoff: useful knowledge, origin still unknown.
+**Clue:** D05 **second local bounded reward** (not a ledger payoff): useful knowledge repeats across separate procedure families; origins still unknown. D05 `PARTIAL/FINAL PAYOFF` remains untouched in its Act7 window.
 **End Turn:** inspection materials from another site show a version/wear mismatch harder to explain bureaucratically.
 
 ---
@@ -350,7 +350,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 # B05 EP029~035 — 물리적으로 맞지 않는 것
 
 ## EP029 — 재료번호
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works structural retrofit corridor
 **Immediate Want:** certify a repair layer for continued use.
 **A-Plot:** material generation and documented renovation date do not line up cleanly.
@@ -360,7 +360,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** paperwork says the impossible layer should never have been installed there.
 
 ## EP030 — 오래된 새것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
 **Immediate Want:** decide whether the mismatch is counterfeit material, mislabeling or unsafe hidden repair.
 **A-Plot:** wear pattern indicates the layer has been present longer than the recorded retrofit.
@@ -381,7 +381,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** one old identifier points to a retired access registry.
 
 ## EP032 — 닫힌 번호
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / local archive interface
 **Immediate Want:** map the retired identifier to a physical maintenance route.
 **A-Plot:** identifier resolves to a decommissioned service classification but not a current route.
@@ -391,7 +391,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** route map and material location overlap imperfectly.
 
 ## EP033 — 막아 두는 이유
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** restricted Old Works access
 **Immediate Want:** inspect only the physically relevant section.
 **A-Plot:** finds a mundane reason much of the area is closed—obsolete pressure/fire isolation—plus one repair seam whose chronology still does not fit.
@@ -411,7 +411,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** a delayed maintenance crew arrives at Old Works after protagonist's team has already changed its work plan.
 
 ## EP035 — 모르는 채로 닫기
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
 **Immediate Want:** make a safety decision despite incomplete historical explanation.
 **A-Plot:** certifies a limited repair/use restriction based on current physical condition, explicitly separating safety judgment from historical truth.
@@ -425,7 +425,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 # B06 EP036~042 — 다음 고장의 씨앗
 
 ## EP036 — 조금 높은 온도
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / cooling distribution edge
 **Immediate Want:** determine whether a small thermal drift requires shutdown.
 **A-Plot:** drift is within emergency tolerance but outside long-term trend; orders additional inspection, not alarm.
@@ -435,7 +435,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** one inspection slot must be moved because of access scheduling.
 
 ## EP037 — 같은 번호가 두 번
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** diagnostics/asset registry
 **Immediate Want:** clear an asset-identification conflict before inspection.
 **A-Plot:** two legacy references partially collide around the cooling corridor; operations treats it as a migration artifact.
@@ -445,7 +445,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** maintenance scheduler chooses which physical inspection moves first.
 
 ## EP038 — 미룬 점검
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works planning / field
 **Immediate Want:** protect the higher-risk inspection slot.
 **A-Plot:** scheduler shifts one low-priority segment, not the critical measurement, due labor/access collision. Decision is reasonable, not villainous negligence.
@@ -466,7 +466,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** fallback route is approved for the coming maintenance window.
 
 ## EP040 — 연습으로 닫는 문
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring school/community boundary near Old Works-Transfer interface
 **Immediate Want:** certify structural/access conditions for a routine evacuation drill.
 **A-Plot:** school/caregiver staff run a drill; protagonist checks doors/routes rather than leading children.
@@ -476,7 +476,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** one bulkhead behavior triggers a brief Arun association.
 
 ## EP041 — 기억한 말
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / old bulkhead route
 **Immediate Want:** finish drill follow-up without dwelling on Arun.
 **A-Plot:** a mundane door-sequence resembles the old accident. He recalls one specific phrase/sequence from Arun that does not cleanly match an old accessible log, but attributes it to trauma/time.
@@ -486,7 +486,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 **End Turn:** cooling trend update shows the drift stopped for now.
 
 ## EP042 — 평범하게 끝난 주
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works → Transfer Belt → Midring/Juno venue
 **Immediate Want:** close open work items and return to ordinary life.
 **A-Plot:** current cooling check passes within tolerance; duplicate ID is logged for later cleanup; no disaster happens yet.
@@ -501,7 +501,7 @@ Several ordinary work/social weeks. Exact calendar remains C2; preserve enough b
 # ACT 1 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **33**
+- 루카스: **33**
 - Mira: 2
 - Juno: 2
 - Selene: 1

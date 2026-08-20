@@ -22,7 +22,7 @@ stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|characte
 Router:[[../contexts/CTX-V3-EP022]] · Blueprint:[[../../prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1#EP022 — 출처 없는 절차]]
 
 ## Structural Inheritance
-series_job=`first soft anomaly while ordinary explanation remains stronger`;act_job=`tiny mismatch, no strong mystery`;volume_reward=`familiar procedure becomes later comparison object`;subact_input=`ordinary baseline strong`;subact_target=`reader can hold unknown without impossible`;beat_job=`D05 Knowledge Without History plant`;ancestry=`VOL-V3-01/SA-V3-1B/B04`.
+series_job=`second procedure family repeats the missing-origin pattern while ordinary explanation remains stronger`;act_job=`tiny mismatch, no strong mystery`;volume_reward=`familiar procedure becomes later comparison object`;subact_input=`ordinary baseline strong`;subact_target=`reader can hold unknown without impossible`;beat_job=`D05 Knowledge Without History plant`;ancestry=`VOL-V3-01/SA-V3-1B/B04`.
 
 ## Projected Incoming
 previous=`old safety procedure review assigned`;continuity=`Gideon teaches unknown≠conspiracy`.
@@ -46,10 +46,10 @@ P03=`HOLD`;P01/P02=`BACKGROUND`;D05 is device not collectible;collectibility_job
 safety/records=`procedure can outlive paperwork`;independent_causality=`renewal process`.
 
 ## Mystery / Reveal / Knowledge Fence
-world_truth=SEALED_LINK_ONLY;pov_known=`procedure effective, origin missing`;reader_confirmed=`missing provenance`;reader_suspected=`mundane record loss still viable`;allowed=`D05 PLANT only`;forbidden=`source/lineage explanation`.
+world_truth=SEALED_LINK_ONLY;pov_known=`procedure effective, origin missing`;reader_confirmed=`missing provenance`;reader_suspected=`mundane record loss still viable`;allowed=`D05 PLANT only — second procedure family; no origin answer`;forbidden=`source/lineage explanation`.
 
 ## Foreshadow / MacGuffin / Payoff
-active_chain=`D05 PLANT`;current_touch=`specific but useful unexplained rule`;next=`controlled test`;payoff=`later history problem`;ordinary_event_guard=`do not imply every old rule is clue`.
+active_chain=`D05 PLANT (second procedure family)`;current_touch=`specific but useful unexplained rule`;next=`controlled test`;payoff=`later history problem`;ordinary_event_guard=`do not imply every old rule is clue`.
 
 ## Genre Engine
 primary=`procedural`;secondary=`mystery`;action=`validate rule`;exposition=`no ontology`.

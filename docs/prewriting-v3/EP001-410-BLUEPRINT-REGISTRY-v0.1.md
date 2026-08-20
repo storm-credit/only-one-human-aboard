@@ -1,6 +1,10 @@
 # V3 EP001~410 BLUEPRINT REGISTRY v0.1
 
-Status: `PREWRITING MASTER REGISTRY / NOT CANON / NO PROSE`
+Status: `SUPERSEDED / DESIGN HISTORY ONLY`
+
+> **Superseded by `EP001-410-BLUEPRINT-REGISTRY-v0.2.md` (active).**
+> Retained as history. Its `[주인공/TBD]` reference is a historical record — the protagonist
+> final name is **루카스 켈러** as of 2026-08-21 (CHG-055). Do not route from this file.
 Project: 《우주선에는 인간이 한 명뿐이다》
 
 Purpose:
@@ -15,7 +19,7 @@ Provide one routing registry for the fully materialized 410-episode v3 blueprint
 - Reveal ledger: `docs/narrative-engineering/V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4-CANDIDATE.md`
 - Writer grammar: `docs/narrative-engineering/WRITER-GRAMMAR-MATRIX-v0.3-CANDIDATE.md`
 
-Protagonist final name remains `[주인공/TBD]` as an intentional C2 surface exception.
+Protagonist final name was `[주인공/TBD]` when this superseded registry was written. It is now **루카스 켈러** (CHG-055, 2026-08-21).
 
 ---
 

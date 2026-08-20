@@ -1,6 +1,6 @@
 # V3 C2 NAMING CALIBRATION v0.1
 
-Status: `SURFACE C2 CANDIDATE / NOT CANON / NO PROSE`
+Status: `C2 SURFACE — FROZEN 2026-08-21 (CHG-055) / PROTAGONIST NAME APPROVED / NO PROSE`
 Date: 2026-08-20
 Project: 《우주선에는 인간이 한 명뿐이다》
 
@@ -8,6 +8,11 @@ Purpose:
 Close reader-facing names without reopening world/character architecture.
 
 This pass explicitly responds to the failed feel of earlier short symmetrical names such as `에런 베일 / 레온 케인 / 이안 로웰 / 노아 벡` and the unjustified surname anchor `한`.
+
+
+> **CHG-055 (2026-08-21):** protagonist final name is **루카스 켈러 / Lukas Keller**.
+> The paternal-line surname moved `베르너 → 켈러` because `베르너 / Werner` is both a given name
+> and a surname in German. Family *architecture* is unchanged; only surface labels moved.
 
 ---
 
@@ -91,16 +96,16 @@ Scoring: 5 each for `read-aloud / memorability / age-job fit / non-heroic natura
 
 | Candidate | Rhythm | Score | Judgment |
 |---|---:|---:|---|
-| **다니엘 베르너** | 3+3 | **29** | grounded, adult, technical-professional feel, easy to repeat |
+| **다니엘 켈러** | 3+3 | **29** | grounded, adult, technical-professional feel, easy to repeat |
 | **루카스 모레노** | 3+3 | **29** | very readable, memorable, slightly warmer/more active tone |
 | **줄리안 로렌츠** | 3+3 | **28** | smooth, intelligent, a little more polished than protagonist needs |
 | **마테오 세라노** | 3+3 | **28** | excellent rhythm, but ancestry flavor feels more specific |
 | **요나스 로웰** | 3+2 | **27** | distinctive without fantasy, slightly quieter/colder impression |
 | 에런 세라노 | 2+3 | 27 | much better than 에런 베일, but given name still feels light |
 | 다니엘 코스타 | 3+2 | 27 | natural and grounded, less distinctive |
-| 루카스 베르너 | 3+3 | 27 | good but slightly sharper/younger than top two |
+| 루카스 켈러 | 3+3 | 27 | good but slightly sharper/younger than top two |
 | 줄리안 코스타 | 3+2 | 27 | good flow, slightly stylish |
-| 마르코 베르너 | 3+3 | 26 | readable, but stronger personality coloration |
+| 마르코 켈러 | 3+3 | 26 | readable, but stronger personality coloration |
 | 에밀 로렌츠 | 2+3 | 26 | calm/technical, given name a little too compact |
 | 아드리안 모레노 | 4+3 | 26 | flows well but too polished/romantic-hero adjacent |
 | 니콜라스 로렌츠 | 4+3 | 25 | too formal/heavy for routine dialogue |
@@ -114,7 +119,7 @@ Scoring: 5 each for `read-aloud / memorability / age-job fit / non-heroic natura
 
 Do NOT freeze automatically.
 
-## 1. 다니엘 베르너
+## 1. 다니엘 켈러
 Best for:
 - ordinary late-30s professional,
 - dry/practical protagonist,
@@ -122,7 +127,7 @@ Best for:
 - low hero aura.
 
 Read-aloud:
-`다니엘 베르너, 선체 손상분석관.`
+`다니엘 켈러, 선체 손상분석관.`
 
 Potential weakness:
 slightly conventional.
@@ -165,7 +170,7 @@ Potential weakness:
 
 # Current recommendation
 
-**1순위: 다니엘 베르너**
+**1순위: 다니엘 켈러**
 **2순위: 루카스 모레노**
 
 But this remains an author-taste choice and MUST NOT be frozen without final read-aloud approval.

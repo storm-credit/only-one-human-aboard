@@ -1,6 +1,6 @@
 # V3 C2 NAMING + SURFACE LANGUAGE CLOSURE v0.2
 
-Status: `C2 SURFACE CANDIDATE / NOT CANON / NO PROSE`
+Status: `C2 SURFACE — FROZEN 2026-08-21 (CHG-055) / PROTAGONIST NAME APPROVED / NO PROSE`
 Date: 2026-08-20
 Project: 《우주선에는 인간이 한 명뿐이다》
 
@@ -8,6 +8,11 @@ Supersedes `V3-C2-NAMING-CALIBRATION-v0.1.md` for current C2 routing. The older 
 
 Purpose:
 Close the reader-facing naming/surface-language layer without reopening structural story design, and without turning Meridian into a glossary-heavy SF setting.
+
+
+> **CHG-055 (2026-08-21):** protagonist final name is **루카스 켈러 / Lukas Keller**.
+> The paternal-line surname moved `베르너 → 켈러` because `베르너 / Werner` is both a given name
+> and a surname in German. Family *architecture* is unchanged; only surface labels moved.
 
 ---
 
@@ -20,16 +25,16 @@ Core formula:
 `deep internal identity > selective recurring labels > scene-local description > model codes only when operationally necessary`.
 
 Hard:
-- official v2 Canon remains unchanged,
-- protagonist name is NOT final until explicit author approval,
-- this file may select a leading candidate but may not silently Canon-freeze it,
+- v2 remains preserved as the frozen historical edition,
+- protagonist name **IS final**: `루카스 켈러`, approved by the author 2026-08-21 (CHG-055),
+- this file's selection process below is retained as the record of how that name was reached,
 - Korean prose uses one stable call-name per major character.
 
 ---
 
 # 1. Naming-system decision
 
-Selected candidate remains:
+Selected — now **FINAL / APPROVED**:
 **recognizable Earth-origin names recombined across generations**.
 
 Reasons:
@@ -73,8 +78,8 @@ Scoring axes:
 - full-name rhythm,
 - call-name clarity.
 
-## A — 루카스 베르너
-Status: **LEADING CANDIDATE**.
+## A — 루카스 켈러
+Status: **FINAL / APPROVED 2026-08-21 (CHG-055)** — selected option.
 
 Strengths:
 - `루카스` alone is easy to repeat for 400+ episodes,
@@ -116,7 +121,7 @@ Risk:
 - can look/sound more polished-intellectual than dirty-hands field specialist.
 
 Current ranking:
-1. **루카스 베르너**
+1. **루카스 켈러**
 2. 요나스 카렐
 3. 줄리안 노바크
 4. 마테오 로렌
@@ -127,7 +132,7 @@ No automatic Canon freeze.
 
 # 4. Korean reader-facing addressing rule
 
-If `루카스 베르너` is later approved:
+With `루카스 켈러` approved (CHG-055, 2026-08-21):
 
 Primary reader-facing call name:
 # **루카스**
@@ -138,11 +143,11 @@ Use:
 - Mira: `루카스`,
 - family: Korean-localized kinship/dialogue grammar + `루카스` where name is needed,
 - emergency radio/report: role or full name only if disambiguation is necessary,
-- formal records: `루카스 베르너`.
+- formal records: `루카스 켈러`.
 
-Do NOT casually alternate `루카스` and `베르너` as if both are ordinary call names.
+Do NOT casually alternate `루카스` and `켈러` as if both are ordinary call names.
 
-`베르너` should mainly appear in:
+`켈러` should mainly appear in:
 - formal report,
 - registry,
 - first introduction,
@@ -267,7 +272,7 @@ Manufacturer policy: **PASS CANDIDATE / ZERO-BRAND DEFAULT**.
 Model-code policy: **PASS CANDIDATE**.
 
 Protagonist full name:
-# **OPEN / LEADING = 루카스 베르너**
+# **FINAL / APPROVED = 루카스 켈러**
 
 No deep structure reopened.
-No Canon promotion authorized.
+This file performs no Canon promotion by itself; v3 was promoted by CHG-055.

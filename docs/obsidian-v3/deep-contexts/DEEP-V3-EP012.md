@@ -52,16 +52,16 @@ Router: [[../contexts/CTX-V3-EP012]] · Blueprint: [[../../prewriting-v3/EPISODE
 - emergency command=`OFFSTAGE ACTIVE / owns cutoff`; rescue=`preparing entry independently`.
 
 ## Mystery / Reveal / Knowledge Fence
-- world_truth_reference=SEALED_LINK_ONLY; reader_confirmed=`ordinary hazard can change plan`; allowed_reveal=`NONE`; forbidden=`hidden-history causalization`.
+- world_truth_reference=SEALED_LINK_ONLY; reader_confirmed=`ordinary hazard can change plan`; allowed_reveal=`D05 professional PLANT — one oddly specific inherited brace step proves useful under live damage; noticed for professional reasons only, no origin claim`; forbidden=`hidden-history causalization`.
 
 ## Foreshadow / MacGuffin / Payoff
-active_chain: NONE_AUTHORIZED; ordinary_event_guard: HARD.
+active_chain: `D05 PLANT`; current_touch=`inherited brace step is practically useful`; ordinary_event_guard: `HARD — no mystery music; the step is a professional convenience, not an omen`.
 
 ## Genre Engine
 primary=`survival/procedural`; secondary=`relationship`; action_obligation=`abort + adapt`; exposition_ceiling=`only measurements that change choice`.
 
 ## Execution Constraints
-MUST=`[respect cutoff, physical route change, protagonist owns adaptation]`; TARGET=`trust through restraint`; PREFER=`no new foreground asset`; MAY=`time pressure`; FORBID=`mystery hint, command overreach`.
+MUST=`[respect cutoff, physical route change, protagonist owns adaptation]`; TARGET=`trust through restraint`; PREFER=`no new foreground asset`; MAY=`time pressure`; FORBID=`ontology hint or hidden-history causalization, command overreach`.
 
 ## Forecast Outgoing
 relationship=`C01↔Selene trust by restraint`; knowledge=`safer indirect brace point`; material=`limited path remains viable`; world=`Rafi can commit to entry`; asset=`no new`; next=`medical ownership transfers to Rafi`.
@@ -75,4 +75,4 @@ realized_asset_lifecycle_delta: PENDING
 actual_next_episode_carry: PENDING
 
 ## Retrieval Compile Map
-1 Blueprint; 2 live route carry; 3 C01/Selene; 4 service access/material; 5 no clue/collectible.
+1 Blueprint; 2 live route carry; 3 C01/Selene; 4 service access/material; 5 D05 professional PLANT only; no collectible.

@@ -1,6 +1,6 @@
 # WORLD BIBLE v3 ADDENDUM — LANGUAGE / NAMING / CULTURE v0.1
 
-Status: `DEEP-DESIGN CANDIDATE / NOT CANON`
+Status: `OFFICIAL ACTIVE WORLD CANON — v3 PROMOTED 2026-08-21 (CHG-055)`
 Project: 《우주선에는 인간이 한 명뿐이다》
 
 Purpose:
@@ -86,7 +86,7 @@ For Korean readability, preferred protagonist-name rhythm:
 - asymmetric sound pattern,
 - easy to distinguish from Mira/Selene/Rafi/Sora.
 
-Current protagonist final name remains TBD.
+Protagonist final name: **루카스 켈러 / Lukas Keller**, reader-facing call-name `루카스` (APPROVED 2026-08-21, CHG-055).
 
 Existing major names remain C1 candidates, not ethnicity locks.
 

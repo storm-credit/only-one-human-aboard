@@ -1,6 +1,6 @@
 # V3 ACT → ASSET DEPLOYMENT OVERLAY v0.1
 
-Status: `PREWRITING ACT EXECUTION ROUTER / NOT CANON / NO PROSE`
+Status: `ACTIVE ACT EXECUTION ROUTER under v3 Canon (promoted 2026-08-21) / NO PROSE`
 Date: 2026-08-20
 Project: 《우주선에는 인간이 한 명뿐이다》
 
@@ -591,5 +591,5 @@ This overlay connects:
 
 # **ACT→ASSET DEPLOYMENT ROUTING = MATERIALIZED**
 
-No Canon promotion.
+This overlay performs no Canon promotion by itself; v3 was promoted by CHG-055.
 No prose authorized.

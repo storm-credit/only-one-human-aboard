@@ -28,7 +28,7 @@ Authority:
 These are compiled execution packets, not a second blueprint.
 Exact Blueprint wins on plot/action; Current Authority Map wins on story truth; actual prior Continuity Output wins over forecasts.
 
-No file here authorizes prose. Protagonist remains `[주인공/TBD]`.
+No file here authorizes prose. Protagonist is `루카스 켈러`; reader-facing call-name `루카스`.
 
 ## Runway objective
 
@@ -50,7 +50,7 @@ EP001~010 establishes:
 Router: `EP-V3-001 → BEAT-V3-B01` | Recompile after: `OPENING`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Old Works
+- POV/Zone: 루카스 / Old Works
 - Want: routine structural-damage call을 불필요한 대규모 shutdown 없이 정확히 끝낸다.
 - Action: freight-service support rail의 비정상 진동/미세 균열에서 하중 순서를 재구성하고 `sensor fault`라는 쉬운 설명을 거부한다.
 - World: damage analyst는 구조안전 평가 권한은 있지만 사람/보안 접근을 지휘하지 않는다.
@@ -83,7 +83,7 @@ _Before drafting: reload previous actual continuity; verify max-5 bundles, relat
 Router: `EP-V3-002 → BEAT-V3-B01` | Recompile after: `EP001`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Old Works service corridor
+- POV/Zone: 루카스 / Old Works service corridor
 - Want: 운영 재개 전에 실제 하중 원인을 찾는다.
 - Action: 반복 화물 충격을 miscalibrated transfer damper까지 역추적해 균열은 원인이 아니라 결과임을 증명한다.
 - World: repair crew, contractor/co-op, signoff chain, 일정 압박을 자연스럽게 보여준다.
@@ -114,7 +114,7 @@ protagonist prefers causal reconstruction over quick patch; freight timing chang
 Router: `EP-V3-003 → BEAT-V3-B01` | Recompile after: `EP002`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Old Works → Transfer Belt → Midring
+- POV/Zone: 루카스 / Old Works → Transfer Belt → Midring
 - Want: 지연된 근무 뒤 가족 약속 시간에 맞춰 집으로 간다.
 - Action: EP002 freight timing 변경 때문에 통근이 꼬이고 crowding/missed connection을 겪는다.
 - World: public transit, shift-change rush, convenience food, housing texture.
@@ -176,7 +176,7 @@ Mira↔Juno independent edge begins.
 Router: `EP-V3-005 → BEAT-V3-B01` | Recompile after: `EP004`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Transfer Belt / Old Works
+- POV/Zone: 루카스 / Transfer Belt / Old Works
 - Want: 변경된 route에도 follow-up inspection에 도착한다.
 - Action: Mira의 reroute 결과를 몸으로 겪고, 자신에게 불편해도 그 결정이 합리적이었음을 이해한다.
 - World: 부서 간 결정은 주인공 통제 밖에서 전파된다.
@@ -207,7 +207,7 @@ protagonist↔Mira baseline = familiar but bounded.
 Router: `EP-V3-006 → BEAT-V3-B01` | Recompile after: `EP005`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Midring
+- POV/Zone: 루카스 / Midring
 - Want: optional overtime보다 약속한 가족 방문을 지킨다.
 - Action: 가정의 평범한 문제에서 전문직 능력으로 모든 걸 해결할 수 없음을 경험한다.
 - World: housing, food, childcare/elder routine. 도시가 mystery와 무관하게 살아 있음을 강화.
@@ -238,7 +238,7 @@ world works without protagonist; family boundaries seeded.
 Router: `EP-V3-007 → BEAT-V3-B01` | Recompile after: `EP006`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Old Works / Midring
+- POV/Zone: 루카스 / Old Works / Midring
 - Want: 첫 vibration case를 cleanly close한다.
 - Action: 최종 verification으로 repair를 확인하고 실제로 아무 미스터리도 숨어 있지 않음을 보여준다.
 - World: closure paperwork와 평범한 work satisfaction.
@@ -269,7 +269,7 @@ first practical payoff complete; ordinary failures are real.
 Router: `EP-V3-008 → BEAT-V3-B02` | Recompile after: `EP007`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Old Works light-fabrication edge
+- POV/Zone: 루카스 / Old Works light-fabrication edge
 - Want: localized industrial incident가 인접 구조를 위협하는지 판단한다.
 - Action: fabrication fixture failure로 부상자와 jammed service barrier가 생기고 secondary-collapse risk를 평가한다.
 - World: ordinary workplace hazard, alarms, evacuation lanes.
@@ -300,7 +300,7 @@ first emergency-response interface established.
 Router: `EP-V3-009 → BEAT-V3-B02` | Recompile after: `EP008`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Old Works accident sector
+- POV/Zone: 루카스 / Old Works accident sector
 - Want: 안전한 접근경로를 고를 만큼 빨리 failure order를 재구성한다.
 - Action: heat damage와 impact damage 순서를 구분해 structurally viable service approach를 찾는다.
 - World: technical competence가 option을 만들 뿐 entry authorization을 만들지는 않는다.
@@ -331,7 +331,7 @@ viable route exists, but authority boundary blocks immediate entry.
 Router: `EP-V3-010 → BEAT-V3-B02` | Recompile after: `EP009`
 
 **B1 Episode Card**
-- POV/Zone: [주인공/TBD] / Old Works accident perimeter
+- POV/Zone: 루카스 / Old Works accident perimeter
 - Want: 자신의 route가 viable함을 response command에 증명하되 권한을 넘지 않는다.
 - Action: 증거를 제시하고 Selene의 더 좁은 rescue window를 받아들인다.
 - World: emergency command boundary가 시각/절차로 구체화된다.

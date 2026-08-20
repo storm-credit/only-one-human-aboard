@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 6 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 6: **멸망했던 메리디언 — EP229~279**
 
@@ -10,8 +10,8 @@ Authority:
 - `docs/design-v3/V3-ACT6-CONCURRENCY-GEOGRAPHY-CAUSAL-LEDGER-v0.1.md`
 - `docs/prewriting-v3/EPISODE-CARD-SPEC-v0.1.md`
 
-Protagonist label:
-`[주인공/TBD]`.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (final name APPROVED 2026-08-21, CHG-055).
 
 ## Act contract
 
@@ -61,7 +61,7 @@ F Rim/Expansion Belt
 # B32 EP229~236 — 부족해지기 시작한다 / Week 1~2
 
 ## EP229 — 다음 주까지 미뤄진 수리
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 1
 **Zone:** Old Works
 **Want:** secure power/material window for a routine but important structural repair.
@@ -72,7 +72,7 @@ F Rim/Expansion Belt
 **End Turn:** another utility job loses its fabrication slot.
 
 ## EP230 — 임시방편의 수명
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 1
 **Zone:** Old Works
 **Want:** determine which deferred repairs can safely survive another cycle.
@@ -94,7 +94,7 @@ F Rim/Expansion Belt
 **End Turn:** Midring community networks start bulk-buying/organizing around delays.
 
 ## EP232 — 고칠 수 없는 순서
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 1~2
 **Zone:** Old Works / Rim interface
 **Want:** prevent deferred maintenance from creating a hidden safety cascade.
@@ -116,7 +116,7 @@ F Rim/Expansion Belt
 **End Turn:** black-market offers appear for strategic parts and service slots.
 
 ## EP234 — 훔친 부품
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 2
 **Zone:** Old Works
 **Want:** determine whether missing parts threaten a current safety job.
@@ -127,7 +127,7 @@ F Rim/Expansion Belt
 **End Turn:** Sora opens a diversion case.
 
 ## EP235 — 고장이 쌓이는 속도
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 2
 **Zone:** Old Works
 **Want:** estimate when patch accumulation becomes unacceptable.
@@ -164,7 +164,7 @@ F Rim/Expansion Belt
 **End Turn:** one medical/supply group reaches Midring earlier; another group is delayed.
 
 ## EP238 — 먼저 도착한 사람들
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 2~3
 **Zone:** Midring/Old Works interface
 **Want:** use newly arrived material/medical access to finish a safety patch.
@@ -186,7 +186,7 @@ F Rim/Expansion Belt
 **End Turn:** rerouted medical staff/supplies begin interacting with Juno's network.
 
 ## EP240 — 온 사람이 바꾼 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 3
 **Zone:** Midring
 **Want:** inspect a small utility problem at a community facility.
@@ -208,7 +208,7 @@ F Rim/Expansion Belt
 **End Turn:** school/family transport shortage worsens.
 
 ## EP242 — 연결되지 않는 일정
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 3
 **Zone:** Old Works / Midring
 **Want:** schedule inspection around reduced transport and staffing.
@@ -230,7 +230,7 @@ F Rim/Expansion Belt
 **End Turn:** one practical workaround is copied by other blocks.
 
 ## EP244 — 아무도 기록하지 않은 시작점
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 3
 **Zone:** Old Works / Transfer edge
 **Want:** keep repairs moving under improvised city routines.
@@ -245,7 +245,7 @@ F Rim/Expansion Belt
 # B34 EP245~252 — 비상은 언제 끝나는가 / Week 3~4
 
 ## EP245 — 다시 켜달라는 요청
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 3~4
 **Zone:** Old Works
 **Want:** assess a strategic fabrication/power-support system officials want restored quickly.
@@ -267,7 +267,7 @@ F Rim/Expansion Belt
 **End Turn:** security sweeps delay a legitimate community shipment.
 
 ## EP247 — 안전하지 않다는 서명
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 4
 **Zone:** Old Works / facility support
 **Want:** resist pressure for a reopening certificate he cannot support.
@@ -289,7 +289,7 @@ F Rim/Expansion Belt
 **End Turn:** Hana possesses records that could explain allocation decisions but inflame the public.
 
 ## EP249 — 고치라고 하는 사람들
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 4
 **Zone:** Old Works / public hearing-work interface
 **Want:** explain why immediate restoration is not simply a matter of effort.
@@ -311,7 +311,7 @@ F Rim/Expansion Belt
 **End Turn:** release validates some public grievances and disproves others.
 
 ## EP251 — 사실이 편을 만들 때
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 4
 **Zone:** Midring/Old Works
 **Want:** keep technical team from splitting along political interpretations of Hana's release.
@@ -322,7 +322,7 @@ F Rim/Expansion Belt
 **End Turn:** strategic restrictions extend another cycle.
 
 ## EP252 — 비상은 자동으로 끝나지 않는다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** end Week 4
 **Zone:** Civic/Old Works interface
 **Want:** learn when extraordinary repair/access rules expire.
@@ -348,7 +348,7 @@ F Rim/Expansion Belt
 **End Turn:** one medical rescue request forces Rafi/Leila into reversed positions.
 
 ## EP254 — 누구 편이냐는 질문
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 5
 **Zone:** Old Works
 **Want:** keep technical crews working across political/network lines.
@@ -370,7 +370,7 @@ F Rim/Expansion Belt
 **End Turn:** Leila argues for an exception on a different patient.
 
 ## EP256 — 복구팀은 중립인가
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 5
 **Zone:** Old Works / Midring boundary
 **Want:** restore a local service without becoming bargaining chip for one network.
@@ -392,7 +392,7 @@ F Rim/Expansion Belt
 **End Turn:** technical apprentices begin bypassing authorization to keep local utilities alive.
 
 ## EP258 — 허가를 기다리는 동안
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 5~6
 **Zone:** Old Works
 **Want:** stop unsafe unauthorized utility improvisations without shutting down all local initiative.
@@ -425,7 +425,7 @@ F Rim/Expansion Belt
 **End Turn:** broader high-capacity path approaches a politically forced restart decision.
 
 ## EP261 — 같은 팀, 다른 판단
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** end Week 6
 **Zone:** Old Works
 **Want:** keep Gideon/Niko/team aligned before the most consequential repair decision yet.
@@ -440,7 +440,7 @@ F Rim/Expansion Belt
 # B36 EP262~270 — 고장 난 도시를 협상한다 / Week 6~8
 
 ## EP262 — 빨리 고치면 생기는 고장
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 6~7
 **Zone:** high-capacity utility/transfer path
 **Want:** quantify the risk of rapid restoration.
@@ -462,7 +462,7 @@ F Rim/Expansion Belt
 **End Turn:** Juno's network considers blocking freight to force medical allocation change.
 
 ## EP264 — 고치지 않는 결정
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 7
 **Zone:** high-capacity path
 **Want:** make the technical recommendation he can defend.
@@ -484,7 +484,7 @@ F Rim/Expansion Belt
 **End Turn:** a violent cell exploits the slowdown to approach a control point.
 
 ## EP266 — 내가 막은 길
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 7
 **Zone:** Old Works / Midring consequence
 **Want:** manage technical consequences of his disablement decision.
@@ -506,7 +506,7 @@ F Rim/Expansion Belt
 **End Turn:** one control point faces armed/semi-armed confrontation.
 
 ## EP268 — 누구도 복구 못 하게
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 8
 **Zone:** strategic technical point
 **Want:** prevent a violent group from forcing the disabled coupling back online.
@@ -528,7 +528,7 @@ F Rim/Expansion Belt
 **End Turn:** the cross-group route could be formalized if institutions/groups accept neutrality.
 
 ## EP270 — 살릴 수 없는 선택지
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** end Week 8
 **Zone:** Old Works / recovery planning
 **Want:** find a faster way to undo his disablement.
@@ -576,7 +576,7 @@ F Rim/Expansion Belt
 **End Turn:** first major civilian/supply movement starts.
 
 ## EP274 — 내가 만들지 않은 해결책
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 9
 **Zone:** Old Works / corridor edge
 **Want:** keep one utility crossing stable during the corridor's first large movement.
@@ -587,7 +587,7 @@ F Rim/Expansion Belt
 **End Turn:** corridor prevents one confrontation and moves vulnerable people.
 
 ## EP275 — 지나간 사람들
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 9
 **Zone:** corridor aftermath
 **Want:** assess what the movement changed physically and socially.
@@ -598,7 +598,7 @@ F Rim/Expansion Belt
 **End Turn:** someone traces the corridor's earliest enabling route decision back to the dispatcher.
 
 ## EP276 — 시작은 작은 우회였다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** late Week 9
 **Zone:** Transfer/Old Works interface
 **Want:** understand how a minor operational choice mattered so much.
@@ -613,7 +613,7 @@ F Rim/Expansion Belt
 # B38 EP277~279 — 남은 메리디언 / Week 9~10
 
 ## EP277 — 복구가 아니라 생활
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 9~10
 **Zone:** damaged Midring/Old Works
 **Want:** begin safe long-term work in a city that cannot return quickly to its old baseline.
@@ -624,7 +624,7 @@ F Rim/Expansion Belt
 **End Turn:** an old external-observation dataset is reexamined amid recovery work.
 
 ## EP278 — 바깥에서 온 것인지 모르는 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Week 10
 **Zone:** technical/archive interface
 **Want:** decide whether a faint signal/data anomaly is relevant to current repair/resource planning.
@@ -635,7 +635,7 @@ F Rim/Expansion Belt
 **End Turn:** protagonist notices the more immediate puzzle: some procedures/resources still reflect histories nobody remembers.
 
 ## EP279 — 우리가 남은 방식
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** end Week 10
 **Zone:** Midring / Old Works / city recovery route
 **Want:** orient himself in the post-collapse H-B rather than search for H-A restoration.
@@ -650,7 +650,7 @@ F Rim/Expansion Belt
 # ACT 6 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **29**
+- 루카스: **29**
 - Mira: 4 — EP231, 239, 253, 271
 - Juno: 3 — EP233, 241, 265
 - Selene: 3 — EP246, 263, 273
