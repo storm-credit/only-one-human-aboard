@@ -35,7 +35,7 @@ stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|characte
 - Current-lived namespace remains H-B; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Projected Incoming
-FORECAST from EP407: End Turn=Natural-Origin birth/first-life milestone occurs off his POV. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
+FORECAST from EP407: End Turn=the Natural-Origin birth begins off his POV under ordinary medical-team care. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
 
 ## Protagonist Context
 - POV: ordinary medical/caregiver external lens
@@ -76,12 +76,12 @@ FORECAST from EP407: End Turn=Natural-Origin birth/first-life milestone occurs o
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: HUMAN:1 enters first lived social/medical record as a child/person under care. No speech, key, authority or supernatural reaction. Immediate Want: perform ordinary safe neonatal/developmental care and complete required records. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: HUMAN:1 is born and enters first lived social/medical record as a child/person under care. No speech, key, authority or supernatural reaction. Immediate Want: perform ordinary safe delivery and neonatal care and complete the required first records. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: HUMAN:1 enters first lived social/medical record as a child/person under care. No speech, key, authority or supernatural reaction.
-- exact Immediate Want: perform ordinary safe neonatal/developmental care and complete required records.
+- exact Blueprint A-Plot: HUMAN:1 is born and enters first lived social/medical record as a child/person under care. No speech, key, authority or supernatural reaction.
+- exact Immediate Want: perform ordinary safe delivery and neonatal care and complete the required first records.
 - exact End Turn: elsewhere, the city/settlement day continues.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

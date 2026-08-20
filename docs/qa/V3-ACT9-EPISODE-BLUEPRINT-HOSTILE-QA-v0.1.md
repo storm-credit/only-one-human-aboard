@@ -91,20 +91,24 @@ The charged-particle/electromagnetic-induction crisis is a **working physical-ha
 - why asynchronous operation helps.
 If weak, replace the hazard mechanism while preserving the same narrative causal architecture.
 
-## Timeline gate
-Before lock:
-- establish when final-approach gestation actually began,
-- set Act8~9 duration,
-- ensure EP408 birth/first-life milestone is biologically consistent.
-If timeline does not support birth, use another genuine first-life developmental milestone and move birth after series rather than accelerate biology.
+## Timeline gate — **CLOSED 2026-08-21 (CHG-055)**
+All three items are now resolved and written into the Act8/Act9 blueprints:
+- final ex vivo gestation begins at the **Act7-opening mission-clock threshold**;
+- Act7 ~8w + Act8 ~12w + Act9 ~18w = **~38 weeks**;
+- EP408 therefore carries an ordinary birth / first neonatal record **without accelerated biology**, so the fallback non-birth milestone is not required.
+
+Trigger rule enforced in EP359: mission-clock + medical viability protocol, **not** public discovery of HUMAN; gestation is already underway before characters know its meaning.
+Exact calendar date and medical week remain C2.
+Authority: `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md` §Act7~9 (`8 + 12 + 18 = 38 weeks`) · `docs/qa/V3-HUMAN1-MEDICAL-DEVELOPMENTAL-PLAUSIBILITY-PASS-v0.1.md` §6~§8.
+The numbers were already resolved in those two documents; this gate was open only because the Act8/Act9 blueprints had never been synchronized to them.
 
 ## Final result
 
-**ACT9 BLUEPRINT = PREWRITING PASS WITH TIMELINE / SCIENCE EXECUTION GATES.**
+**ACT9 BLUEPRINT = PREWRITING PASS. TIMELINE GATE CLOSED 2026-08-21 (CHG-055).**
 
 Do not redesign ending architecture.
-Resolve only:
+Remaining open items (none blocking manuscript start):
 1. external-hazard hard-science wording,
-2. gestation/Act8~9 exact clock,
+2. ~~gestation / Act8~9 exact clock~~ — **CLOSED**, see Timeline gate above,
 3. final relationship surface choices,
 4. prose-stage epilogue compression if needed.

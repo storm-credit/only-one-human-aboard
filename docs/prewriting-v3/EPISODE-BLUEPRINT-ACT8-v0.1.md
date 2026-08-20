@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 8 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 8: **한 명과 수많은 사람 — EP328~370**
 
@@ -12,8 +12,8 @@ Authority:
 - `docs/design-v3/V3-HUMAN1-BIOLOGICAL-FORM-4-DESIGNS-v0.1.md`
 - `docs/design-v3/V3-HUMAN1-ATTRITION-CONTINUITY-TIMELINE-v0.1-CANDIDATE.md`
 
-Protagonist label:
-`[주인공/TBD]`.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (final name APPROVED 2026-08-21, CHG-055).
 
 ## Act contract
 
@@ -53,7 +53,7 @@ Hard:
 # B45 EP328~334 — HUMAN은 무엇인가
 
 ## EP328 — 사람이라는 단어가 아닌 분류
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Civic/technical preservation review
 **Want:** determine what legacy `HUMAN` field technically separates after Act7 proved he is not it.
 **Action:** compares neighboring mission-era classifications and physical routing; evidence suggests origin/provenance continuity rather than intelligence/citizenship.
@@ -73,7 +73,7 @@ Hard:
 **End Turn:** definition points to biological preservation systems distinct from civic substrate.
 
 ## EP330 — 자연기원
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical/medical interface
 **Want:** test whether `Natural-Origin` means ordinary genetics, birth method, or direct departure-era biological continuity.
 **Action:** genetic archive and current citizen biology do not map to HUMAN count; continuity/provenance from departure is the differentiator.
@@ -83,7 +83,7 @@ Hard:
 **End Turn:** medical preservation route can independently test the interpretation.
 
 ## EP331 — 유전자가 한 명이라는 뜻은 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** genetic/preservation support
 **Want:** rule out `one person must repopulate humanity` interpretation.
 **Action:** confirms separate genetic diversity archive with broad material, while HUMAN field tracks active departure-continuity lives/continuities differently.
@@ -96,14 +96,14 @@ Hard:
 **POV:** Leila
 **Zone:** Med-University / protected medical data
 **Want:** determine what can legitimately be called an active/viable biological continuity without exposing identity.
-**Action:** confirms category is tied to a natural-origin developmental continuity preserved through specialized biostasis/developmental arrest, not a stored genome alone.
+**Action:** confirms category is tied to a cryopreserved early-stage Natural-Origin biological continuity with validated viability, not a stored genome alone; a full gestational system is a separate later phase.
 **Relationship:** Leila maintains patient/privacy logic even for unknown preserved subject.
 **World:** protected subject has rights before public identity.
 **Clue:** D06 TRIGGER complete.
 **End Turn:** current count=1 now has a biological/provenance meaning, but `why one` remains open.
 
 ## EP333 — 분류가 사람을 만들지는 않는다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Civic/technical review
 **Want:** state the narrow conclusion without letting category become caste.
 **Action:** current evidence supports `HUMAN = Natural-Origin departure-continuity category`; he points out it says nothing about citizen consciousness/rights.
@@ -127,7 +127,7 @@ Hard:
 # B46 EP335~342 — 1의 뜻
 
 ## EP335 — 처음부터 하나였나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** archive/technical provenance
 **Want:** test whether exactly one Natural-Origin continuity was designed from launch.
 **Action:** current records are consistent with long-term one, but gaps/old capacity maps imply a larger original preservation distribution.
@@ -137,7 +137,7 @@ Hard:
 **End Turn:** one departure inventory fragment gives a plural HUMAN class.
 
 ## EP336 — 복수형
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** archive verification
 **Want:** establish whether plural language is grammatical accident or actual count >1.
 **Action:** cross-checks distributed preservation modules and maintenance loads; multiple natural-origin continuities were originally carried.
@@ -157,7 +157,7 @@ Hard:
 **End Turn:** one major loss event intersects known Outer Ark physical history.
 
 ## EP338 — 살아남아서 하나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** physical preservation support map
 **Want:** verify attrition physically.
 **Action:** sees retired/damaged preservation pathways consistent with prior distributed cohort; later redundancy concentrates around remaining continuity.
@@ -177,7 +177,7 @@ Hard:
 **End Turn:** Ivo's memories contain no reliable HUMAN identity clue despite public expectation.
 
 ## EP340 — 기억으로 찾을 수 없는 사람
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Ivo/current investigation interface
 **Want:** test whether rare cross-history memory can identify HUMAN:1.
 **Action:** finds no stable relation because HUMAN continuity sits outside ordinary repeated civic lineage histories; Ivo's fragments do not grant access.
@@ -187,7 +187,7 @@ Hard:
 **End Turn:** Ivo chooses how to interpret that absence himself.
 
 ## EP341 — 모르는 사람을 기억할 수 없다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring / evidence aftermath
 **Want:** explain why lack of memory matters without mystifying HUMAN.
 **Action:** frames it narrowly: repeated-lineage memory residues concern lives that were lived; the protected continuity has not lived those histories.
@@ -224,7 +224,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** one family member has no counterpart/source identity outside this lineage.
 
 ## EP344 — 없는 원본
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical preservation review
 **Want:** determine what the procedure physically does to the threatened D3 lineage.
 **Action:** establishes resource relief could be achieved by safe slowdown/quiescence, but an older aggressive procedure risks continuity loss and is easier/faster.
@@ -244,7 +244,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** old doctrine treats lineage relation more like one continuity family than current citizens find acceptable.
 
 ## EP346 — 아이가 없어도
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** civic/technical review
 **Want:** prevent debate from collapsing into `save the child` sentiment only.
 **Action:** identifies adult continuities that would still face the same destructive-risk problem even if no child existed.
@@ -254,7 +254,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** resource administrators argue the lineage was created as a test and old mandate permits closure.
 
 ## EP347 — 시험이 끝났다는 말
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** preservation-resource review
 **Want:** determine what `test complete` historically authorized.
 **Action:** finds old Continuity Doctrine assumed outcomes/learning could continue through related lineage structures; it did not adequately anticipate deep independent societies.
@@ -274,7 +274,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** proposal costs more resources than administrators planned.
 
 ## EP349 — 다른 사람에게도 같은 규칙
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical/resource comparison
 **Want:** test whether proposed safeguards can generalize beyond one sympathetic family.
 **Action:** models operational consequences across adult-only lineages and unpopular/unknown groups; protection cannot depend on narrative likability.
@@ -298,7 +298,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 # B48 EP351~356 — 오래된 법
 
 ## EP351 — 연속성 등가
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** civic/technical review
 **Want:** understand the old doctrine well enough to know what must change now.
 **Action:** reconstructs its original rationale: shallow/short related branches were treated as one continuity of learning; depth later outgrew the legal assumption.
@@ -318,7 +318,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** civic review proposes temporary trusteeship/representation mechanism.
 
 ## EP353 — 지금 멈춰야 하는 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** preservation infrastructure
 **Want:** make the threatened procedure safe while law catches up.
 **Action:** supports temporary halt on destructive closeout and implements slower reversible/quiescent mode within finite capacity.
@@ -328,7 +328,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** temporary measure needs legal/administrative authority beyond one emergency order.
 
 ## EP354 — 새 사람을 더 만들 것인가
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** civic/resource review
 **Want:** address whether system may continue creating new involuntary fully lived D3 branches while rights rules are unsettled.
 **Action:** evidence shows non-conscious/deeper-model search can continue without automatically creating new full persons; full-lived deepening becomes the contested line.
@@ -348,7 +348,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** physical HUMAN preservation route reaches a final-approach transition window.
 
 ## EP356 — 규칙이 바꾼 기계
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** preservation operations
 **Want:** verify the new temporary rule actually changes procedures rather than only words.
 **Action:** sees scheduled operations altered: slower quiescence, consent/representation checks, different resource allocation.
@@ -362,7 +362,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 # B49 EP357~364 — 마지막 자연기원 연속성
 
 ## EP357 — 보호구역으로 가는 길
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** deep preservation support route
 **Want:** assess physical readiness of the Natural-Origin preservation chain for final-approach transition.
 **Action:** enters through legitimate technical role with medical/preservation operators; route is distinct from ordinary lineage substrate.
@@ -382,19 +382,19 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** final active continuity status can be checked medically.
 
 ## EP359 — 아직 삶을 시작하지 않은 사람
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** protected medical/preservation boundary
 **Want:** understand current developmental state enough for infrastructure safety planning.
-**Action:** learns the remaining Natural-Origin continuity is in early developmental arrest/biostasis and has not lived the repeated civic histories.
+**Action:** learns the remaining Natural-Origin continuity already began final ex vivo gestation around the Act7-opening mission-clock threshold — the process has been underway for weeks without anyone knowing its meaning — and that it has not lived the repeated civic histories.
 **Relationship:** his reaction is constrained by privacy; no symbolic audience with a fetus/child.
 **World:** `no past` becomes biological/historical fact.
 **Clue:** D06 FINAL PAYOFF REINFORCE.
-**End Turn:** final-approach gestation requires a decision/timetable by medical/preservation authority.
+**End Turn:** the ongoing gestation now requires protected medical support through the settlement timetable.
 
 ## EP360 — 태어날 권한은 누구에게 있나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** civic/medical planning
-**Want:** ensure no political faction can claim control of activation/gestation because of uniqueness.
+**Want:** ensure no political faction can claim control of the ongoing gestation, birth timing or guardianship because of uniqueness.
 **Action:** establishes current rules: medical welfare/mission conditions/guardianship-style protection, no sovereign owner or reproduction duty.
 **Relationship:** public desire for symbolic control is rejected institutionally.
 **World:** HUMAN uniqueness does not create throne.
@@ -405,14 +405,14 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **POV:** continuity trustee/preservation operator
 **Zone:** deep preservation
 **Want:** keep the last Natural-Origin continuity viable through transition without treating it as sacred relic or political property.
-**Action:** performs ordinary technical/medical readiness work, remembers losses as professional history, and rejects one request for unnecessary exposure/access.
+**Action:** performs ordinary ex vivo gestation integrity, environment-analog support and transition-readiness work, remembers losses as professional history, and rejects one request for unnecessary exposure/access.
 **Relationship:** operator's duty is bounded care, not secret priesthood.
 **World:** continuity protection is labor/institution.
 **Clue:** HUMAN physical reality grounded.
 **End Turn:** one support dependency overlaps settlement preparation capacity.
 
 ## EP362 — 한 명에게 쓰는 자원
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** resource/preservation/settlement interface
 **Want:** evaluate whether protecting HUMAN:1 unfairly drains lived lineages/current citizens.
 **Action:** finds cost is real but not the dominant mission load; protection is one obligation among many. Tradeoffs exist but 300k citizens do not exist solely for one continuity.
@@ -432,7 +432,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** readiness can proceed as settlement transition becomes imminent.
 
 ## EP364 — 한 명이어서가 아니라 살아 있기 때문에
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** preservation exit / current city
 **Want:** integrate HUMAN reveal with D3 rights without ranking them.
 **Action:** behaves consistently: supports protection of the one because it is a living continuity, and of D3 persons for the same personhood/continuity reasons, not because labels match.
@@ -446,7 +446,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 # B50 EP365~370 — 무엇을 더 만들지 않을 것인가
 
 ## EP365 — 안전을 위해 계속 만들 것인가
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** cross-lineage/settlement planning
 **Want:** decide what civilization-search practices may continue as destination approaches.
 **Action:** separates non-conscious forecasting from creation/deepening of fully lived involuntary societies.
@@ -466,7 +466,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** representation of quiescent/unavailable lineages remains unresolved.
 
 ## EP367 — 말할 수 없는 사람의 몫
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** temporary compact drafting/operations
 **Want:** ensure silent/quiescent D3 claims are not treated as forfeited by absence.
 **Action:** supports trusteeship/hold rules for preservation/common resources while refusing fake votes invented on their behalf.
@@ -476,7 +476,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** settlement systems need immediate operational authority before permanent law exists.
 
 ## EP368 — 승격은 우승이 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** technical settlement-preparation records
 **Want:** understand legacy `promotion` terminology now tied to settlement/depth.
 **Action:** establishes it means resource/depth/preservation/external preparation, not choosing a morally best civilization score.
@@ -496,7 +496,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 **End Turn:** first external settlement hardware deployment is approved.
 
 ## EP370 — 다시 시험하지 않는 쪽으로
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** city/preservation/settlement interface
 **Want:** commit to the next stage without pretending all ethical questions are solved.
 **Action:** current temporary norm stands: no arbitrary deletion after test; quiescence separated from termination; new involuntary fully lived branching restricted; non-conscious forecasting may continue; cross-lineage compact governs immediate commons.
@@ -510,7 +510,7 @@ A fully lived D3 lineage/family has been **seeded before the direct threat** thr
 # ACT 8 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **26**
+- 루카스: **26**
 - Hana: 3 — EP329, 337, 358
 - Leila: 3 — EP332, 352, 363
 - D3 rights family: 4 — EP343, 345, 348, 350

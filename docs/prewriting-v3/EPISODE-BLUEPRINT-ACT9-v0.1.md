@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 9 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 9: **처음 가는 곳 — EP371~410**
 
@@ -12,8 +12,8 @@ Authority:
 - `docs/narrative-engineering/V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4-CANDIDATE.md`
 - `docs/prewriting-v3/EPISODE-CARD-SPEC-v0.1.md`
 
-Protagonist label:
-`[주인공/TBD]`.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (final name APPROVED 2026-08-21, CHG-055).
 
 ## Act contract
 
@@ -40,7 +40,13 @@ HUMAN:1 direct internal POV:
 **0**.
 
 Working time:
-Final approach + first settlement operations across **weeks to several months**, with the external crisis concentrated in a short late deployment window. Exact gestation/arrival clock remains a final timeline-regression item; HUMAN final-approach gestation is already underway before Act9.
+Final approach + first settlement operations across **~18 weeks**, with the external crisis concentrated in a short late deployment window.
+
+Gestation clock is now **LOCKED** (was an open timeline-regression item):
+final ex vivo gestation begins at the **Act7-opening mission-clock threshold**, and Act7 ~8w + Act8 ~12w + Act9 ~18w = **~38 weeks**, so EP408 carries an ordinary birth / first neonatal record **without accelerated development**.
+Exact calendar date and medical week remain C2.
+Trigger is mission-clock + medical viability protocol — **public discovery of HUMAN does not trigger gestation**, and gestation begins before characters know its meaning.
+Authority: `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md` §Act7~9 · `docs/qa/V3-HUMAN1-MEDICAL-DEVELOPMENTAL-PLAUSIBILITY-PASS-v0.1.md` §6~§8.
 
 Hard:
 - no universal human-sized embodiment,
@@ -71,7 +77,7 @@ Hard:
 **End Turn:** first local environment readings differ slightly from model envelope.
 
 ## EP372 — 바깥에서는 고장도 다르다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** early transition
 **Zone:** deployment diagnostics / Outer Ark interface
 **Want:** determine whether environmental deviations threaten structural/thermal margins.
@@ -93,7 +99,7 @@ Hard:
 **End Turn:** persistent local continuity modes are requested for work that cannot tolerate long communication delay.
 
 ## EP374 — 몸이 필요한 일
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** early weeks
 **Zone:** local deployment planning
 **Want:** identify which jobs truly require persistent local embodiment/continuity rather than remote avatars.
@@ -115,7 +121,7 @@ Hard:
 **End Turn:** one quiescent-lineage representation question delays shared-resource approval.
 
 ## EP376 — 말하지 못하는 사람을 기다리는 법
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** early weeks
 **Zone:** transitional compact operations
 **Want:** keep deployment moving without treating quiescent claims as abandoned.
@@ -137,7 +143,7 @@ Hard:
 **End Turn:** first settlement commons reach limited operational state.
 
 ## EP378 — 살 수 있는 곳, 아직 살고 있는 곳
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** early transition
 **Zone:** Meridian ↔ settlement commons
 **Want:** certify one physical dependency chain before civilian use expands.
@@ -163,7 +169,7 @@ Hard:
 **End Turn:** emergency security jurisdiction overlaps settlement autonomy.
 
 ## EP380 — 임시정부가 영구정부가 되지 않게
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** settlement weeks
 **Zone:** compact operations
 **Want:** understand who can order technical shutdown during transition.
@@ -185,7 +191,7 @@ Hard:
 **End Turn:** one operational bottleneck tempts administrators to prioritize H-B automatically.
 
 ## EP382 — 먼저 도착한 사람이 주인이 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** settlement weeks
 **Zone:** resource allocation
 **Want:** stop a practical shortcut that would convert first deployment into political ownership.
@@ -207,7 +213,7 @@ Hard:
 **End Turn:** one real environmental pattern causes small synchronization/noise anomalies.
 
 ## EP384 — 독립하기 전에 연습하지 않는 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** transition threshold
 **Zone:** Ark/settlement technical planning
 **Want:** decide whether to launch a new fully lived rehearsal for the uncertain external hazard envelope.
@@ -239,7 +245,7 @@ No alien attacker is required.
 **End Turn:** several synchronized nodes enter protective mode while one unsynchronized node remains stable.
 
 ## EP386 — 공격인지 고장인지 모를 때
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 0
 **Zone:** deployment diagnostics
 **Want:** determine failure mechanism before teams react to `external attack` rumors.
@@ -250,7 +256,7 @@ No alien attacker is required.
 **End Turn:** persistent local continuity teams risk being isolated if synchronized links fail.
 
 ## EP387 — 연결을 끊으면 사는 것과 죽는 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 0~1
 **Zone:** Ark/settlement link
 **Want:** decide which couplings can be safely isolated without severing active persistent continuities/services.
@@ -272,7 +278,7 @@ No alien attacker is required.
 **End Turn:** one local clinic/power node must operate autonomously.
 
 ## EP389 — 과거에 있던 답
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 1
 **Zone:** crisis analysis
 **Want:** search inherited histories/procedures for analogous coupling failure.
@@ -294,7 +300,7 @@ No alien attacker is required.
 **End Turn:** induced stress begins damaging a high-capacity settlement coupling.
 
 ## EP391 — 하나로 묶여 있어서 망가진다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 2
 **Zone:** damaged coupling infrastructure
 **Want:** determine why failures propagate across physically separate nodes.
@@ -320,7 +326,7 @@ No alien attacker is required.
 # B54 EP393~400 — 다시 해보지 않는다
 
 ## EP393 — 실패한 정착지를 다시 불러오지 않는다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 2~3
 **Zone:** settlement control/technical interface
 **Want:** choose between risky restoration of synchronized network and deliberate staged decoupling with permanent losses.
@@ -331,7 +337,7 @@ No alien attacker is required.
 **End Turn:** decoupling requires local manual/physical actions across several nodes.
 
 ## EP394 — 끊어서 살리는 순서
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 3
 **Zone:** coupled infrastructure
 **Want:** design a decoupling sequence that preserves active continuities and thermal margins.
@@ -353,7 +359,7 @@ No alien attacker is required.
 **End Turn:** central plan adjusts around Niko/local data.
 
 ## EP396 — 남겨 둘 수 없는 연결
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 3~4
 **Zone:** high-risk coupling
 **Want:** sever one connection that preserves convenience/capacity but amplifies hazard.
@@ -364,7 +370,7 @@ No alien attacker is required.
 **End Turn:** the unsynchronized seed node becomes the only stable bridge for staged recovery.
 
 ## EP397 — 우연히 남겨 둔 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 4
 **Zone:** seed node / operations
 **Want:** determine why one node survived better.
@@ -386,7 +392,7 @@ No alien attacker is required.
 **End Turn:** external disturbance begins easing/phase shifting, but one continuity group remains at risk.
 
 ## EP399 — 마지막으로 남은 위험
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** Day 4~5
 **Zone:** final unstable local segment
 **Want:** secure remaining persistent continuities before disturbance returns or thermal reserve collapses.
@@ -397,7 +403,7 @@ No alien attacker is required.
 **End Turn:** operation succeeds enough for survival but not restoration of lost assets.
 
 ## EP400 — 살아남은 현재
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** crisis Day 5 / immediate aftermath
 **Zone:** settlement/Ark interface
 **Want:** verify people and infrastructure that actually remain.
@@ -412,7 +418,7 @@ No alien attacker is required.
 # B55 EP401~405 — 남은 사람들
 
 ## EP401 — 사고 조사 첫날
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** days after crisis
 **Zone:** settlement diagnostics
 **Want:** document the failure without turning it into a heroic myth.
@@ -434,7 +440,7 @@ No alien attacker is required.
 **End Turn:** families begin choosing whether/when to move, stay, or split across locations.
 
 ## EP403 — 선택하지 않은 삶은 내 삶이 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** aftermath weeks
 **Zone:** current family/relationship setting
 **Want:** handle a major personal relationship choice without using alternate-history memories as entitlement.
@@ -456,7 +462,7 @@ No alien attacker is required.
 **End Turn:** protagonist must accept a future he cannot pre-script.
 
 ## EP405 — 고칠 목록
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** aftermath weeks
 **Zone:** Old Works/settlement diagnostics
 **Want:** choose what to repair first from a long list.
@@ -471,10 +477,10 @@ No alien attacker is required.
 # B56 EP406~410 — 첫날
 
 ## EP406 — 태어나기 전날이 역사적인 날일 필요는 없다
-**POV:** [주인공/TBD]
-**Time:** later aftermath / gestation timeline-dependent
+**POV:** 루카스
+**Time:** Act9 week ~18 — approaching the ~38-week interval since final-approach gestation began at Act7 opening
 **Zone:** ordinary work + protected medical support interface
-**Want:** finish a settlement repair obligation while a Natural-Origin developmental/birth milestone approaches.
+**Want:** finish a settlement repair obligation while the planned Natural-Origin birth/first neonatal milestone approaches.
 **Action:** treats the event as one protected person's medical future, not a ceremony requiring his presence.
 **Relationship:** he declines symbolic `first human witness/founder` framing.
 **World:** HUMAN no longer dominates all civic priorities.
@@ -482,7 +488,7 @@ No alien attacker is required.
 **End Turn:** ordinary medical team takes over.
 
 ## EP407 — 아무도 기억하지 못하는 일정
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** later aftermath
 **Zone:** settlement commons
 **Want:** plan the next work/service cycle without a remembered history to compare against.
@@ -490,14 +496,14 @@ No alien attacker is required.
 **Relationship:** asks rather than assumes what others want.
 **World:** future is operationally unrehearsed.
 **Clue:** NONE.
-**End Turn:** Natural-Origin birth/first-life milestone occurs off his POV.
+**End Turn:** the Natural-Origin birth begins off his POV under ordinary medical-team care.
 
 ## EP408 — 한 아이의 첫 기록
 **POV:** ordinary medical/caregiver external lens
-**Time:** timeline-dependent birth/first-life milestone
+**Time:** Act9 week ~18 — normal-class ~38-week developmental interval complete; birth / first neonatal record
 **Zone:** protected medical care
-**Want:** perform ordinary safe neonatal/developmental care and complete required records.
-**Action:** HUMAN:1 enters first lived social/medical record as a child/person under care. No speech, key, authority or supernatural reaction.
+**Want:** perform ordinary safe delivery and neonatal care and complete the required first records.
+**Action:** HUMAN:1 is born and enters first lived social/medical record as a child/person under care. No speech, key, authority or supernatural reaction.
 **Relationship:** caregivers/guardianship institution begins ordinary responsibility.
 **World:** legacy `HUMAN:1` field becomes a living person's biography rather than title object.
 **Clue:** D06 AFTERSHOCK complete.
@@ -505,7 +511,7 @@ No alien attacker is required.
 **End Turn:** elsewhere, the city/settlement day continues.
 
 ## EP409 — 다음 고장
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** first ordinary new-era days
 **Zone:** settlement/Old Works service route
 **Want:** assess a small non-catastrophic fault.
@@ -516,7 +522,7 @@ No alien attacker is required.
 **End Turn:** he heads to an ordinary personal/work commitment after closing only what can be closed today.
 
 ## EP410 — 처음 가는 날
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** ordinary new-era day
 **Zone:** lived settlement/ship environment
 **Want:** live one day whose next step he does not remember in advance.
@@ -531,7 +537,7 @@ No alien attacker is required.
 # ACT 9 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **24**
+- 루카스: **24**
 - Mira: 2 — EP373, 404
 - Selene: 2 — EP381, 392
 - Rafi: 1 — EP388

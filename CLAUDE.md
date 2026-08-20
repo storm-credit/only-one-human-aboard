@@ -6,435 +6,288 @@ Repository: `storm-credit/only-one-human-aboard`
 
 이 파일은 프로젝트 최상위 작업헌법이다.
 
+**현재 공식 정본 = v3 (9막 / 410화).**
+v2(7막 / 230화)는 **FROZEN HISTORICAL EDITION**이며 신규 작업의 정본이 아니다.
+승격 기록: `docs/change-control/CHG-055-V3-CANON-PROMOTION.md` (2026-08-21).
+
 ### Current authority order
 1. `CLAUDE.md`
-2. **`canon/WORLD_BIBLE-v2.md` — OFFICIAL CANON**
-3. **`canon/CHARACTER_BIBLE-v2.md` — OFFICIAL CANON**
-4. **`canon/ACT_BIBLE-v1.md` — ACTIVE NARRATIVE CANON**
-5. **`canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md` — NARROW FROZEN AMENDMENT**
-6. `canon/CANON_STATUS.md`
-7. `docs/current-work-status.md`
-8. active Episode Blueprint
-9. locked POV Map
-10. `docs/writing-ready/HARNESS-M1-TIME-AGE-v0.1.md`
-11. applicable Deep Card / EP Context Manifest
-12. `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md`
+2. **`canon/CANON_STATUS.md`** — 단일 상태표 / 활성 정본 파일 목록
+3. **`canon/WORLD_BIBLE-v3-CANDIDATE.md` + `canon/WORLD_BIBLE-v3-ADDENDUM-*.md` — OFFICIAL WORLD CANON**
+4. **`canon/CHARACTER_BIBLE-v3.1-CANDIDATE.md` — OFFICIAL CHARACTER CANON**
+5. **`canon/ACT_BIBLE-v3.2-CANDIDATE.md` — OFFICIAL NARRATIVE CANON**
+6. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md` — 활성 라우팅
+7. `docs/current-work-status.md` · `docs/NEXT-CHAT-HANDOFF.md`
+8. `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT{1..9}-v0.1.md` — exact episode event truth
+9. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md` — POV 소유권 정본
+10. `docs/obsidian-v3/contexts/CTX-V3-EPxxx.md` → `docs/obsidian-v3/deep-contexts/DEEP-V3-EPxxx.md`
+11. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
+12. `docs/manuscript/PROSE-STYLE-RUBRIC-v1.md` / `STYLE-METHOD-v1.md`
 13. Reference Atlas / design history.
 
-### Hard retraction
-**`canon/v2/` = RETRACTED / NON-CANON / DESIGN HISTORY ONLY.**
+파일명에 `CANDIDATE`가 남아 있어도 **권위는 파일명이 아니라 이 라우팅과 `CANON_STATUS.md`에서 나온다.**
+대량 리네임은 하지 않는다.
 
-It was an experimental modularization attempt created after the official monolithic v2 had already passed Freeze. Comparison showed stale quantitative candidates and superseded support names inside that experiment.
-
-Never use `canon/v2/*` as normative truth, even if search returns it first.
-
-Historical regression baselines:
-- `canon/WORLD_BIBLE-v1.md`
-- `canon/CHARACTER_BIBLE-v1.md`.
-
-Act Bible remains v1 because the encyclopedic pass did not change the 7-Act/230-episode macro architecture.
-
-If any old/design/experimental file conflicts with current authority, current authority wins.
-
----
-
-### 0.5 V3 TRACK POINTER — READ BEFORE ACTING ON §1 / §8 / §12
-
-**이 파일의 §1~§12는 공식 v2 트랙(7막 / 230화 / Maren·Amara)을 서술한다. 그것은 여전히 공식 Canon이다.**
-그러나 이 저장소에는 **별도의 v3 후보 트랙(9막 / 410화 / 신규 주인공 TBD)** 이 존재하며 현재 활성 설계 작업은 전부 그쪽이다.
-
-새 세션은 §1로 넘어가기 전에 반드시 확인한다:
-- `docs/NEXT-CHAT-HANDOFF.md`
-- `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
-- `docs/current-work-status.md`
-
-경계:
-- 공식 Canon = **여전히 v2 + Amendment A**. v3는 promotion-ready이나 **승격되지 않았다**.
-- 아래 §1/§12의 `10 / 230`, `First eligible EP011`은 **v2 역사 원고 라인**의 값이다. v3 원고 라인은 **0 / 410**이며 아직 시작되지 않았다.
-- §8의 EP001 retrieval order는 **v2 전용**이다. v3 회차 집필에 사용하지 마라.
-- v3 Act 블루프린트는 `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT{1..9}-v0.1.md`.
-  `docs/writing-ready/EPISODE-BLUEPRINT-ACT{1..7}-v0.1.md`와 **파일명이 같지만 다른 문서다**(v2).
-- v3 EP001 집필은 3개 게이트 뒤에 있다: v3 Canon 승격 / 주인공 최종 이름 승인 / 명시적 Manuscript Start.
-
-감사 기록: `docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md` (C-01).
+### Hard retractions
+- **`canon/v2/` = RETRACTED / NON-CANON / DESIGN HISTORY ONLY.** 절대 정본으로 쓰지 마라.
+- **v2 정본군**(`WORLD_BIBLE-v2.md`, `CHARACTER_BIBLE-v2.md`, `ACT_BIBLE-v1.md`, `CANON-v2-AMENDMENT-A-*`)
+  = **FROZEN HISTORICAL EDITION.** 보존하되 신규 v3 작업의 정본이 아니다.
+- **`docs/writing-ready/EPISODE-BLUEPRINT-ACT{1..7}-v0.1.md` = v2다.**
+  v3와 **파일명이 같다.** v3는 반드시 `docs/prewriting-v3/` 경로를 쓴다.
+- `docs/design-v3/V3-CURRENT-DESIGN-STATUS.md` = SUPERSEDED.
 
 ---
 
 # 1. CURRENT GATE
 
 Completed:
-- `CORE DESIGN FREEZE v1 = PASSED — 2026-08-17`
-- `CORE CANON FREEZE v1 = PASSED — 2026-08-17`
-- `STRUCTURAL WRITING READY = PASSED`
-- `PROSE EXECUTION PROTOCOL v1.1 = LOCKED`
-- `EP001~230 POV ARCHITECTURE = LOCKED / PASS`
-- `ENCYCLOPEDIC DEEP DESIGN = PASSED — 2026-08-18`
-- `PACKAGE A~I = PASS / P0=0`
-- `ENCYCLOPEDIC CANON FREEZE v2 = PASSED — 2026-08-18`
-- **`CANON v2 AMENDMENT A = FROZEN / PASSED — 2026-08-18`**
+- `V3 STRUCTURAL WRITING READY = PASS`
+- `EP001~410 BLUEPRINT = 410/410`
+- `THIN CTX ROUTER = 410/410`
+- `DEEP PROJECTED CONTEXT = 410/410 / P0=0 / P1=0`
+- `POV RECALIBRATION v0.2 = PASS`
+- `FINAL PRE-PROMOTION COMPLETENESS AUDIT = PASS`
+- `FINAL PRE-MANUSCRIPT BLIND-SPOT AUDIT = PATCH → 해소` (`docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md`)
+- **`V3 CANON PROMOTION = EXECUTED — 2026-08-21`**
+- **`PROTAGONIST FINAL NAME = APPROVED — 루카스 켈러`**
 
 Current manuscript state:
-**`IN PROGRESS`**
+**`NOT STARTED`**
 
-Accepted manuscript:
-**10 / 230** (EP001~010) — **v2 역사 라인 기준**.
+Active v3 manuscript:
+**0 / 410**
 
-First eligible episode:
-**EP011** — **v2 라인 한정**. (v3 라인은 0 / 410, 미착수. §0.5 참조.)
+Historical v2 manuscript (frozen, preserved):
+**10 / 230** — `manuscript/accepted/` EP001~010. v3 라인으로 끌어오지 마라.
+
+First eligible v3 episode:
+**EP001**
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 
 Important:
-A generic `이어서/진행` does not automatically mean write prose. Continue the current requested project/admin task unless the user explicitly asks to draft manuscript.
+A generic `이어서/진행` does not automatically mean write prose.
+**Manuscript Start는 사용자의 명시적 집필 지시가 있어야 한다.**
 
 ---
 
 # 2. COMPLETENESS STANDARD — SATISFIED
 
 Reference-grade standard:
-ordinary citizens across age/class/job/family/location can live normal days and encounter birth/school/work/money/housing/family/illness/crime/emergency/culture/death/arrival without inventing a new civilization-scale rule.
+ordinary citizens across age/class/job/family/location can live normal days and encounter
+birth/school/work/money/housing/family/illness/crime/emergency/culture/death/arrival
+without inventing a new civilization-scale rule.
 
-Passed:
-- Package I deterministic suites
-- 20/20 arbitrary random scenes
-- full Canon/story regression
-- official v2 Freeze Red Team
-- Amendment A Red Team.
-
-Remaining C2 is intentional bounded scene detail, not missing architecture.
+v3 통과 근거: Deep Design 하네스, Act별 적대 QA 9/9, 전 시리즈 Red Team, 최종 승격 전 감사, 최종 집필 전 맹점 감사.
 
 ---
 
-# 3. CORE CANON — DO NOT REINTERPRET
+# 3. CORE CANON v3 — DO NOT REINTERPRET
 
-- Ship = **Meridian / 메리디언**
-- current population ≈300k
-- citizens generally have living human-form biological bodies/brains
-- old distinction = cognitive developmental origin, not body material
-- majority = Seeded/Synthetic-Origin Cognition
-- active Natural/Bio-Origin count at Reveal = **1**
-- identity = **Amara Okoro / 아마라 오코로**
-- modern society recognizes both origin classes as people/citizens/humans
-- title's `one human` is legacy-category shock, not narrator's final ontology.
+- Ship = **Meridian / 메리디언**, 하나의 실재하는 **Outer Ark**
+- 외부 물리 시간은 **항상 전진**한다. 우주론적 다중우주는 요구되지 않는다
+- 함내에 **ultradense 분산 문명 기반(substrate)** 이 존재한다
+- 실행 깊이 등급: `D0 Seed / D1 Forecast / D2 Deep Civic / D3 Fully Lived / D4 Crisis Depth`
+- 선택된 D3 역사들은 **완전히 살아졌고 도덕적으로 실재**한다. 체험된 메리디언은 작가적 가짜가 아니다
+- **H-A = Act1~2 (EP001~094)** → 드문 연속성 오결합(misbinding) 1회 → **H-B = Act3~9 (EP095~410)**
+- 주인공의 반복적 세계 도약은 없다
 
-## Seed
-- prenatal developmental prior only
-- no memory/personality/loyalty/command/admin programming
-- verified prenatal success
-- no adult origin scanner.
-
-## Reconstruction
-- Recovery Map + surviving Neural Anchor
-- no executable soul file
-- no anchorless adult restoration
-- no routine chronological age rollback.
-
-## History
-- original Natural-Origin passengers not exterminated/mass-uploaded/replaced
-- Seed standardizes over generations
-- no exact-one/Witness protocol
-- current `1` is demographic state.
-
-## Living World
-- 1환 / 2환 / 3환 + Spine + Outer Works + legacy areas
-- no Habitat caste
-- Layered Commons + Market City
-- Habitats internally compartmented, not giant undivided air cylinders.
+## HUMAN
+- `HUMAN` = **Natural-Origin 출항 연속성 legacy 범주**이며 **인격(personhood)이 아니다**
+- 출항 시 HUMAN > 1. 실제 감손으로 **현재 1명**이 남았다
+- **주인공은 HUMAN이 아니다**
+- HUMAN:1은 수집물/선택받은 자/열쇠가 아니다. Act8에서 명시적으로 de-collectify된다
+- HUMAN:1의 실체 = **극초기 단계 Natural-Origin 생물학적 연속성의 냉동보존체**.
+  최종접근 ex vivo 임신은 **Act7 개시 미션클럭 임계**에서 시작되며,
+  Act7 ~8주 + Act8 ~12주 + Act9 ~18주 = **~38주** → EP408 정상 출산.
+  **HUMAN 공개 발견이 임신을 촉발하지 않는다.** 미션클럭 + 의학적 생존성 프로토콜이 촉발한다
 
 ## Destination
-Use exact official values/ranges from `WORLD_BIBLE-v2.md` only.
-Do not substitute experimental `canon/v2/` numbers.
-
-## Arrival Law
-- 시민기본법 / 개척헌장 / 도착전환규정
-- Human Settler = destination-jurisdiction translation problem
-- no mass deletion of ship citizenship
-- no Amara authority/key.
+근사 호환 총압이지만 **산소 부족**. 선외 작업은 보조 호흡가스/산소 지원 + 모니터링 필요.
+정확한 수치는 `WORLD_BIBLE-v3-*`만 사용한다.
 
 ---
 
-# 4. AMENDMENT A — NEW OFFICIAL RULES
+# 4. PROTAGONIST / CAST
 
-Authority:
-`canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md`.
+## Protagonist
+- **루카스 켈러 / Lukas Keller**
+- 독자 노출 호칭은 **`루카스`** 단일. 문체를 위해 `루카스/켈러`를 번갈아 쓰지 마라
+- 남성, 시리즈 개시 시점 **38세**
+- 직업: **선체 손상분석관(damage analysis)**. 군인 아님, 탐정 아님, 선택받은 자 아님
+- 결함 축: 보호를 명분으로 한 **과통제**. EP027에서 지속적 관계 비용을 치른다
+- 권한 한계가 항상 보인다: 구조안전을 평가하지만 사람/보안을 지휘하지 않는다
 
-Adds only:
+## Household (C2)
+마르틴 켈러(부, 68) · 나디아 소토(모, 65) · 클라라 켈러(누나, 41) · 사미르 코스타(매형, 42) · 에바 코스타(조카, 9).
 
-### Elections / executive / judiciary
-- franchise 18+
-- four-year shipwide general election
-- mixed-member two-vote 선내의회
-- ~120–180 seats bounded, preferred ~150
-- residential district + compensatory proportional list seats
-- no origin/profession/property/Habitat weighted vote
-- Assembly-selected collective civic executive ~5–7 members
-- constructive no-confidence
-- directly elected local councils without Habitat sovereignty
-- multi-level judiciary
-- 시민항소원 = specialized high civic/admin-rights appeal, not whole judiciary
-- indefinite emergency suspension of elections forbidden.
+## Core cast 13
+루카스 켈러 · Mira Solano · Selene Adebayo · Rafi Chen · Sora Mbeki · Leila Noor ·
+Gideon Park · Niko Osman · Juno Reyes · Hana Kouri · Ivo Serrin · Cassian Dae · Arun Kalev.
 
-### Found property / salvage
-- finding ≠ ownership
-- public/common/strategic/controlled assets do not become private merely because old/disconnected/decommissioned
-- first resource discovery ≠ celestial sovereignty.
+Authority: `canon/CHARACTER_BIBLE-v3.1-CANDIDATE.md`.
+조연은 각자 독립 욕망을 갖는다. 주인공이 모든 해결을 흡수하지 않는다.
 
-### Human-subject research
-- informed voluntary consent + ethics review + minimum necessary data access
-- no Civic Floor coercion
-- **Amara has no research duty because she is unique**.
-
-### Medical aid-in-dying
-- narrow contemporaneously competent adult pathway under independent review
-- disability/poverty/housing scarcity alone never qualifies
-- no proxy/guardian/AI/old directive may actively authorize death for a currently incapable person.
-
-Change Control:
-`docs/change-control/CANON-v2-AMENDMENT-A-CHANGE-RECORD.md`.
-
-QA:
-`docs/qa/CANON-v2-AMENDMENT-A-RED-TEAM.md`.
+## POV
+- 주인공 소유 **319 / 410 = 77.8%**
+- 주인공 등장 **386 / 410 = 94.1%**
+- 완전 부재 **24 / 410 = 5.9%**
+- 소유권 충돌 시 **`POV-OWNERSHIP-REALLOCATION-v0.2`가 카드 라벨과 Deep 사이드카를 이긴다.**
+  해당 47화 목록은 `V3-CURRENT-AUTHORITY-MAP.md` §3.1.
 
 ---
 
-# 5. CHARACTER AUTHORITY
+# 5. ACT / REVEAL / TIME LOCKS
 
-Authority:
-**`canon/CHARACTER_BIBLE-v2.md`**.
+| Act | 범위 | 제목 |
+|---|---|---|
+| 1 | EP001~042 | 우리가 살던 메리디언 |
+| 2 | EP043~094 | 닫힌 구획 |
+| 3 | EP095~136 | 같은 아침이 아니다 |
+| 4 | EP137~181 | 미래를 안다고 믿는 사람들 |
+| 5 | EP182~228 | 없었던 역사 |
+| 6 | EP229~279 | 멸망했던 메리디언 |
+| 7 | EP280~327 | 셀 수 없는 삶 |
+| 8 | EP328~370 | 한 명과 수많은 사람 |
+| 9 | EP371~410 | 처음 가는 곳 |
 
-Core cast remains locked as previously designed.
+Reveal 정본: `docs/narrative-engineering/V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4-CANDIDATE.md`.
+Time 정본: `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`.
 
-Amara hard anti-clue:
-appearance / health / skill / hobby / object / pre-Reveal privacy habits must not reveal Natural-Origin.
+## Act1 미스터리 점화 (CHG-055에서 전진 배치)
+- **EP007** D05 mundane primer — 평범한 안전지식. 이상함 없음
+- **EP012** D05 professional PLANT — 상속된 브레이싱 단계가 실제로 유용함
+- **EP014** 사고는 사고였다 + D05 국소 payoff — 출처만 없음
+- **EP022** REINFORCE(두 번째 절차 계열) · **EP028** 두 번째 국소 payoff
 
-Latest C1 support names include:
-- Eli Rhee
-- Jae Kadir
-- Sami Dae
-- Rina Vos
-- Rosa Imani
-- Arun Salcedo
-- Dalia Diniz
-- Dev Afolayan
-- Nadia Idris
-- Tavi Morgan
-- Abeni Okoro
-- Mateo Varga
-- Lina Marquez
-- Hana Wu.
-
-C2 reserve:
-- Sorin Das
-- Yuna Bekele.
-
-Do not resurrect superseded Toma/Mara/Sana/Imani/Leonie support-name candidates from experimental docs.
+Hard: EP001~006은 의도적으로 단서가 없다. 대신 EP008~014 사고/구조 아크가 초반 장르 하중을 진다.
+`ordinary_event_guard: HARD` — 평범한 고장은 진짜로 평범해야 한다. **미스터리 음악을 깔지 마라.**
 
 ---
 
-# 6. ACT / REVEAL / TIME LOCKS
+# 6. EXECUTION — CONTEXT RETRIEVAL
 
-Acts:
-1. EP001~028
-2. EP029~058
-3. EP059~088
-4. EP089~122
-5. EP123~156
-6. EP157~194
-7. EP195~230.
+Retrieval order:
+`exact Episode Blueprint → thin CTX Router → Deep Projected sidecar → realized previous Continuity → JIT Dynamic → max-5 payload`
 
-Reveal:
-- internal Count EP056
-- public Count EP058
-- Meaning complete EP066
-- protected Amara confirmation EP068
-- controlled public confirmation EP075
-- PR-H1 exact discovery starts EP112
-- Human Settler operational EP142~151
-- insertion EP216
-- EP230 no author thesis speech.
+**한 회차는 최대 5개 직접 컨텍스트 번들만 받는다.**
+1. Episode Card
+2. Immediate Continuity
+3. POV/Relationship Microbundle — *POV 소유권은 §4의 overlay 규칙을 먼저 적용*
+4. World/Zone/Material Microbundle
+5. Active Narrative Device/Return Microbundle
 
-Active Blueprint:
-- Act1 v0.1
-- Act2 v0.1
-- Act3 v0.1
-- Act4 v0.1
-- Act5 v0.1
-- **Act6 v0.2 active; v0.1 superseded**
-- Act7 v0.1.
-
-M1 Time/Age is execution clock authority.
-
----
-
-# 7. NARRATIVE ENGINEERING / OBSIDIAN
-
-Package G:
-- 7 Act nodes
-- 23 Sub-Act nodes
-- Device / Mystery / Information architecture
-- 230/230 Context Manifest Registry
-- **individual Context Manifest files EP001~230 physically exist on main**
-- AUTHOR / POV / PUBLIC / PROTECTED separation.
-
-Authority:
-`official Canon → active Blueprint → locked POV → M1 → applicable Deep Card → exact EP Context Manifest`.
+거대 매트릭스는 **라우터일 뿐** 프롬프트에 통째로 싣지 않는다.
+Deep Context는 Canon이 아니며 exact Blueprint의 사건 진실을 덮지 못한다.
+상위 권위가 바뀌면 해당 Deep 노드는 `STALE`이며 재컴파일 후 사용한다.
 
 Hard:
 **Sub-Act candidate device ≠ episode exposure.**
-Only episode-explicit Blueprint/Deep-Card/ledger evidence may load a device.
-
-Reference Atlas is navigation only.
-Do not dump full global Canon into one POV Context Pack by default.
+episode-explicit Blueprint / ledger 근거가 있어야 device를 로드한다.
 
 ---
 
-# 8. PROSE EXECUTION — ONLY WHEN EXPLICITLY STARTED
-
-EP001 retrieval order:
-1. `WORLD_BIBLE-v2.md` relevant sections
-2. `CHARACTER_BIBLE-v2.md` relevant characters
-3. `ACT_BIBLE-v1.md`
-4. Amendment A only if relevant
-5. Act1 exact Episode Blueprint card
-6. Act1 locked POV row
-7. M1
-8. applicable Deep Card + EP001 Context Manifest
-9. Prose Protocol v1.1
-10. style/QA.
-
-Never load experimental `canon/v2/` as Canon.
+# 7. PROSE EXECUTION — ONLY WHEN EXPLICITLY STARTED
 
 Writing model:
-- close third
-- one POV per episode
-- causal-owner POV
-- no head hopping
-- Maren-led plurality ensemble.
+- close third / one POV per episode / causal-owner POV / no head hopping
+- 주인공 중심 다중인과형 장편 (주인공 만능 아님)
 
 Style:
-`STYLE-H1R — Restrained Commercial Social SF`
-+ **`CALIBRATION C1 — ACTIVE (2026-08-18)`** — `docs/manuscript/PROSE-STYLE-RUBRIC-v1.md` §20.
-사유: 첫 독자 피드백 "재미없다" → 3-모델 A/B 테스트 후 사용자가 "Fable 리듬 강화" 선택.
-핵심: 인메디아스레스 오프닝 / 대사 온도 상향 / 장면당 인물 발화 펀치 1+ / 서술자 격언 화당 최대 1회 유지 / 행정 장면도 항상 시간·감정 압력 아래.
+`STYLE-H1R — Restrained Commercial Social SF` + **`CALIBRATION C1 — ACTIVE`**
+(`docs/manuscript/PROSE-STYLE-RUBRIC-v1.md` §20, `STYLE-METHOD-v1.md`)
 
-문체 참고 문헌 (모사 금지, 감각 보정용):
-`docs/manuscript/STYLE-REFERENCES-v1.md` — 연산호(어두운 바다의 등불이 되어), Becky Chambers(Record of a Spaceborn Few), 이시구로(Never Let Me Go), Expanse(POV 회전), 산경/싱숑/김초엽/천선란/배명훈/KSR/위어.
+핵심: 인메디아스레스 오프닝 / 대사 온도 상향 / 장면당 인물 발화 펀치 1+ /
+서술자 격언 화당 최대 1회 / 행정 장면도 항상 시간·감정 압력 아래.
+
+문체 참고(모사 금지): `docs/manuscript/STYLE-REFERENCES-v1.md`.
+
+Tone locks:
+- Violence: `consequence-forward / anatomy-light / sensory-moderate`
+- Romance: 루카스↔Mira 직접 로맨스 코드 표면 **3~5%**. Act9의 새 현재 관계는 H-A 운명 복원이 아니다
+- Ending: **`+1 / earned cautious hope`**. 영구적 상실 유지, 유토피아/허무/후반 대반전 없음
 
 Draft generation is not completion.
-Only `manuscript/accepted/` + manuscript ledger counts.
+`manuscript/accepted/` + 원장 등재만 진척으로 계산한다.
 
 ---
 
-# 9. C2 CONTROLLED ELASTICITY
+# 8. C2 CONTROLLED ELASTICITY
 
-Use official C0/C1/C2 rules from:
-- `WORLD_BIBLE-v2.md`
-- `CHARACTER_BIBLE-v2.md`
-- Amendment A for its narrow domains.
+C0/C1/C2 규칙은 v3 World/Character Bible을 따른다.
+C2는 정확한 주소, 부수적 상호명, 동결 밴드 내 정확 수치, 제품 모델 등 국소 장면 디테일을 포함할 수 있다.
 
-C2 may include exact addresses, incidental venue names, exact rates/thresholds inside frozen bands, product models, and other local scene detail.
+Reader-facing 안정 비인물 용어: **19 활성 + 1 예비 / 하드 최대 20**.
+수집형 자산: base 64 / variants 28 / 초기 카탈로그 92 / 하드 실링 96.
+64개 자산 전부를 체호프의 총으로 만들지 마라. `HOLD / NO-CHEKHOV / OFFSTAGE`는 유효한 상태다.
 
-If C2 becomes recurring, clue-bearing or causally important:
-- promote/log it,
-- check Canon impact,
-- update affected Context Packs if necessary.
-
-C2 may not smuggle in a new major rule.
+C2가 반복적·단서적·인과적으로 변하면 승격/기록하고 영향 Context Pack을 갱신한다.
+C2는 새 대규칙을 밀수입할 수 없다.
 
 ---
 
-# 10. FORBIDDEN DRIFTS
+# 9. FORBIDDEN DRIFTS
 
-- human-good / AI-evil binary
-- remaining citizens as fake NPCs
-- Witness/exact-one protocol
-- mass adult substrate upload
-- executable soul backup / routine duplicates
-- chosen-one Maren/Amara
-- bloodline legitimacy
+- human-good / AI-evil 이분법
+- 남은 시민을 가짜 NPC로 취급
+- 주인공을 HUMAN으로 만들기 / 선택받은 자 서사
+- HUMAN:1을 수집물·열쇠·왕좌·연구 의무 대상으로 만들기
+- 무능한 조연 / 조연을 설정표 NPC로 축소
 - central-AI-explains-everything
-- Habitat castes/sovereignty
-- weighted civic voting by origin/profession/property
-- singular captain-president sovereignty
-- civil-grid vs propulsion GW theft
-- mass citizenship erasure by old law
-- free perfect settlement path
-- instant mature colony
-- alien invasion / war-action takeover
-- later bigger ontology twist
-- Maren adjudicating own family case
-- Amara sovereignty/admin/land/genetic/settler/research key
-- founder relic/superweapon/origin scanner
-- proxy-authorized active death of an incapable person.
+- 반복적 세계 도약 / 우주론적 다중우주 진실 요구
+- 체험된 메리디언을 작가적 가짜로 격하
+- 후반 더 큰 존재론 반전 / 최종 떡밥 투척
+- Act7~8을 철학 강의로 전환 (`action/evidence before ontology`)
+- Act9를 후반 설정 전시장으로 전환. **EP406~410은 새 미스터리를 추가하지 않는다**
+- 외계 침공 / 전쟁 액션 탈취
+- 무료 완벽 정착 경로 / 즉석 성숙 식민지
+- 대량 성체 기판 업로드 / 실행가능 영혼 백업
+- 주권적 선장-대통령 / Habitat 카스트·주권
+- proxy가 무능력자의 능동적 죽음을 승인
+- **v2 내용(마렌/아마라/7막/230화)을 v3에 복원**
 
 ---
 
-# 11. CHANGE CONTROL
+# 10. CHANGE CONTROL
 
-For contradiction-level changes:
-`identify issue → 3~4 designs if meaningful → compare → impact analysis → change record → hostile Red Team → affected EP regression → deliberate Canon promotion`.
+모순 수준 변경:
+`문제 식별 → 유의미하면 3~4안 → 비교 → 영향분석 → 변경기록 → 적대적 Red Team → 영향 EP 회귀 → 신중한 Canon 승격`
 
-Never silently overwrite frozen Canon.
-
----
-
-# 12. CURRENT NEXT PHASE
-
-Deep Design complete.
-Official Canon v2 frozen.
-Amendment A frozen.
-
-Current state:
-**MANUSCRIPT IN PROGRESS (v2 라인)**.
-
-First eligible episode:
-**EP011** — v2 라인 한정.
-
-Accepted:
-**10 / 230** (v2). v3 라인 = **0 / 410**, 3개 게이트 미충족으로 미착수 — §0.5 참조.
-
-원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
-EP011~ 집필 시 `docs/manuscript/qa/BATCH-EP001-010.md` 의 P1 하드 제약 6건 준수.
-
-Do not start prose merely to continue project administration/status work.
-Start manuscript only on explicit drafting/execution instruction.
+동결 Canon을 침묵 덮어쓰기 금지.
+계획 이탈은 `docs/change-log.md` CHG 항목 + `docs/change-control/`에 기록한다.
 
 ---
 
-# 13. WORKING METHOD — MINIMUM ACTION AGENT OS
+# 11. WORKING METHOD — MINIMUM ACTION AGENT OS
 
 이 프로젝트는 `storm-credit/minimum-action-agent-os`를 **작업 방법론으로만** 채택한다.
-OS는 `어떻게 일할지`만 규정한다. **도메인 정본은 언제나 이 저장소의 Canon / Blueprint / POV / M1 / Freeze 문서다.**
+OS는 `어떻게 일할지`만 규정한다. **도메인 정본은 언제나 이 저장소의 v3 Canon / Blueprint / POV / Timeline 문서다.**
 
 ## Adoption rule
-- Local action space 최소화: 각 reasoning node가 한 번에 직접 선택하는 Agent/Tool/Skill/MCP 등 callable action은 기본 **`<= 5`**.
-- 이는 **전체 Agent 수 제한이 아니다.** 필요하면 Router/Specialist 계층으로 확장한다.
-- Least Tool / Least Context / Least Authority. 위임 시 전체 대화 이력이 아니라 과업 관련 Context Pack만 전달한다.
-- 새 Agent는 **실제 경계**(도구·권한·컨텍스트·독립평가·증거체계)가 있을 때만 만든다. 그렇지 않으면 직접 작업 / 규칙 / Skill로 처리한다.
-- 어떤 노드가 5를 초과할 때만, **불필요 Tool 제거 → Skill로 묶기 → 역할 분리 → Router 계층화** 순으로 최소 수정한다. 사다리 최저단에서 해결되면 거기서 멈춘다.
-- 비자명한 작업의 사전 점검이 실제로 도움될 때만 `/minimum-action-agent-os:os-preflight`.
-- 상태·계획이 유의미하게 바뀐 뒤 `/minimum-action-agent-os:os-state`.
-- 계획 이탈은 침묵 수정하지 않고 기록한다(`docs/change-log.md` CHG 항목).
+- Local action space 최소화: 각 reasoning node의 직접 callable action 기본 **`<= 5`**. 전체 Agent 수 제한이 아니다
+- Least Tool / Least Context / Least Authority. 위임 시 전체 대화 이력이 아니라 과업 Context Pack만 전달
+- 새 Agent는 **실제 경계**(도구·권한·컨텍스트·독립평가·증거체계)가 있을 때만 만든다
+- 5 초과 시에만 **불필요 Tool 제거 → Skill로 묶기 → 역할 분리 → Router 계층화** 순으로 최소 수정
+- 계획 이탈은 침묵 수정하지 않고 기록한다
 
-## OS 프리미티브 → 이 프로젝트의 기존 구현 (중복 생성 금지)
-아래는 **이미 존재한다.** OS 채택을 이유로 같은 기능을 새로 만들지 마라.
+## OS 프리미티브 → 기존 구현 (중복 생성 금지)
 
-| OS 프리미티브 | 이 프로젝트의 정본 구현 |
+| OS 프리미티브 | 정본 구현 |
 |---|---|
-| Intent / 사용자 의도 확인 | `docs/manuscript/MANUSCRIPT-PIPELINE-v1.md` §4 + 본 문서 §1 (`이어서/진행` ≠ 집필) |
-| Blindspot Scan | `docs/qa/FINAL-COMPLETENESS-*`, `RANDOM-SCENE-FUZZ-20-v0.1.md` |
-| Preflight Trap Check | 해당 Deep Card의 Failure Conditions + 본 문서 §10 Forbidden Drifts |
-| Four Alternatives | 본 문서 §11 Change Control + `docs/**/*-4-DESIGNS-*.md` |
+| Intent 확인 | `docs/manuscript/MANUSCRIPT-PIPELINE-v1.md` §4 + 본 문서 §1 |
+| Blindspot Scan | `docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md`, `V3-G20-RANDOM-SCENE-FUZZ-20` |
+| Preflight Trap Check | Deep Card Failure Conditions + 본 문서 §9 |
+| Four Alternatives | 본 문서 §10 + `docs/**/*-4-DESIGNS-*.md` |
 | Exemplar Research | `docs/manuscript/STYLE-REFERENCES-v1.md`, `docs/reference-atlas/` |
-| Independent Critique / Red Team | `.claude/agents/episode-qa.md` (원고), `docs/qa/*RED-TEAM*.md` (설계) |
+| Independent Critique | `.claude/agents/episode-qa.md` (원고) / `docs/qa/*RED-TEAM*` (설계) / Codex CLI (독립 적대 검수) |
 | Harness / Golden Case | `docs/writing-ready/HARNESS-M1~M8-*.md` |
-| State / Canon Update | `canon/CANON_STATUS.md`, `docs/current-work-status.md`, `docs/manuscript/MANUSCRIPT-STATUS.md`, `docs/NEXT-CHAT-HANDOFF.md` — **원고 진척 수치의 정본은 `MANUSCRIPT-STATUS.md`** |
+| State Update | `canon/CANON_STATUS.md`, `docs/current-work-status.md`, `docs/manuscript/MANUSCRIPT-STATUS.md`, `docs/NEXT-CHAT-HANDOFF.md` |
 | Plan Drift Log | `docs/change-log.md` (CHG-nnn) + `docs/change-control/` |
 
 원고 심사는 범용 에이전트가 아니라 **읽기 전용 `episode-qa`** 에 위임한다.
 심사자는 원고를 수정할 수 없다. 수정은 호출자가 한다. 이것이 독립성의 근거다.
 
 ## Source of truth
-- 작업 방법: 이 문서의 명시적 override → 본 §13 → OS 원칙.
-- 도메인 내용: Canon / Freeze / Blueprint / POV / M1 → 상태·결정 기록 → 과업 입력.
+- 작업 방법: 이 문서의 명시적 override → 본 §11 → OS 원칙
+- 도메인 내용: v3 Canon / Blueprint / POV / Timeline → 상태·결정 기록 → 과업 입력
 - **공통 OS가 공유물이라는 이유로 프로젝트 Canon을 덮어쓸 수 없다.**

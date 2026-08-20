@@ -1,6 +1,6 @@
 # WORLD BIBLE v3 ADDENDUM — DIVINATION / FOLK MEMORY SIDE-CHANNEL
 
-Status: `CANDIDATE / NOT CANON`
+Status: `OFFICIAL ACTIVE WORLD CANON — v3 PROMOTED 2026-08-21 (CHG-055)`
 Project: 《우주선에는 인간이 한 명뿐이다》
 
 Purpose:
@@ -317,4 +317,4 @@ Before Canon promotion:
 - 주요 점술 캐릭터가 독립 인물로 설계되어야 함.
 
 Current result:
-**STRONG CANDIDATE / NOT CANON.**
+**OFFICIAL ACTIVE WORLD CANON — promoted 2026-08-21 (CHG-055).**

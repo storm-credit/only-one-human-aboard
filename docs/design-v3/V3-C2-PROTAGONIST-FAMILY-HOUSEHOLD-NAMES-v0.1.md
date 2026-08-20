@@ -1,6 +1,6 @@
 # V3 C2 PROTAGONIST FAMILY + HOUSEHOLD NAMES v0.1
 
-Status: `C2 FAMILY SURFACE CANDIDATE / NOT CANON / NO PROSE`
+Status: `C2 SURFACE — FROZEN 2026-08-21 (CHG-055) / PROTAGONIST NAME APPROVED / NO PROSE`
 Date: 2026-08-20
 Project: 《우주선에는 인간이 한 명뿐이다》
 
@@ -9,17 +9,22 @@ Attach usable names, ages, occupations, address rules and Act-facing ordinary-li
 
 Important:
 - Family structure comes from `V3-PROTAGONIST-FAMILY-AND-MIRA-ENDPOINT-CLOSURE-v0.1.md`.
-- Names here are candidate surface values, not new structural facts.
-- These names are provisionally attached to the current leading protagonist candidate `루카스 베르너`.
+- Names here are surface values, not structural facts. Family **architecture** is unchanged.
+- These names are **frozen** against the approved protagonist name `루카스 켈러` (CHG-055).
 - If protagonist full name changes, family surnames may be recalibrated without changing the architecture.
 - v0.1 includes the hostile-QA auditory-collision patch: older sister `클라라`, niece `에바`.
+
+
+> **CHG-055 (2026-08-21):** protagonist final name is **루카스 켈러 / Lukas Keller**.
+> The paternal-line surname moved `베르너 → 켈러` because `베르너 / Werner` is both a given name
+> and a surname in German. Family *architecture* is unchanged; only surface labels moved.
 
 ---
 
 # 1. Protagonist household identity
 
-Current leading protagonist candidate:
-**루카스 베르너**, age 38 opening read.
+Protagonist (FINAL / APPROVED):
+**루카스 켈러**, age 38 opening read.
 
 Opening household:
 - lives alone,
@@ -36,7 +41,7 @@ Primary call-name rule:
 # 2. Father
 
 Candidate name:
-# **마르틴 베르너**
+# **마르틴 켈러**
 
 Age:
 **68** at series opening candidate.
@@ -81,7 +86,7 @@ Work:
 student services / school administration, reduced schedule approaching retirement.
 
 Naming logic:
-keeps her own family name; protagonist taking `베르너` does not imply patrilineal destiny and no explanation is required unless family paperwork becomes relevant.
+keeps her own family name; protagonist taking `켈러` does not imply patrilineal destiny and no explanation is required unless family paperwork becomes relevant.
 
 Current routine:
 - school calendar/community contact,
@@ -108,7 +113,7 @@ Act usefulness:
 # 4. Older sister
 
 Candidate name:
-# **클라라 베르너**
+# **클라라 켈러**
 
 Age:
 **41** opening candidate.
@@ -292,5 +297,5 @@ Family architecture: **PASS from prior closure**.
 Family surface names/details: **PASS CANDIDATE AFTER AUDITORY PATCH**.
 Protagonist hobby: **LEADING CANDIDATE — Rebound spectator/amateur**.
 
-All names remain replaceable C2 surface values until protagonist final-name approval.
-No Canon promotion.
+Protagonist and household names are frozen (CHG-055); remaining minor labels stay replaceable C2 surface values until protagonist final-name approval.
+This document performs no Canon promotion by itself; v3 was promoted by CHG-055.

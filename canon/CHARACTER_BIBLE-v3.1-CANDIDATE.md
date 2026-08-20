@@ -1,12 +1,12 @@
 # CHARACTER BIBLE v3.1 — CURRENT CANDIDATE
 
-Status: `C0 REOPENING / CURRENT CHARACTER DEEP-DESIGN CANDIDATE / NOT CANON`
+Status: `OFFICIAL ACTIVE CANON — v3 PROMOTED 2026-08-21 (CHG-055)`
 Project: 《우주선에는 인간이 한 명뿐이다》
 
 Important:
-- Existing v2 Canon remains official until explicit v3 promotion.
+- **v3 is the official active Canon since 2026-08-21.** v2 is a FROZEN HISTORICAL EDITION.
 - This file supersedes conflicting **v3 candidate** wording in `CHARACTER_BIBLE-v3-CANDIDATE.md`.
-- Protagonist name is `TBD`; `Rowan Han` is design history only.
+- Protagonist is **루카스 켈러 / Lukas Keller**, reader-facing call-name `루카스` (APPROVED 2026-08-21); `Rowan Han` is design history only.
 - Character functions and relationships are stronger than final names.
 - Current relationship authority: `docs/design-v3/V3-CORE-RELATIONSHIP-NETWORK-v0.1-CANDIDATE.md`.
 - Current POV identity: protagonist-centered multi-causal long-form, not equal-share ensemble.
@@ -19,7 +19,7 @@ Important:
 Repeated across much of the series and able to carry relationship/moral reinterpretation.
 
 Current core:
-1. Protagonist — name TBD
+1. Protagonist — **루카스 켈러 / Lukas Keller**
 2. Mira Solano
 3. Selene Adebayo
 4. Rafi Chen
@@ -46,7 +46,11 @@ No name before actual social life begins unless story later earns one.
 
 ---
 
-# 1. Protagonist — NAME TBD
+# 1. Protagonist — 루카스 켈러 / Lukas Keller
+
+Final name **APPROVED 2026-08-21** (CHG-055).
+Reader-facing call-name: **`루카스`** only. Do not alternate `루카스 / 켈러` for style.
+Household surname line: 마르틴 켈러 (부) · 클라라 켈러 (누나). 나디아 소토 (모) · 사미르 코스타 · 에바 코스타 unchanged.
 
 ## Surface profile
 - male,
@@ -740,7 +744,7 @@ At least half of family/private scenes should remain non-crisis.
 
 # 16. Character independence checklist
 
-Before promotion, each Core must answer:
+Each Core must be able to answer (standing execution check, applied per episode):
 1. What do they want this year if protagonist never existed?
 2. Who do they call first when protagonist is unavailable?
 3. What institution or community do they belong to?
@@ -809,4 +813,5 @@ G13 cannot become full PASS until:
 10. v3.1 character file hostile critic.
 
 Current state:
-**G13 = PASS WITH EXECUTION GATES candidate, not Freeze-ready.**
+**OFFICIAL ACTIVE CHARACTER CANON — PROMOTED 2026-08-21 (CHG-055).**
+Protagonist name frozen: 루카스 켈러. Remaining items are execution-stage detail, not promotion blockers.

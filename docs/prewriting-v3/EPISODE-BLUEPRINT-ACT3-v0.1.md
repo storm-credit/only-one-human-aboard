@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 3 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 3: **같은 아침이 아니다 — EP095~136**
 
@@ -11,8 +11,8 @@ Authority:
 - `docs/narrative-engineering/WRITER-GRAMMAR-MATRIX-v0.3-CANDIDATE.md`
 - `docs/prewriting-v3/EPISODE-CARD-SPEC-v0.1.md`
 
-Protagonist label:
-`[주인공/TBD]`.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (final name APPROVED 2026-08-21, CHG-055).
 
 ## Act contract
 
@@ -49,7 +49,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 # B14 EP095~102 — 이번엔 안다
 
 ## EP095 — 다시 온 곳
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** familiar Midring/Old Works commute context
 **Want:** prove to himself where/when he is.
 **Action:** checks body, work access, public date/status and one mundane fact remembered from H-A. Everything appears close enough to support `과거로 돌아왔다`.
@@ -59,7 +59,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** he remembers a small near-future work problem he can prevent.
 
 ## EP096 — 알고 있는 고장
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
 **Want:** prevent a minor failure he remembers occurring before Act2.
 **Action:** intervenes early on a mundane equipment issue using H-A memory and prevents downtime/injury.
@@ -69,7 +69,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** protagonist decides he can prevent the Act2 catastrophe too.
 
 ## EP097 — 해야 할 목록
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / commute
 **Want:** build a private prevention list without sounding delusional.
 **Action:** notes cooling segment, duplicate ID, maintenance schedule, routes, people he wants to protect.
@@ -90,7 +90,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** consequence intersects protagonist's next workday.
 
 ## EP099 — 첫 번째 예방
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
 **Want:** stop another H-A incident and confirm the pattern.
 **Action:** uses remembered inspection timing to catch a small issue earlier than anyone else.
@@ -100,7 +100,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** the changed schedule does not produce one downstream event he strongly remembers.
 
 ## EP100 — 바뀌면 달라지는 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Transfer Belt / Old Works
 **Want:** understand whether his intervention caused the first deviation.
 **Action:** traces one changed timetable to his own action and feels relief: `내가 바꿨다` explains the difference.
@@ -120,7 +120,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** protagonist realizes the mismatch concerns something that happened long before his supposed `return` point.
 
 ## EP102 — 그래도 아직은 회귀다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** home / Old Works
 **Want:** preserve the regression explanation despite Mira mismatch.
 **Action:** lists possible reasons—his memory, a forgotten breakup detail, butterfly effects he cannot track—and doubles down on preventing Act2.
@@ -134,7 +134,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 # B15 EP103~108 — 처음부터 달랐다
 
 ## EP103 — 교체된 부품
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works cooling network
 **Want:** verify the future failure point from H-A.
 **Action:** discovers a key component/repair state is not the one he remembers; the difference dates well before his H-B arrival.
@@ -144,7 +144,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** protagonist checks whether Niko/Gideon history also differs.
 
 ## EP104 — 내가 바꾼 게 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** diagnostics records / Old Works
 **Want:** prove the maintenance delta is a clerical error.
 **Action:** multiple independent records/material states agree: this H-B component was replaced earlier under different circumstances.
@@ -165,7 +165,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** protagonist is shown a document/photo/message predating his arrival that supports their memory.
 
 ## EP106 — 증거가 둘일 때
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / home
 **Want:** find one explanation that fits both physical and social pre-existing deltas.
 **Action:** tests account compromise, memory injury, institutional record manipulation, but no single mundane explanation fits yet.
@@ -175,7 +175,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** he schedules a medical check without disclosing `회귀` claim fully.
 
 ## EP107 — 멀쩡하다는 말
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** clinic / Med-University interface
 **Want:** rule out obvious neurological damage after Act2 experience.
 **Action:** routine assessment finds no gross deficit; stress/trauma explanations remain possible.
@@ -185,7 +185,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** one clinician asks whether his memories are only wrong about recent events or older relationships too.
 
 ## EP108 — 과거를 확인하는 방법
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring / private records
 **Want:** compare H-A memory against low-stakes personal history.
 **Action:** checks ordinary photos/messages/work records rather than cosmic databases; some match, some differ in small ways.
@@ -199,7 +199,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 # B16 EP109~116 — 미라가 기억하는 관계
 
 ## EP109 — 네가 기억하는 우리
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** neutral Midring/Transfer social place
 **Want:** test Mira's memory without confessing an impossible claim all at once.
 **Action:** asks about a shared event/home/routine from H-A. Mira gives a different sequence that predates his H-B arrival.
@@ -209,7 +209,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** Mira asks why he is behaving as if she owes him a relationship she does not remember.
 
 ## EP110 — 사실이어도 내 것은 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring
 **Want:** convince Mira he is not manipulating her.
 **Action:** reveals only enough of his impossible experience to explain specific memories, not full ontology theory.
@@ -229,7 +229,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** she agrees to one controlled comparison, not reunion.
 
 ## EP112 — 맞는 것과 틀린 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** ordinary public setting
 **Want:** compare memories with Mira systematically.
 **Action:** some H-A details align; others diverge far before his arrival. Neither can explain selection pattern.
@@ -239,7 +239,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** one fact protagonist considered certain is contradicted by a third-party record.
 
 ## EP113 — 원래대로
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** home / commute
 **Want:** decide whether he can still prevent Act2 and thereby `get back` the world he remembers.
 **Action:** realizes even perfect prevention cannot create H-A relationship history that H-B never had.
@@ -259,7 +259,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** low-cost precaution later proves useful—but not for the event protagonist expected.
 
 ## EP115 — 맞았지만 다른 이유
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / Transfer edge
 **Want:** interpret a precaution that helped unexpectedly.
 **Action:** sees his remembered risk location mattered, but the immediate trigger is different in H-B.
@@ -269,7 +269,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** another remembered event fails to occur at all.
 
 ## EP116 — 기다렸는데 오지 않은 사고
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works / home
 **Want:** verify an H-A incident time he has been quietly waiting for.
 **Action:** nothing happens; the relevant people/schedule/infrastructure are different enough that the path never forms.
@@ -283,7 +283,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 # B17 EP117~123 — 예측이 틀리기 시작한다
 
 ## EP117 — 배운 적 없는 절차
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works
 **Want:** understand why a safety procedure exists in H-B exactly as he remembers from H-A despite no matching local origin.
 **Action:** discovers the procedure works but archive history is missing/contradictory.
@@ -293,7 +293,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** procedure prevents a small failure in a context unlike H-A.
 
 ## EP118 — 아는 건 미래가 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** field repair
 **Want:** use H-A knowledge without assuming identical causality.
 **Action:** adapts the procedure rather than reproducing remembered steps blindly; succeeds.
@@ -303,7 +303,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** protagonist hears of someone else making an impossible memory claim.
 
 ## EP119 — 나 말고도?
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Med-University / security referral context
 **Want:** determine whether the reported case resembles his own experience.
 **Action:** learns a patient/citizen has a concrete memory of one death/event that never happened in H-B.
@@ -324,7 +324,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** authorized detail points to a closed/ordinary location.
 
 ## EP121 — 확인할 수 있는 한 가지
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** ordinary service location
 **Want:** test the claimant's one authorized detail without assuming truth.
 **Action:** checks a physical feature/old service arrangement that should be impossible or absent under H-B records.
@@ -334,7 +334,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** first check is ambiguous rather than miraculous.
 
 ## EP122 — 틀린 기억
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** investigation route
 **Want:** see whether the claimant is reliable.
 **Action:** another detail from the same memory is demonstrably wrong in H-B.
@@ -344,7 +344,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** the one remaining physical detail survives falsification.
 
 ## EP123 — 남은 한 조각
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Old Works/records interface
 **Want:** decide whether the surviving detail deserves deeper investigation.
 **Action:** establishes it cannot be explained by his interventions and likely predates both his arrival and claimant's access.
@@ -358,7 +358,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 # B18 EP124~131 — 나 말고도
 
 ## EP124 — 거짓말이라면 어떻게 알았지
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** security/records route
 **Want:** test mundane information-leak explanations.
 **Action:** works with Sora to trace access, old records, rumor channels and possible coaching.
@@ -368,7 +368,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** access trail does not support a simple leak.
 
 ## EP125 — 같은 사건이 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** ordinary civic location tied to claimant memory
 **Want:** compare claimant's remembered event to H-A and H-B.
 **Action:** realizes claimant memory contradicts both—meaning the claimant is not merely remembering protagonist's H-A.
@@ -388,7 +388,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** one old maintenance/registry record is located that can independently test the claimant detail.
 
 ## EP127 — 기록이 증인을 만날 때
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** archive/service interface
 **Want:** test the old record against claimant memory.
 **Action:** record partially matches a detail that neither H-A nor H-B should contain, but context remains incomplete.
@@ -398,7 +398,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** claimant withdraws from further contact.
 
 ## EP128 — 대답하지 않을 권리
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** clinic/public route
 **Want:** ask one more question before claimant disappears from the case.
 **Action:** claimant refuses; protagonist must accept they are a person, not a mystery key.
@@ -408,7 +408,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** protagonist is left with evidence but no oracle.
 
 ## EP129 — 내 기억도 같은가
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** home / Old Works
 **Want:** re-audit his own H-A memories using the same skeptical standard.
 **Action:** categorizes what is verified, contradicted, untestable, and emotionally distorted; Arun memory remains especially loaded.
@@ -428,7 +428,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** protagonist arrives late and realizes something changed without him.
 
 ## EP131 — 돌아가고 싶은 곳
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring
 **Want:** decide whether his goal is to restore H-A or protect H-B.
 **Action:** cannot answer fully, but chooses one current commitment over chasing an immediate H-A echo.
@@ -442,7 +442,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 # B19 EP132~136 — 증거 하나
 
 ## EP132 — 세 개의 기록
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** archive/security/technical interface
 **Want:** compare H-A memory, H-B record and claimant-linked evidence without forcing one model.
 **Action:** establishes all three cannot be the same timeline with simple personal-memory error.
@@ -452,7 +452,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** one physical location can test the record directly.
 
 ## EP133 — 남아 있는 흔적
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** service/maintenance site
 **Want:** verify the record materially.
 **Action:** finds a small physical feature/wear/remnant consistent with claimant-linked history and inconsistent with H-B official sequence.
@@ -462,7 +462,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** the feature has no obvious reason to exist in current layout.
 
 ## EP134 — 누구의 과거인가
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** private debrief
 **Want:** name a workable theory.
 **Action:** considers regression, manipulated memory, multiple versions of Meridian, hidden reconstruction; none fits all evidence.
@@ -472,7 +472,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** protagonist realizes another claimant could become socially explosive if public.
 
 ## EP135 — 말하지 않는 이유
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Central/clinic/security interface
 **Want:** decide what to do with the evidence.
 **Action:** agrees to limited handling rather than public revelation because evidence proves inconsistency, not mechanism.
@@ -482,7 +482,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 **End Turn:** rumor nevertheless leaks through an ordinary channel.
 
 ## EP136 — 나만의 과거가 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Zone:** Midring/Transfer Belt
 **Want:** absorb the conclusion before the rumor grows.
 **Action:** accepts one narrow fact: an impossible memory/evidence set exists independently of him and does not match his remembered H-A either.
@@ -496,7 +496,7 @@ H-B begins at a point protagonist recognizes as earlier than the Act2 catastroph
 # ACT 3 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **34**
+- 루카스: **34**
 - Mira: 3 — EP101, 111, 114
 - ordinary H-B lens: 1 — EP098
 - Gideon/Niko: 1 — EP105

@@ -1,11 +1,11 @@
 # WORLD BIBLE v3 — CANDIDATE
 
-Status: `C0 REOPENING / DEEP DESIGN CANDIDATE / NOT YET CANON`
+Status: `OFFICIAL ACTIVE CANON — v3 PROMOTED 2026-08-21 (CHG-055)`
 Project: 《우주선에는 인간이 한 명뿐이다》
 Target genre: **폐쇄공간 SF 미스터리 + 스릴러 + 생존 + 군상극**
 
 > 이 문서는 기존 `WORLD_BIBLE-v2.md`를 삭제하거나 소급 변경하지 않는다.
-> v3 승격 전까지 v2는 공식 과거 정본이며, v3는 사용자가 요청한 새 장르 엔진을 검증하기 위한 병렬 후보안이다.
+> **2026-08-21 v3 승격 완료(CHG-055).** v3가 공식 활성 정본이며, v2는 FROZEN HISTORICAL EDITION으로 보존된다.
 
 ---
 
@@ -691,4 +691,4 @@ D. 제한적 실제 접촉
 - v2 regression/change-control record complete
 
 Current status:
-**DEEP DESIGN CANDIDATE — NOT CANON.**
+**OFFICIAL ACTIVE WORLD CANON — PROMOTED 2026-08-21 (CHG-055).**

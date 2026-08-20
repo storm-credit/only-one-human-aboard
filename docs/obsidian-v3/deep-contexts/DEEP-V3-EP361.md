@@ -76,11 +76,11 @@ FORECAST from EP360: End Turn=preservation operator reports final system-readine
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: performs ordinary technical/medical readiness work, remembers losses as professional history, and rejects one request for unnecessary exposure/access. Immediate Want: keep the last Natural-Origin continuity viable through transition without treating it as sacred relic or political property. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: performs ordinary ex vivo gestation integrity, environment-analog support and transition-readiness work, remembers losses as professional history, and rejects one request for unnecessary exposure/access. Immediate Want: keep the last Natural-Origin continuity viable through transition without treating it as sacred relic or political property. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: performs ordinary technical/medical readiness work, remembers losses as professional history, and rejects one request for unnecessary exposure/access.
+- exact Blueprint A-Plot: performs ordinary ex vivo gestation integrity, environment-analog support and transition-readiness work, remembers losses as professional history, and rejects one request for unnecessary exposure/access.
 - exact Immediate Want: keep the last Natural-Origin continuity viable through transition without treating it as sacred relic or political property.
 - exact End Turn: one support dependency overlaps settlement preparation capacity.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.

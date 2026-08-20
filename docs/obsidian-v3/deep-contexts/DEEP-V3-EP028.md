@@ -46,10 +46,10 @@ P05=`RECOGNIZE/BACKGROUND`;work tools=`PERSIST`;collectibility_job=`NONE — pra
 safety/certification=`procedure and supervised responsibility work normally`.
 
 ## Mystery / Reveal / Knowledge Fence
-world_truth=SEALED;pov_known=`procedure useful`;reader_confirmed=`D05 origin still unknown`;allowed=`bounded local payoff only`;forbidden=`origin answer`.
+world_truth=SEALED;pov_known=`procedure useful`;reader_confirmed=`D05 origin still unknown`;allowed=`bounded local reward only; no origin answer; ledger payoff untouched`;forbidden=`origin answer`.
 
 ## Foreshadow / MacGuffin / Payoff
-D05=`LOCAL PAYOFF + HOLD`;next=`later return`;ordinary_event_guard=`repair result stays ordinary`.
+D05=`SECOND LOCAL BOUNDED REWARD + HOLD` (ledger PARTIAL/FINAL PAYOFF untouched, Act7) — useful knowledge now repeats across separate procedure families;next=`later return`;ordinary_event_guard=`repair result stays ordinary`.
 
 ## Genre Engine
 primary=`procedural`;secondary=`relationship/mystery-low`;action=`real repair payoff`;exposition=`origin remains absent`.

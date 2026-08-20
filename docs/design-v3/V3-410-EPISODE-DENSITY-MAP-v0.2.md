@@ -1,6 +1,6 @@
 # V3 410-EPISODE DENSITY MAP v0.2 — INTEGRATED
 
-Status: `G20 INTEGRATED PACING CANDIDATE / NOT CANON`
+Status: `ACTIVE PACING AUTHORITY under v3 Canon (promoted 2026-08-21)`
 Project: 《우주선에는 인간이 한 명뿐이다》
 
 Macro authority: `canon/ACT_BIBLE-v3.2-CANDIDATE.md`
@@ -8,7 +8,7 @@ Incident authority: `MAJOR-ARC-POOL-v0.3` + `MEDIUM-INCIDENT-SELECTION-v0.2`
 Reveal authority: `V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4`
 POV authority: protagonist-centered ensemble v0.2 + Writer Grammar v0.3.
 
-Protagonist name: TBD.
+Protagonist: 루카스 켈러 (call-name `루카스`), APPROVED 2026-08-21.
 
 ---
 

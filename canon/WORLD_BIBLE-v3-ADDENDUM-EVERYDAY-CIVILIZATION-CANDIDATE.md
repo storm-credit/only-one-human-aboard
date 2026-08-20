@@ -1,6 +1,6 @@
 # WORLD BIBLE v3 ADDENDUM — EVERYDAY CIVILIZATION
 
-Status: `DEEP-DESIGN CANDIDATE / NOT CANON`
+Status: `OFFICIAL ACTIVE WORLD CANON — v3 PROMOTED 2026-08-21 (CHG-055)`
 Project: 《우주선에는 인간이 한 명뿐이다》
 Scope: reader-facing ordinary Meridian civilization
 
@@ -864,4 +864,4 @@ Still open before Freeze:
 - v2 governance elements to reuse after regression review.
 
 Status:
-**EVERYDAY CIVILIZATION DEEP-DESIGN CANDIDATE — NOT CANON.**
+**EVERYDAY CIVILIZATION — OFFICIAL ACTIVE WORLD CANON, promoted 2026-08-21 (CHG-055).**

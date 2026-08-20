@@ -1,95 +1,28 @@
 # Current Work Status
 
-<!-- DEEP-CONTEXT-410-STATUS:START -->
-# DEEP PROJECTED CONTEXT PACK = 410/410 COMPLETE
+# **OFFICIAL ACTIVE CANON = v3 (9 Acts / 410 episodes) — PROMOTED 2026-08-21**
+# **PROTAGONIST = 루카스 켈러 (call-name `루카스`) — APPROVED 2026-08-21**
+# **ACTIVE v3 MANUSCRIPT = 0 / 410 — NOT STARTED**
+# **HISTORICAL v2 MANUSCRIPT = 10 / 230 — FROZEN / PRESERVED**
 
-This is separate from the older thin-router `410/410` status.
+Promotion record: `docs/change-control/CHG-055-V3-CANON-PROMOTION.md`
+Authorizing audit: `docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md`
 
-Current v3 per-episode execution layers:
-- thin CTX Router = **410/410**;
-- Deep Projected Context sidecar = **410/410**;
-- Dynamic Actual = **PENDING / JIT until realized prose exists**.
+## Closed in CHG-055
+- Gate A — v3 Canon promotion (Option B) **EXECUTED**
+- Gate B — protagonist final name **APPROVED (루카스 켈러)**
+- audit C-03 / **D2 미스터리 실 전진 배치 EXECUTED** — Act1 첫 primer EP022→**EP007**,
+  첫 전문적 이상징후 →**EP012**, 첫 bounded payoff EP028→**EP014**
+- audit **I-01 해소** — EP288 / EP290 재배치로 EP280~290 반복 공식 해체
+- audit **J-01 해소** — Act9 임신 시계 LOCK (Act7 개시 + 8/12/18 = ~38주 → EP408 정상 출산),
+  Act9 hostile QA Timeline gate **CLOSED**
 
-Deep completion QA:
-- P0 = **0**;
-- P1 = **0**;
-- blocking P2 = **0**;
-- H-A EP001~094 / H-B EP095~410 boundary verified;
-- Act2/Act6 concurrency verified;
-- Act7~8 ontology guards and Act9 closure guards verified;
-- no Canon promotion and no prose occurred.
+## Remaining gate
+# **explicit user Manuscript Start instruction — 그 외 게이트 없음**
 
-Primary Deep manifest:
-`docs/obsidian-v3/deep-contexts/V3-410-DEEP-PROJECTED-CONTEXT-MANIFEST-v1.md`.
-<!-- DEEP-CONTEXT-410-STATUS:END -->
-
-
-Date: 2026-08-20
-Project: 《우주선에는 인간이 한 명뿐이다》
-Repository: `storm-credit/only-one-human-aboard`
+Generic `진행/이어서` must NOT start prose, reopen design, or mass-generate images.
 
 ---
-
-# 0. TOP-LEVEL STATE
-
-## Official track
-# **CANON v2 + Amendment A = FROZEN / OFFICIAL**
-Historical accepted v2 manuscript: **EP001~010 / 230**.
-
-No v2 Canon/manuscript or v2 Obsidian graph has been deleted or silently overwritten.
-
-## Active v3 candidate track
-# **PREWRITING STRUCTURAL LOCK = PASS**
-# **EP001~410 BLUEPRINT MATERIALIZATION = COMPLETE**
-# **POV RECALIBRATION = PASS**
-# **IP / MATERIAL / COLLECTIBILITY DEEP DESIGN = PASS**
-# **REFERENCE / PRE-CONCEPT RESEARCH = PASS / CLOSED**
-# **64-BASE COLLECTIBILITY ROSTER = PASS**
-# **CHARACTER 13/13 + ASSET 64/64 → 9-ACT INTEGRATION = PASS**
-# **ACT→VOLUME→SUB-ACT→BEAT→EP OBSIDIAN GRAPH = MATERIALIZED**
-# **CROSS-SYSTEM READER-FUN / COLLECTIBILITY RED TEAM = PASS AFTER PATCH**
-# **C2 SURFACE SYSTEM = PASS / TARGETED CANDIDATE FREEZE**
-# **FINAL PRE-PROMOTION COMPLETENESS AUDIT = PASS**
-# **V3 STORY CANON PROMOTION READINESS = PASS**
-# **VISUAL PRODUCTION = DOC-READY / EMPIRICAL ART QA OPEN**
-
-Current blocking story/graph P0 = **0**.
-Current blocking story/graph/routing P1 = **0 after targeted patches**.
-
-Important:
-- v3 is promotion-ready but is NOT official Canon yet,
-- final protagonist name remains author-taste open,
-- final visual art is NOT frozen,
-- generic `진행/이어서` does NOT authorize promotion or prose.
-
----
-
-# 1. CURRENT RECOVERY ROUTING
-
-Read first:
-1. `CLAUDE.md`
-2. `docs/NEXT-CHAT-HANDOFF.md`
-3. `docs/current-work-status.md`
-4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
-5. **`docs/obsidian-v3/00-GRAND-NARRATIVE-MOC.md`**
-6. **`docs/obsidian-v3/CURRENT-GRAPH-STATUS.md`**
-7. **`docs/qa/V3-CROSS-SYSTEM-READER-FUN-COLLECTIBILITY-RED-TEAM-v0.1.md`**
-8. **`docs/qa/V3-OBSIDIAN-GRAPH-INTEGRITY-QA-v0.1.md`**
-9. `docs/qa/V3-FINAL-PRE-PROMOTION-COMPLETENESS-AUDIT-v0.1.md`
-10. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.2.md`
-
-Graph/execution support:
-- `docs/prewriting-v3/V3-SUBACT-COLLECTIBILITY-ENGINE-OVERLAY-v0.1.md`
-- `docs/prewriting-v3/V3-64-ASSET-SUBACT-ROUTING-LEDGER-v0.1.md`
-- `docs/prewriting-v3/V3-VOLUME-PROTAGONIST-AGENCY-REWARD-GATE-v0.1.md`
-- `docs/prewriting-v3/V3-INSTITUTION-NETWORK-SUBACT-STATE-LEDGER-v0.1.md`
-- `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
-
-Official status check:
-`canon/CANON_STATUS.md` remains v2 until explicit promotion.
-
----
-
 # 2. SERIES / POV STATE
 
 Episode architecture: **9 Acts / 410 episodes**.
@@ -246,14 +179,14 @@ near-compatible total pressure but oxygen-poor; exterior work requires supplemen
 
 # 8. CHARACTER / C2 SURFACE
 
-Protagonist final name: **TBD**.
-Current leading candidate: **루카스 베르너**; if approved, ordinary reader-facing call = **루카스** only.
+Protagonist final name: **루카스 켈러** (APPROVED 2026-08-21).
+Reader-facing call-name: if approved, ordinary reader-facing call = **루카스** only.
 Do not revive `다니엘 마레크` or fixed surname Han as lead.
 
 Candidate family surface:
-- 마르틴 베르너 68,
+- 마르틴 켈러 68,
 - 나디아 소토 65,
-- 클라라 베르너 41,
+- 클라라 켈러 41,
 - 사미르 코스타 42,
 - 에바 코스타 9.
 
@@ -280,18 +213,18 @@ Calibration:
 - protagonist need not be Korean/East Asian.
 
 Mass image generation is NOT default.
-Empirical visual differentiation is required before final art freeze, not before story Canon promotion.
+Empirical visual differentiation is required before final art freeze only. It does not block prose.
 
 ---
 
 # 10. PROMOTION / PROSE GATES
 
-V3 story architecture remains **PROMOTION-READY**, but official Canon is still v2.
+# **v3 = OFFICIAL ACTIVE CANON since 2026-08-21 (CHG-055). v2 = FROZEN HISTORICAL EDITION.**
 
-Separate remaining gates:
-1. explicit v3 Canon promotion authorization,
-2. protagonist final-name approval before EP001 prose,
-3. empirical visual differentiation before final-art freeze,
-4. explicit Manuscript Start request after promotion/name closure.
+Gate status:
+1. ~~explicit v3 Canon promotion authorization~~ — **CLOSED**
+2. ~~protagonist final-name approval~~ — **CLOSED — 루카스 켈러**
+3. empirical visual differentiation — before final-art freeze only; **does not block prose**
+4. **explicit Manuscript Start request — the only remaining blocking gate**
 
-Generic continuation must NOT promote Canon, start prose, mass-generate images, or reopen broad design without a demonstrated gap.
+Generic continuation must NOT start prose, mass-generate images, or reopen closed design without a demonstrated gap.

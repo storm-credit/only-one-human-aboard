@@ -46,10 +46,10 @@ P06/P09/M05/M06/L05=`PERSIST/BACKGROUND`; collectibility_job=`NONE`.
 incident review=`records cause and worker consequences independently`; change=`return toward normal`.
 
 ## Mystery / Reveal / Knowledge Fence
-world_truth=SEALED_LINK_ONLY; reader_confirmed=`this accident is ordinary`; allowed_reveal=`ordinary cause payoff`; forbidden=`secret-system retcon`.
+world_truth=SEALED_LINK_ONLY; reader_confirmed=`this accident is ordinary`; allowed_reveal=`ordinary cause payoff + D05 local bounded payoff — the accident was exactly what it looked like, and the brace step that helped has no matching origin incident under current identifiers`; forbidden=`secret-system retcon`.
 
 ## Foreshadow / MacGuffin / Payoff
-active_chain=`B02 practical payoff`; ordinary_event_guard=`HARD — no deeper clue`.
+active_chain=`B02 practical payoff` + `D05 local bounded reward (ledger payoff untouched, Act7)`; ordinary_event_guard=`HARD — the accident stays genuinely ordinary. The unresolved note is administrative only.`
 
 ## Genre Engine
 primary=`procedural`; secondary=`ordinary-life`; action=`technical closure then life pulls him away`; exposition_ceiling=`no extra lore`.
@@ -69,4 +69,4 @@ realized_asset_lifecycle_delta: PENDING
 actual_next_episode_carry: PENDING
 
 ## Retrieval Compile Map
-1 Blueprint; 2 accident closure; 3 C01/Selene/Rafi; 4 review zone; 5 no active clue/collectible.
+1 Blueprint; 2 accident closure; 3 C01/Selene/Rafi; 4 review zone; 5 D05 local bounded reward active (origin unknown; ledger payoff untouched); no ontology clue/collectible.

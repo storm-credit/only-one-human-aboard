@@ -312,35 +312,53 @@
 
 ---
 
+## CHG-055 — V3 Canon 승격 + 주인공 이름 확정 + D2 / I-01 / J-01 실행
+- Date: 2026-08-21
+- 전체 기록: `docs/change-control/CHG-055-V3-CANON-PROMOTION.md`
+- 사용자 명시 승인: Gate A 승격 / Gate B 이름 / D2 실행 / I-01·J-01 즉시 해소.
+- **Gate A** — Option B 승격 실행. 공식 정본 = v3(9막/410화). v2 = FROZEN HISTORICAL EDITION.
+  10단계 체크리스트 전부 완료. minimal-mutation 원칙 준수(대량 리네임 없음).
+- **Gate B** — 주인공 **루카스 켈러 / Lukas Keller** 확정, 호칭 `루카스`.
+  `루카스 베르너` 기각 사유: 베르너가 이름/성 겸용 + 자체 채점 4위(32/35) + HERO 플래그.
+  `[주인공/TBD]` → `루카스` 치환 **1040건 / 259파일**. 가족 성씨 베르너→켈러.
+- **D2 (감사 C-03, P1)** — 미스터리 실 전진 배치 실행(Design A).
+  첫 primer EP022→**EP007**, 첫 전문적 PLANT→**EP012**, 첫 bounded payoff EP028→**EP014**.
+  reveal window 무위반, `ordinary_event_guard: HARD` 유지, Act 길이·경계 무변경.
+- **I-01 (P1)** — EP288/EP290 재배치로 EP280~290 "같은 이상, 다음 도메인" 공식 해체. Act7 길이 무변경.
+- **J-01 (P2)** — Act9 임신 시계 LOCK. Act7 개시 촉발 + 8/12/18 = ~38주 → EP408 정상 출산.
+  이미 `V3-FULL-SERIES-TIMELINE`·`HUMAN1 의학 QA §7~§8`에 있던 수치를 블루프린트에 동기화한 것.
+  Act9 hostile QA Timeline gate **CLOSED**.
+- 구조 변경: **0**. 9막/410화·Act 경계·POV 총계·reveal ledger·존재론·자산 로스터 무변경.
+- 원고: **0**. 활성 v3 원고 = **0 / 410**.
+- Status: **`V3 PROMOTED / NAME FROZEN / AUDIT P0=0 P1=0 / MANUSCRIPT START = 사용자 지시 대기`**.
+
+---
+
 # Current Change-Control Rule
 
-Current official world/character authority:
-- `canon/WORLD_BIBLE-v2.md`
-- `canon/CHARACTER_BIBLE-v2.md`
+Current official world/character/narrative authority (**v3, promoted 2026-08-21**):
+- `canon/WORLD_BIBLE-v3-CANDIDATE.md` + `canon/WORLD_BIBLE-v3-ADDENDUM-*.md`
+- `canon/CHARACTER_BIBLE-v3.1-CANDIDATE.md`
+- `canon/ACT_BIBLE-v3.2-CANDIDATE.md`
 
-Current narrow post-freeze amendment:
-- `canon/CANON-v2-AMENDMENT-A-GOVERNANCE-ETHICS.md`.
+Current narrative execution authority:
+- `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT{1..9}-v0.1.md`
+- `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+- `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`
+- `docs/obsidian-v3/contexts/` → `docs/obsidian-v3/deep-contexts/`
 
-Current narrative authority:
-- `canon/ACT_BIBLE-v1.md`
-- active Blueprint — Act6 v0.2
-- locked POV Map
-- M1
-- applicable Deep Card / Context Manifest.
+**v2 (`WORLD_BIBLE-v2` / `CHARACTER_BIBLE-v2` / `ACT_BIBLE-v1` / Amendment A) = FROZEN HISTORICAL EDITION.**
+**`canon/v2/` = NON-CANON experimental design history.**
 
-**`canon/v2/` is NON-CANON experimental design history.**
+For contradiction-level change after v3 promotion:
+`identify issue → alternatives/impact → CHG entry → hostile Red Team → affected-episode regression → deliberate Canon reopening`.
 
-For contradiction-level change after Freeze v2:
-`identify issue → alternatives/impact → CHG entry → hostile Red Team → affected-episode regression → deliberate Canon reopening/promotion`.
+Never silently overwrite v3 Canon from prose.
 
-Never silently overwrite v2 Canon from prose.
-
-C2 refinement inside frozen ranges is allowed, but recurring/clue-bearing/causal C2 must be promoted/logged before manuscript acceptance.
+C2 refinement inside frozen ranges is allowed, but recurring/clue-bearing/causal C2 must be
+promoted/logged before manuscript acceptance.
 
 Current manuscript state:
-**`IN PROGRESS`**.
-
-Accepted manuscript:
-**10 / 230** (EP001~010). 다음 화 EP011.
+**`NOT STARTED`** — active v3 **0 / 410**; historical v2 **10 / 230** frozen.
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.

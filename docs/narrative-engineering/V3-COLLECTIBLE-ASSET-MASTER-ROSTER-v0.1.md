@@ -1,6 +1,6 @@
 # V3 COLLECTIBLE / RECOGNITION ASSET — MASTER ROSTER v0.1
 
-Status: `TARGETED IP/COLLECTIBILITY DEEPENING / NOT CANON / NO PROSE`
+Status: `ACTIVE COLLECTIBILITY ROSTER under v3 Canon (promoted 2026-08-21) / NO PROSE`
 Date: 2026-08-20
 Project: 《우주선에는 인간이 한 명뿐이다》
 
@@ -82,7 +82,7 @@ Hard:
 
 # 3. A — CHARACTER VISUAL IDENTITIES (13)
 
-## C01 — Protagonist / final name TBD
+## C01 — Protagonist / 루카스 켈러
 Tier: **SIGNATURE**
 Recognition hook: lean late-30s field specialist; asymmetric-wear short jacket; narrow field case; forward surface-reading crouch.
 Desire hook: ordinary-worker base form visibly changes through pressure without becoming armored hero.

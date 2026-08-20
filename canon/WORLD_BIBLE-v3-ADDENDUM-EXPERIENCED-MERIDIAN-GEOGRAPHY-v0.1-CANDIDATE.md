@@ -1,6 +1,6 @@
 # WORLD BIBLE v3 ADDENDUM — EXPERIENCED MERIDIAN GEOGRAPHY v0.1
 
-Status: `DEEP-DESIGN CANDIDATE / NOT CANON`
+Status: `OFFICIAL ACTIVE WORLD CANON — v3 PROMOTED 2026-08-21 (CHG-055)`
 Project: 《우주선에는 인간이 한 명뿐이다》
 Scope: reader-facing human-scale Meridian geography inside a D3 lived civilization.
 

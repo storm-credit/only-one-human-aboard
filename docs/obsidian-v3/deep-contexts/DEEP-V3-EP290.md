@@ -48,40 +48,40 @@ FORECAST from EP289: End Turn=one old index namespace is much deeper than needed
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
 ## Relationship Context
-- projected relationship line: Hana does not jump to civilization theory; asks protagonist to inspect associated physical asset IDs.
+- projected relationship line: Hana does not jump to civilization theory; asks protagonist to measure the associated physical load before she names any mechanism.
 - state semantics: FORECAST_NOT_ACTUAL. Before drafting, replace assumptions with realized prior-episode continuity.
 - independence guard: every named character keeps an off-protagonist objective and may refuse/help/act for reasons not routed through protagonist convenience.
 
 ## World / Location Context
-- zone: archive
-- projected world pressure: archive and engineering must converge.
+- zone: archive / asset registry interface
+- projected world pressure: archive and engineering converge through a measurable resource draw, not another missing-origin survey.
 - location truth: current observable/operational layer only; inaccessible author-side world model remains sealed.
 
 ## Asset / Collectibility Context
 - collectibility_job: NONE_BY_DEFAULT_AT_STATIC_COMPILE. eligible != foreground. Use current sub-act collectibility overlay + master roster at JIT; 0-1 new foreground recognition preferred, 2 only as one natural functional unit. Never promote HUMAN:1 into a collectible-character family.
 
 ## Institution / Faction / Network Context
-- Source-owned institutional/world pressure: archive and engineering must converge. Relationship/institution interface: Hana does not jump to civilization theory; asks protagonist to inspect associated physical asset IDs.
+- Source-owned institutional/world pressure: archive and engineering converge through a measurable resource draw, not another missing-origin survey. Relationship/institution interface: Hana does not jump to civilization theory; asks protagonist to measure the associated physical load before she names any mechanism.
 - authority guard: technical knowledge, social standing, or narrative centrality never grants cross-domain command unless the Blueprint explicitly does.
 
 ## Mystery / Reveal / Knowledge Fence
-- source clue: D08 namespace seed strengthens.
+- source clue: D08 namespace seed strengthens through asset-linked physical evidence.
 - local knowledge fence: Blueprint supplies no narrower local fence; author-side world truth remains SEALED and only observed evidence is available to POV/reader.
 - world_truth: SEALED_LINK_ONLY.
 - reader/POV may use only evidence already exposed by prior realized prose plus this episode's Blueprint-observable actions.
 - Current-lived namespace remains H-B; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Foreshadow / MacGuffin / Payoff
-- classification=SEED. Source clue=D08 namespace seed strengthens. Outgoing selector=one ID maps to a maintenance load not attributable to known city systems. No authorial ominous narration beyond Blueprint evidence.
+- classification=SEED. Source clue=D08 namespace seed strengthens through asset-linked physical evidence. Outgoing selector=one ID maps to a maintenance load not attributable to known city systems. No authorial ominous narration beyond Blueprint evidence.
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: demonstrates ordinary meanings explain some uses but fail across several preservation/learning records. Immediate Want: determine whether `lineage` in metadata means document versions, organizations or something else. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: ordinary document/personnel meanings explain most uses; one preservation record only resolves when paired with a live maintenance asset ID that still draws protected power. Immediate Want: turn `lineage` metadata into a testable present-world consequence instead of collecting more unexplained records. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: demonstrates ordinary meanings explain some uses but fail across several preservation/learning records.
-- exact Immediate Want: determine whether `lineage` in metadata means document versions, organizations or something else.
+- exact Blueprint A-Plot: ordinary document/personnel meanings explain most uses; one preservation record only resolves when paired with a live maintenance asset ID that still draws protected power.
+- exact Immediate Want: turn `lineage` metadata into a testable present-world consequence instead of collecting more unexplained records.
 - exact End Turn: one ID maps to a maintenance load not attributable to known city systems.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
@@ -105,5 +105,5 @@ actual_next_episode_carry: PENDING
 1. Episode Card — exact EP290 Blueprint selector; A-Plot/Want/End Turn authority.
 2. Immediate Continuity — prior realized CONTINUITY-FROZEN + this forecast selector; never future guessed Actual.
 3. POV/Relationship — POV=Hana; relationship line + current role/relationship graph, active core <=3.
-4. World/Zone/Material — Zone=archive; current world/material/location router, branch=H-B.
+4. World/Zone/Material — Zone=archive / asset registry interface; current world/material/location router, branch=H-B.
 5. Active Device/Return/Collectibility — clue/payoff selector + eligible asset overlay; foreground chosen JIT, not by quota.

@@ -1,6 +1,6 @@
 # V3 EPISODE BLUEPRINT — ACT 2 v0.1
 
-Status: `PREWRITING EXECUTION CANDIDATE / NO PROSE / NOT CANON`
+Status: `ACTIVE EPISODE EXECUTION LINE / NO PROSE` — execution layer under v3 Canon (promoted 2026-08-21). Canon authority stays with the v3 Bibles; this layer is event/execution truth, not Canon.
 Project: 《우주선에는 인간이 한 명뿐이다》
 Act 2: **닫힌 구획 — EP043~094**
 
@@ -10,8 +10,8 @@ Authority:
 - `docs/design-v3/V3-ACT2-CONCURRENCY-GEOGRAPHY-CAUSAL-LEDGER-v0.1.md`
 - `docs/prewriting-v3/EPISODE-CARD-SPEC-v0.1.md`
 
-Protagonist label:
-`[주인공/TBD]`.
+Protagonist:
+**루카스 켈러 / Lukas Keller** — reader-facing call-name `루카스` only (final name APPROVED 2026-08-21, CHG-055).
 
 ## Act contract
 
@@ -58,7 +58,7 @@ L-G Legacy Service Pocket
 # B07 EP043~050 — 첫 파손 / T+0~3h
 
 ## EP043 — 예정된 점검
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T-15m → T+0
 **Zone:** L-A Old Works Boundary
 **Want:** complete the rescheduled cooling-segment inspection before the route window closes.
@@ -70,7 +70,7 @@ L-G Legacy Service Pocket
 **Continuity:** T0 established.
 
 ## EP044 — 가까운 고장과 먼 고장
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+0~20m
 **Zone:** L-A
 **Want:** decide whether the rupture threatens surrounding structure.
@@ -81,7 +81,7 @@ L-G Legacy Service Pocket
 **End Turn:** first injured workers are reported beyond the closed corridor.
 
 ## EP045 — 들어갈 수 있는 길
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+20~40m
 **Zone:** L-A perimeter
 **Want:** find a structurally viable rescue access.
@@ -103,7 +103,7 @@ L-G Legacy Service Pocket
 **End Turn:** thermal readings rise outside the first predicted footprint.
 
 ## EP047 — 예상보다 넓다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+1h~1h20
 **Zone:** L-A
 **Want:** explain why heat propagation exceeds the simplified service diagram.
@@ -114,7 +114,7 @@ L-G Legacy Service Pocket
 **End Turn:** one trapped worker is on the wrong side of a newly isolated section.
 
 ## EP048 — 움직이지 않는 벽
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+1h20~1h50
 **Zone:** L-A service access
 **Want:** create enough structural stability for rescue.
@@ -136,7 +136,7 @@ L-G Legacy Service Pocket
 **End Turn:** electrical isolation knocks out a Transfer Belt feed before extraction is fully complete.
 
 ## EP050 — 한 구획의 사고가 아니다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+2h30~3h
 **Zone:** L-A
 **Want:** prevent secondary structural/electrical damage from reaching the rescue route.
@@ -151,7 +151,7 @@ L-G Legacy Service Pocket
 # B08 EP051~058 — 번지는 고장 / T+3~8h
 
 ## EP051 — 전기가 끊기는 방향
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+3~4h
 **Zone:** L-A electrical/structural interface
 **Want:** identify which isolation boundary prevents wider damage.
@@ -173,7 +173,7 @@ L-G Legacy Service Pocket
 **End Turn:** crowding at one junction exceeds model prediction.
 
 ## EP053 — 기록보다 오래된 접합부
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+4~5h
 **Zone:** L-A
 **Want:** explain why the affected junction failed in an unexpected pattern.
@@ -195,7 +195,7 @@ L-G Legacy Service Pocket
 **End Turn:** reroute saves one crowd but leaves a school/community group with a shrinking exit window.
 
 ## EP055 — 닫힌 길의 반대편
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+5.5~6h
 **Zone:** L-A → edge of L-C
 **Want:** inspect a boundary affecting Midring ventilation before residents are moved unnecessarily.
@@ -217,7 +217,7 @@ L-G Legacy Service Pocket
 **End Turn:** group clears, but several parents are stranded on the other side of a transit closure.
 
 ## EP057 — 다 아는 지도는 없다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+7~7.5h
 **Zone:** L-A / remote coordination
 **Want:** update hazard map using field evidence without pretending he knows passenger movement.
@@ -243,7 +243,7 @@ L-G Legacy Service Pocket
 # B09 EP059~067 — 사보타주인가 / T+8~16h
 
 ## EP059 — 우회 흔적
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+8~9h
 **Zone:** L-A service-control point
 **Want:** understand a safety interlock state that does not match failure sequence.
@@ -265,7 +265,7 @@ L-G Legacy Service Pocket
 **End Turn:** security hold blocks a route Selene wants for response staging.
 
 ## EP061 — 다른 질문
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+9.5~10.5h
 **Zone:** L-A
 **Want:** recover access to inspect the materially inconsistent junction.
@@ -287,7 +287,7 @@ L-G Legacy Service Pocket
 **End Turn:** the escorted window creates a new logistics bottleneck elsewhere.
 
 ## EP063 — 오래된 흔적, 새 범죄
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+11.5~12.5h
 **Zone:** L-A restricted inspection
 **Want:** distinguish recent tampering from old structural condition.
@@ -309,7 +309,7 @@ L-G Legacy Service Pocket
 **End Turn:** public rumor turns `unauthorized bypass` into `terrorist attack` before facts are settled.
 
 ## EP065 — 소문과 균열
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+13.5~14.5h
 **Zone:** L-A / short family contact
 **Want:** keep technical team focused despite rumor and family concern.
@@ -331,7 +331,7 @@ L-G Legacy Service Pocket
 **End Turn:** new structural readings show first zone may be stabilizing.
 
 ## EP067 — 첫 번째 설명
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+15.5~16h
 **Zone:** L-A
 **Want:** assemble a provisional causal chain.
@@ -346,7 +346,7 @@ L-G Legacy Service Pocket
 # B10 EP068~075 — 첫날 밤 / T+16~28h
 
 ## EP068 — 잠깐 돌아온 전기
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+16~18h
 **Zone:** L-A / L-C boundary
 **Want:** verify limited restoration will not overload weakened structure.
@@ -357,7 +357,7 @@ L-G Legacy Service Pocket
 **End Turn:** protagonist finally has a short off-duty window.
 
 ## EP069 — 통화할 시간
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+18~19.5h
 **Zone:** responder rest area
 **Want:** contact family and sleep.
@@ -379,7 +379,7 @@ L-G Legacy Service Pocket
 **End Turn:** Leila refuses one requested transfer priority.
 
 ## EP071 — 뜯어봐야 아는 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+21~22.5h
 **Zone:** L-A damaged junction
 **Want:** explain repair-layer age before reopening decisions.
@@ -401,7 +401,7 @@ L-G Legacy Service Pocket
 **End Turn:** one Midring pocket cannot receive normal distribution because the route remains closed.
 
 ## EP073 — 고장 난 것만 고칠 수 있다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+24~25.5h
 **Zone:** L-A rest/analysis
 **Want:** identify a repair path that could safely shorten closure.
@@ -423,7 +423,7 @@ L-G Legacy Service Pocket
 **End Turn:** provisional route-reopening proposal arrives from operations/political pressure.
 
 ## EP075 — 다들 끝났다고 생각할 때
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+27~28h
 **Zone:** L-A / mobile review
 **Want:** review partial reopening evidence before public expectation hardens.
@@ -438,7 +438,7 @@ L-G Legacy Service Pocket
 # B11 EP076~083 — 다시 열 것인가 / T+28~38h
 
 ## EP076 — 열기 위한 조건
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+28~30h
 **Zone:** L-A/L-B boundary
 **Want:** define physical conditions for limited reopening.
@@ -449,7 +449,7 @@ L-G Legacy Service Pocket
 **End Turn:** a separate rescue need arises behind the restricted area.
 
 ## EP077 — 한 사람을 위한 길, 많은 사람의 길
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+30~31.5h
 **Zone:** L-A
 **Want:** determine if a rescue access can coexist with reopening traffic.
@@ -471,7 +471,7 @@ L-G Legacy Service Pocket
 **End Turn:** an unofficial access shortcut is discovered in use by a small group.
 
 ## EP079 — 쓰지 말라고 한 길
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+32.5~33.5h
 **Zone:** L-G edge
 **Want:** assess damage after someone uses the legacy shortcut.
@@ -493,7 +493,7 @@ L-G Legacy Service Pocket
 **End Turn:** one bulkhead does not seal cleanly due deformation.
 
 ## EP081 — 닫히지 않는 문
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+34.5~36h
 **Zone:** L-A/L-G interface
 **Want:** restore enough boundary integrity to stop pressure cascade.
@@ -504,7 +504,7 @@ L-G Legacy Service Pocket
 **End Turn:** trapped-group list becomes known.
 
 ## EP082 — 이름이 있는 숫자
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+36~37h
 **Zone:** L-D support / L-A
 **Want:** decide what technical recommendation to give with known people still inside.
@@ -515,7 +515,7 @@ L-G Legacy Service Pocket
 **End Turn:** Selene asks for his final structural recommendation.
 
 ## EP083 — 이번에도 같은 질문
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+37~38h
 **Zone:** L-A boundary
 **Want:** avoid repeating Arun without lying about risk.
@@ -530,7 +530,7 @@ L-G Legacy Service Pocket
 # B12 EP084~091 — 선택의 비용 / 거의 끝난 사고 / T+38~47h
 
 ## EP084 — 권고
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+38~39.5h
 **Zone:** L-A/L-D
 **Want:** give the least-wrong structural recommendation.
@@ -541,7 +541,7 @@ L-G Legacy Service Pocket
 **End Turn:** Selene executes the closure plan.
 
 ## EP085 — 닫힌 뒤
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+39.5~40.5h
 **Zone:** L-A
 **Want:** verify the boundary holds and find any remaining technical rescue option.
@@ -564,7 +564,7 @@ L-G Legacy Service Pocket
 **End Turn:** protagonist later sees/hears part of this reaction.
 
 ## EP087 — 아룬 칼레브
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+41.5~43h
 **Zone:** responder rest/Old Works
 **Want:** keep functioning after the closure.
@@ -575,7 +575,7 @@ L-G Legacy Service Pocket
 **End Turn:** new data suggest the present event's initiating cause can finally be closed.
 
 ## EP088 — 무엇이 처음 망가졌나
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+43~44h
 **Zone:** L-A analysis
 **Want:** finish the causal reconstruction.
@@ -586,7 +586,7 @@ L-G Legacy Service Pocket
 **End Turn:** Sora must decide how much sabotage theory remains.
 
 ## EP089 — 테러가 아니어도 책임은 있다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+44~45h
 **Zone:** L-A / review interface
 **Want:** ensure technical findings are not distorted into a single criminal story.
@@ -597,7 +597,7 @@ L-G Legacy Service Pocket
 **End Turn:** staged utility/transport restoration starts.
 
 ## EP090 — 다시 움직이는 사람들
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+45~46h
 **Zone:** L-A → L-B edge
 **Want:** certify one limited movement route.
@@ -608,7 +608,7 @@ L-G Legacy Service Pocket
 **End Turn:** a small service irregularity appears outside the local failure model.
 
 ## EP091 — 거의 끝난 사고
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+46~47h
 **Zone:** Old Works / temporary command
 **Want:** close his incident role and go home.
@@ -623,7 +623,7 @@ L-G Legacy Service Pocket
 # B13 EP092~094 — 끝이 아니었다 / T+47~52h
 
 ## EP092 — 여유가 사라진다
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+47~49h
 **Zone:** recovery route / Old Works
 **Want:** leave the incident after one last abnormal reading check.
@@ -635,7 +635,7 @@ L-G Legacy Service Pocket
 **End Turn:** one maintenance/access identifier resolves incorrectly for a moment, then corrects.
 
 ## EP093 — 잘못 연결된 것
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** T+49~50.5h
 **Zone:** L-G/L-A recovery access
 **Want:** verify a localized continuity of service/control before leaving a dangerous pocket.
@@ -647,7 +647,7 @@ L-G Legacy Service Pocket
 **End Turn:** sensory/operational interruption at apparent lethal threshold.
 
 ## EP094 — 같은 곳
-**POV:** [주인공/TBD]
+**POV:** 루카스
 **Time:** subjective break → H-B corresponding earlier-seeming state
 **Zone:** familiar Meridian location
 **Want:** survive/orient after what he believes was death or blackout.
@@ -664,7 +664,7 @@ L-G Legacy Service Pocket
 # ACT 2 QA SUMMARY
 
 ## POV count
-- [주인공/TBD]: **36**
+- 루카스: **36**
 - Selene: 4 — EP046, 062, 078, 080
 - Mira: 3 — EP052, 064, 074
 - Rafi: 2 — EP049, 070

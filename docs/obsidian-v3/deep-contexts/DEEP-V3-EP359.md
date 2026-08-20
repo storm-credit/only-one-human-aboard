@@ -38,12 +38,12 @@ stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|characte
 FORECAST from EP358: End Turn=final active continuity status can be checked medically. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
 
 ## Protagonist Context
-- POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=understand current developmental state enough for infrastructure safety planning. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV: 루카스
+- OFF-POV / INFLUENCE_ONLY_UNLESS_BLUEPRINT_EXPLICIT. 루카스 owns the episode's lived decision line. Do not reroute success, discovery, or emotional resolution through the protagonist merely for centrality.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: [주인공/TBD]
+- projected_active_core: 루카스
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -72,24 +72,24 @@ FORECAST from EP358: End Turn=final active continuity status can be checked medi
 - Current-lived namespace remains H-B; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Foreshadow / MacGuffin / Payoff
-- classification=REINFORCE+PAYOFF. Source clue=D06 FINAL PAYOFF REINFORCE. Outgoing selector=final-approach gestation requires a decision/timetable by medical/preservation authority. No authorial ominous narration beyond Blueprint evidence.
+- classification=REINFORCE+PAYOFF. Source clue=D06 FINAL PAYOFF REINFORCE. Outgoing selector=the ongoing gestation now requires protected medical support through the settlement timetable. No authorial ominous narration beyond Blueprint evidence.
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: learns the remaining Natural-Origin continuity is in early developmental arrest/biostasis and has not lived the repeated civic histories. Immediate Want: understand current developmental state enough for infrastructure safety planning. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: learns the remaining Natural-Origin continuity already began final ex vivo gestation around the Act7-opening mission-clock threshold — the process has been underway for weeks without anyone knowing its meaning — and that it has not lived the repeated civic histories. Immediate Want: understand current developmental state enough for infrastructure safety planning. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: learns the remaining Natural-Origin continuity is in early developmental arrest/biostasis and has not lived the repeated civic histories.
+- exact Blueprint A-Plot: learns the remaining Natural-Origin continuity already began final ex vivo gestation around the Act7-opening mission-clock threshold — the process has been underway for weeks without anyone knowing its meaning — and that it has not lived the repeated civic histories.
 - exact Immediate Want: understand current developmental state enough for infrastructure safety planning.
-- exact End Turn: final-approach gestation requires a decision/timetable by medical/preservation authority.
+- exact End Turn: the ongoing gestation now requires protected medical support through the settlement timetable.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - no Shadow Blueprint; no prose drafting from this node alone; max 5 direct retrieval bundles.
 - active-core target <=3; collectible foreground is not a quota.
 
 ## Forecast Outgoing
-- projected End Turn: final-approach gestation requires a decision/timetable by medical/preservation authority.
+- projected End Turn: the ongoing gestation now requires protected medical support through the settlement timetable.
 - projected Continuity Output: No extra Blueprint continuity field; use End Turn as forecast selector only.
 - semantics: FORECAST_NOT_ACTUAL. The next episode must consume realized prose delta when available, not blindly inherit this forecast.
 
@@ -104,6 +104,6 @@ actual_next_episode_carry: PENDING
 ## Retrieval Compile Map
 1. Episode Card — exact EP359 Blueprint selector; A-Plot/Want/End Turn authority.
 2. Immediate Continuity — prior realized CONTINUITY-FROZEN + this forecast selector; never future guessed Actual.
-3. POV/Relationship — POV=[주인공/TBD]; relationship line + current role/relationship graph, active core <=3.
+3. POV/Relationship — POV=루카스; relationship line + current role/relationship graph, active core <=3.
 4. World/Zone/Material — Zone=protected medical/preservation boundary; current world/material/location router, branch=H-B.
 5. Active Device/Return/Collectibility — clue/payoff selector + eligible asset overlay; foreground chosen JIT, not by quota.
