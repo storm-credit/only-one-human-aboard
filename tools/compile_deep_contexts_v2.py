@@ -21,6 +21,45 @@ ALIASES = {
 }
 
 
+def parse_fields_bounded(block: str) -> dict[str, str]:
+    """Parse bold Episode Card fields without leaking following Beat/Act QA prose.
+
+    The source blueprints use slightly different field vocabularies, but all actual
+    card fields are bold `**Key:** value` lines. Any Markdown heading or horizontal
+    rule terminates the currently open field capture.
+    """
+    out: dict[str, str] = {}
+    key: str | None = None
+    buf: list[str] = []
+
+    def flush() -> None:
+        nonlocal key, buf
+        if key is not None:
+            out[key] = base.clean(" ".join(buf))
+        key, buf = None, []
+
+    for line in block.splitlines():
+        s = line.strip()
+        m = re.match(r"^\*\*([^*]+?):\*\*\s*(.*)$", s)
+        if m:
+            flush()
+            key = m.group(1).strip()
+            buf = [m.group(2).strip()]
+            continue
+        if s == "---" or s.startswith("#"):
+            flush()
+            continue
+        if key is not None:
+            if not s:
+                continue
+            if s.startswith("- "):
+                buf.append(s[2:].strip())
+            else:
+                buf.append(s)
+    flush()
+    return out
+
+
 def field_with_blueprint_aliases(card, *names: str, default: str = "NOT_SPECIFIED") -> str:
     expanded: list[str] = []
     for name in names:
@@ -50,6 +89,7 @@ def normalize_preserved_v2(ep, card, rm, path) -> None:
     path.write_text(text, encoding="utf-8")
 
 
+base.parse_fields = parse_fields_bounded
 base.field = field_with_blueprint_aliases
 base.normalize_preserved = normalize_preserved_v2
 
