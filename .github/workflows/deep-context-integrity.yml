@@ -1,0 +1,55 @@
+name: Deep Context Integrity
+
+permissions:
+  contents: read
+
+on:
+  push:
+    branches:
+      - prewriting/deep-context-410
+    paths:
+      - 'docs/prewriting-v3/EPISODE-BLUEPRINT-ACT*-v0.1.md'
+      - 'docs/obsidian-v3/**'
+      - 'docs/qa/**'
+      - 'docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md'
+      - 'docs/current-work-status.md'
+      - 'docs/NEXT-CHAT-HANDOFF.md'
+      - 'tools/compile_deep_contexts.py'
+      - 'tools/compile_deep_contexts_v2.py'
+      - 'tools/deep_context_integrity.py'
+      - 'tools/finalize_deep_context_docs.py'
+      - '.github/workflows/deep-context-integrity.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'docs/prewriting-v3/EPISODE-BLUEPRINT-ACT*-v0.1.md'
+      - 'docs/obsidian-v3/**'
+      - 'docs/qa/**'
+      - 'docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md'
+      - 'docs/current-work-status.md'
+      - 'docs/NEXT-CHAT-HANDOFF.md'
+      - 'tools/compile_deep_contexts.py'
+      - 'tools/compile_deep_contexts_v2.py'
+      - 'tools/deep_context_integrity.py'
+      - 'tools/finalize_deep_context_docs.py'
+      - '.github/workflows/deep-context-integrity.yml'
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Rebuild completion documentation deterministically
+        run: python tools/finalize_deep_context_docs.py
+
+      - name: Recompile Deep Projected Context 410/410
+        run: python tools/compile_deep_contexts_v2.py --preserve-through 28
+
+      - name: Require generated output already committed
+        run: git diff --exit-code -- docs
+
+      - name: Validate exact 410 Deep Projected Context contract
+        run: python tools/deep_context_integrity.py

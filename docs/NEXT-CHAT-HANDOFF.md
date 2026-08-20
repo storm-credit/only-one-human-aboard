@@ -1,5 +1,28 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
+<!-- DEEP-CONTEXT-410-STATUS:START -->
+## DEEP CONTEXT RECOVERY — 410/410 COMPLETE
+
+Do not rebuild the Context Pack from scratch.
+
+Current state:
+- thin Router `CTX-V3-EP001~410` = **410/410**;
+- Deep sidecar `DEEP-V3-EP001~410` = **410/410**;
+- Deep P0/P1 = **0/0** after Act-by-Act QA + Whole-Series hostile Red Team;
+- Dynamic Actual is intentionally `PENDING` until JIT after realized previous prose;
+- official Canon is unchanged and no prose was drafted.
+
+Read next for this layer:
+1. `docs/prewriting-v3/DEEP-CONTEXT-SCHEMA-v1.md`
+2. `docs/obsidian-v3/deep-contexts/V3-410-DEEP-PROJECTED-CONTEXT-MANIFEST-v1.md`
+3. `docs/qa/V3-DEEP-CONTEXT-ACT-BY-ACT-QA-v1.md`
+4. `docs/qa/V3-DEEP-CONTEXT-WHOLE-SERIES-RED-TEAM-v1.md`
+5. `docs/qa/V3-DEEP-CONTEXT-COMPLETION-GATE-v1.md`
+
+If an upstream Blueprint/router/role/relationship/asset/reveal authority later changes, recompile only the stale affected Deep nodes before use. Generic continuation does not authorize Canon promotion or prose.
+<!-- DEEP-CONTEXT-410-STATUS:END -->
+
+
 > Rolling handoff — 2026-08-20.
 > Active v3 state: **STRUCTURAL PASS + 410/410 BLUEPRINT COMPLETE + CHARACTER/64-ASSET→9-ACT INTEGRATION PASS + C2 SURFACE PASS + FINAL PRE-PROMOTION AUDIT PASS + STORY PROMOTION-READY**.
 > POV: protagonist-owned **319/410 = 77.8%**, protagonist-present **386/410 = 94.1%**, fully absent **24/410 = 5.9%**.
