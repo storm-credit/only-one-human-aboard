@@ -20,313 +20,341 @@ No v2 Canon or manuscript has been silently overwritten.
 ## Active v3 track
 # **V3 PREWRITING STRUCTURAL LOCK = PASS**
 # **POV RECALIBRATION v0.2 = PASS**
-# **POST-POV ACT DEEP AUDIT = PASS**
-# **TARGETED MICRO-BRAINSTORM + HOSTILE QA = PASS**
+# **TARGETED MICRO-BRAINSTORM = PASS**
+# **IP / VISUAL / MATERIAL / COLLECTIBILITY CANDIDATE FREEZE = PASS**
 
 Meaning:
-- v3 Deep Design COMPLETE,
-- Candidate Freeze PASS,
-- EP001~410 episode blueprint materialization COMPLETE,
-- all 9 Act hostile QAs PASS,
-- full-series regression PASS,
-- hard-science boundary PASS,
-- HUMAN medical/developmental boundary PASS,
-- protagonist-heavy POV recalibration PASS,
-- final five scene-level risk patches PASS,
-- Blocking P0 = 0,
-- Structural P1 requiring redesign = 0,
-- broad brainstorming no longer justified,
-- deep-design interview no longer required.
+- v3 causal/world/character architecture is deeply designed,
+- 410-episode macro and episode blueprint materialization complete,
+- all 9 Act hostile QA pass,
+- full-series regression pass,
+- hard-science and HUMAN medical/development boundaries pass,
+- protagonist-heavy POV recalibration pass,
+- five scene-level execution risks patched,
+- reopened IP/visual/material phase completed after separate hostile QA,
+- prior IP P1 5 → 0,
+- blocking P0 = 0,
+- structural P1 requiring another broad design phase = 0.
 
-v3 has NOT yet been promoted to official Canon.
-Prose remains NOT authorized by generic continuation.
+Important correction to earlier status history:
+The project was once called `Deep Design complete` before v3-specific character visuals, craft/equipment ecology, background art direction, collectibility, Outer-Ark form, and destination materialization had been sufficiently rebuilt. That declaration was too broad. Those areas were explicitly reopened and are now separately closed through the current IP candidate-freeze package.
+
+v3 is NOT official Canon yet.
+Generic `진행/이어서` does NOT authorize prose or Canon promotion.
 
 ---
 
 # 1. Current routing authorities
 
-Read/route through:
-1. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
-2. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
-3. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
-4. `docs/narrative-engineering/V3-POV-OWNERSHIP-DISTRIBUTION-v0.2-CANDIDATE.md`
-5. Act1~9 episode blueprints v0.1 for event/clue/relationship content
-6. `docs/prewriting-v3/EPISODE-CARD-SPEC-v0.2.md`
-7. `docs/narrative-engineering/V3-REVEAL-FORESHADOW-PAYOFF-LEDGER-v0.4-CANDIDATE.md`
-8. `docs/narrative-engineering/WRITER-GRAMMAR-MATRIX-v0.3-CANDIDATE.md`
-9. **`docs/prewriting-v3/V3-TARGETED-MICRO-BRAINSTORM-BLUEPRINT-PATCH-v0.1.md`**
-10. **`docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`**
-11. `docs/qa/V3-TARGETED-MICRO-BRAINSTORM-HOSTILE-QA-v0.1.md`
-12. `docs/prewriting-v3/V3-MANUSCRIPT-START-READINESS-CHECKLIST-v0.1.md`
+Read first:
+1. `CLAUDE.md`
+2. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
+3. `docs/current-work-status.md`
+4. `docs/NEXT-CHAT-HANDOFF.md`
+5. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
+6. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+7. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
+8. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+9. `docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
+10. `docs/prewriting-v3/V3-MANUSCRIPT-START-READINESS-CHECKLIST-v0.1.md`
 
-Promotion decision package:
+Promotion package:
 `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
 
 ---
 
-# 2. EP001~410 + POV state
+# 2. 410-episode / POV state
 
-All Acts have exact episode cards and independent hostile QA.
+All 410 episodes materialized at blueprint level.
 
-| Act | Episodes | Count | Protagonist-owned | Full protagonist-absent |
-|---|---:|---:|---:|---:|
-| 1 | 001~042 | 42 | **36** | 2 |
-| 2 | 043~094 | 52 | **41** | 4 |
-| 3 | 095~136 | 42 | **37** | 2 |
-| 4 | 137~181 | 45 | **35** | 4 |
-| 5 | 182~228 | 47 | **36** | 3 |
-| 6 | 229~279 | 51 | **35** | 5 |
-| 7 | 280~327 | 48 | **37** | 2 |
-| 8 | 328~370 | 43 | **32** | 1 |
-| 9 | 371~410 | 40 | **30** | 1 |
-
-Total:
-- **410/410 episodes materialized**
-- protagonist-owned **319/410 = 77.8%**
-- protagonist-present **386/410 = 94.1%**
-- fully protagonist-absent **24/410 = 5.9%**
+Current protagonist ownership:
+- protagonist-owned **319/410 = 77.8%**,
+- protagonist-present **386/410 = 94.1%**,
+- fully protagonist-absent **24/410 = 5.9%**.
 
 Narrative identity:
 # **주인공 중심 다중인과형 장편**
 
-The earlier 272/410 = 66.3% target is superseded for current prewriting.
-Secondary causal scenes remain; most are mixed into protagonist-present episodes without transferring decision authority.
+Secondary causality remains structurally independent. Act6 neutral-corridor solution still does not originate from protagonist.
 
 ---
 
-# 3. Core story architecture
+# 3. Core story / ontology
 
 Reader-facing spine:
-- H-A = Acts1~2 opening Meridian
-- one rare protagonist continuity misbinding at Act2 end
-- H-B = Acts3~9 current long-lived Meridian
-- no repeated protagonist world hopping
-- other histories emerge through records, relationships, institutional learning, physical traces and extremely rare memory faults
+- H-A = Acts1~2 opening Meridian,
+- one rare protagonist continuity misbinding at Act2 end,
+- H-B = Acts3~9 current long-lived Meridian,
+- no repeated protagonist world hopping,
+- other lived histories emerge through records, physical residues, relationships, institutions and extremely rare memory faults.
 
-Core ontology:
-- one physical Outer Ark Meridian
-- physical outer mission time always forward
-- atomic/nanoscale addressable anchors + distributed ultradense substrate
-- astronomical possibility search
-- most possibilities non-conscious
-- selected D3 histories fully lived
-- D3 persons full persons
-- finite energy/heat/interconnect/radiation/repair
-- no cosmological multiverse truth
-- no literal pocket universe
+Current ontology:
+- one real physical Outer Ark Meridian,
+- outer mission time always forward,
+- atomic/nanoscale addressable anchors + distributed ultradense substrate,
+- astronomical possibility search,
+- most possibilities non-conscious,
+- selected D3 histories fully lived,
+- D3 persons are full persons,
+- finite power/heat/interconnect/radiation/repair,
+- no cosmological multiverse truth,
+- no literal pocket universe.
+
+Experienced Meridian is NOT authorially treated as fake merely because its human-scale world is physically implemented through substrate.
 
 ---
 
 # 4. HUMAN:1
 
-`HUMAN` = **Natural-Origin departure-continuity legacy category**, not personhood.
+`HUMAN` = Natural-Origin departure-continuity legacy category, not personhood.
 
-Current model:
-- launch HUMAN count >1
-- real centuries-long attrition leaves one
-- separate genetic diversity archive
-- protagonist NOT HUMAN
-- no sovereignty/admin/ownership/reproduction/research duty
+Current:
+- launch HUMAN count >1,
+- real centuries-long attrition leaves one,
+- separate genetic diversity archive,
+- protagonist NOT HUMAN,
+- no sovereignty/admin/ownership/research/reproduction duty.
 
 Medical form:
-**early-stage natural-origin embryo/zygote cryopreservation → final-approach thaw → far-future ectogenesis → ordinary development/birth**.
-
-Act7+8+9 working timeline supports ~38-week development window.
+**early natural-origin embryo/zygote cryopreservation → final-approach thaw → far-future ectogenesis → ordinary development/birth.**
 
 ---
 
-# 5. Personhood / ethics
-
-- counterpart != resurrection
-- backup != restored subjective continuity
-- branch-born child = new person
-- quiescence != deletion
-- active D3 persons cannot be silently degraded to non-person models
-- old Continuity Doctrine is historically understandable but ethically inadequate once deep lineages become independent lived societies
-- final transitional norm restricts new involuntary fully lived branching
-
-The story does not conclude suffering was justified merely because it generated useful information.
-
----
-
-# 6. Character / relationship architecture
+# 5. Character / relationship state
 
 Protagonist:
-- male ~36~38
-- final name TBD
-- **선체 손상분석관** candidate
-- ordinary career/family
-- no prior full regression
-- Arun accident = one deep pre-series wound
+- male ~36~38,
+- final name **TBD**,
+- `선체 손상분석관` working profession,
+- ordinary family,
+- no prior full regression,
+- Arun accident = one deep pre-series wound.
 
 Family:
-- both parents alive
-- older sister household + school-age child
-- ordinary non-secret jobs
-- H-A/H-B family delta mundane, not tragic
+- both parents alive,
+- older sister household + school-age child,
+- no secret/chosen lineage.
 
 Mira:
-- H-A serious former relationship
-- H-B shorter/different prior relationship
-- final endpoint = **new current-world relationship by present choice**, not restoration/destiny
+- H-A serious former relationship,
+- H-B shorter/different history,
+- endpoint must come from current choice, not restored destiny.
 
-World-independent relationship edges remain mandatory:
-Mira↔Juno, Selene↔Rafi, Rafi↔Leila, Sora↔Hana, Niko↔Gideon, etc.
-
-Act6 neutral corridor still bypasses protagonist as origin/intermediary.
+Arun H-B:
+independent current life; current person is not protagonist's recovered property.
 
 ---
 
-# 7. Final targeted micro-patch — now active
+# 6. IP / visual / material phase — CLOSED CANDIDATE
 
-Post-POV audit found no missing deep architecture, but five execution risks.
-They are now patched and QA-passed.
+Final authority:
+- `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+- `docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
 
-## Act1 — fun engine
-Every density band must pay locally through:
-- work puzzle,
-- relationship/social friction,
-- ordinary city-life attachment.
+## Character visuals
+Drawable grayscale illustration sheets exist for core/major cast.
+Visual identity uses:
+- silhouette,
+- body/face/hair candidate,
+- ordinary/work/crisis outfit construction,
+- carry/equipment placement,
+- movement/posture,
+- Act6/Act9 changes.
 
-At least four recurring ordinary details remain permanently non-clues.
-Act1 must be enjoyable even if ontology clues are removed.
+No ancestry-costume automation and no H-A/H-B palette skins.
 
-## Act4 — consequence variety
-Foreknowledge/anomaly rotates through:
-- money/allocation,
-- household/daily cost,
-- security/self-fulfilling threat,
-- reputation/trust,
-- institution/evidence.
+## Civilian material culture
+No universal jumpsuit culture.
+Meridian has civilian fashion cycles, repairs, secondhand/reissue, homes, toys, hobbies, sports goods and ordinary objects that never become clues.
 
-No repeated `claimant says future → investigate` loop.
+## Experienced-Meridian machines
+High-recognition utility families include:
+- structural crawler,
+- damage-mapping drone,
+- rescue/medical transfer equipment,
+- freight/utility tug,
+- non-combat service frame,
+- public-safety boundary/containment equipment.
 
-## Act5 — record → action
-Major evidence must cause a present action/access/legal/relationship/safety consequence within <=2 episodes.
-No archive-tourism rhythm.
+No fighter fleet, ace machine, protagonist signature craft, RPG rarity or upgrade progression.
 
-## Act7~8 — reveal sceneization
-Use:
-**current problem → incomplete model → concrete evidence → decision cost → only then interpretation/label**.
+## Physical Outer Ark
+Current topology:
+**forward protection → protected substrate/biological/HUMAN core → service/fabrication/settlement cargo spine → major thermal rejection architecture → aft propulsion complex.**
 
-D0~D4 stays mostly author-side.
-No electron-city lecture.
-No three consecutive explanation/meeting/archive-dominant episodes.
-Use concise synthesis beats every ~6~8 episodes only after evidence is earned.
+Old v2 giant population-habitat-cylinder exterior is NOT current v3 authority.
 
-## Act9 — ending compression
-EP401~410 closes through four beats:
-1. cost/no-retry + repair
-2. current relationships
-3. HUMAN first life as ordinary medical/caregiver event
-4. ordinary unrehearsed future
+Physical maintenance uses:
+**hard safeties + robotic maintenance fleet + bounded non-conscious planning/diagnostics + validated civilization-derived lesson input.**
 
-No serial character epilogues.
-No new ontology.
-No alien/sequel-bait reveal.
+No hidden D3 teleoperation and no secret AI god.
 
-Current execution overlay:
-`docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`.
+## Background art direction
+Strong non-industrial landmark directions now exist for:
+- Transfer,
+- Midring,
+- Garden,
+- Med/University.
 
-QA:
-`docs/qa/V3-TARGETED-MICRO-BRAINSTORM-HOSTILE-QA-v0.1.md = PASS / P0=0 / structural P1=0`.
+Old Works no longer owns all visual identity.
 
----
+## Destination
+Current qualitative direction:
+**temperate water-rich rocky world + near-compatible total pressure + oxygen-poor managed breathing + real weather/open horizon + incomplete biological/chemical certainty.**
 
-# 8. Science / Act9
+No instant Earth 2.0 and no Mars-like full-pressure-suit default.
 
-Final physical hazard family:
-**energetic-particle / spacecraft-charging environment**
-→ node transient faults
-→ tightly shared power/control links amplify common-mode cascade
-→ physically/electrically/control-isolated node with local reserve remains relatively stable
-→ staged segmentation + local control islands + staggered restart
-→ permanent infrastructure loss.
+## Collection / completion
+Exact assigned recognition chains:
+**15**.
 
-Do NOT write `asynchronous timing blocks radiation`.
-Echo Outside remains ambiguous; no confirmed alien attacker.
+Core:
+`Encounter → Recognition → Recontextualization → Transformation / Persistence / Loss`.
 
----
-
-# 9. Current C2 / tone remaining
-
-These are not deep-design holes.
-
-Required before EP001 prose:
-- **protagonist final name**
-
-Surface/tone calibration still open:
-- family names
-- district proper names
-- currency/payment vocabulary
-- minor venue/place names
-- violence presentation ceiling
-- romance surface share
-- final prose emotional temperature
-
-Default if author gives no override:
-- violence concrete but not gore-porn
-- romance low-to-moderate subline
-- thriller-readable, restrained SF explanation, practical sensory prose
-
-Readiness authority:
-`docs/prewriting-v3/V3-MANUSCRIPT-START-READINESS-CHECKLIST-v0.1.md`.
+Collection belongs to reader familiarity, not protagonist inventory.
 
 ---
 
-# 10. Brainstorming / questions policy
+# 7. IP execution guardrails
 
-## Broad brainstorming
-# **STOP**
+Not structural blockers, but mandatory during art/episode execution:
 
-No further premise/world/macro brainstorming is justified unless actual prose or a new QA exposes a concrete contradiction.
-
-## Targeted brainstorming
-Allowed only if:
-- an episode has no local reward,
-- a reveal cannot be dramatized without lecture,
-- two arcs repeat the same event flavor,
-- a relationship payoff lacks setup,
-- science/medical verification fails,
-- prose sample proves pacing weaker than blueprint.
-
-## Deep-design questions
-# **NOT NEEDED**
-
-Do not re-interview about premise, genre, regression, HUMAN, D3 rights, protagonist centrality, 410 macro or ending architecture.
-
-Only one final bundled author-taste check is worthwhile before prose:
-- protagonist name
-- violence intensity
-- romance surface level
-- district naming flavor
-- ending emotional temperature
+1. at least **3 recurring personal possessions remain persistence-only** and never become clue/master-symbol objects,
+2. at least **1 recurring old machine/equipment generation is retired because the newer solution is genuinely better**,
+3. Act9 introduces **<=2 brand-new HIGH-memory machine/craft families**,
+4. ordinary-noise details remain majority,
+5. do not make every tracked return appear in a scene just because ledger says it exists,
+6. no authoritative `this was all fake simulation` framing,
+7. concept art that becomes cooler only by adding weapons/humanoid heroic mecha proportions is rejected,
+8. representative environment art must include non-industrial ordinary-life spaces.
 
 ---
 
-# 11. Canon promotion
+# 8. Act3 H-A/H-B material difference
 
-Recommended:
-**Promote v3 as official active Canon; preserve v2 + old accepted EP001~010 as frozen historical edition.**
+Current overlay:
+`docs/prewriting-v3/V3-ACT3-VISUAL-MATERIAL-DELTA-OVERLAY-v0.1.md`.
 
-No promotion has been performed yet.
-`canon/CANON_STATUS.md` remains v2 official.
+Escalation should remain small and causal:
+- EP095 field-case repair/certification difference,
+- EP101 Mira carry/habit difference,
+- EP103 component-generation difference,
+- EP105 Niko qualification marker difference,
+- EP108 family/private-life material difference.
 
-Promotion requires explicit user authorization.
+No drastic body redesign or alternate-universe color language.
 
 ---
 
-# 12. Current next step
+# 9. Collection exact-return state
 
-# **DEEP DESIGN COMPLETE / PREWRITING READY / C2+PROMOTION DECISION REMAIN**
+Current overlay:
+`docs/prewriting-v3/V3-COLLECTION-EXACT-EPISODE-RETURN-OVERLAY-v0.1.md`.
 
-Recommended sequence:
-1. curated protagonist/family/district/payment naming pass
-2. one bundled tone choice check
-3. explicit v3 Canon promotion decision
-4. create active v3 manuscript status = 0/410
-5. assemble EP001 minimal context pack
-6. only then, if explicitly requested, draft EP001~005 sample
-7. run real-prose fun/pacing QA before sustained manuscript production
+15 chains are assigned across:
+- protagonist work grammar,
+- damage marking,
+- Transfer landmark,
+- Juno venue,
+- Garden openness,
+- structural crawler,
+- utility tug,
+- Niko qualification,
+- Gideon calibration culture,
+- Mira route tags,
+- Arun current-life object,
+- public-safety visual grammar,
+- medical transfer/care grammar,
+- settlement commissioning field rig,
+- ordinary reopening/material life.
 
-Generic `진행/이어서` continues C2/preparation. It does not silently promote Canon or start prose.
+This is not a requirement that all 15 become explicit prose motifs every time listed.
+
+---
+
+# 10. Science boundary for IP
+
+`docs/qa/V3-OUTER-ARK-CRAFT-ENVIRONMENT-SCIENCE-CROSSCHECK-v0.1.md = PASS`.
+
+Safe functional design:
+- finite heat rejection,
+- radiation/charging residual risk,
+- fault containment,
+- robotic maintenance with finite access/spares/feedstock,
+- role-driven utility craft,
+- qualitative low-oxygen destination.
+
+Still intentionally open:
+- exact Outer Ark size/mass,
+- exact propulsion proportions,
+- exact forward-shield mechanism,
+- exact destination gas numbers,
+- exact lander aerodynamics/propulsion.
+
+Do not fake precision.
+
+---
+
+# 11. Brainstorming policy now
+
+## Broad story/world brainstorming
+# **CLOSE**
+
+## Broad IP/visual/material brainstorming
+# **CLOSE AFTER REOPENED PHASE PASS**
+
+Reopen only if:
+- concept art breaks genre/silhouette rules,
+- prose cannot distinguish locations without exposition,
+- exact return chains cannot fit naturally,
+- science invalidates a functional topology,
+- user explicitly changes the aesthetic/collectibility target.
+
+Targeted brainstorming remains allowed for actual concrete failures.
+
+---
+
+# 12. Remaining C2 / taste calibration
+
+Required before ordinary EP001 prose preparation:
+- **protagonist final full name**.
+
+Still surface-level/open:
+- family names,
+- final district proper names,
+- currency/payment vocabulary,
+- minor venue names,
+- exact color palettes,
+- manufacturer/model proper names,
+- violence presentation ceiling,
+- romance surface share,
+- ending emotional temperature.
+
+These do not reopen deep architecture.
+
+---
+
+# 13. Canon promotion
+
+Recommended later:
+**promote v3 as official active Canon while preserving v2 + old accepted EP001~010 as frozen historical edition.**
+
+No promotion has been performed.
+`canon/CANON_STATUS.md` remains official v2.
+
+Explicit user authorization is required.
+
+---
+
+# 14. Current next step
+
+# **STRUCTURAL + IP DEEP DESIGN CANDIDATE FREEZE PASS / C2 REMAINS**
+
+Generic `진행/이어서` should now continue:
+1. protagonist full-name calibration from scratch,
+2. family/district/payment naming consistency,
+3. bundled tone calibration if useful,
+4. promotion preparation.
+
+Do NOT start prose automatically.
+Do NOT silently promote Canon.
