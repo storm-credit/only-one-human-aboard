@@ -27,6 +27,7 @@ Major gate records:
 - `docs/qa/V3-TARGETED-MICRO-BRAINSTORM-HOSTILE-QA-v0.1.md`
 - `docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
 - `docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
+- `docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`
 
 ---
 
@@ -169,6 +170,44 @@ Collectibility = lineage/use history, never rarity/power ladder.
 
 ---
 
+# 6A. Exact collectibility / completion-desire authority
+
+Current master roster:
+# **`docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`**
+
+Exposure/naming control:
+# **`docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`**
+
+Closure QA:
+# **`docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`**
+
+Exact scope:
+- **64 base asset families**,
+  - 13 character visual identities,
+  - 15 machine/craft/vehicle families,
+  - 12 professional/personal prop families,
+  - 12 place/landmark families,
+  - 12 in-world collection/material-culture families,
+- production tiers = **SIGNATURE 16 / RECURRING 24 / WORLD-DEPTH 24**,
+- meaningful variant slots = **28**,
+- initial internal catalog target = **92**,
+- hard ceiling = **96** without explicit reopening.
+
+Hard distinction:
+- existing H01~H16 = narrative HIGH-memory return anchors,
+- 64 roster = broader recognition/IP depth,
+- the novel does NOT require readers to memorize 64 terms.
+
+Naming budget for 51 non-character families:
+- stable recurring reader-facing labels **<=20**,
+- invented proper/model/manufacturer terms **<=6**,
+- function/context/artbook-only assets **>=31**.
+
+Collectibility roster P0 = 0 / P1 = 0.
+Do not expand the roster simply because a new reference image is attractive.
+
+---
+
 # 7. Reference research authority — CLOSED FOR PRE-CONCEPT
 
 Current master:
@@ -225,7 +264,7 @@ Current rule:
 
 # 9. Next active phase — Visual Execution QA
 
-Reference collection is no longer next.
+Reference collection and collectibility-roster design are no longer next.
 
 ## V-A Character confusion test
 First batch:
@@ -279,6 +318,7 @@ No prose from generic continuation.
 # **STRUCTURAL PREWRITING PASS**
 # **IP/MATERIAL CANDIDATE FREEZE PASS**
 # **REFERENCE/PRE-CONCEPT RESEARCH PASS / CLOSED**
+# **COLLECTIBILITY MASTER ROSTER 64/28/92 = PASS / CLOSED**
 # **VISUAL EXECUTION EMPIRICAL QA = NEXT / OPEN**
 
-Do not return to broad story/world/reference brainstorming unless a concrete regression appears.
+Do not return to broad story/world/reference/collectibility brainstorming unless a concrete regression appears.
