@@ -12,6 +12,7 @@ Important:
 - Names here are candidate surface values, not new structural facts.
 - These names are provisionally attached to the current leading protagonist candidate `루카스 베르너`.
 - If protagonist full name changes, family surnames may be recalibrated without changing the architecture.
+- v0.1 includes the hostile-QA auditory-collision patch: older sister `클라라`, niece `에바`.
 
 ---
 
@@ -107,10 +108,16 @@ Act usefulness:
 # 4. Older sister
 
 Candidate name:
-# **엘레나 베르너**
+# **클라라 베르너**
 
 Age:
 **41** opening candidate.
+
+Why this name survives QA:
+- immediately pronounceable in Korean,
+- clearly separated from Mira / Selene / Leila / Sora,
+- adult but not overly formal,
+- does not demand ethnicity exposition.
 
 Work:
 small hospitality / civic-service operations coordinator.
@@ -170,13 +177,18 @@ no death/abduction used as cheap protagonist motivation.
 # 6. Niece
 
 Candidate name:
-# **리아 코스타**
+# **에바 코스타**
 
 Age:
 **9** opening candidate.
 
 Selected sex:
 female candidate.
+
+Why this name survives QA:
+- short and clear in urgent/family dialogue,
+- does not collide with Leila or other core female names,
+- easy to recognize after long gaps.
 
 Role:
 ordinary school-age child.
@@ -199,7 +211,7 @@ Hard:
 - no child-spoken philosophical oracle dialogue.
 
 Reader-facing address:
-Lucas may call her `리아`; narration may use `조카` only when relationship needs reminding.
+Lucas may call her `에바`; narration may use `조카` only when relationship needs reminding.
 
 ---
 
@@ -211,7 +223,7 @@ Use a maximum of 3 recurring anchors:
    - not every week on-page,
    - proves schedules and food culture.
 
-2. **Ria school/Rebound calendar**
+2. **Eva school/Rebound calendar**
    - makes H-A/H-B divergence mundane and testable.
 
 3. **Martin's produce/fermentation handoff**
@@ -277,7 +289,7 @@ If an old private nickname ever appears, its narrative function is boundary viol
 # 11. Current verdict
 
 Family architecture: **PASS from prior closure**.
-Family surface names/details: **PASS CANDIDATE**.
+Family surface names/details: **PASS CANDIDATE AFTER AUDITORY PATCH**.
 Protagonist hobby: **LEADING CANDIDATE — Rebound spectator/amateur**.
 
 All names remain replaceable C2 surface values until protagonist final-name approval.
