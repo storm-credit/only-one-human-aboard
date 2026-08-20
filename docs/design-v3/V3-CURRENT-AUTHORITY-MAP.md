@@ -19,8 +19,11 @@ Critical distinction:
 1. `CLAUDE.md` — repository workflow/authority protocol.
 2. `docs/design-v3/V3-DEEP-COMPLETION-WORKFLOW-v0.1.md` — completed deep-design gate record.
 3. `docs/design-v3/V3-CANDIDATE-FREEZE-PACKAGE-v0.1.md` — candidate-freeze package.
-4. `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md` — prewriting structural lock QA.
-5. Minimum Action Agent OS adoption/audit docs — working method only, never domain Canon.
+4. `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md` — original prewriting structural lock QA; its old 66.3% POV count is historical where superseded.
+5. `docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md` — current POV-specific regression.
+6. `docs/qa/V3-ACT-DEEP-COVERAGE-POST-POV-AUDIT-v0.2.md` — post-77.8% Act/depth audit.
+7. `docs/qa/V3-TARGETED-MICRO-BRAINSTORM-HOSTILE-QA-v0.1.md` — final scene-level risk QA.
+8. Minimum Action Agent OS adoption/audit docs — working method only, never domain Canon.
 
 ---
 
@@ -96,11 +99,9 @@ Current setting authorities:
 ## Peripheral scope cut/keep
 `docs/design-v3/V3-PERIPHERAL-SCOPE-CUT-KEEP-DECISION-v0.1.md`
 
-The peripheral decision supersedes conflicting enthusiasm in:
-- `canon/WORLD_BIBLE-v3-ADDENDUM-HORROR-PHENOMENA-CANDIDATE.md`
-- `canon/WORLD_BIBLE-v3-ADDENDUM-PALEO-COMPANION-ECOLOGY-CANDIDATE.md`
+The peripheral decision supersedes conflicting enthusiasm in older horror/paleo/companion candidates.
 
-Specifically:
+Current peripheral scope:
 - zombie major arc = CUT,
 - paleo/dinosaur arc = CUT,
 - companion ecology = limited texture,
@@ -115,7 +116,7 @@ Specifically:
 Current:
 - `docs/design-v3/V3-HUMAN1-BIOLOGICAL-FORM-4-DESIGNS-v0.1.md`
 - `docs/design-v3/V3-HUMAN1-ATTRITION-CONTINUITY-TIMELINE-v0.1-CANDIDATE.md`
-- `docs/qa/V3-HUMAN1-MEDICAL-DEVELOPMENT-BOUNDARY-PASS-v0.1.md` where current medical/science wording is controlling.
+- current HUMAN medical/development boundary QA.
 
 Interpretation:
 - `HUMAN` = Natural-Origin legacy category,
@@ -139,8 +140,8 @@ Supporting:
 - `docs/design-v3/V3-CORE-RELATIONSHIP-NETWORK-v0.1-CANDIDATE.md`
 - `docs/design-v3/V3-PROTAGONIST-OCCUPATION-FAMILY-BIOGRAPHY-CANDIDATE.md`
 - `docs/design-v3/V3-CORE-VOICE-PRIVATE-LIFE-SHEETS-v0.1.md`
-- `docs/design-v3/V3-PROTAGONIST-FAMILY-ARUN-IVO-MIRA-CLOSURE-v0.1.md`
-- `docs/design-v3/EMERGENT-CRITICAL-ACTOR-POOL-v0.1-CANDIDATE.md`
+- current protagonist/family/Arun/Ivo/Mira closure documents,
+- `docs/design-v3/EMERGENT-CRITICAL-ACTOR-POOL-v0.1-CANDIDATE.md`.
 
 QA:
 - `docs/qa/CHARACTER-BIBLE-v3.1-HOSTILE-CRITIC-v0.1.md`
@@ -153,7 +154,7 @@ Superseded for current v3 work where conflicting:
 Specific stale items:
 - `Rowan Han / 로언 한` = placeholder/design history,
 - facilities/reliability field engineer = superseded by ship damage-analysis profession candidate,
-- old 45~55 or 65~75 protagonist ownership diagnostics are superseded by the current **77.8% ownership / 94.1% presence** prewriting calibration.
+- old 45~55 or 65~75 protagonist ownership diagnostics are superseded by current **77.8% ownership / 94.1% presence**.
 
 Final protagonist name remains **TBD**.
 
@@ -169,7 +170,7 @@ Act6:
 - `docs/design-v3/V3-ACT6-CONCURRENCY-GEOGRAPHY-CAUSAL-LEDGER-v0.1.md`
 
 These control concurrency/geography/cause handoff over older generic incident wording.
-POV v0.2 may change episode ownership but may NOT collapse these independent causal chains into protagonist action.
+POV v0.2 may change episode ownership but may NOT collapse independent causal chains into protagonist action.
 
 ---
 
@@ -180,8 +181,6 @@ Major arcs:
 
 Medium selection:
 **`docs/design-v3/MEDIUM-INCIDENT-SELECTION-v0.2-CANDIDATE.md`**
-
-Older source pools remain design history where not explicitly selected.
 
 QA:
 `docs/qa/V3-G17-MAJOR-MEDIUM-INCIDENT-HOSTILE-CRITIC-v0.1.md`.
@@ -224,11 +223,11 @@ Current ownership QA:
 `docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md = PASS`.
 
 Superseded where conflicting:
-- `V3-POV-OWNERSHIP-DISTRIBUTION-v0.1-CANDIDATE.md`,
+- v0.1 POV distribution,
 - equal-share ensemble assumptions,
 - 45~55 protagonist band,
 - 65~75 ownership target as final target,
-- individual whole-episode POV ownership interpretation in Act blueprint v0.1 where v0.2 overlay explicitly differs.
+- whole-episode POV interpretation in Act blueprint v0.1 where v0.2 explicitly differs.
 
 Hard:
 Underlying secondary scenes, independent decisions and information fences remain unless separately amended.
@@ -243,21 +242,61 @@ Underlying secondary scenes, independent decisions and information fences remain
 Underlying episode content:
 `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md` through `EPISODE-BLUEPRINT-ACT9-v0.1.md`.
 
-Full-series regression:
-`docs/qa/V3-EP001-410-FULL-BLUEPRINT-REGRESSION-v0.1.md` remains valid for macro/event/reveal architecture.
+Current Episode Card execution spec:
+`docs/prewriting-v3/EPISODE-CARD-SPEC-v0.2.md`.
+
+Full-series macro/event regression:
+`docs/qa/V3-EP001-410-FULL-BLUEPRINT-REGRESSION-v0.1.md`.
 
 POV-specific regression:
-`docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md` controls ownership changes.
+`docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md`.
 
 Context Pack:
 `docs/prewriting-v3/V3-CONTEXT-PACK-SPEC-v0.1.md`.
 
 ---
 
-# 11. Current status authority
+# 10A. Current targeted scene-level patch authority
+
+After the post-POV Act audit, broad redesign was rejected. Five scene-level risks were patched instead.
+
+**TARGETED MICRO-PATCH:**
+`docs/prewriting-v3/V3-TARGETED-MICRO-BRAINSTORM-BLUEPRINT-PATCH-v0.1.md`
+
+**MICRO-PATCH QA:**
+`docs/qa/V3-TARGETED-MICRO-BRAINSTORM-HOSTILE-QA-v0.1.md`
+
+**CURRENT SCENE COMPOSITION OVERLAY:**
+`docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
+
+Controls only:
+- Act1 local fun/reward density,
+- Act4 social-consequence variety,
+- Act5 record→action conversion,
+- Act7~8 evidence-first reveal sceneization + bounded synthesis,
+- Act9 final-ten-episode compression/closure behavior.
+
+It does NOT change:
+- ontology,
+- 9 Acts,
+- 410 center,
+- major reveal windows,
+- H-A→H-B mechanism,
+- HUMAN meaning,
+- D3 rights architecture,
+- POV 77.8% target.
+
+If an underlying Act blueprint scene-composition instruction conflicts with this overlay on these five targeted issues, this overlay controls current execution.
+
+---
+
+# 11. Current readiness/status authority
 
 Primary current status:
 `docs/current-work-status.md`
+
+Manuscript-start readiness:
+**`docs/prewriting-v3/V3-MANUSCRIPT-START-READINESS-CHECKLIST-v0.1.md`**
 
 V3 detailed status/history:
 `docs/design-v3/V3-CURRENT-DESIGN-STATUS.md`
@@ -269,7 +308,17 @@ Official Canon status remains separately:
 `canon/CANON_STATUS.md`
 
 Current v3 state:
-**PREWRITING STRUCTURAL LOCK PASS / NOT OFFICIAL CANON / NO PROSE AUTHORIZED BY GENERIC CONTINUATION.**
+**PREWRITING STRUCTURAL LOCK PASS / TARGETED MICRO-PATCH PASS / NOT OFFICIAL CANON / NO PROSE AUTHORIZED BY GENERIC CONTINUATION.**
+
+Deep architecture blockers: **0**.
+Broad brainstorming required: **NO**.
+Deep-design interview required: **NO**.
+
+Remaining before prose:
+- protagonist final name,
+- C2/tone surface calibration,
+- explicit official-promotion decision or explicit instruction to draft from candidate track,
+- EP001 minimal context pack.
 
 ---
 
@@ -281,20 +330,14 @@ Current v3 state:
 4. A newer filename/version does not automatically become authority unless this map/status is updated.
 5. No `CANON` label is applied to v3 until explicit promotion.
 6. Candidate promotion must include old/new fact, reason, affected story/character/episode scope, and regression result.
-7. For POV specifically, v0.2 ownership overlay overrides v0.1 counts without silently deleting original secondary scene content.
+7. POV v0.2 overrides older ownership counts without deleting underlying secondary causality.
+8. Scene Reward/Reveal Overlay v0.1 overrides only targeted scene-composition risks and cannot silently alter C0/C1 architecture.
 
 ---
 
-# 13. G01 / routing verdict
+# 13. Routing verdict
 
-**G01 = PASS.**
-
-Current v3 routing is explicit without deleting historical candidate files or modifying official v2 Canon.
-
-Remaining before actual v3 Canon promotion:
-- final protagonist name before prose,
-- optional final surface district/currency labels,
-- explicit user-authorized v3 Canon promotion,
-- `canon/CANON_STATUS.md` update only after that promotion.
+**CURRENT ROUTING = PASS.**
 
 No additional macro/world/POV redesign is currently required.
+No further broad brainstorming is justified unless actual prose or a new QA exposes a concrete contradiction.
