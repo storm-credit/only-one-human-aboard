@@ -3,6 +3,7 @@
 > Rolling handoff — 2026-08-20.
 > Current active state: **V3 PREWRITING STRUCTURAL LOCK = PASS**.
 > EP001~410 blueprint materialization COMPLETE.
+> **POV recalibration v0.2 = PASS: protagonist-owned 319/410 (77.8%), protagonist-present 386/410 (94.1%), fully absent 24/410 (5.9%).**
 > Blocking P0 = 0 / structural P1 = 0.
 > Official v2 Canon + accepted v2 EP001~010 remain preserved until explicit v3 promotion.
 
@@ -24,14 +25,17 @@ Read first:
 3. `docs/current-work-status.md`
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
 5. `docs/design-v3/V3-CANDIDATE-FREEZE-PACKAGE-v0.1.md`
-6. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.1.md`
-7. `docs/qa/V3-EP001-410-FULL-BLUEPRINT-REGRESSION-v0.1.md`
-8. `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md`
-9. `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`
-10. `docs/prewriting-v3/BLUEPRINT-REPAIR-ADDENDUM-v0.1.md`
-11. `docs/prewriting-v3/V3-CONTEXT-PACK-SPEC-v0.1.md`
-12. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
-13. `canon/CANON_STATUS.md` only to remember official status is still v2.
+6. **`docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`**
+7. **`docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`**
+8. **`docs/narrative-engineering/V3-POV-OWNERSHIP-DISTRIBUTION-v0.2-CANDIDATE.md`**
+9. **`docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md`**
+10. `docs/qa/V3-EP001-410-FULL-BLUEPRINT-REGRESSION-v0.1.md`
+11. `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md`
+12. `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`
+13. `docs/prewriting-v3/BLUEPRINT-REPAIR-ADDENDUM-v0.1.md`
+14. `docs/prewriting-v3/V3-CONTEXT-PACK-SPEC-v0.1.md`
+15. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
+16. `canon/CANON_STATUS.md` only to remember official status is still v2.
 
 Read Act-specific blueprint/support only when needed.
 
@@ -61,6 +65,7 @@ Completed:
 - hard-science boundary pass
 - HUMAN medical/developmental pass
 - context-pack architecture pass
+- **POV recalibration v0.2 pass**
 - P0=0 / structural P1=0
 
 No further major brainstorming recommended unless a concrete contradiction appears or user intentionally reopens premise.
@@ -196,39 +201,56 @@ ordinary public-building/service coordinator.
 
 ---
 
-# 7. Narrative identity
+# 7. Narrative identity / POV — CURRENT
 
 # **주인공 중심 다중인과형 장편**
 
-EP001~410 protagonist-centered ownership:
-**272 / 410 = 66.3%**.
+Current v0.2 targets:
+- **protagonist-owned 319 / 410 = 77.8%**
+- **protagonist-present 386 / 410 = 94.1%**
+- **full protagonist-absent 24 / 410 = 5.9%**
 
-Story center != world center.
-Other people/institutions make irreversible choices while protagonist is absent.
+The earlier `272/410 = 66.3%` allocation is **SUPERSEDED**.
+
+Meaning:
+- protagonist is almost always visible,
+- protagonist owns most episodes,
+- the world still moves without him,
+- only selected episodes are fully absent when absence itself adds value.
+
+Exact overlay:
+`docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`.
+
+POV QA:
+`docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md = PASS`.
+
+Hard:
+Do NOT make the protagonist the origin of secondary decisions just to maintain percentage.
 
 ---
 
-# 8. All 9 Act blueprints complete
+# 8. All 9 Act blueprints complete — CURRENT OWNERSHIP
 
 Master:
-`docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.1.md`
+**`docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`**
 
-1. EP001~042 — 42 — protagonist 33
-2. EP043~094 — 52 — protagonist 36
-3. EP095~136 — 42 — protagonist 34
-4. EP137~181 — 45 — protagonist 29
-5. EP182~228 — 47 — protagonist 30
-6. EP229~279 — 51 — protagonist 29
-7. EP280~327 — 48 — protagonist 31
-8. EP328~370 — 43 — protagonist 26
-9. EP371~410 — 40 — protagonist 24
+1. EP001~042 — 42 — protagonist 36 / full absent 2
+2. EP043~094 — 52 — protagonist 41 / full absent 4
+3. EP095~136 — 42 — protagonist 37 / full absent 2
+4. EP137~181 — 45 — protagonist 35 / full absent 4
+5. EP182~228 — 47 — protagonist 36 / full absent 3
+6. EP229~279 — 51 — protagonist 35 / full absent 5
+7. EP280~327 — 48 — protagonist 37 / full absent 2
+8. EP328~370 — 43 — protagonist 32 / full absent 1
+9. EP371~410 — 40 — protagonist 30 / full absent 1
 
-Total 410 / protagonist 272.
+Total:
+**410 / protagonist-owned 319 / full absent 24.**
 
-Act files:
+Underlying event/clue cards:
 `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md` through `ACT9-v0.1.md`.
 
-Each has corresponding hostile QA in `docs/qa/V3-ACTN-EPISODE-BLUEPRINT-HOSTILE-QA-v0.1.md`.
+Where whole-episode ownership conflicts, v0.2 POV overlay controls while original secondary scene/action remains.
 
 ---
 
@@ -238,34 +260,39 @@ Each has corresponding hostile QA in `docs/qa/V3-ACTN-EPISODE-BLUEPRINT-HOSTILE-
 ~52h.
 Real cooling failure → electrical/transport cascade → illegal bypass amplification → sabotage suspicion → recovery → secondary breach → protagonist structural recommendation + Selene command → affected family cost → local cause nearly solved → hidden C3 → singular C4 misbinding.
 
+Full protagonist-absence anchors retained:
+EP049 / EP054 / EP056 / EP058.
+
 ## Act3
 Regression-like practical wins first, then pre-existing H-B differences prove literal rewind insufficient.
-One bounded independent memory case only.
+Full absence EP098 proves H-B existed before protagonist; EP111 preserves Mira autonomy.
 
 ## Act4
 Fraud/rumor/markets/security effects > genuine rememberers.
 Predicted attack real but diverges.
-Ivo/Cassian are rare, bounded cases.
+Only selected social/security/medical episodes remain fully absent.
 
 ## Act5
 Legacy physical evidence → orphan records/memorial/dead-living identity → current H-B Arun → HUMAN:1 field/count only.
+EP206 remains fully protagonist-absent to prove H-B Arun has an independent current life.
 
 ## Act6
 ~10 weeks.
 Scarcity → ordinary reroute → emergency hardening → networks/factions → protagonist physically disables unsafe rapid-restoration coupling → neutral corridor emerges through off-protagonist chain → damaged stabilization → faint Echo Outside.
 
+Full absence retained at EP237 / 243 / 248 / 271 / 273.
+Neutral corridor still bypasses protagonist.
+
 ## Act7
 Current aftershock → knowledge without history → contradictory moral histories → counterpart rights → C4 mechanism → physical/namespace evidence → one Outer Ark + astronomical lineage field → protagonist not HUMAN.
 
-Repair addendum seeds the Act8 D3 family in EP324/327 before threat.
-
 ## Act8
 HUMAN Natural-Origin definition → old HUMAN>1/attrition → D3 adult+branch-born-child rights → old doctrine/reform → last Natural-Origin medical verification → restrict involuntary lived branching / transition compact.
-
-Medical patch: by late Act8 gestation is already underway since Act7 opening.
+EP343 remains fully absent so affected D3 people enter the crisis in their own life before protagonist mediation.
 
 ## Act9
 Settlement commons → finite cross-lineage allocation → no new involuntary lived rehearsal → real external particle/charging event → shared power/control common-mode cascade → local isolated control island survives better → protagonist + settlement worker + Niko + Mira + Selene + Rafi/Leila distributed solution → permanent asset loss/no retry → ordinary aftermath → HUMAN birth/first neonatal record → ordinary open future.
+EP371 remains fully absent as ordinary settlement-work opening.
 
 No alien reveal.
 
@@ -318,10 +345,11 @@ Peripheral:
 Default direct per-episode context <=5:
 1. episode card
 2. immediate continuity
-3. POV character slice
+3. POV/ownership character slice
 4. world/zone slice
 5. active clue/relationship slice
 
+For mixed episodes, explicit scene breaks preserve knowledge fences.
 Do not load whole repo per episode.
 
 ---
@@ -333,6 +361,9 @@ Full regression:
 
 Final lock:
 `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md`
+
+POV recalibration:
+`docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md`
 
 Result:
 # **PREWRITING STRUCTURAL LOCK PASS**
