@@ -1,4 +1,4 @@
-name: Deep Context Compile + Integrity
+name: Deep Context Materialize + Integrity
 
 permissions:
   contents: write
@@ -9,103 +9,42 @@ on:
       - prewriting/deep-context-410
     paths:
       - 'docs/prewriting-v3/EPISODE-BLUEPRINT-ACT*-v0.1.md'
-      - 'docs/obsidian-v3/deep-contexts/**'
-      - 'docs/obsidian-v3/contexts/**'
+      - 'docs/obsidian-v3/**'
+      - 'docs/qa/**'
+      - 'docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md'
+      - 'docs/current-work-status.md'
+      - 'docs/NEXT-CHAT-HANDOFF.md'
       - 'tools/compile_deep_contexts.py'
       - 'tools/compile_deep_contexts_v2.py'
       - 'tools/deep_context_integrity.py'
-      - '.github/workflows/deep-context-integrity.yml'
-  pull_request:
-    branches: [main]
-    paths:
-      - 'docs/prewriting-v3/EPISODE-BLUEPRINT-ACT*-v0.1.md'
-      - 'docs/obsidian-v3/deep-contexts/**'
-      - 'docs/obsidian-v3/contexts/**'
-      - 'tools/compile_deep_contexts.py'
-      - 'tools/compile_deep_contexts_v2.py'
-      - 'tools/deep_context_integrity.py'
+      - 'tools/finalize_deep_context_docs.py'
       - '.github/workflows/deep-context-integrity.yml'
 
 jobs:
-  compile-and-validate:
+  materialize-and-validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      - name: Finalize Deep Context completion documentation
+        run: python tools/finalize_deep_context_docs.py
+
       - name: Compile Deep Projected Context 410/410
-        id: compile
-        continue-on-error: true
-        run: |
-          set +e
-          python tools/compile_deep_contexts_v2.py --preserve-through 28 > /tmp/deep-compile.log 2>&1
-          status=$?
-          cat /tmp/deep-compile.log
-          echo "status=$status" >> "$GITHUB_OUTPUT"
-          if [ "$status" -ne 0 ]; then
-            {
-              echo '# Deep Context Compile Diagnostic'
-              echo
-              echo 'TEMPORARY — remove after successful compile.'
-              echo
-              echo '```text'
-              cat /tmp/deep-compile.log
-              echo '```'
-            } > docs/qa/V3-DEEP-CONTEXT-COMPILE-DIAGNOSTIC.tmp.md
-          else
-            rm -f docs/qa/V3-DEEP-CONTEXT-COMPILE-DIAGNOSTIC.tmp.md
-          fi
-          exit 0
+        run: python tools/compile_deep_contexts_v2.py --preserve-through 28
 
       - name: Validate full Deep Projected Context contract
-        id: integrity
-        if: steps.compile.outputs.status == '0'
-        continue-on-error: true
-        run: |
-          set +e
-          python tools/deep_context_integrity.py > /tmp/deep-integrity.log 2>&1
-          status=$?
-          cat /tmp/deep-integrity.log
-          echo "status=$status" >> "$GITHUB_OUTPUT"
-          if [ "$status" -ne 0 ]; then
-            {
-              echo '# Deep Context Integrity Diagnostic'
-              echo
-              echo 'TEMPORARY — remove after successful integrity pass.'
-              echo
-              echo '```text'
-              cat /tmp/deep-integrity.log
-              echo '```'
-            } > docs/qa/V3-DEEP-CONTEXT-INTEGRITY-DIAGNOSTIC.tmp.md
-          else
-            rm -f docs/qa/V3-DEEP-CONTEXT-INTEGRITY-DIAGNOSTIC.tmp.md
-          fi
-          exit 0
+        run: python tools/deep_context_integrity.py
 
-      - name: Commit generated output or diagnostic to feature branch
-        if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository)
-        env:
-          TARGET_BRANCH: ${{ github.event_name == 'pull_request' && github.head_ref || 'prewriting/deep-context-410' }}
+      - name: Commit materialized Deep Context and completion docs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- docs/obsidian-v3/deep-contexts docs/qa
+          git add -A -- docs
           if git diff --cached --quiet; then
-            echo "No generated or diagnostic changes."
+            echo "Deep Context and completion docs already current."
           else
-            git commit -m "Compile Deep Context 410/410 or record blocking diagnostic"
-            git push origin HEAD:${TARGET_BRANCH}
+            git commit -m "Finalize Deep Context 410/410 and completion QA"
+            git push origin HEAD:prewriting/deep-context-410
           fi
-
-      - name: Enforce compile success
-        if: steps.compile.outputs.status != '0'
-        run: exit 1
-
-      - name: Enforce integrity success
-        if: steps.compile.outputs.status == '0' && steps.integrity.outputs.status != '0'
-        run: exit 1
-
-      - name: Verify generated output is committed
-        if: steps.compile.outputs.status == '0' && steps.integrity.outputs.status == '0'
-        run: git diff --exit-code -- docs/obsidian-v3/deep-contexts
