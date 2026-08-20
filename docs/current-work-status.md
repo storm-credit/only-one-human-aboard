@@ -29,6 +29,7 @@ Meaning:
 - hard-science boundary PASS,
 - HUMAN medical/developmental boundary PASS,
 - minimal Context Pack architecture PASS,
+- **POV RECALIBRATION v0.2 PASS**,
 - Blocking P0 = 0,
 - Structural P1 requiring redesign = 0.
 
@@ -39,51 +40,71 @@ Prose remains NOT authorized by generic continuation.
 
 # 1. Master v3 prewriting authorities
 
-Read/rout through:
+Read/route through:
 1. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
 2. `docs/design-v3/V3-CANDIDATE-FREEZE-PACKAGE-v0.1.md`
-3. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.1.md`
-4. `docs/qa/V3-EP001-410-FULL-BLUEPRINT-REGRESSION-v0.1.md`
-5. `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md`
-6. `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`
-7. `docs/prewriting-v3/BLUEPRINT-REPAIR-ADDENDUM-v0.1.md`
-8. `docs/prewriting-v3/V3-CONTEXT-PACK-SPEC-v0.1.md`
+3. **`docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`**
+4. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+5. `docs/narrative-engineering/V3-POV-OWNERSHIP-DISTRIBUTION-v0.2-CANDIDATE.md`
+6. `docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md`
+7. `docs/qa/V3-EP001-410-FULL-BLUEPRINT-REGRESSION-v0.1.md`
+8. `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md`
+9. `docs/prewriting-v3/V3-FULL-SERIES-TIMELINE-v0.1.md`
+10. `docs/prewriting-v3/BLUEPRINT-REPAIR-ADDENDUM-v0.1.md`
+11. `docs/prewriting-v3/V3-CONTEXT-PACK-SPEC-v0.1.md`
 
 Promotion decision package:
 `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
 
 ---
 
-# 2. EP001~410 blueprint state
+# 2. EP001~410 blueprint + POV state
 
 All Acts have exact episode cards and independent hostile QA.
 
-| Act | Episodes | Count | Protagonist-owned |
-|---|---:|---:|---:|
-| 1 | 001~042 | 42 | 33 |
-| 2 | 043~094 | 52 | 36 |
-| 3 | 095~136 | 42 | 34 |
-| 4 | 137~181 | 45 | 29 |
-| 5 | 182~228 | 47 | 30 |
-| 6 | 229~279 | 51 | 29 |
-| 7 | 280~327 | 48 | 31 |
-| 8 | 328~370 | 43 | 26 |
-| 9 | 371~410 | 40 | 24 |
+Current protagonist-heavy ownership overlay:
+
+| Act | Episodes | Count | Protagonist-owned | Full protagonist-absent |
+|---|---:|---:|---:|---:|
+| 1 | 001~042 | 42 | **36** | 2 |
+| 2 | 043~094 | 52 | **41** | 4 |
+| 3 | 095~136 | 42 | **37** | 2 |
+| 4 | 137~181 | 45 | **35** | 4 |
+| 5 | 182~228 | 47 | **36** | 3 |
+| 6 | 229~279 | 51 | **35** | 5 |
+| 7 | 280~327 | 48 | **37** | 2 |
+| 8 | 328~370 | 43 | **32** | 1 |
+| 9 | 371~410 | 40 | **30** | 1 |
 
 Total:
 **410 / 410**.
 
-Protagonist-centered ownership:
-**272 / 410 = 66.3%**.
+Protagonist-owned:
+# **319 / 410 = 77.8%**
+
+Protagonist-present:
+# **386 / 410 = 94.1%**
+
+Full protagonist-absent:
+# **24 / 410 = 5.9%**
 
 Narrative identity:
 **주인공 중심 다중인과형 장편**.
 
-Act blueprint files:
-`docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md` through `ACT9-v0.1.md`.
+Important:
+The earlier `272/410 = 66.3%` target is **SUPERSEDED** for current v3 prewriting.
+The underlying secondary causal scenes are preserved; most are converted to mixed protagonist-present structures rather than removed.
 
-Each has corresponding:
-`docs/qa/V3-ACTN-EPISODE-BLUEPRINT-HOSTILE-QA-v0.1.md`.
+Ownership authority:
+- `docs/narrative-engineering/V3-POV-OWNERSHIP-DISTRIBUTION-v0.2-CANDIDATE.md`
+- `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+
+QA:
+`docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md = PASS / P0=0 / structural P1=0`.
+
+Act blueprint files remain:
+`docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md` through `ACT9-v0.1.md` for event/clue/relationship content.
+Where whole-episode ownership differs, POV v0.2 overlay controls.
 
 ---
 
@@ -164,8 +185,6 @@ Medical/science-corrected form:
 → ordinary birth/life.
 
 Do NOT write `a fetus stayed paused for centuries` as the primary model.
-
-Present-day embryo cryopreservation and partial animal extra-uterine fetal support are only limited scientific precedents; centuries storage and full embryo-to-term artificial gestation are explicit far-future SF assumptions.
 
 Medical QA:
 `docs/qa/V3-HUMAN1-MEDICAL-DEVELOPMENTAL-PLAUSIBILITY-PASS-v0.1.md`
@@ -299,8 +318,10 @@ Default direct per-episode context <=5:
 4. world/zone slice
 5. active device/relationship slice
 
+POV v0.2 note:
+For mixed episodes, context pack must include only the secondary scene slice actually used, not the full secondary-character bible plus full protagonist bible redundantly.
+
 Do not load entire repository for every episode.
-Do not create redundant 410 giant context files unless a future execution environment requires mechanical manifests.
 
 ---
 
@@ -311,6 +332,9 @@ Full-series regression:
 
 Final lock QA:
 `docs/qa/V3-PREWRITING-FINAL-LOCK-HOSTILE-QA-v0.1.md`
+
+POV recalibration QA:
+`docs/qa/V3-POV-REALLOCATION-HOSTILE-QA-v0.2.md`
 
 Result:
 # **V3 PREWRITING STRUCTURAL LOCK = PASS**
@@ -350,9 +374,6 @@ B. **promote v3 as official; preserve v2 + old EP001~010 as frozen historical ed
 C. v3 world/characters + old v2 230-Act hybrid — REJECT
 
 D. force old v2 EP001~010 into new v3 EP001~010 — REJECT
-
-Why B:
-v3 changes ontology, 9-Act macro, 410 pacing, protagonist role, reveal order, H-A/H-B mechanism, HUMAN meaning, rights and settlement. It is a new edition architecture, not a narrow amendment.
 
 No promotion has been performed yet.
 `canon/CANON_STATUS.md` remains v2 official.
