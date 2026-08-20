@@ -1,17 +1,22 @@
 ---
-id:DEEP-V3-EP023
-type:deep_projected_context
-episode:EP023
-router:CTX-V3-EP023
-schema:DEEP-CONTEXT-SCHEMA-v1
-context_kind:DEEP_PROJECTED
-projection_semantics:FORECAST_NOT_ACTUAL
-dynamic_actual:PENDING
-branch_state_namespace:H-A
-cross_branch_inheritance:BLOCKED_UNLESS_EXPLICIT
-microbundle_compile_cap:5
-source_snapshot:{protocol:v0.2,blueprint:EPISODE-BLUEPRINT-ACT1-v0.1,router:CTX-V3-EP023}
-stale_if_changed:[CTX-V3-EP023,EPISODE-BLUEPRINT-ACT1-v0.1,SA-V3-1B,BEAT-V3-B04]
+id: DEEP-V3-EP023
+type: deep_projected_context
+episode: EP023
+router: CTX-V3-EP023
+schema: DEEP-CONTEXT-SCHEMA-v1
+context_kind: DEEP_PROJECTED
+projection_semantics: FORECAST_NOT_ACTUAL
+dynamic_actual: PENDING
+branch_state_namespace: H-A
+cross_branch_inheritance: BLOCKED_UNLESS_EXPLICIT
+microbundle_compile_cap: 5
+act: ACT-V3-01
+volume: VOL-V3-01
+subact: SA-V3-1B
+beat: BEAT-V3-B04
+concurrency: NONE
+source_snapshot: router=CTX-V3-EP023; blueprint=docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md; mode=manual-body-preserved
+stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|character-role-matrix|relationship-network|asset-roster|reveal-router
 ---
 # DEEP-V3-EP023 — 너무 조심스러운 규칙
 Router:[[../contexts/CTX-V3-EP023]] · Blueprint:[[../../prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1#EP023 — 너무 조심스러운 규칙]]

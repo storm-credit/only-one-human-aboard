@@ -10,8 +10,13 @@ dynamic_actual: PENDING
 branch_state_namespace: H-A
 cross_branch_inheritance: BLOCKED_UNLESS_EXPLICIT
 microbundle_compile_cap: 5
-source_snapshot: {protocol: V3-ROLLING-EPISODE-CONTEXT-COMPILATION-PROTOCOL-v0.2, blueprint: EPISODE-BLUEPRINT-ACT1-v0.1, router: CTX-V3-EP010}
-stale_if_changed: [CTX-V3-EP010, EPISODE-BLUEPRINT-ACT1-v0.1, SA-V3-1A, BEAT-V3-B02, V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1, V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1]
+act: ACT-V3-01
+volume: VOL-V3-01
+subact: SA-V3-1A
+beat: BEAT-V3-B02
+concurrency: NONE
+source_snapshot: router=CTX-V3-EP010; blueprint=docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md; mode=manual-body-preserved
+stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|character-role-matrix|relationship-network|asset-roster|reveal-router
 ---
 # DEEP-V3-EP010 — 문을 열 수 있다고 해서 여는 사람은 아니다
 Router: [[../contexts/CTX-V3-EP010]] · Episode: [[../episodes/EP-V3-010]]

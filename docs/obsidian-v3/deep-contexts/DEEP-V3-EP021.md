@@ -1,17 +1,22 @@
 ---
-id:DEEP-V3-EP021
-type:deep_projected_context
-episode:EP021
-router:CTX-V3-EP021
-schema:DEEP-CONTEXT-SCHEMA-v1
-context_kind:DEEP_PROJECTED
-projection_semantics:FORECAST_NOT_ACTUAL
-dynamic_actual:PENDING
-branch_state_namespace:H-A
-cross_branch_inheritance:BLOCKED_UNLESS_EXPLICIT
-microbundle_compile_cap:5
-source_snapshot:{protocol:v0.2,blueprint:EPISODE-BLUEPRINT-ACT1-v0.1,router:CTX-V3-EP021}
-stale_if_changed:[CTX-V3-EP021,EPISODE-BLUEPRINT-ACT1-v0.1,SA-V3-1B,BEAT-V3-B03]
+id: DEEP-V3-EP021
+type: deep_projected_context
+episode: EP021
+router: CTX-V3-EP021
+schema: DEEP-CONTEXT-SCHEMA-v1
+context_kind: DEEP_PROJECTED
+projection_semantics: FORECAST_NOT_ACTUAL
+dynamic_actual: PENDING
+branch_state_namespace: H-A
+cross_branch_inheritance: BLOCKED_UNLESS_EXPLICIT
+microbundle_compile_cap: 5
+act: ACT-V3-01
+volume: VOL-V3-01
+subact: SA-V3-1B
+beat: BEAT-V3-B03
+concurrency: NONE
+source_snapshot: router=CTX-V3-EP021; blueprint=docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md; mode=manual-body-preserved
+stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|character-role-matrix|relationship-network|asset-roster|reveal-router
 ---
 # DEEP-V3-EP021 — 일하지 않는 시간
 Router:[[../contexts/CTX-V3-EP021]] · Blueprint:[[../../prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1#EP021 — 일하지 않는 시간]]

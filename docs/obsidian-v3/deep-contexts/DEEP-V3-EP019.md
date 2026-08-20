@@ -9,9 +9,14 @@ projection_semantics: FORECAST_NOT_ACTUAL
 dynamic_actual: PENDING
 branch_state_namespace: H-A
 cross_branch_inheritance: BLOCKED_UNLESS_EXPLICIT
-microbundle_compile_cap:5
-source_snapshot:{protocol:v0.2,blueprint:EPISODE-BLUEPRINT-ACT1-v0.1,router:CTX-V3-EP019}
-stale_if_changed:[CTX-V3-EP019,EPISODE-BLUEPRINT-ACT1-v0.1,SA-V3-1B,BEAT-V3-B03]
+microbundle_compile_cap: 5
+act: ACT-V3-01
+volume: VOL-V3-01
+subact: SA-V3-1B
+beat: BEAT-V3-B03
+concurrency: NONE
+source_snapshot: router=CTX-V3-EP019; blueprint=docs/prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1.md; mode=manual-body-preserved
+stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|character-role-matrix|relationship-network|asset-roster|reveal-router
 ---
 # DEEP-V3-EP019 — 배분표 밖의 사람들
 Router:[[../contexts/CTX-V3-EP019]] · Blueprint:[[../../prewriting-v3/EPISODE-BLUEPRINT-ACT1-v0.1#EP019 — 배분표 밖의 사람들]]
