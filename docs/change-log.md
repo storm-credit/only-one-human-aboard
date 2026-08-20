@@ -278,6 +278,40 @@
 
 ---
 
+## CHG-054 — V3 최종 집필 전 맹점 감사 + 라우팅/POV 우선순위 패치
+- Date: 2026-08-21
+- Change Location:
+  - `docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md` 신설
+  - `CLAUDE.md` §0.5 신설 (순수 가산) + §1 / §12 v2/v3 라인 구분 표기
+  - `canon/CANON_STATUS.md` V3 TRACK NOTICE 추가
+  - `docs/manuscript/MANUSCRIPT-STATUS.md` V3 TRACK NOTICE 추가
+  - `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md` §3.1 POV OWNERSHIP PRECEDENCE 신설
+- Trigger:
+  Claude(오케스트레이터) + Codex CLI(독립 적대 검수, 3회 분리 실행) 합동 게이트 감사.
+- Previous:
+  - **C-01 (P0)** — `CLAUDE.md` / `CANON_STATUS.md` / `MANUSCRIPT-STATUS.md` 에 v3 트랙 언급이 **0건**.
+    권위 1순위 문서가 신규 세션을 v2 EP011로 라우팅하고 v3로 가는 경로를 제공하지 않음.
+  - **C-02 (P1)** — `POV-OWNERSHIP-REALLOCATION-v0.2` 가 protagonist-owned로 판정하는 **47화**의
+    블루프린트 카드·Deep 사이드카가 여전히 조연 POV이며 `Do not reroute … through the protagonist` 를 지시.
+    CTX/DEEP 820노드 중 overlay 참조 **0건**.
+- New:
+  - v3 트랙 포인터 3곳 추가. `10 / 230` · `EP011` 을 v2 라인 한정으로 명시. v3 = `0 / 410` 미착수 명시.
+  - 47화 목록 + overlay가 부재로 유지하는 6화 + 재현 가능한 도출 방법을 명문화.
+    overlay 자체 선언의 집행이며 새 결정 아님.
+  - Codex 재검증 1차에서 초안 42화 목록이 오류로 REJECT됨(`Reason:` 산문의 부정 진술 오염).
+    §0 규칙 1 기준 차집합으로 재계산 → **47화**, 검산 272 + 47 = 319 일치. 수정 반영.
+- Canon 승격: **0**. Blueprint 카드 수정: **0**. Deep Context 노드 생성/수정: **0**.
+  주인공 이름 확정: **0**. 원고: **0**.
+- 감사 결과: P0 = 1 (해소) / P1 = 3 (2건 해소, 1건 작가 결정 대기) / P2 = 5 / Taste = 0.
+- 미해소 P1 = **D2 미스터리 실 전진 배치** (CHG-051에서 개방, 미실행).
+  v3 Act1 최초 clue PLANT = EP022 / 최초 미스터리 실(D05) bounded payoff = EP028 로
+  v2(프라이머 EP012 / 첫 이상징후 EP017)보다 늦어졌고,
+  `GENRE_ENGINE_RED_TEAM-v1` 의 "P1 NARRATIVE-ENGINE CORRECTION REQUIRED BEFORE PROSE" 판정이 미종결.
+  **작가 결정 사항이므로 감사자가 임의 처리하지 않음.**
+- Status: **`AUDIT COMPLETE / VERDICT = PATCH / ROUTING+POV PATCHED / D2 PENDING USER DECISION`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character authority:

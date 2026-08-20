@@ -8,6 +8,14 @@ Pipeline:
 Official rule:
 Only `manuscript/accepted/` + this ledger count as completed manuscript.
 
+> **V3 TRACK NOTICE.** 이 원장은 **v2 라인(7막 / 230화 / Maren·Amara) 전용**이다.
+> 아래 `10 / 230`, `EP011`, `EP001 Execution Contract`는 전부 v2 값이며 v3 회차에 사용하지 마라.
+> v3 후보 트랙(9막 / 410화 / 주인공 TBD)의 원고 라인은 **0 / 410**, 미착수이며
+> v3 Canon 승격 · 주인공 최종 이름 승인 · 명시적 Manuscript Start 3개 게이트 뒤에 있다.
+> v3 블루프린트는 `docs/prewriting-v3/EPISODE-BLUEPRINT-ACT{1..9}-v0.1.md`
+> (`docs/writing-ready/` 의 동명 파일은 v2다).
+> 라우팅: `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md` · `CLAUDE.md` §0.5.
+
 ---
 
 # Current Gate

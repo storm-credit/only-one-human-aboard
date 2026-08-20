@@ -19,9 +19,13 @@ Project: 《우주선에는 인간이 한 명뿐이다》
 - **`MANUSCRIPT = IN PROGRESS`**
 
 Accepted manuscript:
-**10 / 230** (EP001~010).
+**10 / 230** (EP001~010) — **v2 역사 라인**.
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
+
+> **V3 TRACK NOTICE.** 별도의 v3 후보 트랙(9막 / 410화)이 존재하며 아직 **승격되지 않았다**.
+> 공식 Canon은 여전히 v2 + Amendment A다. v3 원고 라인은 **0 / 410**, 미착수.
+> 라우팅: `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md` · `docs/NEXT-CHAT-HANDOFF.md` · `CLAUDE.md` §0.5.
 
 ---
 
