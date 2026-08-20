@@ -1,26 +1,15 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
 > Rolling handoff — 2026-08-20.
-> Active state: **STRUCTURAL PREWRITING PASS + IP/MATERIAL CANDIDATE FREEZE PASS + REFERENCE/PRE-CONCEPT PASS + COLLECTIBILITY ROSTER PASS + VISUAL PRODUCTION SYSTEM DOC-READY**.
+> Active state: **STRUCTURAL PREWRITING PASS + IP/MATERIAL/COLLECTIBILITY PASS + CHARACTER/64-ASSET→9-ACT INTEGRATION PASS + VISUAL PRODUCTION DOC-READY**.
 > EP001~410 blueprint materialization COMPLETE.
 > POV: protagonist-owned **319/410 = 77.8%**, protagonist-present **386/410 = 94.1%**, fully absent **24/410 = 5.9%**.
-> Reference research is CLOSED.
-> Collectibility scope is exact: **64 base / 28 variants / 92 initial internal catalog / 96 hard ceiling**.
-> Visual production is now **document-first**; actual visual differentiation remains OPEN and targeted.
 > Official v2 Canon + accepted v2 EP001~010 remain preserved until explicit v3 promotion.
 > Generic continuation does not authorize prose or Canon promotion.
 
 ---
 
 # 0. New-chat recovery order
-
-Do NOT redesign from scratch.
-Do NOT ask user to paste previous work.
-Do NOT draft prose from generic `진행/이어서`.
-Do NOT silently promote v3.
-Do NOT restart broad reference hunting without an empirical visual failure.
-Do NOT expand collectibility beyond the 64-base roster because another attractive image appears.
-Do NOT mass-generate images by default.
 
 Repository:
 `storm-credit/only-one-human-aboard`
@@ -30,278 +19,193 @@ Read first:
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
-5. **`docs/visual-production-v3/V3-VISUAL-PRODUCTION-BIBLE-v0.1.md`**
-6. **`docs/visual-production-v3/V3-IMAGE-GENERATION-PROMPT-PACK-v0.1.md`**
-7. **`docs/visual-production-v3/V3-VISUAL-ASSET-MANIFEST-v0.1.md`**
-8. **`docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`**
-9. `docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`
-10. `docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`
-11. `docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`
-12. `docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
-13. `docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
-14. `docs/reference-v3/V3-ORIGINAL-MERIDIAN-SYNTHESIS-BOARDS-v0.1.md`
-15. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
-16. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
-17. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
-18. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
-19. `canon/CANON_STATUS.md` only to remember official status is still v2.
+5. `docs/prewriting-v3/V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`
+6. `docs/prewriting-v3/V3-ASSET-ACT-LIFECYCLE-MATRIX-v0.1.md`
+7. `docs/prewriting-v3/V3-ACT-TO-ASSET-DEPLOYMENT-OVERLAY-v0.1.md`
+8. `docs/prewriting-v3/V3-ACT-ASSET-CONTEXT-PACK-PATCH-v0.1.md`
+9. `docs/qa/V3-ACT-ASSET-INTEGRATION-HOSTILE-QA-v0.1.md`
+10. `docs/visual-production-v3/V3-VISUAL-PRODUCTION-INDEX-v0.1.md`
+11. `docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`
+12. `docs/prewriting-v3/V3-COLLECTION-EXACT-EPISODE-RETURN-OVERLAY-v0.1.md`
+13. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
+14. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+15. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
+16. `canon/CANON_STATUS.md` only to confirm official status is still v2.
 
-Read Act-specific blueprint/QA only as needed.
+Do NOT:
+- redesign from scratch,
+- ask user to repaste state,
+- draft prose from generic `진행/이어서`,
+- silently promote v3,
+- restart broad reference hunting,
+- expand collectibility beyond 64 base merely because a new design looks cool,
+- load all 64 assets into one episode context.
 
 ---
 
-# 1. Completion boundary
+# 1. Current completion boundary
 
 ## Story / prewriting
-**PASS**
-- 9 Acts / 410 episode cards,
-- all Act hostile QAs,
-- full-series regression,
-- hard-science boundaries,
-- HUMAN medical/development boundary,
-- targeted scene-risk patches,
-- protagonist-heavy POV recalibration.
+PASS.
+- 9 Acts / 410 cards,
+- current POV recalibration,
+- hostile QAs,
+- science/HUMAN/timeline gates,
+- targeted scene-risk patches.
 
-## IP / visual / material deep design
-**CANDIDATE FREEZE PASS**
-- core cast visual/material rules,
-- civilian material culture,
-- machine/craft/equipment ecology,
-- Outer Ark topology/maintenance,
-- background art direction,
-- destination material direction,
-- 15 exact narrative collection/recognition chains.
+## IP / visual / material / collectibility
+PASS at design/pre-art level.
+- 64 base asset families,
+- SIGNATURE 16 / RECURRING 24 / WORLD-DEPTH 24,
+- 28 meaningful variant slots,
+- internal design catalog target 92,
+- hard ceiling 96,
+- exact 15 narrative return chains.
 
 ## Reference research
-# **PASS / CLOSED**
+PASS / CLOSED for broad collection.
+Reopen only for a specific empirical visual failure.
 
-No more broad reference hunting unless a real visual QA failure proves a gap.
+## Character / asset → Act integration
+# **PASS**
 
-## Exact collectibility roster
-# **PASS / TARGETED CANDIDATE FREEZE**
+Authorities:
+- `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`
+- `V3-ASSET-ACT-LIFECYCLE-MATRIX-v0.1.md`
+- `V3-ACT-TO-ASSET-DEPLOYMENT-OVERLAY-v0.1.md`
+- `V3-ACT-ASSET-CONTEXT-PACK-PATCH-v0.1.md`
+- `V3-ACT-ASSET-INTEGRATION-HOSTILE-QA-v0.1.md`
 
-Exact scope:
-- base assets **64**,
-  - characters **13**,
-  - machine/craft/vehicle families **15**,
-  - professional/personal props **12**,
-  - places/landmarks **12**,
-  - in-world collection/material-culture families **12**,
-- tiers **SIGNATURE 16 / RECURRING 24 / WORLD-DEPTH 24**,
-- variants **28**,
-- internal catalog target **92**,
-- reserve **+4 only if empirical need**,
-- hard ceiling **96**.
-
-Important:
-- H01~H16 = separate narrative HIGH-memory return anchors,
-- 64 roster = wider visual/IP depth,
-- readers never need to memorize all 64.
-
-Naming-load cap for the 51 non-character families:
-- stable recurring labels **<=20**,
-- invented proper/model/manufacturer terms **<=6**,
-- function/context/artbook-only assets **>=31**.
+Current result:
+- 13/13 recurring character identities mapped across Acts1~9,
+- 64/64 base asset families mapped to INTRODUCE/RECOGNIZE/RECONTEXTUALIZE/TRANSFORM/PERSIST/HOLD/NO-CHEKHOV/OFFSTAGE states,
+- each Act has active pools, reveal holds, transformation rules and failure conditions,
+- exact C01~C15 return chains remain episode-level authority,
+- other assets are NOT forced into payoffs.
 
 ---
 
-# 2. Visual production system — CURRENT ACTIVE ROUTE
+# 2. Act execution identity
 
-Visual production is no longer `generate lots of images`.
+## Act1
+Attachment/encounter.
+Material world must feel lived before mystery.
 
-It is:
-# **SPEC → PROMPT → MINIMUM SAMPLE → QA → REVISE/PASS → EXPAND**
+## Act2
+Familiar systems under failure.
+Reuse > emergency gadget introduction.
 
-Current authorities:
-- `docs/visual-production-v3/V3-VISUAL-PRODUCTION-BIBLE-v0.1.md`
-- `docs/visual-production-v3/V3-IMAGE-GENERATION-PROMPT-PACK-v0.1.md`
-- `docs/visual-production-v3/V3-VISUAL-ASSET-MANIFEST-v0.1.md`
-- `docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`
+## Act3
+Wrong familiarity.
+Only 3~5 meaningful material/social deltas; no alternate-skin universe.
 
-The 92 internal catalog target is NOT an immediate image-generation queue.
-Only generate an image when a concrete visual question needs empirical proof.
+## Act4
+Same assets behave differently because rumor/prediction changes society.
 
----
+## Act5
+Provenance must cause present action/rights/safety consequences.
+No archive tour or relic hunt.
 
-# 3. Current visual style calibration
+## Act6
+Transformation-heavy / near-zero novelty.
+Neutral corridor remains outside protagonist ownership.
 
-Current main direction:
-# **2D SEMI-REAL ANIMATION / GAME-CONCEPT HYBRID**
+## Act7
+Outer Ark appears as one functional maintenance ecology.
+Do not imply experienced Meridian was fake.
 
-Rejected as default:
-- photoreal portraits,
-- excessive skin pore/wrinkle detail,
-- over-aged 30s characters,
-- universal anime pretty-face template.
+## Act8
+Rights/care/current persons > gadgets.
+HUMAN:1 is not collectible-character logic.
 
-Protagonist recent sample history:
-- photoreal older-worker prototype = **DISCARD**
-- Proposal A = **KEEP AS STYLE CALIBRATION**
-- Proposal C = **KEEP AS STYLE CALIBRATION**
-
-Current synthesis target:
-# **A의 정돈감 + C의 현장성**
-
-Not frozen:
-- exact protagonist face,
-- ethnicity/nationality,
-- final hair,
-- final palette,
-- final name.
-
-User explicitly said protagonist does NOT need to be Korean or East Asian.
-Do not default to ethnicity based on prior sample.
+## Act9
+Descendants/inherited standards > novelty.
+M15 settlement field rig is main completion asset.
+Do not make final Act a toy catalog or tourism montage.
 
 ---
 
-# 4. Character same-face control
+# 3. Minimum Action context rule
 
-Authority:
-`docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
+A real episode still gets max **5 direct context items**:
+1. Episode Card
+2. Immediate Continuity
+3. POV/Relationship Microbundle
+4. World/Zone/Material Microbundle
+5. Active Narrative Device/Return Microbundle
 
-Highest-risk first test:
-# **C01 Protagonist / C13 Arun / C07 Gideon / C11 Ivo**
+The 13-character matrix, 64-asset matrix and Act pools are ROUTERS only.
+They are not loaded wholesale into scene drafting.
 
-Required neutral comparison:
-- same background/light,
-- grayscale or neutral color,
-- same simple clothing,
-- hair styling minimized,
-- front / 3/4 / side,
-- small silhouette,
-- pairwise confusion.
-
-Hair/color/clothing cannot rescue failed faces.
-
-Protagonist specific:
-- apparent age 37~39,
-- active adult field-specialist energy,
-- no 45+ read,
-- no photoreal actor portrait,
-- no idol-young read,
-- ethnicity not fixed.
+This was a real integration P1 found and patched.
+Current integration P1 = 0.
 
 ---
 
-# 5. Machine differentiation control
+# 4. Visual production state
 
-First test:
-# **M01 Structural Crawler / M02 Mapping Drone / M03 Utility Tug / M04 Rescue Skiff**
+Visual Production system is DOC-READY.
+Mass image generation is NOT default.
 
-No color/logo dependence.
-Function must produce silhouette:
-- crawler = attachment/access,
-- mapping drone = sensor viewpoint,
-- tug = load/coupling,
-- rescue skiff = casualty access.
+Current calibration:
+- old photoreal/too-old worker sample = discard,
+- Proposal A/C = style calibration only,
+- synthesis = `A의 정돈감 + C의 현장성`,
+- exact protagonist face/ethnicity/name/palette not frozen,
+- user explicitly does not require protagonist to be Korean/East Asian.
 
-No fighter nose, hero cockpit, weapons, humanoid battle-mecha drift.
-
----
-
-# 6. Environment recognition control
-
-First test:
-# **L01 Transfer / L02 Midring / L03 Garden / L04 Med / L05 Old Works**
-
-Must remain recognizably different through geometry/use/material-age while reading as one Meridian civilization.
-
-No game-biome palette coding.
-No all-metal-corridor collapse.
+Use image generation only for concrete empirical QA:
+- same-face,
+- same-machine,
+- same-corridor,
+- actual collectibility desirability.
 
 ---
 
-# 7. Visual production milestones
+# 5. Naming state
 
-## VP-M1
-13 empirical test subjects:
-- 4 characters,
-- 4 machines,
-- 5 environments.
+Protagonist final name: **TBD**.
 
-These are **test subjects**, not a command to generate all 13 at once.
-Generate only the minimum batch needed for the current QA question.
+Do not re-freeze:
+- Rowan Han,
+- 카일 한,
+- fixed surname Han,
+- 다니엘 마레크.
 
-## VP-M2
-After VP-M1 passes:
-stable identity plates for SIGNATURE 16.
-
-SIGNATURE 16:
-- C01, C02, C08, C13
-- M01, M03, M04, M15
-- P01, P02, P04, P05
-- L01, L03, L05, L10
-
-Only after VP-M2:
-- cinematic key art,
-- cover art direction,
-- final palette family
-may proceed.
+Korean prose rule after selection:
+one stable primary reader-facing call name.
+Do not casually alternate given name/surname enough to feel like two people.
 
 ---
 
-# 8. Destination respiratory correction
+# 6. Official Canon / prose boundary
 
-Authority:
-`docs/design-v3/V3-DESTINATION-RESPIRATORY-SUPPORT-REPAIR-v0.1.md`
+Official:
+v2 + Amendment A.
 
-Current destination has near-compatible total pressure but oxygen-poor atmosphere.
-Therefore:
-- filter-only mask = REJECT,
-- outdoors = supplemental breathing gas/oxygen enrichment + monitoring,
-- contaminant filtration separate/optional,
-- long-range work may use larger/semi-closed support,
-- processed indoor spaces are breathable,
-- no full pressure-suit default.
+v3:
+Candidate only; promotion recommended but NOT executed.
+
+Prose:
+NOT authorized by generic continuation.
 
 ---
 
-# 9. Protagonist naming state
+# 7. Generic continuation from here
 
-Final full name:
-# **TBD**
+The broad deep-design gaps that the user asked about are now mapped to Acts.
 
-Do NOT re-freeze `다니엘 마레크`.
-Do NOT return to fixed `한` surname.
+Generic `진행/이어서` should therefore select the smallest unresolved high-value task:
+1. C2 final naming/tone closure,
+2. tool-specific image-prompt adapter if the user chooses an image tool,
+3. minimal empirical visual QA if a concrete collision needs proof,
+4. Canon promotion only after explicit user authorization.
 
-After final naming:
-fix one primary Korean reader-facing call name.
-Do not alternate first name/surname casually enough to feel like two people.
-
-Name work remains C2 and may resume alongside later visual QA, but current generic continuation prioritizes production documents/specs rather than image generation.
+Do not reopen broad story/world/IP brainstorming without a demonstrated regression.
 
 ---
 
-# 10. Current next step
+# 8. Context protection
 
-Generic `진행/이어서` should now mean:
-
-1. continue refining exact Identity Locks for C01/C13/C07/C11,
-2. then exact machine Identity Locks for M01~M04,
-3. then exact environment Identity Locks for L01~L05,
-4. prepare tool-specific prompt adapters only when a chosen image tool requires them,
-5. generate only minimal samples for a concrete QA question,
-6. log results into `V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`,
-7. later return to protagonist name/C2 and Canon promotion.
-
-Do NOT start prose automatically.
-Do NOT silently promote Canon.
-Do NOT mass-generate visual assets automatically.
-Do NOT add new collectible families without a demonstrated gap.
-
----
-
-# 11. Official status
-
-Official v2 remains frozen/official.
-v3 promotion is still recommended only, not executed.
-
-Promotion package:
-`docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`.
-
----
-
-# 12. Context protection
-
-Before context becomes unreliable, update this file and `docs/current-work-status.md` again.
-Never ask user to paste state that GitHub can recover.
+Before context becomes unreliable, update this file and `docs/current-work-status.md`.
+Never ask the user to paste state that GitHub can recover.
