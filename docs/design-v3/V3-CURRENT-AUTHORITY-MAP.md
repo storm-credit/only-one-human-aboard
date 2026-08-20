@@ -6,7 +6,7 @@ Project: 《우주선에는 인간이 한 명뿐이다》
 
 Critical distinction:
 - **Official Canon remains v2 + Amendment A until explicit v3 promotion.**
-- This map controls current v3 candidate/prewriting/IP/reference work only.
+- This map controls current v3 candidate/prewriting/IP/reference/visual-production work only.
 - Generic `진행/이어서` does NOT authorize Canon promotion or prose.
 
 ---
@@ -18,6 +18,10 @@ Read first:
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
+5. `docs/visual-production-v3/V3-VISUAL-PRODUCTION-BIBLE-v0.1.md`
+6. `docs/visual-production-v3/V3-IMAGE-GENERATION-PROMPT-PACK-v0.1.md`
+7. `docs/visual-production-v3/V3-VISUAL-ASSET-MANIFEST-v0.1.md`
+8. `docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`
 
 Major gate records:
 - `docs/design-v3/V3-DEEP-COMPLETION-WORKFLOW-v0.1.md`
@@ -28,6 +32,7 @@ Major gate records:
 - `docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
 - `docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
 - `docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`
+- `docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`
 
 ---
 
@@ -123,7 +128,14 @@ Protagonist:
 - final full name **TBD**.
 
 `Rowan Han`, `카일 한`, fixed surname Han and `다니엘 마레크` are NOT frozen current names.
-After final naming, Korean prose must fix one primary reader-facing call name; do not casually alternate given name and surname as if they were separate people.
+After final naming, Korean prose must fix one primary reader-facing call name.
+
+Current visual calibration only:
+- 2D semi-real,
+- apparent 37~39,
+- Proposal A/C survive as style references only,
+- synthesis target = A의 정돈감 + C의 현장성,
+- exact face/ethnicity/nationality/hair/palette NOT frozen.
 
 ---
 
@@ -183,11 +195,6 @@ Closure QA:
 
 Exact scope:
 - **64 base asset families**,
-  - 13 character visual identities,
-  - 15 machine/craft/vehicle families,
-  - 12 professional/personal prop families,
-  - 12 place/landmark families,
-  - 12 in-world collection/material-culture families,
 - production tiers = **SIGNATURE 16 / RECURRING 24 / WORLD-DEPTH 24**,
 - meaningful variant slots = **28**,
 - initial internal catalog target = **92**,
@@ -204,7 +211,6 @@ Naming budget for 51 non-character families:
 - function/context/artbook-only assets **>=31**.
 
 Collectibility roster P0 = 0 / P1 = 0.
-Do not expand the roster simply because a new reference image is attractive.
 
 ---
 
@@ -213,32 +219,19 @@ Do not expand the roster simply because a new reference image is attractive.
 Current master:
 # **`docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`**
 
-Current source ledger:
-`docs/reference-v3/V3-REFERENCE-ASSET-LEDGER-v0.2.md`
-
-Differentiation matrix:
-`docs/reference-v3/V3-VISUAL-DIFFERENTIATION-MATRIX-v0.1.md`
-
-Round2 brainstorm/synthesis:
-`docs/reference-v3/V3-REFERENCE-COLLECTION-ROUND2-SYNTHESIS-v0.1.md`
-
-Gap closure:
-`docs/reference-v3/V3-REFERENCE-GAP-CLOSURE-DOMESTIC-MED-PPE-v0.1.md`
-
-Core cast morphology:
-`docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
-
-Original Meridian-native synthesis:
-`docs/reference-v3/V3-ORIGINAL-MERIDIAN-SYNTHESIS-BOARDS-v0.1.md`
+Supporting:
+- `docs/reference-v3/V3-REFERENCE-ASSET-LEDGER-v0.2.md`
+- `docs/reference-v3/V3-VISUAL-DIFFERENTIATION-MATRIX-v0.1.md`
+- `docs/reference-v3/V3-REFERENCE-COLLECTION-ROUND2-SYNTHESIS-v0.1.md`
+- `docs/reference-v3/V3-REFERENCE-GAP-CLOSURE-DOMESTIC-MED-PPE-v0.1.md`
+- `docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
+- `docs/reference-v3/V3-ORIGINAL-MERIDIAN-SYNTHESIS-BOARDS-v0.1.md`
 
 Final closure QA:
 # **`docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`**
 
 Current verdict:
-- reference methodology PASS,
 - reference collection sufficient for pre-concept PASS,
-- reference P0 = 0,
-- reference P1 requiring broad collection = 0,
 - broad reference brainstorming STOP,
 - actual art differentiation NOT YET PROVEN.
 
@@ -251,8 +244,6 @@ Only reopen reference research for a specific failure exposed by empirical conce
 Current overlay:
 **`docs/design-v3/V3-DESTINATION-RESPIRATORY-SUPPORT-REPAIR-v0.1.md`**
 
-Supersedes any implication that filter-only masks solve low oxygen.
-
 Current rule:
 - outdoor default: supplemental breathing gas + monitoring,
 - contaminant filtration separate/optional by hazard,
@@ -262,35 +253,40 @@ Current rule:
 
 ---
 
-# 9. Next active phase — Visual Execution QA
+# 9. Visual production authority — CURRENT EXECUTION ROUTE
 
-Reference collection and collectibility-roster design are no longer next.
+Visual production is now **document-first**.
 
-## V-A Character confusion test
-First batch:
-**protagonist / Arun / Gideon / Ivo**
+Current authorities:
+# **`docs/visual-production-v3/V3-VISUAL-PRODUCTION-BIBLE-v0.1.md`**
+# **`docs/visual-production-v3/V3-IMAGE-GENERATION-PROMPT-PACK-v0.1.md`**
+# **`docs/visual-production-v3/V3-VISUAL-ASSET-MANIFEST-v0.1.md`**
+# **`docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`**
 
-Test in neutral identical presentation:
-- grayscale,
-- same neutral clothing,
-- hair/head-cover neutralized,
-- front / 3-4 / side,
-- 64px silhouette,
-- pairwise confusion.
+Production loop:
+`SPEC → PROMPT → MINIMUM SAMPLE → QA → REVISE/PASS → EXPAND`
 
-## V-B Machine confusion test
-First batch:
-**structural crawler / mapping drone / utility tug / rescue skiff**
+Do NOT default to mass image generation.
+The 92 catalog target is an internal design scope, not an immediate generation queue.
 
-No color/livery dependence.
+## VP-M1
+Empirical QA set = 13 subjects:
+- C01/C13/C07/C11 characters,
+- M01/M02/M03/M04 machines,
+- L01/L02/L03/L04/L05 environments.
 
-## V-C Environment recognition test
-First batch:
-**Transfer / Midring / Garden / Med / Old Works**
+These 13 are not automatically generated together.
+Generate only the smallest sample required to answer the current visual question.
 
-Must read as different spaces AND one civilization.
+## VP-M2
+After VP-M1 passes:
+freeze stable identity plates for SIGNATURE 16.
 
-Only after these pass should final cinematic key art / final character sheets / palette Freeze proceed.
+Only after VP-M2:
+- cinematic key art,
+- cover art direction,
+- final palette families
+may proceed.
 
 ---
 
@@ -319,6 +315,8 @@ No prose from generic continuation.
 # **IP/MATERIAL CANDIDATE FREEZE PASS**
 # **REFERENCE/PRE-CONCEPT RESEARCH PASS / CLOSED**
 # **COLLECTIBILITY MASTER ROSTER 64/28/92 = PASS / CLOSED**
-# **VISUAL EXECUTION EMPIRICAL QA = NEXT / OPEN**
+# **VISUAL PRODUCTION SYSTEM = DOC-READY**
+# **EMPIRICAL VISUAL DIFFERENTIATION = OPEN / TARGETED ONLY**
 
+Generic continuation should prioritize documentation/spec refinement and only generate images for a concrete QA need.
 Do not return to broad story/world/reference/collectibility brainstorming unless a concrete regression appears.
