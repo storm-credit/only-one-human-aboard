@@ -6,7 +6,7 @@
 
 # **OFFICIAL ACTIVE CANON = v3 — 9 Acts / 410 episodes. PROMOTED 2026-08-21.**
 # **PROTAGONIST = 루카스 켈러 / Lukas Keller — call-name `루카스`. APPROVED.**
-# **ACTIVE v3 MANUSCRIPT = 0 / 410 — NOT STARTED.**
+# **ACTIVE v3 MANUSCRIPT = 1 / 410 — EP001 ACCEPTED.**
 # **HISTORICAL v2 MANUSCRIPT = 10 / 230 — FROZEN, PRESERVED, CLOSED.**
 
 Do not rebuild anything. Do not re-derive design. Do not ask the user to repaste state.
@@ -41,7 +41,9 @@ For an episode: `exact Blueprint → CTX router → Deep sidecar → max-5 paylo
 | audit I-01 (P1) EP280~290 반복 공식 | **해소** — EP288 / EP290 재배치 |
 | audit J-01 (P2) Act9 임신 시계 | **해소** — LOCKED, Timeline gate CLOSED |
 
-**Remaining gate: explicit user Manuscript Start instruction. 그 외 없음.**
+**Manuscript Start executed 2026-08-21. Next: EP002, on explicit user instruction.**
+
+Before EP002 read `docs/manuscript/qa/V3-EP001-QA.md` §7 (nine carry-forward items).
 
 ---
 

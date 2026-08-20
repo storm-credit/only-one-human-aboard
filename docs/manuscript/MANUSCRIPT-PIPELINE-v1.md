@@ -29,17 +29,24 @@ May later be revised without reopening Canon if facts/functions stay unchanged.
 
 # 2. Paths
 
-## Work
-`manuscript/_work/actXX/EPXXX.md`
+**Two editions live side by side. The v2 tree is frozen; never write into it.**
 
-## Accepted
-`manuscript/accepted/actXX/EPXXX.md`
+## Active — v3 (9 Acts / 410 episodes)
+- Work: `manuscript/v3/_work/actXX/EPXXX.md`
+- Accepted: `manuscript/v3/accepted/actXX/EPXXX.md`
+- Episode QA: `docs/manuscript/qa/V3-EPXXX-QA.md`
 
-## Status Ledger
+## Frozen — v2 (7 Acts / 230 episodes)
+- Work: `manuscript/_work/actXX/EPXXX.md`
+- Accepted: `manuscript/accepted/actXX/EPXXX.md`
+- Episode QA: `docs/manuscript/qa/EPXXX-QA.md`
+
+Reason for the split: both editions number episodes from EP001, so a shared tree would have
+v3 EP001 overwrite the accepted v2 EP001. v2 files were **not moved** — moving them would break
+existing QA and change-record references. The v3 line simply gets its own subtree (CHG-055).
+
+## Status Ledger (shared, both lines)
 `docs/manuscript/MANUSCRIPT-STATUS.md`
-
-## Episode QA
-`docs/manuscript/qa/EPXXX-QA.md`
 
 ## Batch QA
 `docs/manuscript/qa/BATCH-EPXXX-XXX.md`

@@ -334,6 +334,31 @@
 
 ---
 
+## CHG-056 — v3 EP001 집필 시작 + 승인 (1 / 410)
+- Date: 2026-08-21
+- Change Location:
+  - `manuscript/v3/_work/act01/EP001.md` / `manuscript/v3/accepted/act01/EP001.md` 신설
+  - `docs/manuscript/qa/V3-EP001-QA.md` 신설
+  - `docs/manuscript/MANUSCRIPT-STATUS.md` 0/410 → **1/410**
+  - `docs/manuscript/MANUSCRIPT-PIPELINE-v1.md` §2 경로 분리 명문화
+- Trigger: 사용자의 명시적 Manuscript Start 지시.
+- **경로 분리(중요):** v2·v3 둘 다 EP001부터 번호를 매기므로 트리를 공유하면
+  v3 EP001이 승인된 v2 EP001을 덮어쓴다. v2 파일은 **이동하지 않았다**(기존 QA/변경기록 참조가 깨짐).
+  v3는 `manuscript/v3/` 하위 트리를 새로 쓴다. v2 트리는 **쓰기 금지**.
+- QA: 읽기 전용 `episode-qa` 에이전트, 백지 상태 2회 독립 심사.
+  - r1 **REPAIR** — 필수 수정 10건. 하드 펜스(Clue NONE / ordinary_event_guard / 리빌 금지 /
+    POV / 권한 한계 / 용어 예산)는 1차부터 전부 통과, 블루프린트 9개 필드 전부 이행.
+    결함은 전부 문장 수준: 기디언 현자화, EP007 관계 비트 조기 소진, 인물 소개 dossier 2건,
+    볼트/접합부 기술 오류, 훅이 EP002와 다른 부서 지시, 종결부 서술자 요약, 존댓말 불일치,
+    서술자 회피성 은닉, `선체` 누락(우주선임이 드러나지 않음), M10 계량 위반 4종.
+  - r2 **PASS** — 10/10 반영 확인, 계량 5종 전부 상한 내 재계수.
+  - r3 — 승격 커밋에서 staging 중복 1건 + register drift 1건 수정.
+- 핵심 진단(EP002~ 이월): **"서술자가 이 화에서 제일 약한 인물"**. 서술 문장 12개 제거 후 등급 상승.
+- 설계/Canon/Blueprint/POV/Reveal 변경: **0**. v2 파일 변경: **0**.
+- Status: **`EP001 ACCEPTED / v3 1 of 410 / EP002 대기(사용자 지시 필요)`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character/narrative authority (**v3, promoted 2026-08-21**):
@@ -359,6 +384,6 @@ C2 refinement inside frozen ranges is allowed, but recurring/clue-bearing/causal
 promoted/logged before manuscript acceptance.
 
 Current manuscript state:
-**`NOT STARTED`** — active v3 **0 / 410**; historical v2 **10 / 230** frozen.
+**`IN PROGRESS`** — active v3 **1 / 410** (EP001 accepted); historical v2 **10 / 230** frozen.
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.

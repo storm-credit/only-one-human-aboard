@@ -17,7 +17,7 @@ Authorizing audit: `docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md`.
 
 Protagonist final name: **루카스 켈러 / Lukas Keller** — APPROVED 2026-08-21.
 
-Active v3 manuscript: **0 / 410** — NOT STARTED.
+Active v3 manuscript: **1 / 410** — IN PROGRESS (EP001 accepted 2026-08-21, CHG-056).
 Historical v2 manuscript: **10 / 230** — preserved, frozen, not part of the v3 line.
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
@@ -36,10 +36,9 @@ Historical v2 manuscript: **10 / 230** — preserved, frozen, not part of the v3
 - `FINAL PRE-MANUSCRIPT BLIND-SPOT AUDIT = PATCH → 해소`
 - **`V3 CANON PROMOTION = EXECUTED — 2026-08-21`**
 - **`PROTAGONIST FINAL NAME = APPROVED — 루카스 켈러`**
-- **`MANUSCRIPT = NOT STARTED (0 / 410)`**
+- **`MANUSCRIPT = IN PROGRESS (1 / 410)`**
 
-Remaining gate:
-**explicit user Manuscript Start instruction.** 그 외 게이트는 모두 닫혔다.
+All gates are closed. Each further episode still requires an explicit user drafting instruction.
 
 Optional, non-blocking:
 empirical visual differentiation QA before final-art freeze.

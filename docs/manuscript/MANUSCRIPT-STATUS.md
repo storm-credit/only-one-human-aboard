@@ -12,7 +12,11 @@ Only `manuscript/accepted/` + this ledger count as completed manuscript.
 # 0. TWO LINES — DO NOT MIX
 
 ## Active line — v3 (9 Acts / 410 episodes)
-# **0 / 410 — NOT STARTED**
+# **1 / 410 — IN PROGRESS**
+
+Paths: `manuscript/v3/_work/actXX/` → `manuscript/v3/accepted/actXX/`.
+The v2 tree at `manuscript/_work/` + `manuscript/accepted/` is **frozen — never write into it.**
+Both editions number from EP001, so the trees are deliberately separate (CHG-055).
 
 Official Canon since **2026-08-21** (`docs/change-control/CHG-055-V3-CANON-PROMOTION.md`).
 Protagonist: **루카스 켈러**, reader-facing call-name `루카스`.
@@ -33,18 +37,17 @@ Do **not** carry them into the v3 line, and do not treat v2 reveal locks
 - `EP001~410 BLUEPRINT = 410 / 410`
 - `DEEP PROJECTED CONTEXT = 410 / 410 / P0=0 / P1=0`
 - `FINAL PRE-MANUSCRIPT BLIND-SPOT AUDIT = PATCH → 해소`
-- **`MANUSCRIPT DRAFTING = NOT STARTED`**
+- **`MANUSCRIPT DRAFTING = IN PROGRESS`** — started 2026-08-21 on explicit user instruction
 
-Remaining gate:
-# **explicit user Manuscript Start instruction**
+Next eligible episode: **EP002 — 원인은 한 칸 앞에 있다**
 
-A generic `이어서/진행` does **not** authorize prose.
+A generic `이어서/진행` still does **not** authorize the next episode.
 
 ---
 
 # 2. CURRENT SUMMARY — v3 ACTIVE LINE
 
-- Accepted: **0 / 410**
+- Accepted: **1 / 410**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -52,8 +55,13 @@ A generic `이어서/진행` does **not** authorize prose.
 - Recheck Required: **0**
 - Published: **0**
 
-First eligible v3 episode:
-# **EP001 — 오래된 진동**
+## Accepted episodes
+- **EP001 — 오래된 진동** — 루카스 POV — QA `PASS` (`docs/manuscript/qa/V3-EP001-QA.md`) — 2026-08-21
+  - r1 `REPAIR` (10 required repairs) → r2 `PASS` → r3 staging/register fixes at promotion.
+  - Clue `NONE` honored; 0 new stable terminology labels; all 9 blueprint card fields delivered.
+
+Next eligible v3 episode:
+# **EP002 — 원인은 한 칸 앞에 있다**
 
 ---
 
@@ -61,7 +69,7 @@ First eligible v3 episode:
 
 | Act | Episodes | Count | Accepted | State |
 |---|---|---:|---:|---|
-| Act1 우리가 살던 메리디언 | EP001~042 | 42 | 0 | NEXT |
+| Act1 우리가 살던 메리디언 | EP001~042 | 42 | **1** | IN_PROGRESS |
 | Act2 닫힌 구획 | EP043~094 | 52 | 0 | LOCKED_FUTURE |
 | Act3 같은 아침이 아니다 | EP095~136 | 42 | 0 | LOCKED_FUTURE |
 | Act4 미래를 안다고 믿는 사람들 | EP137~181 | 45 | 0 | LOCKED_FUTURE |
@@ -70,7 +78,7 @@ First eligible v3 episode:
 | Act7 셀 수 없는 삶 | EP280~327 | 48 | 0 | LOCKED_FUTURE |
 | Act8 한 명과 수많은 사람 | EP328~370 | 43 | 0 | LOCKED_FUTURE |
 | Act9 처음 가는 곳 | EP371~410 | 40 | 0 | LOCKED_FUTURE |
-| **Total** | **EP001~410** | **410** | **0** | |
+| **Total** | **EP001~410** | **410** | **1** | |
 
 `LOCKED_FUTURE` = designed and Canon-locked, but not the next manuscript episode.
 
@@ -143,6 +151,10 @@ Draft가 이 파이프라인을 통과해야만 Accepted로 계상된다.
 # 7. NEXT ACTION
 
 Eligible next action:
-**v3 EP001 manuscript execution** — requires a new explicit user instruction.
+**v3 EP002 manuscript execution** — requires a new explicit user instruction.
 
-# `NOT STARTED / 0 of 410`
+Before drafting EP002, read `docs/manuscript/qa/V3-EP001-QA.md` §7 — nine carry-forward P2 items,
+including three hard ones: do **not** open on the not-X-but-Y cadence, use a **different** ending
+device, and stage the Old Works diagnostics base that EP001 left unrealized.
+
+# `IN PROGRESS / 1 of 410`
