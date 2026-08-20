@@ -18,11 +18,14 @@ Hard budget:
 - decorative invented proper/model/manufacturer terms <= 6,
 - function/context/artbook-only assets >= 31.
 
+Hostile-QA patch:
+Do NOT fill the cap by default. Keep one reserve slot for a genuinely necessary recurring term discovered during prose/visual execution.
+
 ---
 
-# 1. Selected stable 20 — candidate
+# 1. Selected stable 19 + reserve 1 — candidate
 
-These are the ONLY non-character labels currently authorized for repeated reader-facing familiarity by default.
+These are the non-character labels currently authorized for repeated reader-facing familiarity by default.
 
 | # | Asset | Reader-facing label | Why it earns memory |
 |---:|---|---|---|
@@ -40,19 +43,35 @@ These are the ONLY non-character labels currently authorized for repeated reader
 | 12 | L10 First Substrate Yard | **기판 야드** | Act9 signature site after reveal |
 | 13 | M02 Damage-mapping drone | **매핑 드론** | recurring field support |
 | 14 | M05 Medical transfer cradle | **이송 크래들** | medicine continuity across Acts |
-| 15 | M06 Barrier drone | **배리어 드론** | visible authority/boundary grammar |
-| 16 | M07 Service frame | **서비스 프레임** | shared technical ancestry |
-| 17 | L02 Midring | **미드링** | family/home/community geography |
-| 18 | L04 Med-University | **메드** | recurring public medicine/care geography |
-| 19 | L06 Juno venue | **주노네** | natural lived label; avoids new proper noun |
-| 20 | M08 Outer Ark inspection pod | **점검 포드** | late reveal functional craft anchor |
+| 15 | M07 Service frame | **서비스 프레임** | shared technical ancestry |
+| 16 | L02 Midring | **미드링** | family/home/community geography |
+| 17 | L04 Med-University | **메드** | recurring public medicine/care geography |
+| 18 | L06 Juno venue | **주노네** | natural lived label; avoids new proper noun |
+| 19 | M08 Outer Ark inspection pod | **점검 포드** | late reveal functional craft anchor |
+| 20 | — | **RESERVE** | only for proven recurring execution need |
 
 Hard:
-This is a ceiling and preferred recurring set, not a checklist requiring every term every Act.
+This is a preferred recurring set, not a checklist requiring every term every Act.
+Reserve cannot be consumed because a name merely sounds cool.
 
 ---
 
-# 2. Proper-name burden count
+# 2. Demoted from stable-label obligation
+
+M06 Public-safety barrier drone remains a fully designed recurring asset family, but its prose label is contextual rather than memorization-stable.
+
+Allowed scene language:
+- `차단 드론`,
+- `이동식 차단판`,
+- `안전 경계 장비`,
+- role-specific description.
+
+Reason:
+its dramatic value comes from changing boundary/authority use, not from readers remembering one fixed product term.
+
+---
+
+# 3. Proper-name burden count
 
 The following place labels are treated as functionalized proper/shorthand terms for burden accounting:
 - 벨트,
@@ -73,13 +92,14 @@ Therefore:
 - no decorative proper name for Spine/Rim/Legacy Layer,
 - no named destination mountain/sea/valley in the current design pass.
 
-Any future addition must displace an existing term or reopen the cap explicitly.
+Any future addition must displace an existing proper-style term or reopen the cap explicitly.
 
 ---
 
-# 3. Context-only families — do NOT promote to stable terms
+# 4. Context-only families — do NOT promote to stable terms
 
 Examples:
+- M06 barrier drone → context language from section 2.
 - M09 Outer Ark service tug → `외부 서비스 터그`, `대형 서비스 터그` as needed; no permanent special name.
 - M10 rescue/access craft → describe by role.
 - M11 radiator/shield carriage → `방열판 정비 캐리지` in the technical scene only.
@@ -103,7 +123,7 @@ Examples:
 
 ---
 
-# 4. Juno venue naming decision
+# 5. Juno venue naming decision
 
 Reader-facing label:
 # **주노네**
@@ -118,7 +138,7 @@ An official cooperative/business registry name may exist internally but should n
 
 ---
 
-# 5. Internal model-code layer
+# 6. Internal model-code layer
 
 Art/production/internal documentation may use stable design IDs without teaching them to readers.
 
@@ -144,7 +164,7 @@ Prose may expose a code only if:
 
 ---
 
-# 6. Brand/manufacturer decision
+# 7. Brand/manufacturer decision
 
 Recurring prose brands/manufacturers now:
 # **ZERO**
@@ -155,13 +175,13 @@ If a future compatibility/provenance incident requires a maker name, it must pas
 
 ---
 
-# 7. Act-introduction discipline
+# 8. Act-introduction discipline
 
 A1:
 most stable place/work labels are learned through use, not glossary explanation.
 
 A2:
-`구조 스키프 / 이송 크래들 / 배리어 드론` can become salient because emergency function earns them.
+`구조 스키프 / 이송 크래들` can become salient because emergency function earns them. M06 boundary equipment stays context-described.
 
 A3:
 prefer altered familiar labels; introduce almost no new stable terminology.
@@ -186,10 +206,10 @@ A9:
 
 ---
 
-# 8. Current verdict
+# 9. Current verdict
 
 Stable non-character recurring label count:
-# **20 / 20 maximum**
+# **19 / 20 maximum + 1 reserve**
 
 Proper/shorthand invented-place burden:
 # **6 / 6 maximum**
@@ -198,7 +218,7 @@ Recurring manufacturer/brand count:
 # **0**
 
 Function/context/artbook-only families:
-# **31+ preserved**
+# **32+ preserved**
 
 Result:
-The internal world remains deep while reader terminology remains bounded.
+The internal world remains deep while reader terminology remains bounded and one execution reserve remains available.
