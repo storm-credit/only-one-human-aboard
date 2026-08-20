@@ -1,10 +1,11 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
 > Rolling handoff — 2026-08-20.
-> Active state: **STRUCTURAL PREWRITING PASS + IP/MATERIAL CANDIDATE FREEZE PASS + REFERENCE/PRE-CONCEPT RESEARCH PASS**.
+> Active state: **STRUCTURAL PREWRITING PASS + IP/MATERIAL CANDIDATE FREEZE PASS + REFERENCE/PRE-CONCEPT RESEARCH PASS + EXACT COLLECTIBILITY ROSTER PASS**.
 > EP001~410 blueprint materialization COMPLETE.
 > POV: protagonist-owned **319/410 = 77.8%**, protagonist-present **386/410 = 94.1%**, fully absent **24/410 = 5.9%**.
-> Reference collection/pre-concept synthesis is now CLOSED after final QA v0.3.
+> Reference collection/pre-concept synthesis is CLOSED after final QA v0.3.
+> Collectibility scope is now exact: **64 base / 28 variants / 92 initial internal catalog / 96 hard ceiling**.
 > Actual visual concept differentiation is NOT yet proven.
 > Official v2 Canon + accepted v2 EP001~010 remain preserved until explicit v3 promotion.
 > Generic continuation does not authorize prose or Canon promotion.
@@ -18,6 +19,7 @@ Do NOT ask user to paste previous work.
 Do NOT draft prose from generic `진행/이어서`.
 Do NOT silently promote v3.
 Do NOT restart broad reference hunting without an empirical visual failure.
+Do NOT expand collectibility beyond the 64-base roster just because another attractive reference appears.
 
 Repository:
 `storm-credit/only-one-human-aboard`
@@ -27,15 +29,18 @@ Read first:
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
-5. `docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
-6. `docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
-7. `docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
-8. `docs/reference-v3/V3-ORIGINAL-MERIDIAN-SYNTHESIS-BOARDS-v0.1.md`
-9. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
-10. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
-11. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
-12. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
-13. `canon/CANON_STATUS.md` only to remember official status is still v2.
+5. **`docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`**
+6. **`docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`**
+7. **`docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`**
+8. `docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
+9. `docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
+10. `docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
+11. `docs/reference-v3/V3-ORIGINAL-MERIDIAN-SYNTHESIS-BOARDS-v0.1.md`
+12. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
+13. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+14. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+15. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
+16. `canon/CANON_STATUS.md` only to remember official status is still v2.
 
 Read Act-specific blueprint/QA only as needed.
 
@@ -61,7 +66,7 @@ Read Act-specific blueprint/QA only as needed.
 - Outer Ark physical topology/maintenance,
 - background art direction,
 - destination material direction,
-- 15 exact collection/recognition chains.
+- 15 exact narrative collection/recognition chains.
 
 ## Reference research / pre-concept synthesis
 # **PASS / CLOSED**
@@ -74,6 +79,43 @@ Final QA:
 
 Broad reference collection is no longer justified.
 Remaining uncertainty requires actual original concept testing, not more source accumulation.
+
+## Exact collectibility / completion-desire roster
+# **PASS / TARGETED CANDIDATE FREEZE**
+
+Authority:
+`docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`
+
+Execution budget:
+`docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`
+
+Closure QA:
+`docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`
+
+Exact scope:
+- base assets **64**,
+  - character identities **13**,
+  - machine/craft/vehicle families **15**,
+  - professional/personal props **12**,
+  - places/landmarks **12**,
+  - in-world collection/material-culture families **12**,
+- production tiers **SIGNATURE 16 / RECURRING 24 / WORLD-DEPTH 24**,
+- initial meaningful variants **28**,
+- initial internal catalog target **92**,
+- reserve **+4 only if empirical need**,
+- hard ceiling **96** without explicit reopening.
+
+Important distinction:
+- existing H01~H16 = narrative HIGH-memory return anchors,
+- 64 roster = broader reader-recognition/IP depth,
+- the novel never asks readers to memorize all 64.
+
+Naming-load cap for the 51 non-character families:
+- stable recurring labels **<=20**,
+- invented proper/model/manufacturer terms **<=6**,
+- function/context/artbook-only assets **>=31**.
+
+Eight optional internal completion-set organizations exist for future guidebook/artbook structure, NEVER as prose quests.
 
 ## Actual visual art
 # **NOT YET FROZEN / EMPIRICAL QA OPEN**
@@ -98,7 +140,7 @@ Material culture:
 **durable ordinary diversity** — repair, replacement, personalization, reissue and disposable everyday objects coexist.
 
 Collectibility:
-**lineage + use history**, not rarity/power.
+**lineage + use history + current ownership + transformation**, not rarity/power.
 
 ---
 
@@ -185,18 +227,20 @@ Therefore:
 - processed indoor spaces are breathable,
 - no full pressure-suit default.
 
-This was a real science blindspot found during reference research and is now repaired.
+This was a real science blindspot found during reference research and is repaired.
 
 ---
 
 # 7. Collectibility rules
 
-Current 15 exact return chains remain active.
+Current 15 exact narrative return chains remain active.
+Current broader base roster is 64.
 
 Collectibility layers:
 1. character attachment,
 2. functional recognition,
-3. historical completion.
+3. historical/lineage completion,
+4. in-world citizens collecting their own culture.
 
 Hard:
 - no rarity colors,
@@ -205,7 +249,10 @@ Hard:
 - no `old=always better`,
 - no hero-machine inventory,
 - no every-object-Chekhov rule,
-- ordinary/no-payoff objects must remain majority.
+- ordinary/no-payoff objects remain majority,
+- no more than 96 internal plates/families without explicit reopen,
+- no more than 20 stable recurring non-character reader-facing labels,
+- no more than 6 invented proper/model/manufacturer terms in that budget.
 
 ---
 
@@ -221,7 +268,7 @@ Important Korean-reader rule:
 after final full name is chosen, fix **one primary reader-facing call name**.
 Do not alternate first name and surname casually enough to make them feel like two characters.
 
-Name work remains C2 and can resume after/alongside visual execution QA, but current generic continuation should prioritize the visual test phase because that is the user’s latest focus.
+Name work remains C2 and can resume after/alongside visual execution QA, but generic continuation should prioritize the visual test phase because that is the current active production gate.
 
 ---
 
@@ -234,11 +281,12 @@ Generic `진행/이어서` should now continue:
 3. Red Team same-face result,
 4. then V-B machine confusion test,
 5. then V-C environment recognition test,
-6. only after these pass create cinematic/final key art directions,
+6. only after these pass expand toward the 92 internal design-catalog target,
 7. later return to final protagonist name/C2 and Canon promotion.
 
 Do NOT start prose automatically.
 Do NOT silently promote Canon.
+Do NOT add new collectible families without a demonstrated gap.
 
 ---
 
