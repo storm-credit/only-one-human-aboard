@@ -1,21 +1,20 @@
 # NEXT CHAT HANDOFF — 《우주선에는 인간이 한 명뿐이다》
 
 > Rolling handoff — 2026-08-20.
-> Active state: **V3 PREWRITING STRUCTURAL LOCK = PASS**.
+> Active state: **V3 PREWRITING STRUCTURAL LOCK PASS + IP/VISUAL/MATERIAL CANDIDATE FREEZE PASS**.
 > EP001~410 blueprint materialization COMPLETE.
 > POV v0.2: protagonist-owned **319/410 = 77.8%**, protagonist-present **386/410 = 94.1%**, fully absent **24/410 = 5.9%**.
-> Post-POV Act deep audit PASS.
-> Targeted micro-brainstorm + hostile QA PASS.
-> Blocking P0 = 0 / structural P1 = 0.
-> Broad brainstorming = STOP unless a concrete execution failure appears.
+> Reopened IP/visual/material/collectibility phase: hostile QA v0.2 PASS, previous IP P1 5→0.
+> Blocking P0 = 0 / structural P1 = 0 / IP structural P1 = 0.
 > Official v2 Canon + accepted v2 EP001~010 remain preserved until explicit v3 promotion.
+> Generic continuation does not authorize prose or Canon promotion.
 
 ---
 
 # 0. New-chat recovery order
 
 Do NOT redesign from scratch.
-Do NOT ask the user to paste previous work.
+Do NOT ask user to paste previous work.
 Do NOT draft prose from generic `진행/이어서`.
 Do NOT silently promote v3.
 
@@ -29,49 +28,53 @@ Read first:
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
 5. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
 6. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
-7. `docs/narrative-engineering/V3-POV-OWNERSHIP-DISTRIBUTION-v0.2-CANDIDATE.md`
-8. `docs/prewriting-v3/EPISODE-CARD-SPEC-v0.2.md`
-9. `docs/prewriting-v3/V3-TARGETED-MICRO-BRAINSTORM-BLUEPRINT-PATCH-v0.1.md`
-10. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
-11. `docs/qa/V3-TARGETED-MICRO-BRAINSTORM-HOSTILE-QA-v0.1.md`
-12. `docs/prewriting-v3/V3-MANUSCRIPT-START-READINESS-CHECKLIST-v0.1.md`
-13. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
-14. `canon/CANON_STATUS.md` only to remember official status is still v2.
+7. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
+8. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+9. `docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
+10. `docs/prewriting-v3/V3-MANUSCRIPT-START-READINESS-CHECKLIST-v0.1.md`
+11. `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
+12. `canon/CANON_STATUS.md` only to remember official status is still v2.
 
 Read Act-specific blueprints/QA only when needed.
 
 ---
 
-# 1. Current official vs candidate tracks
+# 1. Official vs candidate
 
 ## Official v2
 Still official:
-- v2 World/Character Canon
-- Act Bible v1
-- Amendment A governance/ethics
-- accepted historical manuscript EP001~010 / 230
+- v2 World/Character Canon,
+- Act Bible v1,
+- Amendment A governance/ethics,
+- accepted historical manuscript EP001~010 / 230.
 
 ## Active v3
-# **PREWRITING STRUCTURAL LOCK PASS**
+Current state:
+# **STRUCTURAL + IP DEEP DESIGN CANDIDATE FREEZE PASS**
 
 Completed:
-- Deep Design G01~G20 PASS
-- Candidate Freeze PASS
-- all 410 episode cards complete
-- all 9 Act hostile QAs pass
-- full-series regression pass
-- hard-science boundary pass
-- HUMAN medical/developmental pass
-- context-pack architecture pass
-- POV v0.2 pass
-- post-POV Act deep audit pass
-- targeted five-risk micro-brainstorm pass
-- targeted hostile QA pass
-- scene reward/reveal execution overlay active
-- manuscript-start readiness checklist created
+- Deep Design architecture,
+- Candidate Freeze structural package,
+- 410 episode blueprint materialization,
+- 9 Act hostile QAs,
+- full-series regression,
+- hard-science boundary,
+- HUMAN medical/development boundary,
+- context-pack architecture,
+- POV v0.2 recalibration,
+- post-POV Act audit,
+- targeted micro-brainstorm + scene overlay,
+- reopened IP/visual/material/collectibility deep-design phase,
+- core-cast drawable illustration sheets,
+- machine/craft/equipment ecology,
+- Experienced-Meridian vs physical Outer-Ark machine separation,
+- Outer-Ark macro topology/maintenance-control architecture,
+- background art-direction + nonindustrial landmarks,
+- destination environment/settlement art direction,
+- 15 exact collection-completion chains,
+- integrated IP hostile QA v0.2.
 
-P0=0 / structural P1=0.
-No major/world brainstorming is currently justified.
+P0=0 / structural P1=0 / IP structural P1=0.
 
 ---
 
@@ -80,30 +83,23 @@ No major/world brainstorming is currently justified.
 # **주인공 중심 다중인과형 장편**
 
 Current:
-- protagonist-owned 319/410 = 77.8%
-- protagonist-present 386/410 = 94.1%
-- full protagonist-absent 24/410 = 5.9%
+- protagonist-owned 319/410 = 77.8%,
+- protagonist-present 386/410 = 94.1%,
+- full protagonist-absent 24/410 = 5.9%.
 
-Old 272/410 = 66.3% is historical/superseded.
-
-Meaning:
-- protagonist is the strongest continuous reading anchor,
-- most episodes are his story,
-- secondary decisions still happen outside him,
-- protagonist presence never transfers Mira/Selene/Sora/Rafi/Leila/Hana/Juno/D3-person authority to him.
-
-Act6 neutral corridor remains a major solution chain that bypasses protagonist.
+Secondary causal ownership remains real.
+Act6 neutral corridor still bypasses protagonist as origin/intermediary.
 
 ---
 
-# 3. Core architecture
+# 3. Core ontology
 
-One physical Outer Ark Meridian.
+One real physical Outer Ark Meridian.
 Outer physical time always moves forward.
 
 Inside:
 - atomic/nanoscale addressable anchors,
-- distributed ultradense physical substrate,
+- distributed ultradense substrate,
 - astronomical possibility search,
 - most states not conscious,
 - selected D3 histories fully lived.
@@ -113,13 +109,15 @@ D3 persons are full persons.
 Hard:
 - no cosmological multiverse truth,
 - no literal pocket universe,
-- no 2~3 lived-world cap,
+- no fixed 2~3 lived-world cap,
 - no repeated protagonist world-hopping,
 - finite power/heat/interconnect/radiation/repair.
 
 H-A = Acts1~2 opening Meridian.
-One rare C4 protagonist continuity misbinding at Act2 end.
+One rare continuity misbinding at Act2 end.
 H-B = Acts3~9 current world.
+
+Experienced Meridian is not authorially `fake`; Outer Ark reveal changes implementation scale, not moral/causal reality.
 
 ---
 
@@ -127,197 +125,189 @@ H-B = Acts3~9 current world.
 
 `HUMAN` = Natural-Origin departure-continuity legacy category, NOT personhood.
 
-- launch HUMAN >1
-- real outer-ark attrition leaves one
-- separate genetic archive
-- protagonist NOT HUMAN
-- no sovereignty/admin/research/reproduction duty
+- launch HUMAN >1,
+- real outer-ark attrition leaves one,
+- separate genetic archive,
+- protagonist NOT HUMAN,
+- no sovereignty/admin/research/reproduction duty.
 
 Medical form:
 early-stage natural-origin embryo/zygote cryopreservation → final-approach thaw → far-future ectogenesis → ordinary development/birth.
 
-Act7+8+9 working duration supports ~38 weeks.
-
 ---
 
-# 5. Character anchors
+# 5. Character state
 
 Protagonist:
-- male ~36~38
-- final name TBD
-- `선체 손상분석관` candidate
-- ordinary family
-- no prior full regression
-- Arun accident is one deep wound
+- male ~36~38,
+- final name TBD,
+- `선체 손상분석관` working title/function,
+- ordinary family,
+- Arun accident = one deep wound,
+- no prior full regression.
+
+Current visual direction:
+- lean practical build,
+- short asymmetric-wear field jacket,
+- narrow hard field case,
+- surface-reading crouch/body language,
+- no armor/weapon hero coding.
 
 Family:
-- both parents alive
-- older sister household + one school-age child
-- ordinary non-secret jobs
+- both parents alive,
+- older sister household + school-age child,
+- no secret/chosen lineage.
 
 Mira:
-- H-A serious former relationship
-- H-B shorter/different prior history
-- endpoint = new current-world relationship by present choice, not restoration/destiny
+- H-A serious former relationship,
+- H-B shorter/different prior history,
+- endpoint by current choice, not restoration/destiny.
 
 Arun H-B:
 independent current life outside protagonist team.
 
-No tragic-family escalation and no chosen-one heritage.
+---
+
+# 6. IP / visual / material current authority
+
+Freeze candidate:
+`docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+
+Final QA:
+`docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
+
+Key principles:
+- civilian city, not sterile mission set,
+- characters recognized in grayscale silhouette before color dependence,
+- no surname→costume/phenotype automation,
+- no universal jumpsuits,
+- utility machines, not fighter/mecha progression,
+- no ace machine / protagonist signature craft,
+- no RPG rarity language,
+- Old Works not sole iconic environment,
+- nonindustrial landmarks for Transfer/Midring/Garden/Med,
+- collectibility belongs to reader recognition, not protagonist inventory.
+
+Exact collection chains assigned: **15**.
 
 ---
 
-# 6. Current five-risk micro-patch — ACTIVE
+# 7. Physical Outer Ark / craft
 
-Authority:
-`docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
+Current topology:
+**forward protection → protected substrate/biological/HUMAN core → service/fabrication/settlement cargo spine → major thermal rejection architecture → aft propulsion complex.**
 
-## Act1
-Every band needs local reward through:
-- work puzzle,
-- relationship/social friction,
-- ordinary city attachment.
-At least four ordinary recurring details must stay non-clues.
+Old v2 giant 3-habitat population geometry is NOT current v3 exterior authority.
 
-## Act4
-Rotate consequences:
-- money/allocation,
-- household/daily cost,
-- security/self-fulfilling threat,
-- reputation/trust,
-- institution/evidence.
-Do not repeat `claimant predicts → investigate` as the whole Act engine.
+Outer maintenance:
+**hard safeties + robotic maintenance fleet + bounded non-conscious planning/diagnostics + validated civilization lesson input.**
 
-## Act5
-Major evidence must produce a current action/access/legal/relationship/safety consequence within <=2 episodes.
-No archive tourism.
+No hidden D3 teleoperation and no secret AI god.
 
-## Act7~8
-Reveal grammar:
-**current problem → incomplete model → concrete evidence → decision cost → only then interpretation/label**.
+Physical craft roles:
+- inspection pod,
+- service tug,
+- rescue/access craft,
+- radiator/shield carriage,
+- deployment barge,
+- later environment-justified surface lander/utility vehicles.
 
-Use bounded synthesis every ~6~8 episodes after evidence.
-D0~D4 mostly author-side.
-No electron-city lecture.
-No three explanation/meeting/archive-heavy episodes consecutively.
-
-## Act9
-EP401~410 closure beats:
-1. cost/no-retry + repair
-2. current relationships
-3. HUMAN first life as ordinary medical/caregiver event
-4. ordinary unrehearsed future
-
-No serial epilogues, no new ontology, no alien sequel hook.
-
-QA:
-`docs/qa/V3-TARGETED-MICRO-BRAINSTORM-HOSTILE-QA-v0.1.md = PASS`.
+Acts1~6 Experienced-Meridian machines are a separate layer.
 
 ---
 
-# 7. Science / final crisis
+# 8. Destination
 
-Use:
-energetic-particle / spacecraft-charging environment
-→ transient faults
-→ tightly shared power/control common-mode cascade
-→ electrically/control-isolated local reserve node relatively stable
-→ segmentation / local control islands / staged restart
-→ permanent asset loss.
+Current qualitative direction:
+**temperate water-rich rocky world + near-compatible total pressure + oxygen-poor managed breathing + real weather/open horizon + incomplete bio/chemical certainty.**
 
-Do NOT say asynchronous timing itself blocks radiation.
-No confirmed alien attacker.
+Consequences:
+- open-sky emotional reward,
+- no full EVA suit default outdoors,
+- breathing/monitoring still required,
+- no instant Earth 2.0 mass migration,
+- early settlement remains industrial/logistical/medical and incomplete.
 
----
-
-# 8. Brainstorming / questions policy
-
-## Broad premise/world brainstorming
-# STOP
-
-Only reopen if actual prose or QA exposes a concrete blocker.
-
-## Targeted brainstorming allowed only if
-- an episode has no local reward,
-- a reveal cannot be dramatized without lecture,
-- incident flavor repeats,
-- a relationship payoff lacks setup,
-- science/medical verification fails,
-- prose sample proves blueprint pacing wrong.
-
-## Deep-design interview
-# NOT NEEDED
-
-Do not ask again about:
-- premise,
-- genre,
-- regression truth,
-- protagonist centrality,
-- HUMAN meaning,
-- D3 personhood,
-- 410 macro,
-- ending architecture.
-
-Only one bundled C2/tone author check remains worthwhile.
+Exact atmosphere numbers/lander aerodynamics remain open.
 
 ---
 
-# 9. Remaining C2 / tone
+# 9. IP execution watch
 
-Required before EP001 prose:
-- protagonist final name
+Mandatory during art/prose:
+1. at least 3 recurring personal possessions remain persistence-only,
+2. at least 1 recurring old machine is retired because newer is genuinely better,
+3. Act9 brand-new HIGH machine/craft families <=2,
+4. ordinary-noise majority,
+5. no forced return just to satisfy ledger,
+6. no authoritative `all fake simulation` framing,
+7. reject weaponized/humanoid heroic mecha drift,
+8. preserve nonindustrial key-art share.
 
-Surface/tone open:
-- family names
-- district proper names
-- currency/payment vocabulary
-- minor venue labels
-- violence presentation ceiling
-- romance surface share
-- ending emotional temperature
-
-Default if no author override:
-- concrete survival violence, no gore-porn
-- low-to-moderate romance subline
-- restrained SF explanation + practical thriller prose
-
-Readiness checklist:
-`docs/prewriting-v3/V3-MANUSCRIPT-START-READINESS-CHECKLIST-v0.1.md`.
+These are execution constraints, not structural blockers.
 
 ---
 
-# 10. Promotion decision
+# 10. Brainstorming policy
 
-Recommended:
-**Promote v3 as official active Canon; preserve v2 + old accepted EP001~010 as frozen historical edition.**
+Broad premise/world brainstorming:
+# **CLOSE**
+
+Broad IP/visual/material brainstorming:
+# **CLOSE AFTER EXPLICIT REOPENED PHASE PASS**
+
+Reopen only if actual art/prose/physics regression proves a concrete failure, or user explicitly changes aesthetic target.
+
+Targeted brainstorming remains allowed for concrete failures.
+
+---
+
+# 11. Remaining C2 / tone
+
+Required before normal EP001 prose preparation:
+- **protagonist final full name**.
+
+Surface open:
+- family names,
+- district proper names,
+- currency/payment vocabulary,
+- minor venue names,
+- exact color palettes,
+- manufacturer/model names,
+- violence presentation ceiling,
+- romance surface share,
+- ending emotional temperature.
+
+---
+
+# 12. Promotion
+
+Recommended later:
+**promote v3 as official active Canon while preserving v2 + old accepted EP001~010 as frozen historical edition.**
 
 No promotion performed yet.
-
-Generic `진행/이어서` does NOT authorize promotion.
-Explicit `v3 정본 승격/프로모트` does.
+Generic continuation does NOT authorize promotion.
 
 ---
 
-# 11. Current next step
+# 13. Current next step
 
-Generic continuation should now do:
-1. curated C2 naming pass, starting with protagonist full name from scratch
-2. family/district/payment labels derived from one coherent naming system
-3. one bundled tone check only if needed
-4. promotion preparation
+Generic `진행/이어서` now means:
+1. continue protagonist full-name calibration from scratch,
+2. narrow name candidates by Korean readability/rhythm, age/job fit, future multicultural plausibility, and famous-character collision,
+3. then family/district/payment naming consistency,
+4. bundled tone calibration if needed,
+5. promotion preparation.
+
+Do NOT return to `Rowan Han`, `Kyle Han`, or fixed surname Han.
+Do NOT default to clipped Korean 2+2 rhythm such as `에런 베일 / 레온 케인 / 이안 로웰 / 노아 벡` because user found it awkward.
+Prefer asymmetric full-name rhythm such as 3+2, 2+3, 3+3 where natural.
 
 Do NOT start prose automatically.
-Do NOT reopen macro/world unless a blocker appears.
-
-If user later explicitly authorizes promotion:
-- execute recommended Option B,
-- preserve v2 historical edition,
-- create v3 manuscript status 0/410,
-- still do not draft prose unless separately requested.
 
 ---
 
-# 12. Context-length protection
+# 14. Context-length protection
 
 Before chat becomes unreliable, update this handoff and `docs/current-work-status.md` again.
-Never ask the user to paste project state that GitHub can recover.
+Never ask user to paste project state that GitHub can recover.
