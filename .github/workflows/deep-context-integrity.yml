@@ -12,6 +12,7 @@ on:
       - 'docs/obsidian-v3/deep-contexts/**'
       - 'docs/obsidian-v3/contexts/**'
       - 'tools/compile_deep_contexts.py'
+      - 'tools/compile_deep_contexts_v2.py'
       - 'tools/deep_context_integrity.py'
       - '.github/workflows/deep-context-integrity.yml'
   pull_request:
@@ -21,6 +22,7 @@ on:
       - 'docs/obsidian-v3/deep-contexts/**'
       - 'docs/obsidian-v3/contexts/**'
       - 'tools/compile_deep_contexts.py'
+      - 'tools/compile_deep_contexts_v2.py'
       - 'tools/deep_context_integrity.py'
       - '.github/workflows/deep-context-integrity.yml'
 
@@ -37,7 +39,7 @@ jobs:
         continue-on-error: true
         run: |
           set +e
-          python tools/compile_deep_contexts.py --preserve-through 28 > /tmp/deep-compile.log 2>&1
+          python tools/compile_deep_contexts_v2.py --preserve-through 28 > /tmp/deep-compile.log 2>&1
           status=$?
           cat /tmp/deep-compile.log
           echo "status=$status" >> "$GITHUB_OUTPUT"
