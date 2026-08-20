@@ -50,18 +50,19 @@ Completed:
 - `FINAL PRE-MANUSCRIPT BLIND-SPOT AUDIT = PATCH → 해소` (`docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md`)
 - **`V3 CANON PROMOTION = EXECUTED — 2026-08-21`**
 - **`PROTAGONIST FINAL NAME = APPROVED — 루카스 켈러`**
+- **`MANUSCRIPT START = EXECUTED — 2026-08-21`**
 
 Current manuscript state:
-**`NOT STARTED`**
+**`IN PROGRESS`**
 
 Active v3 manuscript:
-**0 / 410**
+**1 / 410** — EP001 accepted 2026-08-21 (CHG-056)
 
 Historical v2 manuscript (frozen, preserved):
 **10 / 230** — `manuscript/accepted/` EP001~010. v3 라인으로 끌어오지 마라.
 
-First eligible v3 episode:
-**EP001**
+Next eligible v3 episode:
+**EP002**
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 
