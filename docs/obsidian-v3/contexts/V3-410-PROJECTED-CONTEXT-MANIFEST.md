@@ -1,5 +1,17 @@
 # V3 410 Projected Context Manifest
 
+<!-- DEEP-CONTEXT-410-STATUS:START -->
+## IMPORTANT — THIS IS THE THIN ROUTER MANIFEST
+
+This file's 410/410 count refers to `CTX-V3-EP001~410`, the stable thin projected router/execution-contract layer.
+
+The separately completed Deep sidecar layer is tracked at:
+`../deep-contexts/V3-410-DEEP-PROJECTED-CONTEXT-MANIFEST-v1.md`.
+
+Do not use thin-router completeness as a synonym for Deep Context completeness.
+<!-- DEEP-CONTEXT-410-STATUS:END -->
+
+
 Status: `410/410 STATIC PROJECTED CONTEXT MATERIALIZED / DYNAMIC ACTUAL JIT ONLY / NOT CANON / NO PROSE`
 Date: 2026-08-20
 

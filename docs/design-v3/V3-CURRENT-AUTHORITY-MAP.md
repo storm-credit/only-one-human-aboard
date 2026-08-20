@@ -1,5 +1,27 @@
 # V3 CURRENT AUTHORITY MAP
 
+<!-- DEEP-CONTEXT-410-STATUS:START -->
+## DEEP PROJECTED CONTEXT EXECUTION LAYER — COMPLETE
+
+- thin `CTX-V3-EP001~410` router nodes = **410/410**;
+- `DEEP-V3-EP001~410` sidecars = **410/410**;
+- Deep state semantics = `FORECAST_NOT_ACTUAL`;
+- all future realized continuity fields = `PENDING / JIT`;
+- Deep Context P0 = **0**, P1 = **0** after full materialization QA;
+- exact Episode Blueprint remains event truth; Deep Context is execution support and never Canon.
+
+Read for Deep execution:
+- `docs/prewriting-v3/DEEP-CONTEXT-SCHEMA-v1.md`
+- `docs/obsidian-v3/deep-contexts/V3-410-DEEP-PROJECTED-CONTEXT-MANIFEST-v1.md`
+- `docs/qa/V3-DEEP-CONTEXT-ACT-BY-ACT-QA-v1.md`
+- `docs/qa/V3-DEEP-CONTEXT-WHOLE-SERIES-RED-TEAM-v1.md`
+- `docs/qa/V3-DEEP-CONTEXT-COMPLETION-GATE-v1.md`
+
+Episode retrieval order is now:
+`exact Blueprint → thin CTX Router → Deep Projected sidecar → realized previous Continuity → JIT Dynamic freeze → max-5 payload`.
+<!-- DEEP-CONTEXT-410-STATUS:END -->
+
+
 Status: `ACTIVE ROUTING FOR V3 CANDIDATE / PROMOTION-READY / NOT OFFICIAL CANON / NO PROSE`
 Date: 2026-08-20
 Project: 《우주선에는 인간이 한 명뿐이다》

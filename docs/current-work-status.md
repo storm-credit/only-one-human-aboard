@@ -1,5 +1,29 @@
 # Current Work Status
 
+<!-- DEEP-CONTEXT-410-STATUS:START -->
+# DEEP PROJECTED CONTEXT PACK = 410/410 COMPLETE
+
+This is separate from the older thin-router `410/410` status.
+
+Current v3 per-episode execution layers:
+- thin CTX Router = **410/410**;
+- Deep Projected Context sidecar = **410/410**;
+- Dynamic Actual = **PENDING / JIT until realized prose exists**.
+
+Deep completion QA:
+- P0 = **0**;
+- P1 = **0**;
+- blocking P2 = **0**;
+- H-A EP001~094 / H-B EP095~410 boundary verified;
+- Act2/Act6 concurrency verified;
+- Act7~8 ontology guards and Act9 closure guards verified;
+- no Canon promotion and no prose occurred.
+
+Primary Deep manifest:
+`docs/obsidian-v3/deep-contexts/V3-410-DEEP-PROJECTED-CONTEXT-MANIFEST-v1.md`.
+<!-- DEEP-CONTEXT-410-STATUS:END -->
+
+
 Date: 2026-08-20
 Project: 《우주선에는 인간이 한 명뿐이다》
 Repository: `storm-credit/only-one-human-aboard`
