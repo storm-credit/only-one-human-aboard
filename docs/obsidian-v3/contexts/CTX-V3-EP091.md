@@ -1,0 +1,22 @@
+---
+id: CTX-V3-EP091
+type: episode_context
+status: PROJECTED
+episode: EP-V3-091
+act: ACT-V3-02
+volume: VOL-V3-04
+subact: SA-V3-2D
+beat: BEAT-V3-B12
+schema: 0.2
+branch_guard: H-A
+concurrency: ACT2_LEDGER
+dynamic_actual: PENDING
+---
+# CTX EP091
+[[EP-V3-091]] · [[BEAT-V3-B12]] · [[SA-V3-2D]] · [[VOL-V3-04]] · [[ACT-V3-02]]  
+Contract: [[../PROJECTED-CONTEXT-NODE-TEMPLATE-v0.1]]  
+Blueprint: [[../../prewriting-v3/EPISODE-BLUEPRINT-ACT2-v0.1]] selector `EP091`.  
+Forecast incoming: `EP-V3-090` + Beat carry; actual continuity/state = `PENDING`.  
+Use exact Blueprint + current character/asset/reveal routers; eligibility ≠ foreground. Max-5 payload only. Resolve Act2 concurrency/geography ledger before FROZEN. B12 split guard = SA-2D from EP088.
+
+> DO NOT DRAFT FROM THIS NODE ALONE.

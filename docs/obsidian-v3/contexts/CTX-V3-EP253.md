@@ -1,0 +1,17 @@
+---
+id: CTX-V3-EP253
+type: episode_context
+status: PROJECTED
+episode: EP-V3-253
+act: ACT-V3-06
+volume: VOL-V3-11
+subact: SA-V3-6B
+beat: BEAT-V3-B35
+schema: 0.2
+branch_guard: H-B
+concurrency: ACT6_LEDGER
+dynamic_actual: PENDING
+---
+# CTX EP253
+[[EP-V3-253]] · [[BEAT-V3-B35]] · [[SA-V3-6B]] · [[VOL-V3-11]] · [[ACT-V3-06]] · [[../PROJECTED-CONTEXT-NODE-TEMPLATE-v0.1]]  
+Blueprint: [[../../prewriting-v3/EPISODE-BLUEPRINT-ACT6-v0.1]] `EP253`; forecast incoming `EP-V3-252`; actual state PENDING. Resolve Act6 network/resource state before FROZEN. Ensemble salience cap applies; no roundtable roll-call.

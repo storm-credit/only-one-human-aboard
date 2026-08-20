@@ -4,27 +4,57 @@ type: moc
 ---
 # Episode Context Pack MOC
 
-For EPxxx resolve:
-1. exact Episode Card,
-2. Beat Hub,
-3. Macro Sub-Act Hub,
-4. Volume/Act intent,
-5. POV+relationship state,
-6. zone/material state,
-7. active reveal/payoff/collectibility state.
+## Whole-series architecture
 
-Direct prompt payload remains max 5 context bundles. Graph depth is retrieval structure, not prompt bulk.
+Every episode now has one STATIC / PROJECTED Context node:
+`[[contexts/CTX-V3-EP001]]` → … → `[[contexts/CTX-V3-EP410]]`.
 
-## Runtime compilation
+Registry / audit:
+- [[contexts/V3-410-PROJECTED-CONTEXT-MANIFEST]]
+- [[PROJECTED-CONTEXT-NODE-TEMPLATE-v0.1]]
+- [[../prewriting-v3/V3-ROLLING-EPISODE-CONTEXT-COMPILATION-PROTOCOL-v0.2]]
+- [[../qa/V3-410-PROJECTED-CONTEXT-INTEGRITY-QA-v0.1]]
 
-Do NOT generate 410 blank Context files or freeze future actual-state snapshots.
+STATIC / PROJECTED is a source-linked execution contract, not a second Episode Blueprint.
+DYNAMIC / ACTUAL remains `PENDING` until JIT pre-draft compilation.
 
-Use:
-- [[EPISODE-GRAPH-CONTEXT-PACK-SPEC-v0.1]] for logical pack shape,
-- [[../prewriting-v3/V3-ROLLING-EPISODE-CONTEXT-COMPILATION-PROTOCOL-v0.1]] for just-in-time compilation,
-- [[../prewriting-v3/context-packs-v3/EP001-010-CONTEXT-RUNWAY-v0.1]] for the initial runway.
+## EPxxx resolution
 
-Runtime loop:
-`Blueprint forecast → Context compile → prose → QA → actual continuity freeze → next Context recompile`.
+`Context Node`
+→ exact Episode Blueprint selector
+→ actual previous Continuity
+→ Beat / Macro Sub-Act / Volume / Act
+→ current POV/relationship state
+→ current world/zone/material state
+→ active reveal/payoff/collectibility state
+→ max-5 drafting payload.
 
-EP001 may be `READY-AFTER-GATES`; future runway packs remain `PROVISIONAL` until the previous episode's actual continuity is frozen.
+Hard:
+- DO NOT draft from Context node alone.
+- eligibility does not equal foreground salience.
+- future projected state is never Actual.
+- Act2 and Act6 require concurrency/geography preflight before FROZEN.
+- EP094 H-A current-lived state does not auto-inherit into EP095 H-B.
+
+## Direct prompt cap
+
+1. Episode Card
+2. Immediate Continuity
+3. POV/Relationship State
+4. World/Zone/Material State
+5. Active Device/Return/Collectibility State
+
+Graph depth is retrieval topology, not prompt bulk.
+
+## Runtime loop
+
+`Projected Context`
+→ actual prior continuity load
+→ JIT Dynamic freeze
+→ max-5 compile
+→ prose
+→ QA
+→ realized continuity freeze
+→ next Context recompile.
+
+EP001 may become `READY-AFTER-GATES`; later Contexts remain PROJECTED until their actual predecessor is frozen.
