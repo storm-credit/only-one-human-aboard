@@ -39,7 +39,7 @@ FORECAST from EP345: End Turn=old doctrine treats lineage relation more like one
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=prevent debate from collapsing into `save the child` sentiment only. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP345: End Turn=old doctrine treats lineage relation more like one
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: identifies adult continuities that would still face the same destructive-risk problem even if no child existed. Immediate Want: prevent debate from collapsing into `save the child` sentiment only. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: identifies adult continuities that would still face the same destructive-risk problem even if no child existed.
+- exact Immediate Want: prevent debate from collapsing into `save the child` sentiment only.
 - exact End Turn: resource administrators argue the lineage was created as a test and old mandate permits closure.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

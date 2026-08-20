@@ -39,7 +39,7 @@ FORECAST from EP106: End Turn=he schedules a medical check without disclosing `Ì
 
 ## Protagonist Context
 - POV: [Ï£ºÏù∏Í≥µ/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=rule out obvious neurological damage after Act2 experience. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP106: End Turn=he schedules a medical check without disclosing `Ì
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: routine assessment finds no gross deficit; stress/trauma explanations remain possible. Immediate Want: rule out obvious neurological damage after Act2 experience. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: routine assessment finds no gross deficit; stress/trauma explanations remain possible.
+- exact Immediate Want: rule out obvious neurological damage after Act2 experience.
 - exact End Turn: one clinician asks whether his memories are only wrong about recent events or older relationships too.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

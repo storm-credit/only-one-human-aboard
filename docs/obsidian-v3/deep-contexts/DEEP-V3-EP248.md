@@ -76,12 +76,12 @@ FORECAST from EP247: End Turn=Sora investigates whether sabotage justified broad
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: one overbroad investigative hold delays an innocent aid group; Sora realizes her own caution created harm even as evidence collection was legitimate. Immediate Want: identify actual saboteurs without mass guilt-by-association. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: one overbroad investigative hold delays an innocent aid group; Sora realizes her own caution created harm even as evidence collection was legitimate.
+- exact Immediate Want: identify actual saboteurs without mass guilt-by-association.
 - exact End Turn: Hana possesses records that could explain allocation decisions but inflame the public.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

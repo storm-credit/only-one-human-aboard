@@ -39,7 +39,7 @@ FORECAST from EP396: End Turn=the unsynchronized seed node becomes the only stab
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=determine why one node survived better. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP396: End Turn=the unsynchronized seed node becomes the only stab
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: traces survival to the settlement worker's earlier decision to keep commissioning asynchronous until local checks completed—not foresight, just good local practice. Immediate Want: determine why one node survived better. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: traces survival to the settlement worker's earlier decision to keep commissioning asynchronous until local checks completed—not foresight, just good local practice.
+- exact Immediate Want: determine why one node survived better.
 - exact End Turn: recovery still requires coordinated operations across lineages/locations.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

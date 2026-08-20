@@ -39,7 +39,7 @@ FORECAST from EP309: End Turn=Registry Worker locates the destination-binding re
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=explain why his active continuity migrated into H-B. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP309: End Turn=Registry Worker locates the destination-binding re
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: finds a rare legacy routing/index collision pattern connecting his origin binding and a closely related H-B endpoint; no deliberate selector field points to him. Immediate Want: explain why his active continuity migrated into H-B. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: finds a rare legacy routing/index collision pattern connecting his origin binding and a closely related H-B endpoint; no deliberate selector field points to him.
+- exact Immediate Want: explain why his active continuity migrated into H-B.
 - exact End Turn: registry structure contains far more address depth than a few alternate worlds would require.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

@@ -76,12 +76,12 @@ FORECAST from EP173: End Turn=one detail can only be explained if Cassian person
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: direct POV intentionally confirms one narrow coherent remembered event/path from years ago; most later predictions failed. He chooses to release one remaining warning/data point publicly, destroying part of his advantage. Immediate Want: decide whether to release the last material advantage tied to his memory fragment. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: direct POV intentionally confirms one narrow coherent remembered event/path from years ago; most later predictions failed. He chooses to release one remaining warning/data point publicly, destroying part of his advantage.
+- exact Immediate Want: decide whether to release the last material advantage tied to his memory fragment.
 - exact End Turn: released information corroborates a second incompatible history artifact.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

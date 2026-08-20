@@ -76,12 +76,12 @@ FORECAST from EP252: End Turn=overlapping groups begin making independent demand
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: rejects both pure central priority and pure local ownership; introduces review/rotation that slows decisions. Immediate Want: allocate declining capacity when every request now arrives with a political/community claim. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: rejects both pure central priority and pure local ownership; introduces review/rotation that slows decisions.
+- exact Immediate Want: allocate declining capacity when every request now arrives with a political/community claim.
 - exact End Turn: one medical rescue request forces Rafi/Leila into reversed positions.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

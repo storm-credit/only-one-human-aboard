@@ -39,7 +39,7 @@ FORECAST from EP062: End Turn=the escorted window creates a new logistics bottle
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=distinguish recent tampering from old structural condition. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP062: End Turn=the escorted window creates a new logistics bottle
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
+- Execution engine: shows bypass is recent/mundane while one material seam is much older and unrelated to the illegal work. Immediate Want: distinguish recent tampering from old structural condition. Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: shows bypass is recent/mundane while one material seam is much older and unrelated to the illegal work.
+- exact Immediate Want: distinguish recent tampering from old structural condition.
 - exact End Turn: Mira reports evacuation/freight conflict caused by security routing.
 - Concurrency preflight REQUIRED: router token ACT2_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.

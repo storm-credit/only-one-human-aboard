@@ -39,11 +39,11 @@ FORECAST from EP227: End Turn=one small transit-routing decision is made by the 
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=state the narrow truth he can carry into the next crisis. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: [주인공/TBD]
+- projected_active_core: [주인공/TBD], Arun
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP227: End Turn=one small transit-routing decision is made by the 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: current `HUMAN:1` is real; meaning and identity are unresolved; Arun proves current people cannot be reduced to remembered versions; absent history is physically real. Immediate Want: state the narrow truth he can carry into the next crisis. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: current `HUMAN:1` is real; meaning and identity are unresolved; Arun proves current people cannot be reduced to remembered versions; absent history is physically real.
+- exact Immediate Want: state the narrow truth he can carry into the next crisis.
 - exact End Turn: rolling power/fabrication/transport constraints stop looking temporary. [주인공/TBD]: **30** Hana: 5 — EP184, 190, 196, 215, 224 Sora: 3 — EP186, 192, 208 Arun H-B: 2 — EP206, 210 Mira: 1 — EP217 Juno/family: 2 — EP200, 219 ordinary memorial/kinship: 2 — EP188, 198 Registry Worker: 2 — EP194, 202 Total: 47 Target: **30/47 = 63.8% protagonist-centered — exact PASS.** memory/testimony → physical wear → orphan records → memorial → registry collision → living/dead person → current Arun → mission-era field. PASS. current H-B life shown before protagonist claims him, two direct Arun POVs establish independent work/relationships, H-A dead Arun remains a real loss, current Arun is not resurrection/replacement. PASS. Act5 reveals only: field exists, current value=1, operationally maintained, not ordinary population count, maybe historical value changed. Act5 does NOT reveal: Natural-Origin definition, exact launch count, preserved biological form, endpoint identity, political meaning. PASS. No archive-only run longer than one episode; evidence is repeatedly interrupted by physical access, relationships, current people, rumor/social consequences. PASS. **ACT5 EP182~228 BLUEPRINT v0.1 = PREWRITING PASS CANDIDATE / requires independent hostile QA before lock.**
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

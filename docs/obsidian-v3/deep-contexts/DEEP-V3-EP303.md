@@ -76,12 +76,12 @@ FORECAST from EP302: End Turn=Sora identifies multiple distinct life/status reco
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: current acts/evidence control present accountability; alternate-history evidence may inform risk/inquiry but cannot automatically transfer guilt. Immediate Want: decide whether evidence of another-history wrongdoing can justify current investigation/restriction. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: current acts/evidence control present accountability; alternate-history evidence may inform risk/inquiry but cannot automatically transfer guilt.
+- exact Immediate Want: decide whether evidence of another-history wrongdoing can justify current investigation/restriction.
 - exact End Turn: a claimant/successor dispute forces the continuity question more sharply.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

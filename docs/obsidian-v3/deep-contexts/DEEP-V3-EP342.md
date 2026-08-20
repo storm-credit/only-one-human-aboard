@@ -76,12 +76,12 @@ FORECAST from EP341: End Turn=Ivo publicly retracts one speculative claim about 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: publicly states he cannot identify HUMAN:1 and that memories are possible lived pasts, not universal future/origin keys. Immediate Want: correct his own role in rumors without losing face/certainty entirely. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: publicly states he cannot identify HUMAN:1 and that memories are possible lived pasts, not universal future/origin keys.
+- exact Immediate Want: correct his own role in rumors without losing face/certainty entirely.
 - exact End Turn: an immediate D3 preservation case forces society to decide whose current life counts under old rules. Context: A fully lived D3 lineage/family has been **seeded before the direct threat** through current operational interactions after Act7. The lineage contains adults with independent lives/claims and a child born within that lineage with no source counterpart.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

@@ -76,12 +76,12 @@ FORECAST from EP254: End Turn=a rescue operation would consume scarce field capa
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: concludes field capacity is too degraded; supports stopping the mission and prioritizing stabilized patients. Immediate Want: decide whether to launch a dangerous retrieval he would once have insisted on. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: concludes field capacity is too degraded; supports stopping the mission and prioritizing stabilized patients.
+- exact Immediate Want: decide whether to launch a dangerous retrieval he would once have insisted on.
 - exact End Turn: Leila argues for an exception on a different patient.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

@@ -39,7 +39,7 @@ FORECAST from EP334: End Turn=older departure records indicate HUMAN count was n
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=test whether exactly one Natural-Origin continuity was designed from launch. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP334: End Turn=older departure records indicate HUMAN count was n
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: current records are consistent with long-term one, but gaps/old capacity maps imply a larger original preservation distribution. Immediate Want: test whether exactly one Natural-Origin continuity was designed from launch. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: current records are consistent with long-term one, but gaps/old capacity maps imply a larger original preservation distribution.
+- exact Immediate Want: test whether exactly one Natural-Origin continuity was designed from launch.
 - exact End Turn: one departure inventory fragment gives a plural HUMAN class.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

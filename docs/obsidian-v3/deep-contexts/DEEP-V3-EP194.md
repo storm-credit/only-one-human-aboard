@@ -76,12 +76,12 @@ FORECAST from EP193: End Turn=registry specialist refuses broad export because r
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: shows prior practice of placing conflicting records into review rather than overwriting them; one current living person is linked to an old death marker. Immediate Want: resolve an old identity-record collision without deleting data just because it looks impossible. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: shows prior practice of placing conflicting records into review rather than overwriting them; one current living person is linked to an old death marker.
+- exact Immediate Want: resolve an old identity-record collision without deleting data just because it looks impossible.
 - exact End Turn: current address of one `dead` person exists.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

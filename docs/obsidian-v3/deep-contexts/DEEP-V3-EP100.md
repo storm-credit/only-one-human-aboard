@@ -39,7 +39,7 @@ FORECAST from EP099: End Turn=the changed schedule does not produce one downstre
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=understand whether his intervention caused the first deviation. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP099: End Turn=the changed schedule does not produce one downstre
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: traces one changed timetable to his own action and feels relief: `내가 바꿨다` explains the difference. Immediate Want: understand whether his intervention caused the first deviation. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: traces one changed timetable to his own action and feels relief: `내가 바꿨다` explains the difference.
+- exact Immediate Want: understand whether his intervention caused the first deviation.
 - exact End Turn: Mira reacts to a shared-memory reference in a way he cannot explain by his intervention.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

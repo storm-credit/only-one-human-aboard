@@ -39,11 +39,11 @@ FORECAST from EP299: End Turn=current Arun agrees to review evidence on his own 
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=discuss incompatible histories without asking which one is `real`. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: [주인공/TBD]
+- projected_active_core: [주인공/TBD], Arun
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP299: End Turn=current Arun agrees to review evidence on his own 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: protagonist shares evidence, current Arun rejects responsibility for acts another history's Arun performed and likewise refuses to blame protagonist for another counterpart's acts. Immediate Want: discuss incompatible histories without asking which one is `real`. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: protagonist shares evidence, current Arun rejects responsibility for acts another history's Arun performed and likewise refuses to blame protagonist for another counterpart's acts.
+- exact Immediate Want: discuss incompatible histories without asking which one is `real`.
 - exact End Turn: Arun possesses a current-life reason to help inspect one old incident source.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

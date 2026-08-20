@@ -39,7 +39,7 @@ FORECAST from EP103: End Turn=protagonist checks whether Niko/Gideon history als
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=prove the maintenance delta is a clerical error. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP103: End Turn=protagonist checks whether Niko/Gideon history als
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: multiple independent records/material states agree: this H-B component was replaced earlier under different circumstances. Immediate Want: prove the maintenance delta is a clerical error. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: multiple independent records/material states agree: this H-B component was replaced earlier under different circumstances.
+- exact Immediate Want: prove the maintenance delta is a clerical error.
 - exact End Turn: Niko's qualification status also differs.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

@@ -76,12 +76,12 @@ FORECAST from EP268: End Turn=short-term network becomes even more dependent on 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: experiences the human cost of protagonist's disablement, government restrictions, local blockades and market shortages all at once; blame attaches to visible names because causes are complex. Immediate Want: get medicine/power/transport for a household during prolonged curtailment. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: experiences the human cost of protagonist's disablement, government restrictions, local blockades and market shortages all at once; blame attaches to visible names because causes are complex.
+- exact Immediate Want: get medicine/power/transport for a household during prolonged curtailment.
 - exact End Turn: the cross-group route could be formalized if institutions/groups accept neutrality.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

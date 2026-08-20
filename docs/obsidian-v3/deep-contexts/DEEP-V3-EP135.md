@@ -39,7 +39,7 @@ FORECAST from EP134: End Turn=protagonist realizes another claimant could become
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=decide what to do with the evidence. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP134: End Turn=protagonist realizes another claimant could become
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: agrees to limited handling rather than public revelation because evidence proves inconsistency, not mechanism. Immediate Want: decide what to do with the evidence. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: agrees to limited handling rather than public revelation because evidence proves inconsistency, not mechanism.
+- exact Immediate Want: decide what to do with the evidence.
 - exact End Turn: rumor nevertheless leaks through an ordinary channel.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

@@ -39,11 +39,11 @@ FORECAST from EP128: End Turn=protagonist is left with evidence but no oracle. |
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=re-audit his own H-A memories using the same skeptical standard. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: [주인공/TBD], Mira
+- projected_active_core: [주인공/TBD], Mira, Arun
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP128: End Turn=protagonist is left with evidence but no oracle. |
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: categorizes what is verified, contradicted, untestable, and emotionally distorted; Arun memory remains especially loaded. Immediate Want: re-audit his own H-A memories using the same skeptical standard. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: categorizes what is verified, contradicted, untestable, and emotionally distorted; Arun memory remains especially loaded.
+- exact Immediate Want: re-audit his own H-A memories using the same skeptical standard.
 - exact End Turn: family/community life produces a small H-B fact he genuinely likes despite its difference.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

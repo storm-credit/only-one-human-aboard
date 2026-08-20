@@ -39,7 +39,7 @@ FORECAST from EP276: End Turn=city enters exhausted stabilization rather than vi
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=begin safe long-term work in a city that cannot return quickly to its old baseline. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP276: End Turn=city enters exhausted stabilization rather than vi
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: surveys displaced housing, damaged utilities and reduced-capacity systems; chooses a repair priority based on physical dependency, not nostalgia. Immediate Want: begin safe long-term work in a city that cannot return quickly to its old baseline. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: surveys displaced housing, damaged utilities and reduced-capacity systems; chooses a repair priority based on physical dependency, not nostalgia.
+- exact Immediate Want: begin safe long-term work in a city that cannot return quickly to its old baseline.
 - exact End Turn: an old external-observation dataset is reexamined amid recovery work.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

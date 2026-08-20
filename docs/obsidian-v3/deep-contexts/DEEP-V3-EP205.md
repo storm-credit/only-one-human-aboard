@@ -39,7 +39,7 @@ FORECAST from EP204: End Turn=Arun states a fact about the old incident that dir
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=test Arun's version against H-B evidence. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP204: End Turn=Arun states a fact about the old incident that dir
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: Arun says the closure sequence/outcome differed; protagonist insists on details, risking treating him as witness rather than person. Immediate Want: test Arun's version against H-B evidence. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: Arun says the closure sequence/outcome differed; protagonist insists on details, risking treating him as witness rather than person.
+- exact Immediate Want: test Arun's version against H-B evidence.
 - exact End Turn: Arun ends meeting because he has actual work/family obligations.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

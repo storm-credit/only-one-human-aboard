@@ -35,11 +35,11 @@ stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|characte
 - Current-lived namespace remains H-A; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Projected Incoming
-FORECAST from EP043: End Turn=visible rupture is followed by a second alarm from an adjacent electrical path. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
+FORECAST from EP043: End Turn=visible rupture is followed by a second alarm from an adjacent electrical path. | Continuity Output=T0 established.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=decide whether the rupture threatens surrounding structure. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP043: End Turn=visible rupture is followed by a second alarm from
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
+- Execution engine: identifies heat/coolant exposure beyond the visible break and refuses an immediate manual restart. Immediate Want: decide whether the rupture threatens surrounding structure. Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: identifies heat/coolant exposure beyond the visible break and refuses an immediate manual restart.
+- exact Immediate Want: decide whether the rupture threatens surrounding structure.
 - exact End Turn: first injured workers are reported beyond the closed corridor.
 - Concurrency preflight REQUIRED: router token ACT2_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.

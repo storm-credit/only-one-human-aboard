@@ -76,12 +76,12 @@ FORECAST from EP169: End Turn=Ivo's public statement causes immediate behavioral
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: prepares/answers public questions while living an otherwise ordinary life that has been overtaken by reputation. Immediate Want: warn people without surrendering the only certainty that gives his fractured experiences meaning. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: prepares/answers public questions while living an otherwise ordinary life that has been overtaken by reputation.
+- exact Immediate Want: warn people without surrendering the only certainty that gives his fractured experiences meaning.
 - exact End Turn: a prediction he just repeated is already becoming less likely because of public response.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

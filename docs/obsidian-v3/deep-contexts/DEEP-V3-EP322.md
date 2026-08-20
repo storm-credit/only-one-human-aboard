@@ -76,12 +76,12 @@ FORECAST from EP321: End Turn=Hana asks whether all indexed states were ever con
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: documents distinction among seed/archive, forecast, deeper civic models and full-lived histories from historical records/operations. Immediate Want: avoid turning scale reveal into claim of equally lived trillions without evidence. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: documents distinction among seed/archive, forecast, deeper civic models and full-lived histories from historical records/operations.
+- exact Immediate Want: avoid turning scale reveal into claim of equally lived trillions without evidence.
 - exact End Turn: some fully lived lineages clearly contain persons with independent claims.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

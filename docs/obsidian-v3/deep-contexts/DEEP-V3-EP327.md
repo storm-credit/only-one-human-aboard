@@ -39,7 +39,7 @@ FORECAST from EP326: End Turn=an immediate preservation/resource case requires s
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=respond to the first concrete post-reveal resource/rights problem. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP326: End Turn=an immediate preservation/resource case requires s
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: recognizes the new truth does not solve policy; it makes old categories inadequate. He contributes technical facts but cannot decide personhood alone. Immediate Want: respond to the first concrete post-reveal resource/rights problem. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: recognizes the new truth does not solve policy; it makes old categories inadequate. He contributes technical facts but cannot decide personhood alone.
+- exact Immediate Want: respond to the first concrete post-reveal resource/rights problem.
 - exact End Turn: the question becomes not `어느 세계가 진짜인가` but `살아 있는 계보를 누가 어떤 권리로 멈출 수 있는가`—expressed through the concrete threatened case, not narration slogan. [주인공/TBD]: **31** Hana: 4 — EP287, 290, 315, 322 Sora: 3 — EP293, 303, 318 Leila: 2 — EP295, 309 Arun: 2 — EP301, 325 Mira: 1 — EP281 Juno: 1 — EP285 ordinary claimant/successor: 2 — EP304, 307 Registry Worker: 1 — EP311 Ivo: 1 — EP298 Total: 48 Target: **31/48 = 64.6% protagonist-centered — exact PASS.** 1. post-collapse current life — EP280~287 2. institutional learning — EP284~295 3. social/relationship contradiction — EP296~303 4. continuity/personhood case — EP304~311 5. physical/namespace evidence — EP312~319 6. scale synthesis — EP320~327 PASS. D01 Arun FINAL PAYOFF D02 C4 apparent-regression FINAL PAYOFF D03 impossible infrastructure FINAL PAYOFF D04 memory leak FINAL PAYOFF D05 knowledge without history FINAL PAYOFF D06 protagonist NOT HUMAN partial payoff D08 uncountable lineage field FINAL PAYOFF D09 D3 rights TRIGGER PASS. Every technical reveal is attached to at least one: current repair/resource problem, claimant/family dispute, legal/security decision, relationship boundary, threatened preservation case. No two designed ontology-only episodes consecutively. PASS. Exact civilization total remains unknown. Astronomical breadth is inferred from namespace/generational/resource structure. Most indexed states are explicitly not assumed to be fully lived persons. PASS. Protagonist contributes indispensable physical/maintenance inference in B43 and carries emotional identity shift, but archive/security/medical/registry evidence remain distributed. PASS. **ACT7 EP280~327 BLUEPRINT v0.1 = PREWRITING PASS CANDIDATE / requires independent hostile QA before lock.**
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

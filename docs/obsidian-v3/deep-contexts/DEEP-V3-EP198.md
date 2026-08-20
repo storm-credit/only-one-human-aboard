@@ -43,7 +43,7 @@ FORECAST from EP197: End Turn=H-B public records indicate Arun is not dead. | Co
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: ordinary memorial/kinship lens
+- projected_active_core: ordinary memorial/kinship lens, family
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP197: End Turn=H-B public records indicate Arun is not dead. | Co
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: demonstrates that `death record contradiction` affects grief, inheritance and family identity, not just numbers. Immediate Want: deal with an old memorial record/family story tied to someone now alive or differently related. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: demonstrates that `death record contradiction` affects grief, inheritance and family identity, not just numbers.
+- exact Immediate Want: deal with an old memorial record/family story tied to someone now alive or differently related.
 - exact End Turn: protagonist is informed Arun has a current H-B work/home life.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

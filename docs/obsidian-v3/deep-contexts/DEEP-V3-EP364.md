@@ -39,7 +39,7 @@ FORECAST from EP363: End Turn=readiness can proceed as settlement transition bec
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=integrate HUMAN reveal with D3 rights without ranking them. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP363: End Turn=readiness can proceed as settlement transition bec
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: behaves consistently: supports protection of the one because it is a living continuity, and of D3 persons for the same personhood/continuity reasons, not because labels match. Immediate Want: integrate HUMAN reveal with D3 rights without ranking them. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: behaves consistently: supports protection of the one because it is a living continuity, and of D3 persons for the same personhood/continuity reasons, not because labels match.
+- exact Immediate Want: integrate HUMAN reveal with D3 rights without ranking them.
 - exact End Turn: settlement transition now forces choices about what kinds of lived branching continue.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

@@ -76,12 +76,12 @@ FORECAST from EP308: End Turn=the destination binding still makes no sense. | Co
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: shows why uninterrupted active continuity and later reconstruction are not medically/ethically equivalent; does not claim a final metaphysical definition of self. Immediate Want: separate biological/subjective continuity questions from archive-copy language. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: shows why uninterrupted active continuity and later reconstruction are not medically/ethically equivalent; does not claim a final metaphysical definition of self.
+- exact Immediate Want: separate biological/subjective continuity questions from archive-copy language.
 - exact End Turn: Registry Worker locates the destination-binding record family.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

@@ -76,12 +76,12 @@ FORECAST from EP354: End Turn=legal body must set temporary rule. | Continuity O
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: adopts temporary protections: no destructive closeout merely because test ended; quiescence distinguished from termination; affected representation required; new involuntary D3 creation restricted/suspended pending review. Immediate Want: create a lawful bridge until permanent constitutional settlement can occur. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: adopts temporary protections: no destructive closeout merely because test ended; quiescence distinguished from termination; affected representation required; new involuntary D3 creation restricted/suspended pending review.
+- exact Immediate Want: create a lawful bridge until permanent constitutional settlement can occur.
 - exact End Turn: physical HUMAN preservation route reaches a final-approach transition window.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

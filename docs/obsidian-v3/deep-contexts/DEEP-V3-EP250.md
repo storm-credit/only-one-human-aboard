@@ -76,12 +76,12 @@ FORECAST from EP249: End Turn=Hana decides whether to release historical allocat
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: releases a bounded record set showing past emergency allocations and mistakes, while withholding unverified lineage/HUMAN speculation. Immediate Want: preserve truth while avoiding a misleading partial release during crisis. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: releases a bounded record set showing past emergency allocations and mistakes, while withholding unverified lineage/HUMAN speculation.
+- exact Immediate Want: preserve truth while avoiding a misleading partial release during crisis.
 - exact End Turn: release validates some public grievances and disproves others.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

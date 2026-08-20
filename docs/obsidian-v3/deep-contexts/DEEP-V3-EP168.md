@@ -76,12 +76,12 @@ FORECAST from EP167: End Turn=Sora learns Cassian once acted on a similar fragme
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: establishes no direct contact between them; their information may have independent origin. Immediate Want: investigate Ivo/Cassian linkage without turning rare carriers into public assets or detainees. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: establishes no direct contact between them; their information may have independent origin.
+- exact Immediate Want: investigate Ivo/Cassian linkage without turning rare carriers into public assets or detainees.
 - exact End Turn: Ivo chooses to speak publicly despite advice.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

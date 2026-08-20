@@ -76,12 +76,12 @@ FORECAST from EP372: End Turn=settlement capacity must be allocated before all i
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: uses need/readiness/safety constraints rather than H-B priority; some H-B groups wait despite being protagonist's home society. Immediate Want: allocate scarce early power/storage/transport/embodiment windows across active lineages and functions. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: uses need/readiness/safety constraints rather than H-B priority; some H-B groups wait despite being protagonist's home society.
+- exact Immediate Want: allocate scarce early power/storage/transport/embodiment windows across active lineages and functions.
 - exact End Turn: persistent local continuity modes are requested for work that cannot tolerate long communication delay.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

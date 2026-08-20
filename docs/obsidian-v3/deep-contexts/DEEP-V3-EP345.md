@@ -76,12 +76,12 @@ FORECAST from EP344: End Turn=branch-born child exposes source-ownership logic a
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: demonstrates child has developmental history, relationships and needs entirely within this lived lineage; no external original exists to `restore` instead. Immediate Want: secure ordinary care/continuity for the child while adults contest the system action. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: demonstrates child has developmental history, relationships and needs entirely within this lived lineage; no external original exists to `restore` instead.
+- exact Immediate Want: secure ordinary care/continuity for the child while adults contest the system action.
 - exact End Turn: old doctrine treats lineage relation more like one continuity family than current citizens find acceptable.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

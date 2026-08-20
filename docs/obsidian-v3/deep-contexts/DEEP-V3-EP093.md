@@ -39,7 +39,7 @@ FORECAST from EP092: End Turn=one maintenance/access identifier resolves incorre
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=verify a localized continuity of service/control before leaving a dangerous pocket. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP092: End Turn=one maintenance/access identifier resolves incorre
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
+- Execution engine: power/thermal instability forces emergency system migration/failover at an invisible deeper layer while protagonist is still actively engaged in a hazardous local task. His experienced environment develops a brief impossible continuity break. Immediate Want: verify a localized continuity of service/control before leaving a dangerous pocket. Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: power/thermal instability forces emergency system migration/failover at an invisible deeper layer while protagonist is still actively engaged in a hazardous local task. His experienced environment develops a brief impossible continuity break.
+- exact Immediate Want: verify a localized continuity of service/control before leaving a dangerous pocket.
 - exact End Turn: sensory/operational interruption at apparent lethal threshold.
 - Concurrency preflight REQUIRED: router token ACT2_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.

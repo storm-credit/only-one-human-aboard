@@ -39,7 +39,7 @@ FORECAST from EP139: End Turn=Cassian voluntarily supplies some records but with
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=test Cassian's track record against misses. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP139: End Turn=Cassian voluntarily supplies some records but with
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: discovers many failed preparations and false alarms hidden by reputation; accuracy drops substantially. Immediate Want: test Cassian's track record against misses. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: discovers many failed preparations and false alarms hidden by reputation; accuracy drops substantially.
+- exact Immediate Want: test Cassian's track record against misses.
 - exact End Turn: a popular media account claims a precise upcoming incident.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

@@ -76,12 +76,12 @@ FORECAST from EP245: End Turn=a strategic facility suffers obstruction/sabotage 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: expands one emergency zone after a real violent/obstructive incident but sets review boundaries that hardliners dislike. Immediate Want: protect the facility and civilians without turning temporary controls permanent by inertia. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: expands one emergency zone after a real violent/obstructive incident but sets review boundaries that hardliners dislike.
+- exact Immediate Want: protect the facility and civilians without turning temporary controls permanent by inertia.
 - exact End Turn: security sweeps delay a legitimate community shipment.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

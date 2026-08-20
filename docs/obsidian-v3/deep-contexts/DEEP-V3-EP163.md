@@ -76,12 +76,12 @@ FORECAST from EP162: End Turn=Sora finds the original fragment source was earlie
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: source chain narrows to a person whose claim predates media frenzy and lacks access to relevant records. Immediate Want: trace original accurate fragment without exposing protected cases. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: source chain narrows to a person whose claim predates media frenzy and lacks access to relevant records.
+- exact Immediate Want: trace original accurate fragment without exposing protected cases.
 - exact End Turn: the person has made other claims—some wrong, some disturbingly specific.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

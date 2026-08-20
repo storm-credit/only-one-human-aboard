@@ -76,12 +76,12 @@ FORECAST from EP401: End Turn=ordinary service priorities compete with rebuildin
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: hands some emergency control back to ordinary institutions while keeping useful relationships. Immediate Want: reopen/extend ordinary community food/service routines across the new geography without turning crisis mutual aid into permanent private power. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: hands some emergency control back to ordinary institutions while keeping useful relationships.
+- exact Immediate Want: reopen/extend ordinary community food/service routines across the new geography without turning crisis mutual aid into permanent private power.
 - exact End Turn: families begin choosing whether/when to move, stay, or split across locations.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

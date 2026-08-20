@@ -76,12 +76,12 @@ FORECAST from EP387: End Turn=medical team has local embodied persons exposed to
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: triages real injuries and refuses language treating them as replaceable because related lineages/backups exist. Immediate Want: stabilize physically local persistent persons when evacuation/link recovery is uncertain. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: triages real injuries and refuses language treating them as replaceable because related lineages/backups exist.
+- exact Immediate Want: stabilize physically local persistent persons when evacuation/link recovery is uncertain.
 - exact End Turn: one local clinic/power node must operate autonomously.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

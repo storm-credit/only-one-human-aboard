@@ -76,12 +76,12 @@ FORECAST from EP232: End Turn=theft/diversion accusations begin around scarce pa
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: regulars demand priority; outsiders arrive because formal services are slow. Juno creates a mixed rule that angers long-time members. Immediate Want: expand mutual-aid purchasing/distribution without turning the network into an insider cartel. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: regulars demand priority; outsiders arrive because formal services are slow. Juno creates a mixed rule that angers long-time members.
+- exact Immediate Want: expand mutual-aid purchasing/distribution without turning the network into an insider cartel.
 - exact End Turn: black-market offers appear for strategic parts and service slots.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

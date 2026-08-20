@@ -76,12 +76,12 @@ FORECAST from EP158: End Turn=last active threat moves toward medical/evacuation
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: current triage differs from predicted casualty list; a person believed doomed under the warning survives, another unexpected person is injured. Immediate Want: manage casualties created by the altered attack route. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: current triage differs from predicted casualty list; a person believed doomed under the warning survives, another unexpected person is injured.
+- exact Immediate Want: manage casualties created by the altered attack route.
 - exact End Turn: security indicates main attack is contained.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

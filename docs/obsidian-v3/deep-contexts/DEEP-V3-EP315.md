@@ -76,12 +76,12 @@ FORECAST from EP314: End Turn=Hana finds metadata associating deep states with s
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: shows term migrated from model/version ancestry into civic/person continuity records as execution depth increased; semantics changed over centuries. Immediate Want: establish what `lineage` historically meant in mission records. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: shows term migrated from model/version ancestry into civic/person continuity records as execution depth increased; semantics changed over centuries.
+- exact Immediate Want: establish what `lineage` historically meant in mission records.
 - exact End Turn: some deep-lineage records include births/families/institutions, not just test agents.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

@@ -43,7 +43,7 @@ FORECAST from EP205: End Turn=Arun ends meeting because he has actual work/famil
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: Arun H-B, Arun
+- projected_active_core: Arun H-B, Arun, family
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP205: End Turn=Arun ends meeting because he has actual work/famil
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: handles a real job/family obligation and privately processes protagonist's claim. His current colleagues know a different history. Immediate Want: get back to his current life after being confronted by someone carrying another version of him. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: handles a real job/family obligation and privately processes protagonist's claim. His current colleagues know a different history.
+- exact Immediate Want: get back to his current life after being confronted by someone carrying another version of him.
 - exact End Turn: Arun decides to provide one current record because it matters to safety/history, not to comfort protagonist.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

@@ -76,12 +76,12 @@ FORECAST from EP300: End Turn=Arun possesses a current-life reason to help inspe
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: chooses bounded cooperation because the infrastructure/personhood issue affects current people, not because protagonist needs closure. Immediate Want: decide how much of his current life to risk for an investigation born from other versions of him. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: chooses bounded cooperation because the infrastructure/personhood issue affects current people, not because protagonist needs closure.
+- exact Immediate Want: decide how much of his current life to risk for an investigation born from other versions of him.
 - exact End Turn: their evidence points to an identity/continuity registry collision.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

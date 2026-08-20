@@ -76,12 +76,12 @@ FORECAST from EP272: End Turn=Selene must decide whether security will honor the
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: accepts bounded weapons/access guarantees and restrains her own forces from routine identity control inside corridor, while retaining response triggers. Immediate Want: protect neutral movement without converting it into another security-controlled zone. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: accepts bounded weapons/access guarantees and restrains her own forces from routine identity control inside corridor, while retaining response triggers.
+- exact Immediate Want: protect neutral movement without converting it into another security-controlled zone.
 - exact End Turn: first major civilian/supply movement starts.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

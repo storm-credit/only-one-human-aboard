@@ -76,12 +76,12 @@ FORECAST from EP338: End Turn=question shifts to who has rights over/around the 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: investigates access threats/claims; establishes uniqueness increases protection duty, not ownership entitlement. Immediate Want: prevent public/political groups from treating HUMAN:1 as property, key or sovereign artifact. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: investigates access threats/claims; establishes uniqueness increases protection duty, not ownership entitlement.
+- exact Immediate Want: prevent public/political groups from treating HUMAN:1 as property, key or sovereign artifact.
 - exact End Turn: Ivo's memories contain no reliable HUMAN identity clue despite public expectation.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

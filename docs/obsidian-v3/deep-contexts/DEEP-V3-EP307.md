@@ -76,12 +76,12 @@ FORECAST from EP306: End Turn=a second case lacks even the claimant's remembered
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: rejects restoration narrative; asks to be treated as current person with specific rights rather than replacement spouse/child/owner. Immediate Want: avoid being forced into a deceased person's role while retaining a legitimate current claim/need. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: rejects restoration narrative; asks to be treated as current person with specific rights rather than replacement spouse/child/owner.
+- exact Immediate Want: avoid being forced into a deceased person's role while retaining a legitimate current claim/need.
 - exact End Turn: Leila finds medical continuity metadata relevant to protagonist's Act2 event.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

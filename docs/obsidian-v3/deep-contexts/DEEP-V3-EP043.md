@@ -39,7 +39,7 @@ FORECAST from EP042: End Turn=next scheduled maintenance window is already on th
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=complete the rescheduled cooling-segment inspection before the route window closes. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP042: End Turn=next scheduled maintenance window is already on th
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
+- Execution engine: protagonist/Niko enter a normal maintenance window; trend is concerning but not evacuation-grade. A pressure/thermal transient becomes a sudden physical rupture. Immediate Want: complete the rescheduled cooling-segment inspection before the route window closes. Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: protagonist/Niko enter a normal maintenance window; trend is concerning but not evacuation-grade. A pressure/thermal transient becomes a sudden physical rupture.
+- exact Immediate Want: complete the rescheduled cooling-segment inspection before the route window closes.
 - exact End Turn: visible rupture is followed by a second alarm from an adjacent electrical path.
 - Concurrency preflight REQUIRED: router token ACT2_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
@@ -90,7 +90,7 @@ FORECAST from EP042: End Turn=next scheduled maintenance window is already on th
 
 ## Forecast Outgoing
 - projected End Turn: visible rupture is followed by a second alarm from an adjacent electrical path.
-- projected Continuity Output: No extra Blueprint continuity field; use End Turn as forecast selector only.
+- projected Continuity Output: T0 established.
 - semantics: FORECAST_NOT_ACTUAL. The next episode must consume realized prose delta when available, not blindly inherit this forecast.
 
 ## Dynamic Actual Placeholder

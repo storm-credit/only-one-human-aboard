@@ -76,12 +76,12 @@ FORECAST from EP384: End Turn=real external readings worsen beyond model bounds.
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: detects correlated power/control noise and rising thermal load tied to external environment, not local sabotage. Immediate Want: explain simultaneous errors across otherwise independent new nodes. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: detects correlated power/control noise and rising thermal load tied to external environment, not local sabotage.
+- exact Immediate Want: explain simultaneous errors across otherwise independent new nodes.
 - exact End Turn: several synchronized nodes enter protective mode while one unsynchronized node remains stable.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

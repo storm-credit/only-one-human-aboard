@@ -76,12 +76,12 @@ FORECAST from EP264: End Turn=immediate scarcity projections worsen. | Continuit
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: some members want a freight blockade; Juno permits a limited protest/slowdown but refuses medical denial. Outsiders question who gave her authority. Immediate Want: pressure formal allocation without turning community network into hostage-taking power. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: some members want a freight blockade; Juno permits a limited protest/slowdown but refuses medical denial. Outsiders question who gave her authority.
+- exact Immediate Want: pressure formal allocation without turning community network into hostage-taking power.
 - exact End Turn: a violent cell exploits the slowdown to approach a control point.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

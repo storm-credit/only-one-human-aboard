@@ -39,7 +39,7 @@ FORECAST from EP180: End Turn=one retired sector identifier maps to a place with
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=summarize only what can now be responsibly claimed. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP180: End Turn=one retired sector identifier maps to a place with
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: concludes: some people hold sincere fragments of incompatible lived pasts; predictions decay; current evidence shows at least two incompatible histories have left real traces. Immediate Want: summarize only what can now be responsibly claimed. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: concludes: some people hold sincere fragments of incompatible lived pasts; predictions decay; current evidence shows at least two incompatible histories have left real traces.
+- exact Immediate Want: summarize only what can now be responsibly claimed.
 - exact End Turn: a physical legacy site becomes the next question—something happened there that official H-B history says never happened. [주인공/TBD]: **29** Sora: 5 — EP139, 141, 155, 163, 168 Mira: 2 — EP145, 157 Selene: 2 — EP153, 161 Rafi/Leila: 1 — EP159 Juno/community: 1 — EP149 Ivo: 1 — EP170 Cassian: 1 — EP174 ordinary/media/fraud-victim: 3 — EP143, 147, 172 Total: 45 Target: **29/45 = 64.4% protagonist-centered — exact PASS.** Act3 one-off bounded L3 case remains bounded. Ivo = exceptional coherent carrier. Cassian = narrow L3 event/path. fraud/luck/copied info cases outnumber genuine examples. PASS. Predicted attack: threat is real, precautions alter path, current evidence resolves perpetrators/local mechanics, remembered sequence does not come true exactly. PASS. scam/fraud market travel/logistics behavior security/privacy policy Cassian wealth judgment Ivo public reputation institutional verification practice PASS. Act4 endpoint may support: `more than one incompatible lived history seems real; foreknowledge is memory of paths, not fixed future.` Still forbidden: ultradense substrate astronomical scale HUMAN:1 exact C4 mechanics system mission purpose PASS. **ACT4 EP137~181 BLUEPRINT v0.1 = PREWRITING PASS CANDIDATE / requires independent hostile QA before lock.**
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

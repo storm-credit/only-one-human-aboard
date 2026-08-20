@@ -39,11 +39,11 @@ FORECAST from EP056: End Turn=group clears, but several parents are stranded on 
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=update hazard map using field evidence without pretending he knows passenger movement. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: [주인공/TBD]
+- projected_active_core: [주인공/TBD], Mira, Selene
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP056: End Turn=group clears, but several parents are stranded on 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
+- Execution engine: combines structural readings with Mira/Selene reports; discovers simplified maintenance map omitted one legacy service relation. Immediate Want: update hazard map using field evidence without pretending he knows passenger movement. Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: combines structural readings with Mira/Selene reports; discovers simplified maintenance map omitted one legacy service relation.
+- exact Immediate Want: update hazard map using field evidence without pretending he knows passenger movement.
 - exact End Turn: Juno's venue is filling with stranded residents.
 - Concurrency preflight REQUIRED: router token ACT2_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.

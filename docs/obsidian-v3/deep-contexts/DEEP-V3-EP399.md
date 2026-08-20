@@ -39,11 +39,11 @@ FORECAST from EP398: End Turn=external disturbance begins easing/phase shifting,
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=secure remaining persistent continuities before disturbance returns or thermal reserve collapses. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: [주인공/TBD]
+- projected_active_core: [주인공/TBD], Mira, Selene
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP398: End Turn=external disturbance begins easing/phase shifting,
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: integrates Niko/local worker method, Mira resource allocation, Selene access guarantee and medical constraints into one bounded repair/evacuation operation. Immediate Want: secure remaining persistent continuities before disturbance returns or thermal reserve collapses. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: integrates Niko/local worker method, Mira resource allocation, Selene access guarantee and medical constraints into one bounded repair/evacuation operation.
+- exact Immediate Want: secure remaining persistent continuities before disturbance returns or thermal reserve collapses.
 - exact End Turn: operation succeeds enough for survival but not restoration of lost assets.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

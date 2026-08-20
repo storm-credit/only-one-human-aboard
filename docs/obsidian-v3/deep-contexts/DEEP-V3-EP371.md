@@ -76,12 +76,12 @@ FORECAST from EP370: End Turn=Meridian begins building/activating the first real
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: installs/activates shielding, local power and substrate-support hardware using a conservative staged sequence. One node is intentionally left unsynchronized until local checks finish. Immediate Want: bring the first ultradense settlement support package online within thermal/power limits. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: installs/activates shielding, local power and substrate-support hardware using a conservative staged sequence. One node is intentionally left unsynchronized until local checks finish.
+- exact Immediate Want: bring the first ultradense settlement support package online within thermal/power limits.
 - exact End Turn: first local environment readings differ slightly from model envelope.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

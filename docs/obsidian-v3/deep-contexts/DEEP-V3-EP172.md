@@ -76,12 +76,12 @@ FORECAST from EP171: End Turn=Cassian agrees to one interview after his past beh
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: contrasting testimonies show Cassian both profited and funded/created some protective capacity; reputation splits. Immediate Want: judge whether Cassian's prior preparation was exploitation or prudence after personal loss/cost. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: contrasting testimonies show Cassian both profited and funded/created some protective capacity; reputation splits.
+- exact Immediate Want: judge whether Cassian's prior preparation was exploitation or prudence after personal loss/cost.
 - exact End Turn: evidence shows Cassian once dumped an advantage publicly at personal cost.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

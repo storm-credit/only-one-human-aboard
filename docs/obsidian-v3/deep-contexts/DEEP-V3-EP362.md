@@ -39,7 +39,7 @@ FORECAST from EP361: End Turn=one support dependency overlaps settlement prepara
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=evaluate whether protecting HUMAN:1 unfairly drains lived lineages/current citizens. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP361: End Turn=one support dependency overlaps settlement prepara
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: finds cost is real but not the dominant mission load; protection is one obligation among many. Tradeoffs exist but 300k citizens do not exist solely for one continuity. Immediate Want: evaluate whether protecting HUMAN:1 unfairly drains lived lineages/current citizens. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: finds cost is real but not the dominant mission load; protection is one obligation among many. Tradeoffs exist but 300k citizens do not exist solely for one continuity.
+- exact Immediate Want: evaluate whether protecting HUMAN:1 unfairly drains lived lineages/current citizens.
 - exact End Turn: Leila verifies gestation/transition medical boundary.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

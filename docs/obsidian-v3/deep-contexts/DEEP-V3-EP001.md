@@ -114,13 +114,12 @@ Router: [[../contexts/CTX-V3-EP001]] · Episode: [[../episodes/EP-V3-001]]
 - next_episode_carry: continue one layer upstream without converting case into mystery.
 
 ## Dynamic Actual Placeholder
-- realized_relationship_delta: PENDING
-- realized_knowledge_delta: PENDING
-- realized_material_delta: PENDING
-- realized_world_institution_delta: PENDING
-- realized_asset_lifecycle_delta: PENDING
-- actual_next_episode_carry: PENDING
-
+realized_relationship_delta: PENDING
+realized_knowledge_delta: PENDING
+realized_material_delta: PENDING
+realized_world_institution_delta: PENDING
+realized_asset_lifecycle_delta: PENDING
+actual_next_episode_carry: PENDING
 ## Retrieval Compile Map
 1. Episode Card → exact EP001 Blueprint only.
 2. Immediate Continuity → Projected Incoming + JIT actual when available.

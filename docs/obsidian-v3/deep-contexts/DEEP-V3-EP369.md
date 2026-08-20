@@ -76,12 +76,12 @@ FORECAST from EP368: End Turn=first deployment schedule must be protected under 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: accepts review/representation constraints and narrower mandate despite upcoming physical risk. Immediate Want: build security rules for cross-lineage settlement preparation without turning emergency command into sovereign rule. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: accepts review/representation constraints and narrower mandate despite upcoming physical risk.
+- exact Immediate Want: build security rules for cross-lineage settlement preparation without turning emergency command into sovereign rule.
 - exact End Turn: first external settlement hardware deployment is approved.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

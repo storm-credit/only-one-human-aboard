@@ -76,12 +76,12 @@ FORECAST from EP189: End Turn=Hana finds an old casualty-service code near the s
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: finds logistics, temporary shelter or maintenance aftermath references that lack a corresponding H-B disaster entry. Immediate Want: identify what event generated casualty-service records without inventing a label. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: finds logistics, temporary shelter or maintenance aftermath references that lack a corresponding H-B disaster entry.
+- exact Immediate Want: identify what event generated casualty-service records without inventing a label.
 - exact End Turn: one document references a registry batch that still exists.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

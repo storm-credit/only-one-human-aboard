@@ -39,7 +39,7 @@ FORECAST from EP285: End Turn=protagonist learns similar unexplained safeguards 
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=test whether missing-origin knowledge is just archival decay. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP285: End Turn=protagonist learns similar unexplained safeguards 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: compiles a small cross-domain sample—engineering, emergency procedure, perhaps law/cultural taboo—too patterned to dismiss but not enough to explain mechanism. Immediate Want: test whether missing-origin knowledge is just archival decay. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: compiles a small cross-domain sample—engineering, emergency procedure, perhaps law/cultural taboo—too patterned to dismiss but not enough to explain mechanism.
+- exact Immediate Want: test whether missing-origin knowledge is just archival decay.
 - exact End Turn: Hana finds one safeguard tied to an event record that exists only in an incompatible history set.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

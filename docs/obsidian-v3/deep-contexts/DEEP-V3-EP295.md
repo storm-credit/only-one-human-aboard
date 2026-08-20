@@ -76,12 +76,12 @@ FORECAST from EP294: End Turn=Leila reports a continuity/identity case where `sa
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: enforces current consent/identity boundaries; documents that memory similarity does not establish subjective continuity. Immediate Want: manage a patient/claimant conflict where current person is being treated as substitute for someone from another remembered history. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: enforces current consent/identity boundaries; documents that memory similarity does not establish subjective continuity.
+- exact Immediate Want: manage a patient/claimant conflict where current person is being treated as substitute for someone from another remembered history.
 - exact End Turn: protagonist recognizes the case resembles how he treated Arun.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

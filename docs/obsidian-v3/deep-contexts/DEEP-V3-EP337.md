@@ -76,12 +76,12 @@ FORECAST from EP336: End Turn=exact old count remains uncertain in damaged recor
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: identifies several real outer-ark loss eras, independent degradation and progressively stricter preservation priority as count fell. Immediate Want: reconstruct attrition chronology without inventing precise numbers from gaps. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: identifies several real outer-ark loss eras, independent degradation and progressively stricter preservation priority as count fell.
+- exact Immediate Want: reconstruct attrition chronology without inventing precise numbers from gaps.
 - exact End Turn: one major loss event intersects known Outer Ark physical history.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

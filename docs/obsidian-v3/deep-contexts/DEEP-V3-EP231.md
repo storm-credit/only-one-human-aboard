@@ -76,12 +76,12 @@ FORECAST from EP230: End Turn=Transfer Belt begins formal curtailment. | Continu
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: cuts convenience/commercial slots, delays one politically connected shipment and still cannot satisfy essential requests. Immediate Want: allocate reduced freight/transit capacity among medical, food, maintenance and ordinary commerce. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: cuts convenience/commercial slots, delays one politically connected shipment and still cannot satisfy essential requests.
+- exact Immediate Want: allocate reduced freight/transit capacity among medical, food, maintenance and ordinary commerce.
 - exact End Turn: Midring community networks start bulk-buying/organizing around delays.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

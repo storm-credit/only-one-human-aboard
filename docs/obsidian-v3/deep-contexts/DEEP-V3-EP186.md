@@ -76,12 +76,12 @@ FORECAST from EP185: End Turn=access to adjacent retired registry zone requires 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: separates safety inspection, criminal evidence, privacy and heritage records; denies one broad access request from protagonist. Immediate Want: authorize evidence-safe access without contaminating possible investigation. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: separates safety inspection, criminal evidence, privacy and heritage records; denies one broad access request from protagonist.
+- exact Immediate Want: authorize evidence-safe access without contaminating possible investigation.
 - exact End Turn: a family/ordinary person notices an old memorial marker associated with the area.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

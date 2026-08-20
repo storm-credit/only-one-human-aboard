@@ -76,12 +76,12 @@ FORECAST from EP317: End Turn=Sora traces rare memory cases to isolation/integri
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: correlation shows genuine cases cluster around rare integrity/isolation anomalies; no stable access method and no repeatable occult/technical query. Immediate Want: determine whether genuine rememberers are deliberate information channels or failures. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: correlation shows genuine cases cluster around rare integrity/isolation anomalies; no stable access method and no repeatable occult/technical query.
+- exact Immediate Want: determine whether genuine rememberers are deliberate information channels or failures.
 - exact End Turn: one protected route clearly separates ordinary lineage infrastructure from HUMAN preservation chain.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

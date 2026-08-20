@@ -76,12 +76,12 @@ FORECAST from EP362: End Turn=Leila verifies gestation/transition medical bounda
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: sets developmental/medical criteria and future guardianship/privacy constraints; no research duty, no public-access entitlement. Immediate Want: ensure uniqueness does not erase consent/welfare safeguards for future individual. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: sets developmental/medical criteria and future guardianship/privacy constraints; no research duty, no public-access entitlement.
+- exact Immediate Want: ensure uniqueness does not erase consent/welfare safeguards for future individual.
 - exact End Turn: readiness can proceed as settlement transition becomes imminent.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

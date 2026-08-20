@@ -76,12 +76,12 @@ FORECAST from EP235: End Turn=security reports parts theft is real but not centr
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: separates black-market resale, desperate departmental hoarding, legitimate emergency transfers and one violent theft case. Immediate Want: stop strategic diversion without inventing a rebel organization that evidence does not support. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: separates black-market resale, desperate departmental hoarding, legitimate emergency transfers and one violent theft case.
+- exact Immediate Want: stop strategic diversion without inventing a rebel organization that evidence does not support.
 - exact End Turn: Transfer Belt congestion forces a dispatcher to improvise next week.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

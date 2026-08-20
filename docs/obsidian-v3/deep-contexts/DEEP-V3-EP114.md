@@ -76,12 +76,12 @@ FORECAST from EP113: End Turn=he still chooses to prevent known danger because p
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: refuses one preventative logistics change because it would impose real cost based only on his unverified memory; accepts a low-cost precaution instead. Immediate Want: keep work crisis contained while protagonist keeps treating remembered future as actionable. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: refuses one preventative logistics change because it would impose real cost based only on his unverified memory; accepts a low-cost precaution instead.
+- exact Immediate Want: keep work crisis contained while protagonist keeps treating remembered future as actionable.
 - exact End Turn: low-cost precaution later proves useful—but not for the event protagonist expected.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

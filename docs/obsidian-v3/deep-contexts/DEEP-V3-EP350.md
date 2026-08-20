@@ -76,12 +76,12 @@ FORECAST from EP349: End Turn=branch-born youth/child speaks or acts within fami
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: focuses on concrete current life rather than giving a philosophy speech; their existence makes `restore the original` meaningless in practice. Immediate Want: preserve one ordinary plan/object/relationship during uncertainty about quiescence. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: focuses on concrete current life rather than giving a philosophy speech; their existence makes `restore the original` meaningless in practice.
+- exact Immediate Want: preserve one ordinary plan/object/relationship during uncertainty about quiescence.
 - exact End Turn: formal review must choose immediate procedure.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

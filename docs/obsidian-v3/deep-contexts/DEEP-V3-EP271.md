@@ -76,12 +76,12 @@ FORECAST from EP270: End Turn=Mira/Juno/medical/security actors begin building a
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: recognizes the dispatcher's earlier temporary pattern has created stable contacts and usable timing across divided networks. Immediate Want: identify a route pattern that can move medical/civilian supplies without becoming faction-controlled. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: recognizes the dispatcher's earlier temporary pattern has created stable contacts and usable timing across divided networks.
+- exact Immediate Want: identify a route pattern that can move medical/civilian supplies without becoming faction-controlled.
 - exact End Turn: medical side must define neutral access rules.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

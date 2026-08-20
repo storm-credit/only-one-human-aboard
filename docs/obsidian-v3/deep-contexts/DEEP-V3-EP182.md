@@ -39,7 +39,7 @@ FORECAST from EP181: End Turn=a physical legacy site becomes the next question‚Ä
 
 ## Protagonist Context
 - POV: [Ï£ºÏù∏Í≥µ/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=inspect a retired service complex because current safety work requires it. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP181: End Turn=a physical legacy site becomes the next question‚Ä
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: earns access through a real maintenance/safety need, not curiosity alone; route is awkward but known to exist. Immediate Want: inspect a retired service complex because current safety work requires it. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: earns access through a real maintenance/safety need, not curiosity alone; route is awkward but known to exist.
+- exact Immediate Want: inspect a retired service complex because current safety work requires it.
 - exact End Turn: one sealed route suggests an older traffic/service pattern absent from current maps.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

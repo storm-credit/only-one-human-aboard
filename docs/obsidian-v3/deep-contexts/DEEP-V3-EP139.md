@@ -76,12 +76,12 @@ FORECAST from EP138: End Turn=one move occurred before any plausible public warn
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: separates legal preparation, suspicious contacts, rumor access and actual nonpublic information channels. Immediate Want: establish a lawful predicate before treating Cassian as criminal. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: separates legal preparation, suspicious contacts, rumor access and actual nonpublic information channels.
+- exact Immediate Want: establish a lawful predicate before treating Cassian as criminal.
 - exact End Turn: Cassian voluntarily supplies some records but withholds one private planning source.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

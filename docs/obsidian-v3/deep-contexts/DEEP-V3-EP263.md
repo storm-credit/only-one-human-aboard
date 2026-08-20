@@ -76,12 +76,12 @@ FORECAST from EP262: End Turn=civic pressure asks for a binary recommendation. |
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: rejects one demand for indiscriminate compulsory staffing but authorizes narrow protection around strategic systems. Immediate Want: maintain access/order as workers and districts contest restart. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: rejects one demand for indiscriminate compulsory staffing but authorizes narrow protection around strategic systems.
+- exact Immediate Want: maintain access/order as workers and districts contest restart.
 - exact End Turn: Juno's network considers blocking freight to force medical allocation change.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

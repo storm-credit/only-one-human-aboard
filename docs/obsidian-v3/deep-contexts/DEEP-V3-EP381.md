@@ -76,12 +76,12 @@ FORECAST from EP380: End Turn=Selene faces a concrete request to expand emergenc
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: rejects permanent broad search/access power and adopts event-triggered bounded jurisdiction. Immediate Want: protect strategic deployment assets without turning settlers/lineages into controlled subjects. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: rejects permanent broad search/access power and adopts event-triggered bounded jurisdiction.
+- exact Immediate Want: protect strategic deployment assets without turning settlers/lineages into controlled subjects.
 - exact End Turn: one operational bottleneck tempts administrators to prioritize H-B automatically.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

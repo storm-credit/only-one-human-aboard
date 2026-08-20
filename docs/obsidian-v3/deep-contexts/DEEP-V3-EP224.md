@@ -76,12 +76,12 @@ FORECAST from EP223: End Turn=physical preservation chain access becomes the onl
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: prepares a narrow factual disclosure: field exists/current count=1/meaning unknown; withholds protected identity guesses. Immediate Want: decide what evidence can be released without turning uncertain classification into a witch hunt. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: prepares a narrow factual disclosure: field exists/current count=1/meaning unknown; withholds protected identity guesses.
+- exact Immediate Want: decide what evidence can be released without turning uncertain classification into a witch hunt.
 - exact End Turn: release fails to stop speculation but makes false claims easier to challenge.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

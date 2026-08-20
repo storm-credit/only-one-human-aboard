@@ -76,12 +76,12 @@ FORECAST from EP286: End Turn=Hana finds one safeguard tied to an event record t
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: provenance shows the rule entered current institutional ancestry without a matching local disaster narrative; transfer/migration language appears in old metadata but remains semantically ambiguous. Immediate Want: prove whether one institutional safeguard predates its supposed H-B rationale. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: provenance shows the rule entered current institutional ancestry without a matching local disaster narrative; transfer/migration language appears in old metadata but remains semantically ambiguous.
+- exact Immediate Want: prove whether one institutional safeguard predates its supposed H-B rationale.
 - exact End Turn: the language points toward other records describing `lineage`/`depth` in nonfamily/nonpersonnel contexts.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

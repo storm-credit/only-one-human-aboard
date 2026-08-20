@@ -76,12 +76,12 @@ FORECAST from EP144: End Turn=Mira reports unusual evacuation/asset movement aro
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: manages abnormal travel/freight behavior, including Cassian-linked logistics reservations and ordinary panic cancellations. Immediate Want: keep network stable while citizens/businesses self-reroute because of prediction rumors. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: manages abnormal travel/freight behavior, including Cassian-linked logistics reservations and ordinary panic cancellations.
+- exact Immediate Want: keep network stable while citizens/businesses self-reroute because of prediction rumors.
 - exact End Turn: a real security anomaly appears at the predicted target family.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

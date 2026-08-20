@@ -76,12 +76,12 @@ FORECAST from EP292: End Turn=Sora finds no evidence of ordinary illegal siphoni
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: finds access compartmentalization and inherited automatic restrictions, but no current conspiracy group with full understanding. Immediate Want: determine whether a contemporary institution knowingly concealed the protected load. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: finds access compartmentalization and inherited automatic restrictions, but no current conspiracy group with full understanding.
+- exact Immediate Want: determine whether a contemporary institution knowingly concealed the protected load.
 - exact End Turn: one preservation incident links the load to continuity cases.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

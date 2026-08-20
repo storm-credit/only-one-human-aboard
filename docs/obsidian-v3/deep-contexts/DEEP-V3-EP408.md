@@ -76,12 +76,12 @@ FORECAST from EP407: End Turn=Natural-Origin birth/first-life milestone occurs o
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: HUMAN:1 enters first lived social/medical record as a child/person under care. No speech, key, authority or supernatural reaction. Immediate Want: perform ordinary safe neonatal/developmental care and complete required records. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: HUMAN:1 enters first lived social/medical record as a child/person under care. No speech, key, authority or supernatural reaction.
+- exact Immediate Want: perform ordinary safe neonatal/developmental care and complete required records.
 - exact End Turn: elsewhere, the city/settlement day continues.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

@@ -76,12 +76,12 @@ FORECAST from EP195: End Turn=the person's family history contains a gap matchin
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: physical repairs + casualty logistics + memorial + registry collision converge; no single file explains mechanism. Immediate Want: decide whether enough independent evidence exists to classify the history anomaly as real. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: physical repairs + casualty logistics + memorial + registry collision converge; no single file explains mechanism.
+- exact Immediate Want: decide whether enough independent evidence exists to classify the history anomaly as real.
 - exact End Turn: one old incident reference contains the name `Arun Kalev` where protagonist expects a dead colleague.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

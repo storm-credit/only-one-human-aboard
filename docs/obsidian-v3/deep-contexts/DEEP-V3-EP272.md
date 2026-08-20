@@ -76,12 +76,12 @@ FORECAST from EP271: End Turn=medical side must define neutral access rules. | C
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: with Leila/community contacts, proposes condition-based medical/civilian movement rather than group identity priority. Immediate Want: design transport priority that factions cannot easily capture. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: with Leila/community contacts, proposes condition-based medical/civilian movement rather than group identity priority.
+- exact Immediate Want: design transport priority that factions cannot easily capture.
 - exact End Turn: Selene must decide whether security will honor the corridor even for distrusted groups.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

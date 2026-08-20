@@ -43,7 +43,7 @@ FORECAST from EP351: End Turn=current law lacks a clean category for lineage-lev
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: Leila
+- projected_active_core: Leila, family
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP351: End Turn=current law lacks a clean category for lineage-lev
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: distinguishes individual continuity safeguards, family decisions and polity-level representation. Immediate Want: prevent person-level clinical consent rules from being stretched into fake consent for an entire society. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: distinguishes individual continuity safeguards, family decisions and polity-level representation.
+- exact Immediate Want: prevent person-level clinical consent rules from being stretched into fake consent for an entire society.
 - exact End Turn: civic review proposes temporary trusteeship/representation mechanism.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

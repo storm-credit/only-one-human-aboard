@@ -76,12 +76,12 @@ FORECAST from EP259: End Turn=workaround helps immediately but changes load else
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: finds most of it sound and one hidden system interaction dangerous; preserves useful method while ordering correction. Immediate Want: evaluate Niko's workaround fairly rather than defend senior authority. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: finds most of it sound and one hidden system interaction dangerous; preserves useful method while ordering correction.
+- exact Immediate Want: evaluate Niko's workaround fairly rather than defend senior authority.
 - exact End Turn: broader high-capacity path approaches a politically forced restart decision.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

@@ -76,12 +76,12 @@ FORECAST from EP119: End Turn=the claimant reportedly knows one physical detail 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: separates distress, factual claim and consent; refuses security/protagonist pressure for unrestricted disclosure. Immediate Want: treat/protect the claimant without turning them into a specimen or prophet. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: separates distress, factual claim and consent; refuses security/protagonist pressure for unrestricted disclosure.
+- exact Immediate Want: treat/protect the claimant without turning them into a specimen or prophet.
 - exact End Turn: authorized detail points to a closed/ordinary location.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

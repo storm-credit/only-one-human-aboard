@@ -76,12 +76,12 @@ FORECAST from EP148: End Turn=the earliest source of the original prediction rem
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: handles cancellations, scared parents and volunteers; refuses to turn venue into rumor-command center. Immediate Want: keep community/business service functioning through rumor-driven avoidance. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: handles cancellations, scared parents and volunteers; refuses to turn venue into rumor-command center.
+- exact Immediate Want: keep community/business service functioning through rumor-driven avoidance.
 - exact End Turn: one regular customer reports seeing suspicious pre-positioned equipment near target route.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

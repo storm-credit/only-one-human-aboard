@@ -76,12 +76,12 @@ FORECAST from EP216: End Turn=Mira reports public rumor of `one real human` begi
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: sees travel, market and workplace behavior react before facts exist; she refuses protagonist-centered speculation. Immediate Want: manage operational disruption as rumors reinterpret `HUMAN:1` into chosen survivor/secret ruler stories. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: sees travel, market and workplace behavior react before facts exist; she refuses protagonist-centered speculation.
+- exact Immediate Want: manage operational disruption as rumors reinterpret `HUMAN:1` into chosen survivor/secret ruler stories.
 - exact End Turn: one rumor targets a restricted facility, creating real security/resource consequences.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

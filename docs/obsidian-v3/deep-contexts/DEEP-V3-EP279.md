@@ -39,7 +39,7 @@ FORECAST from EP278: End Turn=protagonist notices the more immediate puzzle: som
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=orient himself in the post-collapse H-B rather than search for H-A restoration. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP278: End Turn=protagonist notices the more immediate puzzle: som
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: moves through funerals, relocation, lower-capacity services and new community/institution patterns; connects physical resource anomalies, absent-history evidence and unpredictable social choices as pieces of a larger question. Immediate Want: orient himself in the post-collapse H-B rather than search for H-A restoration. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: moves through funerals, relocation, lower-capacity services and new community/institution patterns; connects physical resource anomalies, absent-history evidence and unpredictable social choices as pieces of a larger question.
+- exact Immediate Want: orient himself in the post-collapse H-B rather than search for H-A restoration.
 - exact End Turn: an inherited procedure/record with no local origin becomes the first concrete Act7 investigation path. [주인공/TBD]: **29** Mira: 4 — EP231, 239, 253, 271 Juno: 3 — EP233, 241, 265 Selene: 3 — EP246, 263, 273 Rafi: 2 — EP255, 272 Leila: 2 — EP257, 267 Sora: 2 — EP236, 248 Hana: 1 — EP250 Niko: 1 — EP259 Gideon: 1 — EP260 Transit Dispatcher: 1 — EP237 ordinary/community/family: 2 — EP243, 269 Total: 51 Target: **29/51 = 56.9% protagonist-centered — exact PASS.** B32 Week 1~2 B33 Week 2~3 B34 Week 3~4 B35 Week 4~6 B36 Week 6~8 B37 Week 8~9 B38 Week 9~10 PASS: multi-week collapse rather than endless firefight. Early 24 episodes predominantly scarcity/logistics/policy. Intermittent sabotage/violence begins B34. Concentrated infrastructure confrontation only late B36. B37~38 returns to negotiation, movement, repair and aftermath. PASS. real C3 capacity pressure deferred maintenance/technical risk hoarding/diversion/ordinary crime emergency-policy stress misinformation/public distrust sabotage/violent opportunism social-network cascade technical safety conflict PASS. Owns: accumulating-risk interpretation, refusal of unsafe signoff, high-capacity disablement/isolation decision, physical support to corridor, broader-load mystery inference. Does NOT own: Dispatcher route seed, Juno network, Mira allocation, medical rules, Selene emergency authority, Sora/Hana truth conflict, neutral corridor origin/design. PASS. Dispatcher action is ordinary at EP237 and not recognized as high leverage until EP271~276. Outcome is collective corridor, not one hero saving civilization. PASS. Deaths, displacement, damaged infrastructure, changed relationships and emergency legitimacy carry into Act7. No reset/new world. PASS. Echo Outside appears only EP278~279 as faint unresolved technical resemblance. No alien antagonist/contact arc. PASS. **ACT6 EP229~279 BLUEPRINT v0.1 = PREWRITING PASS CANDIDATE / requires independent hostile QA before lock.**
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

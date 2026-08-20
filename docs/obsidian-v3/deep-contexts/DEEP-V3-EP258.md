@@ -39,7 +39,7 @@ FORECAST from EP257: End Turn=technical apprentices begin bypassing authorizatio
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=stop unsafe unauthorized utility improvisations without shutting down all local initiative. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP257: End Turn=technical apprentices begin bypassing authorizatio
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: catches one useful but uncoordinated bypass that could create cross-load risk; formalizes a limited local-exception process instead of punishment-only response. Immediate Want: stop unsafe unauthorized utility improvisations without shutting down all local initiative. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: catches one useful but uncoordinated bypass that could create cross-load risk; formalizes a limited local-exception process instead of punishment-only response.
+- exact Immediate Want: stop unsafe unauthorized utility improvisations without shutting down all local initiative.
 - exact End Turn: Niko makes an independent choice anyway.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

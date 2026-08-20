@@ -39,7 +39,7 @@ FORECAST from EP369: End Turn=first external settlement hardware deployment is a
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=commit to the next stage without pretending all ethical questions are solved. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP369: End Turn=first external settlement hardware deployment is a
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: current temporary norm stands: no arbitrary deletion after test; quiescence separated from termination; new involuntary fully lived branching restricted; non-conscious forecasting may continue; cross-lineage compact governs immediate commons. Immediate Want: commit to the next stage without pretending all ethical questions are solved. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: current temporary norm stands: no arbitrary deletion after test; quiescence separated from termination; new involuntary fully lived branching restricted; non-conscious forecasting may continue; cross-lineage compact governs immediate commons.
+- exact Immediate Want: commit to the next stage without pretending all ethical questions are solved.
 - exact End Turn: Meridian begins building/activating the first real settlement commons where old histories cannot guarantee the answer. [주인공/TBD]: **26** Hana: 3 — EP329, 337, 358 Leila: 3 — EP332, 352, 363 D3 rights family: 4 — EP343, 345, 348, 350 Sora: 1 — EP339 Mira: 1 — EP366 Selene: 1 — EP369 civic/legal/review: 2 — EP334, 355 Ivo: 1 — EP342 continuity trustee/operator: 1 — EP361 Total: 43 Target: **26/43 = 60.5% protagonist-centered — exact PASS.** By EP334: `HUMAN = Natural-Origin departure-continuity legacy category`. By EP338: old HUMAN >1 and attrition logic are materially supported. By EP364: current last continuity/form/protection meaning substantially resolved. No chosen-one authority. PASS. adult rights explicit before/alongside child case, child has no source counterpart and is a new person, family generates practical proposal, law changes machine procedure, costs remain finite/real. PASS. Act includes: protected-load/access threats, live D3 quiescence/termination risk, finite resource tradeoffs, physical preservation inspection, gestation readiness, settlement capacity/representation decisions. More than half episodes have current operational stakes. PASS. Act8 does not solve permanent constitution. It creates temporary rights/transition rules sufficient to begin Act9. PASS. **ACT8 EP328~370 BLUEPRINT v0.1 = PREWRITING PASS CANDIDATE / requires independent hostile QA before lock.**
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

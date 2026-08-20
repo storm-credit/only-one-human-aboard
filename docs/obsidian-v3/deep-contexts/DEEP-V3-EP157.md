@@ -76,12 +76,12 @@ FORECAST from EP156: End Turn=Mira must choose whether to sacrifice one transpor
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: closes/repurposes a route that protagonist's remembered sequence expected to remain open, forcing a new logistics topology. Immediate Want: maintain evacuation flow when one safe route becomes compromised. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: closes/repurposes a route that protagonist's remembered sequence expected to remain open, forcing a new logistics topology.
+- exact Immediate Want: maintain evacuation flow when one safe route becomes compromised.
 - exact End Turn: attack shifts because traffic patterns changed.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

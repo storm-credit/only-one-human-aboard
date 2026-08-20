@@ -76,12 +76,12 @@ FORECAST from EP374: End Turn=one technical team must choose persistent local mo
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: demonstrates remote-avatar and persistent-local-continuity distinctions operationally; chooses persistent mode for a bounded shift because command latency/failover matters. Immediate Want: commission a local autonomous service cluster that can function if Ark communications fail. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: demonstrates remote-avatar and persistent-local-continuity distinctions operationally; chooses persistent mode for a bounded shift because command latency/failover matters.
+- exact Immediate Want: commission a local autonomous service cluster that can function if Ark communications fail.
 - exact End Turn: one quiescent-lineage representation question delays shared-resource approval.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

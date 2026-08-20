@@ -76,12 +76,12 @@ FORECAST from EP100: End Turn=Mira reacts to a shared-memory reference in a way 
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: protagonist casually references a private routine/joke from H-A that Mira does not recognize. She reads it as awkward nostalgia or intrusion. Immediate Want: finish a difficult shift and keep protagonist from overstepping an old boundary. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: protagonist casually references a private routine/joke from H-A that Mira does not recognize. She reads it as awkward nostalgia or intrusion.
+- exact Immediate Want: finish a difficult shift and keep protagonist from overstepping an old boundary.
 - exact End Turn: protagonist realizes the mismatch concerns something that happened long before his supposed `return` point.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

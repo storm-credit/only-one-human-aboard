@@ -76,12 +76,12 @@ FORECAST from EP324: End Turn=current resource pressure threatens a quiescent/de
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
+- Execution engine: concludes those lives can matter without becoming his deeds, debts or memories; chooses one current obligation over symbolic lineage role. Immediate Want: decide what the scale revelation changes about his relation to other Arun histories. Act guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: concludes those lives can matter without becoming his deeds, debts or memories; chooses one current obligation over symbolic lineage role.
+- exact Immediate Want: decide what the scale revelation changes about his relation to other Arun histories.
 - exact End Turn: protagonist must make a similar current choice.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Action/evidence before ontology. Every explanatory beat must be earned by a concrete decision, cost, failed model, or operational consequence.

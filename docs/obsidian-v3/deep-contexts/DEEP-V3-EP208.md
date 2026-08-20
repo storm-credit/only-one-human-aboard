@@ -43,7 +43,7 @@ FORECAST from EP207: End Turn=Sora finds a third fragment where the event did no
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: Sora
+- projected_active_core: Arun, Sora
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP207: End Turn=Sora finds a third fragment where the event did no
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: evidence supports mutually incompatible incident outcomes; she refuses to label one `original` without basis. Immediate Want: test whether Arun/protagonist accounts can be reconciled as lying or memory distortion. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: evidence supports mutually incompatible incident outcomes; she refuses to label one `original` without basis.
+- exact Immediate Want: test whether Arun/protagonist accounts can be reconciled as lying or memory distortion.
 - exact End Turn: protagonist must face Arun again without asking which version is real.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

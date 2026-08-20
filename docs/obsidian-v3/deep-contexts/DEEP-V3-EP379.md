@@ -76,12 +76,12 @@ FORECAST from EP378: End Turn=transitional government must define shared-resourc
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
+- Execution engine: distinguishes durable rights safeguards from context-specific rules; keeps provenance visible instead of pretending all laws were timeless. Immediate Want: identify which inherited laws/procedures can safely carry into new commons and which depend on ship-only conditions. Act guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: distinguishes durable rights safeguards from context-specific rules; keeps provenance visible instead of pretending all laws were timeless.
+- exact Immediate Want: identify which inherited laws/procedures can safely carry into new commons and which depend on ship-only conditions.
 - exact End Turn: emergency security jurisdiction overlaps settlement autonomy.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.

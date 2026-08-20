@@ -43,7 +43,7 @@ FORECAST from EP183: End Turn=maintenance wear implies heavy historical use that
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: Hana, Sora
+- projected_active_core: Hana, Sora, family
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP183: End Turn=maintenance wear implies heavy historical use that
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: identifies several mundane record migrations plus one orphan record family tied to the legacy complex. Immediate Want: prevent old maintenance/municipal records from being discarded or normalized before provenance review. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: identifies several mundane record migrations plus one orphan record family tied to the legacy complex.
+- exact Immediate Want: prevent old maintenance/municipal records from being discarded or normalized before provenance review.
 - exact End Turn: one record references casualty logistics without named disaster.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

@@ -76,12 +76,12 @@ FORECAST from EP152: End Turn=Sora identifies a real hostile/sabotage actor else
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
+- Execution engine: positions teams based on present evidence; deliberately keeps one route different from leaked/predicted sequence. Immediate Want: respond to credible threat without letting prediction dictate tactics. Act guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: positions teams based on present evidence; deliberately keeps one route different from leaked/predicted sequence.
+- exact Immediate Want: respond to credible threat without letting prediction dictate tactics.
 - exact End Turn: hostile action starts at an alternate access point.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Prediction and social consequence before ontology. Evidence must change choices/relationships before any explanatory model hardens.

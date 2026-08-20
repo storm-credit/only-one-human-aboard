@@ -43,7 +43,7 @@ FORECAST from EP266: End Turn=hospital corridor approaches capacity threshold. |
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
-- projected_active_core: Leila, Mira, Juno
+- projected_active_core: Leila, Mira, Rafi
 - influence_only: everyone else referenced by Blueprint/relationship graph; do not pull them into scene causality without need.
 - character agenda authority: exact Episode Blueprint + current `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`; this sidecar does not invent a new agenda.
 
@@ -76,12 +76,12 @@ FORECAST from EP266: End Turn=hospital corridor approaches capacity threshold. |
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: coordinates temporary distributed care with Rafi/community contacts rather than centralizing all patients. Immediate Want: preserve care access as transport/facility bottlenecks turn corridors into holding zones. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: coordinates temporary distributed care with Rafi/community contacts rather than centralizing all patients.
+- exact Immediate Want: preserve care access as transport/facility bottlenecks turn corridors into holding zones.
 - exact End Turn: one control point faces armed/semi-armed confrontation.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.

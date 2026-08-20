@@ -76,12 +76,12 @@ FORECAST from EP104: End Turn=Niko's qualification status also differs. | Contin
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: reveals a prior training incident and mentor decision that never happened in protagonist's H-A memory. Niko and Gideon both remember the same H-B history naturally. Immediate Want: handle Niko's current qualification/work assignment after protagonist's odd interference. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: reveals a prior training incident and mentor decision that never happened in protagonist's H-A memory. Niko and Gideon both remember the same H-B history naturally.
+- exact Immediate Want: handle Niko's current qualification/work assignment after protagonist's odd interference.
 - exact End Turn: protagonist is shown a document/photo/message predating his arrival that supports their memory.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

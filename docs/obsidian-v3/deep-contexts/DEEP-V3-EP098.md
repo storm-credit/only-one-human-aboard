@@ -76,12 +76,12 @@ FORECAST from EP097: End Turn=an ordinary resident/worker elsewhere lives throug
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: the person references a recent local event or institutional decision that, in H-A, happened differently or not at all. The scene never treats it as strange. Immediate Want: solve a normal work/family issue unrelated to protagonist. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: the person references a recent local event or institutional decision that, in H-A, happened differently or not at all. The scene never treats it as strange.
+- exact Immediate Want: solve a normal work/family issue unrelated to protagonist.
 - exact End Turn: consequence intersects protagonist's next workday.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

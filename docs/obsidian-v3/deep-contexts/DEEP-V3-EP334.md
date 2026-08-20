@@ -76,12 +76,12 @@ FORECAST from EP333: End Turn=civic review must decide what public wording is sa
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: crafts narrow public explanation and equal-rights disclaimer while preserving protected medical identity. Immediate Want: communicate HUMAN definition without implying `others are not people` or hiding material truth. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: crafts narrow public explanation and equal-rights disclaimer while preserving protected medical identity.
+- exact Immediate Want: communicate HUMAN definition without implying `others are not people` or hiding material truth.
 - exact End Turn: older departure records indicate HUMAN count was not always 1.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

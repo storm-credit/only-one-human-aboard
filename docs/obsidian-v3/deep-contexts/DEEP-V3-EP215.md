@@ -76,12 +76,12 @@ FORECAST from EP214: End Turn=someone notes protagonist's unique H-A→H-B anoma
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: finds old interfaces, migrated definitions and gaps, but no complete dictionary; category clearly predates current civic institutions. Immediate Want: reconstruct when `HUMAN` field entered mission systems. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: finds old interfaces, migrated definitions and gaps, but no complete dictionary; category clearly predates current civic institutions.
+- exact Immediate Want: reconstruct when `HUMAN` field entered mission systems.
 - exact End Turn: physical maintenance references suggest the field corresponds to something actually preserved, not mere metadata.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

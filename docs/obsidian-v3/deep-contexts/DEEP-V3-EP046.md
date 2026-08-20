@@ -76,12 +76,12 @@ FORECAST from EP045: End Turn=Selene arrives and narrows the safe window further
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
+- Execution engine: establishes perimeter, separates rescue/technical/medical lanes, rejects a production manager's pressure to reopen a secondary path. Immediate Want: stop responders from turning one rupture into a casualty cascade. Act guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: establishes perimeter, separates rescue/technical/medical lanes, rejects a production manager's pressure to reopen a secondary path.
+- exact Immediate Want: stop responders from turning one rupture into a casualty cascade.
 - exact End Turn: thermal readings rise outside the first predicted footprint.
 - Concurrency preflight REQUIRED: router token ACT2_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Disaster/concurrency first. Resolve ACT2_LEDGER geography/time before scene execution; do not explain the branch mechanism. EP094 ends H-A current-lived state.

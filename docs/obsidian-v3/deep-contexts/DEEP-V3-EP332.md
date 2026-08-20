@@ -76,12 +76,12 @@ FORECAST from EP331: End Turn=Leila examines what biological continuity can mean
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: confirms category is tied to a natural-origin developmental continuity preserved through specialized biostasis/developmental arrest, not a stored genome alone. Immediate Want: determine what can legitimately be called an active/viable biological continuity without exposing identity. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: confirms category is tied to a natural-origin developmental continuity preserved through specialized biostasis/developmental arrest, not a stored genome alone.
+- exact Immediate Want: determine what can legitimately be called an active/viable biological continuity without exposing identity.
 - exact End Turn: current count=1 now has a biological/provenance meaning, but `why one` remains open.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

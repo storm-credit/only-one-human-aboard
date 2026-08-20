@@ -39,7 +39,7 @@ FORECAST from EP135: End Turn=rumor nevertheless leaks through an ordinary chann
 
 ## Protagonist Context
 - POV: [주인공/TBD]
-- POV_OWNER. Immediate Want=NOT_SPECIFIED Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
+- POV_OWNER. Immediate Want=absorb the conclusion before the rumor grows. Decision surface is bounded by A-Plot and authority in World/Relationship; competence creates options, not universal command.
 
 ## Character Context
 - active_core_cap: max 3 salient characters including POV.
@@ -76,12 +76,12 @@ FORECAST from EP135: End Turn=rumor nevertheless leaks through an ordinary chann
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
+- Execution engine: accepts one narrow fact: an impossible memory/evidence set exists independently of him and does not match his remembered H-A either. Immediate Want: absorb the conclusion before the rumor grows. Act guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: accepts one narrow fact: an impossible memory/evidence set exists independently of him and does not match his remembered H-A either.
+- exact Immediate Want: absorb the conclusion before the rumor grows.
 - exact End Turn: someone uses supposed foreknowledge for material advantage. [주인공/TBD]: **34** Mira: 3 — EP101, 111, 114 ordinary H-B lens: 1 — EP098 Gideon/Niko: 1 — EP105 Leila: 1 — EP120 Sora: 1 — EP126 Juno/family: 1 — EP130 Total: 42 Target: **34/42 = 81.0% protagonist-centered — exact PASS.** Genuine H-A knowledge produces real early wins in EP096/099. PASS. Differences predating protagonist arrival: ordinary H-B life EP098, cooling/repair history EP103~104, Niko/Gideon history EP105, Mira relationship history EP109~112, family/private records EP108. PASS. One non-protagonist concrete case is investigated. Carrier never becomes oracle/faction leader and has no direct POV. PASS. Mira asserts current autonomy, family/community life continues, Niko/Gideon possess independent shared history, claimant refuses being used as clue machine. PASS. Act3 may support: literal regression is insufficient, protagonist memory is not unique anomaly, at least one third incompatible evidence set may exist. Act3 does NOT reveal: lineage field, finite/astronomical count, ultradense substrate, HUMAN:1, C4 mechanism, which history is `original`. PASS. **ACT3 EP095~136 BLUEPRINT v0.1 = PREWRITING PASS CANDIDATE / requires independent hostile QA before lock.**
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: H-B is current-lived. H-A knowledge/state enters only through explicit memory/provenance; secondary characters retain independent causality.

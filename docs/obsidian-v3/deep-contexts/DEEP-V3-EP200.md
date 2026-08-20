@@ -76,12 +76,12 @@ FORECAST from EP199: End Turn=Arun's current colleagues have never heard protago
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
+- Execution engine: current household chooses practical boundaries rather than accepting a stranger's alternate-family claim. Immediate Want: manage an ordinary family/community issue where one person's remembered kinship conflicts with current records. Act guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: current household chooses practical boundaries rather than accepting a stranger's alternate-family claim.
+- exact Immediate Want: manage an ordinary family/community issue where one person's remembered kinship conflicts with current records.
 - exact End Turn: protagonist recognizes he is about to make the same mistake with Arun.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Keep Arun current-life separation explicit and hold HUMAN meaning behind the reveal fence; do not collapse identity into explanation.

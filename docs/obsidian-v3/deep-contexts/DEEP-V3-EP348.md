@@ -76,12 +76,12 @@ FORECAST from EP347: End Turn=family asks for a reversible option now, not histo
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
+- Execution engine: makes a practical proposal: safe slow quiescence with continuity checks, representation and restart conditions instead of destructive closeout. Immediate Want: obtain control/consent over quiescence timing and safeguards. Act guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: makes a practical proposal: safe slow quiescence with continuity checks, representation and restart conditions instead of destructive closeout.
+- exact Immediate Want: obtain control/consent over quiescence timing and safeguards.
 - exact End Turn: proposal costs more resources than administrators planned.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.

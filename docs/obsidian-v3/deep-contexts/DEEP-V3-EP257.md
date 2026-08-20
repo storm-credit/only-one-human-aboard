@@ -76,12 +76,12 @@ FORECAST from EP256: End Turn=hospital requests an exception from a resource rul
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
-- Execution engine: NOT_SPECIFIED Immediate Want: NOT_SPECIFIED Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
+- Execution engine: authorizes bounded exception because the blanket rule fails the patient's actual prognosis/consent context. Immediate Want: decide whether one patient should receive a resource-intensive treatment when general rule says conserve capacity. Act guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
 - causal diversity guard: rotate practical, social, institutional, survival, mystery, relationship, and cost/reward engines as Blueprint assigns; no protagonist causal monopoly.
 
 ## Execution Constraints
-- exact Blueprint A-Plot: NOT_SPECIFIED
-- exact Immediate Want: NOT_SPECIFIED
+- exact Blueprint A-Plot: authorizes bounded exception because the blanket rule fails the patient's actual prognosis/consent context.
+- exact Immediate Want: decide whether one patient should receive a resource-intensive treatment when general rule says conserve capacity.
 - exact End Turn: technical apprentices begin bypassing authorization to keep local utilities alive.
 - Concurrency preflight REQUIRED: router token ACT6_LEDGER; resolve time/geography/resource order before FROZEN.
 - act hard guard: Resolve ACT6_LEDGER concurrency/resource/network state before execution; causality must remain distributed across people and institutions.
