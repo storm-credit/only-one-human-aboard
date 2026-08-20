@@ -35,7 +35,7 @@ stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|characte
 - Current-lived namespace remains H-B; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Projected Incoming
-FORECAST from EP342: End Turn=an immediate D3 preservation case forces society to decide whose current life counts under old rules. Context: A fully lived D3 lineage/family has been **seeded before the direct threat** through current operational interactions after Act7. The lineage contains adults with independent lives/claims and a child born within that lineage with no source counterpart. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
+FORECAST from EP342: End Turn=an immediate D3 preservation case forces society to decide whose current life counts under old rules. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
 
 ## Protagonist Context
 - POV: D3 rights-family adult A

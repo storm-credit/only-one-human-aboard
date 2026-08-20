@@ -72,7 +72,7 @@ FORECAST from EP383: End Turn=one real environmental pattern causes small synchr
 - Current-lived namespace remains H-B; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Foreshadow / MacGuffin / Payoff
-- classification=SOURCE_DEFINED. Source clue=final `no retry through people` principle TRIGGER. Outgoing selector=real external readings worsen beyond model bounds. Selected external crisis form: **unexpected charged-particle / electromagnetic-induction environment during a settlement deployment window**, producing synchronized communication/power/control noise and thermal stress across newly coupled infrastructure. It is a real physical external condition. One faint temporal/spectral feature resembles Echo Outside data, but natural/instrumental/structured-source explanations remain open. Hard: No alien attacker is required. No authorial ominous narration beyond Blueprint evidence.
+- classification=SOURCE_DEFINED. Source clue=final `no retry through people` principle TRIGGER. Outgoing selector=real external readings worsen beyond model bounds. No authorial ominous narration beyond Blueprint evidence.
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
@@ -82,14 +82,14 @@ FORECAST from EP383: End Turn=one real environmental pattern causes small synchr
 ## Execution Constraints
 - exact Blueprint A-Plot: rejects creating an involuntary D3 crisis civilization; teams use non-conscious modeling + existing historical lessons + physical testing instead.
 - exact Immediate Want: decide whether to launch a new fully lived rehearsal for the uncertain external hazard envelope.
-- exact End Turn: real external readings worsen beyond model bounds. Selected external crisis form: **unexpected charged-particle / electromagnetic-induction environment during a settlement deployment window**, producing synchronized communication/power/control noise and thermal stress across newly coupled infrastructure. It is a real physical external condition. One faint temporal/spectral feature resembles Echo Outside data, but natural/instrumental/structured-source explanations remain open. Hard: No alien attacker is required.
+- exact End Turn: real external readings worsen beyond model bounds.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: Descendant completion and return/payoff outrank novelty. No rerun/new ontology by default; EP406-410 add no major mystery and close through consequence/return.
 - no Shadow Blueprint; no prose drafting from this node alone; max 5 direct retrieval bundles.
 - active-core target <=3; collectible foreground is not a quota.
 
 ## Forecast Outgoing
-- projected End Turn: real external readings worsen beyond model bounds. Selected external crisis form: **unexpected charged-particle / electromagnetic-induction environment during a settlement deployment window**, producing synchronized communication/power/control noise and thermal stress across newly coupled infrastructure. It is a real physical external condition. One faint temporal/spectral feature resembles Echo Outside data, but natural/instrumental/structured-source explanations remain open. Hard: No alien attacker is required.
+- projected End Turn: real external readings worsen beyond model bounds.
 - projected Continuity Output: No extra Blueprint continuity field; use End Turn as forecast selector only.
 - semantics: FORECAST_NOT_ACTUAL. The next episode must consume realized prose delta when available, not blindly inherit this forecast.
 

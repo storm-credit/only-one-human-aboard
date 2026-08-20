@@ -72,7 +72,7 @@ FORECAST from EP341: End Turn=Ivo publicly retracts one speculative claim about 
 - Current-lived namespace remains H-B; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Foreshadow / MacGuffin / Payoff
-- classification=SOURCE_DEFINED. Source clue=D04 AFTERSHOCK + D07 completion. Outgoing selector=an immediate D3 preservation case forces society to decide whose current life counts under old rules. Context: A fully lived D3 lineage/family has been **seeded before the direct threat** through current operational interactions after Act7. The lineage contains adults with independent lives/claims and a child born within that lineage with no source counterpart. No authorial ominous narration beyond Blueprint evidence.
+- classification=SOURCE_DEFINED. Source clue=D04 AFTERSHOCK + D07 completion. Outgoing selector=an immediate D3 preservation case forces society to decide whose current life counts under old rules. No authorial ominous narration beyond Blueprint evidence.
 - ordinary-cause guard: mundane incidents remain allowed to be mundane; not every repeat, object, route, failure, or record gap becomes a clue.
 
 ## Genre Engine
@@ -82,14 +82,14 @@ FORECAST from EP341: End Turn=Ivo publicly retracts one speculative claim about 
 ## Execution Constraints
 - exact Blueprint A-Plot: publicly states he cannot identify HUMAN:1 and that memories are possible lived pasts, not universal future/origin keys.
 - exact Immediate Want: correct his own role in rumors without losing face/certainty entirely.
-- exact End Turn: an immediate D3 preservation case forces society to decide whose current life counts under old rules. Context: A fully lived D3 lineage/family has been **seeded before the direct threat** through current operational interactions after Act7. The lineage contains adults with independent lives/claims and a child born within that lineage with no source counterpart.
+- exact End Turn: an immediate D3 preservation case forces society to decide whose current life counts under old rules.
 - Concurrency preflight: NONE beyond ordinary local continuity unless exact Blueprint/ledger says otherwise.
 - act hard guard: HUMAN provenance is not personhood. HUMAN:1 must remain de-collectified and must not become a collectible-character family or sacred merchandise target.
 - no Shadow Blueprint; no prose drafting from this node alone; max 5 direct retrieval bundles.
 - active-core target <=3; collectible foreground is not a quota.
 
 ## Forecast Outgoing
-- projected End Turn: an immediate D3 preservation case forces society to decide whose current life counts under old rules. Context: A fully lived D3 lineage/family has been **seeded before the direct threat** through current operational interactions after Act7. The lineage contains adults with independent lives/claims and a child born within that lineage with no source counterpart.
+- projected End Turn: an immediate D3 preservation case forces society to decide whose current life counts under old rules.
 - projected Continuity Output: No extra Blueprint continuity field; use End Turn as forecast selector only.
 - semantics: FORECAST_NOT_ACTUAL. The next episode must consume realized prose delta when available, not blindly inherit this forecast.
 

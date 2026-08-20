@@ -35,7 +35,7 @@ stale_if_changed: router|exact_episode_blueprint|DEEP-CONTEXT-SCHEMA-v1|characte
 - Current-lived namespace remains H-B; cross-branch inheritance stays blocked unless explicitly sourced.
 
 ## Projected Incoming
-FORECAST from EP384: End Turn=real external readings worsen beyond model bounds. Selected external crisis form: **unexpected charged-particle / electromagnetic-induction environment during a settlement deployment window**, producing synchronized communication/power/control noise and thermal stress across newly coupled infrastructure. It is a real physical external condition. One faint temporal/spectral feature resembles Echo Outside data, but natural/instrumental/structured-source explanations remain open. Hard: No alien attacker is required. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
+FORECAST from EP384: End Turn=real external readings worsen beyond model bounds. | Continuity Output=No explicit Continuity Output.. This is not realized Actual; replace with JIT CONTINUITY-FROZEN before drafting.
 
 ## Protagonist Context
 - POV: technical deployment role 2
