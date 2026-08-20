@@ -22,49 +22,48 @@ No v2 Canon/manuscript has been silently overwritten.
 # **REFERENCE COLLECTION / PRE-CONCEPT SYNTHESIS = PASS / CLOSED**
 # **EXACT COLLECTIBILITY MASTER ROSTER = PASS / 64 BASE ASSETS**
 # **CHARACTER + 64-ASSET → 9-ACT INTEGRATION = PASS**
+# **C2 SURFACE SYSTEM = PASS / TARGETED CANDIDATE FREEZE**
 # **VISUAL PRODUCTION SYSTEM = DOC-READY / EMPIRICAL ART QA OPEN**
 
 Current boundaries:
 - blocking story/world P0 = 0,
 - structural P1 = 0,
-- IP structural P1 = 0,
-- reference P1 requiring more broad collection = 0,
-- collectibility-roster P1 = 0,
+- IP/collectibility P1 = 0,
 - Act-asset integration P1 = 0,
-- max-5 direct context pack preserved after explicit patch,
-- visual production Bible / prompt pack / asset manifest / empirical QA = prepared,
-- **actual final visual concepts have NOT yet passed empirical differentiation QA**,
-- image mass-generation is NOT the default workflow,
+- C2 surface P1 after hostile patch = 0,
+- max-5 direct context pack preserved,
+- actual final visual concepts have NOT passed empirical differentiation QA,
+- protagonist final full name remains author-taste open,
 - v3 is NOT official Canon,
 - prose is NOT authorized by generic `진행/이어서`.
 
-Important history correction:
-Earlier `Deep Design complete` language was too broad because v3-specific visual/material/reference/collectibility-to-Act work had not been fully rebuilt. Those phases were explicitly reopened, researched, synthesized, mapped to Acts, and QA-closed separately. Actual art execution remains a distinct validation phase.
-
 ---
 
-# 1. Current routing
+# 1. Recovery / routing
 
 Read first:
 1. `CLAUDE.md`
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
-5. **`docs/prewriting-v3/V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`**
-6. **`docs/prewriting-v3/V3-ASSET-ACT-LIFECYCLE-MATRIX-v0.1.md`**
-7. **`docs/prewriting-v3/V3-ACT-TO-ASSET-DEPLOYMENT-OVERLAY-v0.1.md`**
-8. **`docs/prewriting-v3/V3-ACT-ASSET-CONTEXT-PACK-PATCH-v0.1.md`**
-9. **`docs/qa/V3-ACT-ASSET-INTEGRATION-HOSTILE-QA-v0.1.md`**
-10. `docs/visual-production-v3/V3-VISUAL-PRODUCTION-INDEX-v0.1.md`
-11. `docs/visual-production-v3/V3-VISUAL-PRODUCTION-BIBLE-v0.1.md`
-12. `docs/visual-production-v3/V3-IMAGE-GENERATION-PROMPT-PACK-v0.1.md`
-13. `docs/visual-production-v3/V3-VISUAL-ASSET-MANIFEST-v0.1.md`
-14. `docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`
-15. `docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
-16. `docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`
-17. `docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`
-18. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
-19. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+
+Current Act/material integration:
+5. `docs/prewriting-v3/V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`
+6. `docs/prewriting-v3/V3-ASSET-ACT-LIFECYCLE-MATRIX-v0.1.md`
+7. `docs/prewriting-v3/V3-ACT-TO-ASSET-DEPLOYMENT-OVERLAY-v0.1.md`
+8. `docs/prewriting-v3/V3-ACT-ASSET-CONTEXT-PACK-PATCH-v0.1.md`
+9. `docs/qa/V3-ACT-ASSET-INTEGRATION-HOSTILE-QA-v0.1.md`
+
+Current C2 surface package:
+10. `docs/design-v3/V3-C2-NAMING-SURFACE-LANGUAGE-CLOSURE-v0.2.md`
+11. `docs/design-v3/V3-C2-PROTAGONIST-FAMILY-HOUSEHOLD-NAMES-v0.1.md`
+12. `docs/design-v3/V3-C2-READER-FACING-ASSET-LABEL-LEDGER-v0.1.md`
+13. `docs/prewriting-v3/V3-C2-ACT-SURFACE-LANGUAGE-OVERLAY-v0.1.md`
+14. `docs/design-v3/V3-C2-TONE-VIOLENCE-ROMANCE-ENDING-PALETTE-v0.1.md`
+15. `docs/qa/V3-C2-SURFACE-CLOSURE-QA-v0.2.md`
+
+Visual production:
+16. `docs/visual-production-v3/V3-VISUAL-PRODUCTION-INDEX-v0.1.md`
 
 Promotion package:
 `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
@@ -83,8 +82,8 @@ Current POV:
 Narrative identity:
 # **주인공 중심 다중인과형 장편**
 
-Old 272/410 = 66.3% is superseded.
-Secondary causal ownership remains real; Act6 neutral-corridor solution still originates outside protagonist.
+Act6 neutral-corridor solution remains independently caused by Dispatcher → cross-group contacts → Juno/community → Mira logistics → Rafi/Leila medical logic → Selene bounded security.
+The protagonist owns a parallel technical isolation action, not that whole social solution.
 
 ---
 
@@ -92,18 +91,17 @@ Secondary causal ownership remains real; Act6 neutral-corridor solution still or
 
 - one real physical Outer Ark Meridian,
 - outer mission time always forward,
-- atomic/nanoscale anchors + distributed ultradense substrate,
-- astronomical possibility search,
-- most states non-conscious,
-- selected D3 histories fully lived and morally real,
+- ultradense distributed civilization substrate,
 - H-A = Acts1~2,
 - one rare protagonist continuity misbinding at Act2 end,
 - H-B = Acts3~9,
+- most possibility states non-conscious,
+- selected D3 histories fully lived and morally real,
 - no repeated protagonist world hopping,
-- no cosmological multiverse truth,
+- no cosmological multiverse truth required,
 - no literal pocket universe.
 
-Experienced Meridian is not authorially `fake`; the Outer Ark reveal changes implementation scale, not the reality of lived experience/personhood.
+Experienced Meridian is not authorially `fake`.
 
 ---
 
@@ -119,209 +117,182 @@ Current:
 - no sovereignty/admin/moral superiority.
 
 Medical form:
-**early natural-origin embryo/zygote cryopreservation → final-approach thaw → far-future ectogenesis → ordinary development/birth**.
+early natural-origin embryo/zygote cryopreservation → final-approach thaw → future ectogenesis → ordinary development/birth.
 
 ---
 
-# 5. Protagonist / naming status
+# 5. Character + asset integration
 
-Protagonist:
-- male ~36~38,
-- ship damage analyst,
-- final full name **TBD**.
+Character Act routing:
+- core/major recurring identities **13/13** mapped across Acts1~9,
+- each active Act records independent want, pressure, independent action, relationship movement, material state and carry-forward.
 
-Important naming decision:
-`다니엘 마레크` is NOT frozen and should not be pushed as current final candidate after user rejection.
+Asset lifecycle:
+- base asset families **64/64** mapped,
+- codes: introduce / recognize / recontextualize / transform / persist / hold / no-Chekhov / offstage.
 
-Korean reader-facing rule after final naming:
-- choose one primary call name and keep it consistent,
-- do not alternate given name/surname casually so they read like different people,
-- full name reserved for first/formal contexts as useful.
+Exact high-memory return overlay remains separate:
+- **15 exact episode return chains**.
 
----
-
-# 6. IP / material design state
-
-Candidate freeze authorities:
-- `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
-- `docs/qa/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-HOSTILE-QA-v0.2.md`
-
-Designed at pre-art level:
-- core character face/body/silhouette/clothing/material logic,
-- civilian clothing/home/material culture,
-- professional equipment,
-- structural crawler / mapping drone / utility tug / rescue skiff / service frame / barrier drone,
-- physical Outer Ark service craft and maintenance architecture,
-- Transfer/Midring/Garden/Old Works/Med background art direction,
-- destination environment/settlement material logic,
-- 15 exact collection/recognition chains.
-
-Hard anti-drift:
-- no fighter/mecha franchise conversion,
-- no protagonist signature craft,
-- no RPG rarity/power tiers,
-- no `old=always better`,
-- no `new=always better`,
-- ordinary objects remain majority/no-payoff noise,
-- HUMAN care is clinical/family-centered, not sacred shrine.
+Hard:
+- the remaining assets are NOT forced into exact payoff chains,
+- Act6 transformation > newness,
+- Act7 Outer Ark assets stay spoiler-held until earned,
+- Act9 descendants/inherited standards > unrelated new designs.
 
 ---
 
-# 7. Reference collection — CLOSED
+# 6. Collectibility / terminology
 
-Current master:
-**`docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`**
+Internal design scope:
+- base 64,
+- variants 28,
+- initial design catalog 92,
+- hard ceiling 96.
 
-Final QA:
-**`docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`**
+Reader-facing non-character terminology after C2 hostile QA:
+- stable recurring labels = **19**,
+- reserve = **1**,
+- max = 20,
+- functionalized proper/shorthand burden = **6 / max 6**,
+- recurring manufacturer/brand names = **0**,
+- function/context/artbook-only families = **32+**.
 
-Reference P0 = 0.
-Reference P1 requiring more broad collection = 0.
+Current recurring labels include:
+구조 크롤러 / 화물 터그 / 구조 스키프 / 필드리그 / 필드케이스 / 손상 마킹 / 루트 태그 / 자격표식 / 벨트 / 가든 / 올드웍스 / 기판 야드 / 매핑 드론 / 이송 크래들 / 서비스 프레임 / 미드링 / 메드 / 주노네 / 점검 포드.
 
-Do NOT keep gathering attractive references indefinitely.
-Reopen only if an actual generated/drawn concept exposes a specific unsolved problem.
-
----
-
-# 8. Science repair found by reference research
-
-Destination premise:
-near-compatible total pressure but oxygen-poor atmosphere.
-
-Corrected authority:
-`docs/design-v3/V3-DESTINATION-RESPIRATORY-SUPPORT-REPAIR-v0.1.md`
-
-Current rule:
-- filter-only mask does NOT solve oxygen deficiency,
-- normal exterior work uses supplemental breathing gas/oxygen enrichment + environment monitoring,
-- contaminant filtration is separate/optional,
-- long-range work may use larger/semi-closed support,
-- verified indoor spaces use processed breathable atmosphere,
-- full pressure suit is not the default because total pressure is near-compatible.
+No rarity/power ladder.
+No protagonist inventory system.
 
 ---
 
-# 8A. Exact collectibility / completion-desire roster — PASS
+# 7. C2 naming / family / everyday surface
 
-Current exact roster:
-**`docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`**
+Current protagonist final name:
+# **TBD**
 
-Exact scope:
-- base asset families = **64**,
-  - characters 13,
-  - machine/craft/vehicle families 15,
-  - professional/personal props 12,
-  - places/landmarks 12,
-  - in-world collection/material-culture families 12,
-- IP production tiers = **SIGNATURE 16 / RECURRING 24 / WORLD-DEPTH 24**,
-- meaningful variant slots = **28**,
-- initial internal design-catalog target = **92**,
-- hard ceiling without explicit reopening = **96**.
+Current leading C2 candidate:
+# **루카스 베르너**
 
-Naming burden control for 51 non-character families:
-- stable recurring reader-facing labels **<=20**,
-- invented proper/model/manufacturer terms inside those **<=6**,
-- function/context/artbook-only assets **>=31**.
+If approved later, one primary reader-facing call name:
+# **루카스**
 
----
+Do NOT alternate `루카스 / 베르너` casually.
+`다니엘 마레크` remains rejected/not frozen.
 
-# 8B. Character / asset → Act integration — PASS
+Candidate family surface attached to current lead name:
+- father `마르틴 베르너`, 68,
+- mother `나디아 소토`, 65,
+- older sister `클라라 베르너`, 41,
+- sister's partner `사미르 코스타`, 42,
+- niece `에바 코스타`, 9.
 
-Current integration authorities:
-- `docs/prewriting-v3/V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md`
-- `docs/prewriting-v3/V3-ASSET-ACT-LIFECYCLE-MATRIX-v0.1.md`
-- `docs/prewriting-v3/V3-ACT-TO-ASSET-DEPLOYMENT-OVERLAY-v0.1.md`
-- `docs/prewriting-v3/V3-ACT-ASSET-CONTEXT-PACK-PATCH-v0.1.md`
-- `docs/qa/V3-ACT-ASSET-INTEGRATION-HOSTILE-QA-v0.1.md`
+Family architecture remains ordinary and independent.
+H-A family route is Garden-side; H-B household relocation to Midring predates protagonist arrival.
 
-Current result:
-- core cast Act routing **13/13** materialized,
-- base asset Act lifecycle routing **64/64** materialized,
-- Act1~9 deployment pools and hold/reveal rules materialized,
-- 15 exact return chains remain authoritative for exact episode returns,
-- non-chain assets are NOT forced into Chekhov payoffs,
-- Act6 remains transformation-heavy / low-newness,
-- Act7 Outer Ark assets remain spoiler-held until reveal,
-- Act9 descendants/inherited standards dominate novelty.
+Protagonist ordinary hobby leading candidate:
+**Rebound spectator + occasional low-stakes amateur play**.
 
-Execution rule:
-Deep matrices are routers, NOT scene payloads.
-Direct episode context remains max **5 items** through the existing Context Pack architecture.
-
-Act-asset integration P0 = **0**.
-Act-asset integration P1 after patch = **0**.
+Mira endpoint remains:
+**new current relationship possible in Act9, NOT restoration of H-A destiny**.
 
 ---
 
-# 9. Visual Production — DOC-READY / EMPIRICAL QA OPEN
+# 8. C2 economy / language
+
+Everyday discretionary exchange:
+- 크레딧,
+- 잔액,
+- 결제,
+- 가격,
+- 예약.
+
+Strategic scarcity/capacity:
+- 배정,
+- 우선배정,
+- 사용 슬롯,
+- 승인,
+- 운송용량,
+- 의료수용,
+- power/heat capacity terms by scene.
+
+Hard:
+credits cannot buy strategic capacity by default.
+`배급` appears only when rationing actually exists.
+No invented currency term is needed.
+
+---
+
+# 9. C2 tone / violence / romance / ending / palette
+
+Violence:
+**consequence-forward / anatomy-light / sensory-moderate**.
+V3 concentrated lethal violence is rare.
+Splatter/torture spectacle is rejected as series default.
+
+Romance:
+Lucas/Mira direct romance-coded surface target = **3–5%**.
+No crisis-confession shortcut.
+No H-A intimacy treated as current consent.
+
+Ending emotional temperature:
+# **+1 / earned cautious hope**
+
+Permanent losses remain.
+No utopia, nihilistic defeat, new cosmology or final twist bait.
+Preferred final emotional grammar:
+`relief → grief residue → ordinary action/relationship → open curiosity`.
+
+Visual palette:
+Meridian uses shared material/function anchors, not district/faction color coding.
+H-B receives no alternate-universe color grade.
+Act6 changes wear/repair more than global desaturation.
+Destination adds real sky/weather/mineral/water while preserving Meridian material ancestry.
+
+---
+
+# 10. Visual Production
 
 Current router:
 `docs/visual-production-v3/V3-VISUAL-PRODUCTION-INDEX-v0.1.md`
 
-Production authorities:
-- `V3-VISUAL-PRODUCTION-BIBLE-v0.1.md`
-- `V3-IMAGE-GENERATION-PROMPT-PACK-v0.1.md`
-- `V3-VISUAL-ASSET-MANIFEST-v0.1.md`
-- `V3-VP-M1-IDENTITY-LOCKS-v0.1.md`
-- `V3-VP-M1-READY-TO-RUN-PROMPT-CARDS-v0.1.md`
-- `docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`
+State:
+# **DOC-READY / EMPIRICAL QA OPEN**
 
-Recent protagonist visual samples are calibration only:
-- old photoreal/older worker direction = discard,
-- Proposal A/C = style calibration only,
-- current synthesis = `A의 정돈감 + C의 현장성`,
-- exact protagonist face/ethnicity/name/palette NOT frozen.
+Image mass-generation is NOT default.
+Generate only when a concrete visual collision/recognition question requires proof.
 
-Image mass-generation is not default.
-Generate only when a concrete visual QA question requires proof.
+Protagonist calibration:
+- old photoreal older-worker direction = discard,
+- Proposal A/C = calibration only,
+- synthesis = `A의 정돈감 + C의 현장성`,
+- exact face/ethnicity/final palette not frozen.
 
 ---
 
-# 10. Brainstorming policy
+# 11. Current open items
 
-Broad story/world brainstorming: **CLOSED**.
-Broad IP/reference brainstorming: **CLOSED**.
-Broad collectibility expansion: **CLOSED**.
-Broad Act-asset remapping: **CLOSED after integration QA PASS**.
+No structural P0/P1 remains.
+No broad C2 surface P1 remains.
 
-Targeted brainstorming remains valid only when:
-- episode contradiction,
-- empirical visual collision,
-- proven missing function,
-- science correction,
-- explicit user taste change.
+Still open by design:
+1. **protagonist final full-name author approval** — lead `루카스 베르너`,
+2. actual empirical visual differentiation QA for selected character/machine/environment samples,
+3. explicit v3 Canon promotion decision,
+4. prose Manuscript Start Gate after promotion/readiness check.
 
----
-
-# 11. Remaining C2 / later prose boundary
-
-Still open:
-- protagonist final name,
-- family names,
-- district proper names,
-- payment vocabulary,
-- minor venue/model names,
-- exact palettes,
-- violence presentation ceiling,
-- romance surface share,
-- ending emotional temperature.
-
-These are not structural holes.
-
-Recommended promotion later:
-**v3 → official active Canon, while v2 + old EP001~010 remain frozen historical edition.**
-
-No promotion has happened.
+These are different gates and must not be conflated.
 
 ---
 
-# 12. Current next action
+# 12. Generic continuation rule
 
-Generic `진행/이어서` now continues with the smallest unresolved high-value task:
-1. finish C2 naming/tone decisions, OR
-2. if the user selects an external image tool, write a tool-specific prompt adapter, OR
-3. if a concrete visual collision must be tested, run only that minimal empirical sample.
+Generic `진행/이어서` should NOT reopen broad story/world/IP/C2 design.
 
-Do not start prose automatically.
-Do not promote Canon automatically.
-Do not expand story/reference/collectibility without a demonstrated gap.
+Priority order now:
+1. perform a final **pre-promotion completeness / blind-spot audit** across all gates,
+2. if a genuine missing C2/structural issue is found, patch only that issue,
+3. keep protagonist name as leading candidate until explicit author taste approval,
+4. do not mass-generate images,
+5. do not promote v3 without explicit promotion instruction,
+6. do not start prose automatically.
