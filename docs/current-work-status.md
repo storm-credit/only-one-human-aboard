@@ -20,12 +20,14 @@ No v2 Canon/manuscript has been silently overwritten.
 # **TARGETED SCENE MICRO-PATCH = PASS**
 # **IP / VISUAL / MATERIAL / COLLECTIBILITY CANDIDATE FREEZE = PASS**
 # **REFERENCE COLLECTION / PRE-CONCEPT SYNTHESIS = PASS / CLOSED**
+# **EXACT COLLECTIBILITY MASTER ROSTER = PASS / 64 BASE ASSETS**
 
 Current boundaries:
 - blocking story/world P0 = 0,
 - structural P1 = 0,
 - IP structural P1 = 0,
 - reference P1 requiring more broad collection = 0,
+- collectibility-roster P1 = 0,
 - **actual visual concepts have NOT yet passed empirical differentiation QA**,
 - v3 is NOT official Canon,
 - prose is NOT authorized by generic `진행/이어서`.
@@ -44,10 +46,13 @@ Read first:
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
 5. `docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
 6. `docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
-7. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
-8. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
-9. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
-10. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
+7. **`docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`**
+8. **`docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`**
+9. **`docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`**
+10. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
+11. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+12. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+13. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
 
 Promotion package:
 `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
@@ -200,9 +205,51 @@ Current rule:
 
 ---
 
+# 8A. Exact collectibility / completion-desire roster — CLOSED TARGETED PASS
+
+Current exact roster:
+**`docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`**
+
+Exposure/naming control:
+**`docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`**
+
+Closure QA:
+**`docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`**
+
+Exact scope:
+- base asset families = **64**,
+  - characters 13,
+  - machine/craft/vehicle families 15,
+  - professional/personal props 12,
+  - places/landmarks 12,
+  - in-world collection/material-culture families 12,
+- IP production tiers = **SIGNATURE 16 / RECURRING 24 / WORLD-DEPTH 24**,
+- initial meaningful variant slots = **28**,
+- initial internal design-catalog target = **92**,
+- reserve variants = **+4 maximum only after empirical need**,
+- hard ceiling without explicit reopening = **96**.
+
+Important distinction:
+The existing narrative H01~H16 ledger remains a separate **16-item HIGH-memory return budget**.
+The 64-item roster is broader IP/recognition depth, not 64 mystery clues or 64 terms readers must memorize.
+
+Naming burden control for 51 non-character families:
+- stable recurring reader-facing labels **<=20**,
+- invented proper/model/manufacturer terms inside those **<=6**,
+- function/context/artbook-only assets **>=31**.
+
+Act exposure budget is capped so transformation/reuse dominates newness, especially Acts6~9.
+
+Eight internal completion-set organizations exist for future artbook/guidebook production, but the novel never exposes collection quests/checklists.
+
+Collectibility roster P0 = **0**.
+Collectibility roster P1 = **0**.
+
+---
+
 # 9. NEXT ACTIVE PHASE — VISUAL EXECUTION QA
 
-Reference research is not next anymore.
+Reference research and collectibility roster design are not next anymore.
 
 ## V-A Character confusion test
 First high-risk batch:
@@ -240,6 +287,7 @@ Only after V-A/V-B/V-C pass should cinematic key art/final illustration/palette 
 
 Broad story/world brainstorming: **CLOSED**.
 Broad IP/reference brainstorming: **CLOSED after explicit reopened-phase PASS**.
+Broad collectibility-roster brainstorming: **CLOSED after 64-base / exposure / naming closure QA**.
 
 Targeted brainstorming remains valid when actual art/prose/science exposes a concrete failure.
 
@@ -274,4 +322,4 @@ Generic `진행/이어서` now continues:
 
 Do not start prose automatically.
 Do not promote Canon automatically.
-Do not return to broad reference collection without an empirical failure.
+Do not return to broad reference/collectibility expansion without an empirical failure.
