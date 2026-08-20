@@ -21,6 +21,7 @@ No v2 Canon/manuscript has been silently overwritten.
 # **IP / VISUAL / MATERIAL / COLLECTIBILITY CANDIDATE FREEZE = PASS**
 # **REFERENCE COLLECTION / PRE-CONCEPT SYNTHESIS = PASS / CLOSED**
 # **EXACT COLLECTIBILITY MASTER ROSTER = PASS / 64 BASE ASSETS**
+# **VISUAL PRODUCTION SYSTEM = DOC-READY / EMPIRICAL ART QA OPEN**
 
 Current boundaries:
 - blocking story/world P0 = 0,
@@ -28,12 +29,14 @@ Current boundaries:
 - IP structural P1 = 0,
 - reference P1 requiring more broad collection = 0,
 - collectibility-roster P1 = 0,
-- **actual visual concepts have NOT yet passed empirical differentiation QA**,
+- visual production Bible / prompt pack / asset manifest / empirical QA = prepared,
+- **actual final visual concepts have NOT yet passed empirical differentiation QA**,
+- image mass-generation is NOT the default workflow,
 - v3 is NOT official Canon,
 - prose is NOT authorized by generic `진행/이어서`.
 
 Important history correction:
-Earlier `Deep Design complete` language was too broad because v3-specific visual/material/reference work had not been fully rebuilt. Those phases were explicitly reopened, researched, synthesized and QA-closed separately. Actual art execution remains a distinct next phase.
+Earlier `Deep Design complete` language was too broad because v3-specific visual/material/reference work had not been fully rebuilt. Those phases were explicitly reopened, researched, synthesized and QA-closed separately. Visual production is now document-driven; actual art execution remains a distinct validation phase.
 
 ---
 
@@ -44,15 +47,19 @@ Read first:
 2. `docs/NEXT-CHAT-HANDOFF.md`
 3. `docs/current-work-status.md`
 4. `docs/design-v3/V3-CURRENT-AUTHORITY-MAP.md`
-5. `docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
-6. `docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
-7. **`docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`**
-8. **`docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`**
-9. **`docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`**
-10. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
-11. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
-12. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
-13. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
+5. **`docs/visual-production-v3/V3-VISUAL-PRODUCTION-BIBLE-v0.1.md`**
+6. **`docs/visual-production-v3/V3-IMAGE-GENERATION-PROMPT-PACK-v0.1.md`**
+7. **`docs/visual-production-v3/V3-VISUAL-ASSET-MANIFEST-v0.1.md`**
+8. **`docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`**
+9. `docs/reference-v3/V3-REFERENCE-COLLECTION-MASTER-v0.2.md`
+10. `docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`
+11. `docs/narrative-engineering/V3-COLLECTIBLE-ASSET-MASTER-ROSTER-v0.1.md`
+12. `docs/prewriting-v3/V3-COLLECTIBLE-ASSET-EXPOSURE-AND-NAMING-BUDGET-v0.1.md`
+13. `docs/qa/V3-COLLECTIBLE-ASSET-ROSTER-CLOSURE-QA-v0.2.md`
+14. `docs/prewriting-v3/EP001-410-BLUEPRINT-REGISTRY-v0.2.md`
+15. `docs/prewriting-v3/POV-OWNERSHIP-REALLOCATION-v0.2.md`
+16. `docs/design-v3/V3-IP-VISUAL-MATERIAL-COLLECTIBILITY-FREEZE-CANDIDATE-v0.1.md`
+17. `docs/prewriting-v3/V3-SCENE-REWARD-AND-REVEAL-OVERLAY-v0.1.md`
 
 Promotion package:
 `docs/change-control/V3-CANON-PROMOTION-DECISION-PACKAGE-v0.1.md`
@@ -111,7 +118,7 @@ Medical form:
 
 ---
 
-# 5. Protagonist / naming status
+# 5. Protagonist / naming / current visual calibration
 
 Protagonist:
 - male ~36~38,
@@ -125,6 +132,17 @@ Korean reader-facing rule after final naming:
 - choose one primary call name and keep it consistent,
 - do not alternate given name/surname casually so they read like different people,
 - full name reserved for first/formal contexts as useful.
+
+Current visual calibration:
+- 2D semi-real > photoreal,
+- apparent age 37~39,
+- active adult field-specialist energy,
+- no required Korean/East-Asian identity,
+- no ethnicity/nationality freeze yet,
+- photoreal older-worker prototype = DISCARD,
+- Proposal A/C = style calibration survivors only,
+- synthesis target = **A의 정돈감 + C의 현장성**,
+- exact face/hair/palette NOT frozen.
 
 ---
 
@@ -162,22 +180,6 @@ Current master:
 
 Final QA:
 **`docs/qa/V3-REFERENCE-COLLECTION-FINAL-CLOSURE-QA-v0.3.md`**
-
-Current source/synthesis support:
-- `docs/reference-v3/V3-REFERENCE-ASSET-LEDGER-v0.2.md`
-- `docs/reference-v3/V3-VISUAL-DIFFERENTIATION-MATRIX-v0.1.md`
-- `docs/reference-v3/V3-REFERENCE-COLLECTION-ROUND2-SYNTHESIS-v0.1.md`
-- `docs/reference-v3/V3-REFERENCE-GAP-CLOSURE-DOMESTIC-MED-PPE-v0.1.md`
-- `docs/reference-v3/V3-CORE-CAST-MORPHOLOGY-REFERENCE-POOL-v0.1.md`
-- `docs/reference-v3/V3-ORIGINAL-MERIDIAN-SYNTHESIS-BOARDS-v0.1.md`
-
-Selected reference synthesis:
-- grounded human morphology + selective silhouette anchors,
-- interface lineage + role-specific machine bodies,
-- shared city standards + mixed-function landmarks,
-- process-synthesized destination environment,
-- durable ordinary material diversity,
-- collectibility through lineage/use history.
 
 Reference P0 = 0.
 Reference P1 requiring more broad collection = 0.
@@ -224,7 +226,7 @@ Exact scope:
   - places/landmarks 12,
   - in-world collection/material-culture families 12,
 - IP production tiers = **SIGNATURE 16 / RECURRING 24 / WORLD-DEPTH 24**,
-- initial meaningful variant slots = **28**,
+- meaningful variant slots = **28**,
 - initial internal design-catalog target = **92**,
 - reserve variants = **+4 maximum only after empirical need**,
 - hard ceiling without explicit reopening = **96**.
@@ -238,48 +240,54 @@ Naming burden control for 51 non-character families:
 - invented proper/model/manufacturer terms inside those **<=6**,
 - function/context/artbook-only assets **>=31**.
 
-Act exposure budget is capped so transformation/reuse dominates newness, especially Acts6~9.
-
-Eight internal completion-set organizations exist for future artbook/guidebook production, but the novel never exposes collection quests/checklists.
-
 Collectibility roster P0 = **0**.
 Collectibility roster P1 = **0**.
 
 ---
 
-# 9. NEXT ACTIVE PHASE — VISUAL EXECUTION QA
+# 9. VISUAL PRODUCTION SYSTEM — DOC READY
 
-Reference research and collectibility roster design are not next anymore.
+Current production authority:
+- **`docs/visual-production-v3/V3-VISUAL-PRODUCTION-BIBLE-v0.1.md`**
+- **`docs/visual-production-v3/V3-IMAGE-GENERATION-PROMPT-PACK-v0.1.md`**
+- **`docs/visual-production-v3/V3-VISUAL-ASSET-MANIFEST-v0.1.md`**
+- **`docs/qa/V3-VISUAL-PRODUCTION-EMPIRICAL-QA-v0.1.md`**
 
-## V-A Character confusion test
-First high-risk batch:
-**protagonist / Arun / Gideon / Ivo**
+Core workflow:
+`SPEC → PROMPT → SMALL SAMPLE → QA → REVISE/PASS → ONLY THEN EXPAND`
 
-Reason:
-all are male, technically/work-adjacent or middle-aged, and easiest for AI/concept art to collapse into one `tired SF man` face.
+Image generation is no longer the default action.
+Use actual generation only when a concrete visual question must be empirically answered.
 
-Test under identical presentation:
-- grayscale,
-- neutral background/light,
-- same neutral clothing,
-- hair/head-cover neutralized,
-- front / 3-4 / side,
-- 64px silhouette,
-- pairwise confusion.
+## VP-M1 empirical subjects — 13
 
-## V-B Machine confusion test
-First batch:
-**structural crawler / mapping drone / utility tug / rescue skiff**
+### V-A Character confusion
+- C01 protagonist
+- C13 Arun
+- C07 Gideon
+- C11 Ivo
 
-No color/livery/logo dependence.
+### V-B Machine confusion
+- M01 structural crawler
+- M02 mapping drone
+- M03 utility tug
+- M04 rescue skiff
 
-## V-C Environment recognition test
-First batch:
-**Transfer / Midring / Garden / Med / Old Works**
+### V-C Environment recognition
+- L01 Transfer
+- L02 Midring
+- L03 Garden
+- L04 Med
+- L05 Old Works
 
-Must be recognizably different spaces but visibly one Meridian civilization.
+The 13 are test subjects, not a command to generate all 13 immediately.
+Create only the smallest batch needed for the current question.
 
-Only after V-A/V-B/V-C pass should cinematic key art/final illustration/palette Freeze begin.
+## VP-M2
+After VP-M1 passes:
+produce stable identity plates for SIGNATURE 16.
+
+Only after VP-M2 should cinematic key art / cover / final palette freeze begin.
 
 ---
 
@@ -289,7 +297,12 @@ Broad story/world brainstorming: **CLOSED**.
 Broad IP/reference brainstorming: **CLOSED after explicit reopened-phase PASS**.
 Broad collectibility-roster brainstorming: **CLOSED after 64-base / exposure / naming closure QA**.
 
-Targeted brainstorming remains valid when actual art/prose/science exposes a concrete failure.
+Visual-production brainstorming is targeted only:
+- failed same-face test,
+- failed same-machine test,
+- failed environment recognition,
+- collectibility/readability failure,
+- science/function conflict.
 
 ---
 
@@ -318,8 +331,17 @@ No promotion has happened.
 # 12. Current next action
 
 Generic `진행/이어서` now continues:
-# **ORIGINAL NEUTRAL CONCEPT GENERATION / EMPIRICAL DIFFERENTIATION QA PREPARATION**
+# **DOC-FIRST VISUAL PRODUCTION PREPARATION**
 
+Default priority:
+1. refine production specs/prompts/manifests,
+2. define exact C01/C13/C07/C11 neutral identity locks,
+3. define exact M01~M04 machine identity locks,
+4. define exact L01~L05 environment identity locks,
+5. generate only minimal empirical samples when a concrete QA question requires them,
+6. later return to protagonist name/C2 and v3 promotion.
+
+Do not mass-generate images automatically.
 Do not start prose automatically.
 Do not promote Canon automatically.
 Do not return to broad reference/collectibility expansion without an empirical failure.
