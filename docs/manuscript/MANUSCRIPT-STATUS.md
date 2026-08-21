@@ -12,7 +12,7 @@ Only `manuscript/accepted/` + this ledger count as completed manuscript.
 # 0. TWO LINES — DO NOT MIX
 
 ## Active line — v3 (9 Acts / 410 episodes)
-# **2 / 410 — IN PROGRESS**
+# **3 / 410 — IN PROGRESS**
 
 Paths: `manuscript/v3/_work/actXX/` → `manuscript/v3/accepted/actXX/`.
 The v2 tree at `manuscript/_work/` + `manuscript/accepted/` is **frozen — never write into it.**
@@ -47,7 +47,7 @@ A generic `이어서/진행` still does **not** authorize the next episode.
 
 # 2. CURRENT SUMMARY — v3 ACTIVE LINE
 
-- Accepted: **2 / 410**
+- Accepted: **3 / 410**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -64,13 +64,19 @@ A generic `이어서/진행` still does **not** authorize the next episode.
     → compressed → `REPAIR` (9 items, 3 High) → r2 `PASS` → r3 three optional planes.
   - Clue `NONE`; 0 new stable labels; 9/9 card fields; EP007 credit debt unspent and **enlarged**.
 
-Next eligible v3 episode:
-# **EP003 — 퇴근은 이동이다**
+- **EP003 — 퇴근은 이동이다** — 루카스 POV — QA `PASS` (`docs/manuscript/qa/V3-EP003-QA.md`) — 2026-08-22
+  - Drafted by Codex. r1 `REPAIR`(9) → r2 `REPAIR`(5+2) → r3 `PASS`. **16 repairs, 3 revisions.**
+  - **Both binding structural risks retired**: the 메리디언 enclosed-world debt cleared through use,
+    and the personal stake landed in sentence 1 after two episodes of deferring it to the final page.
 
-**Before drafting EP003 read `docs/manuscript/qa/V3-EP002-QA.md` §7.** Four items bind:
-enclosed-world texture debt must clear here; must NOT close on a passing cargo/vehicle
-(EP001 and EP002 both did); land 루카스's personal stake earlier than ~90% through;
-negation-reversal narration is at 2/2 with zero headroom.
+Next eligible v3 episode:
+# **EP004 — 한 노선 덜 쓰기** (POV: **Mira** — first non-protagonist POV)
+
+**Before drafting EP004 read `docs/manuscript/qa/V3-EP003-QA.md` §8.** Binding:
+the closing kit has narrowed to *live external state* / *dialogue punch* across EP001~003 —
+**EP004 must close on neither**. Mira decides on her own terms; she is not the protagonist's helper
+and 루카스 need not appear. Hold the enclosed-world level, do not re-explain the ship.
+**Open thread:** the damper-owner field is still blank — fill or reassign by EP006.
 
 ---
 
@@ -78,7 +84,7 @@ negation-reversal narration is at 2/2 with zero headroom.
 
 | Act | Episodes | Count | Accepted | State |
 |---|---|---:|---:|---|
-| Act1 우리가 살던 메리디언 | EP001~042 | 42 | **2** | IN_PROGRESS |
+| Act1 우리가 살던 메리디언 | EP001~042 | 42 | **3** | IN_PROGRESS |
 | Act2 닫힌 구획 | EP043~094 | 52 | 0 | LOCKED_FUTURE |
 | Act3 같은 아침이 아니다 | EP095~136 | 42 | 0 | LOCKED_FUTURE |
 | Act4 미래를 안다고 믿는 사람들 | EP137~181 | 45 | 0 | LOCKED_FUTURE |
@@ -87,7 +93,7 @@ negation-reversal narration is at 2/2 with zero headroom.
 | Act7 셀 수 없는 삶 | EP280~327 | 48 | 0 | LOCKED_FUTURE |
 | Act8 한 명과 수많은 사람 | EP328~370 | 43 | 0 | LOCKED_FUTURE |
 | Act9 처음 가는 곳 | EP371~410 | 40 | 0 | LOCKED_FUTURE |
-| **Total** | **EP001~410** | **410** | **2** | |
+| **Total** | **EP001~410** | **410** | **3** | |
 
 `LOCKED_FUTURE` = designed and Canon-locked, but not the next manuscript episode.
 
@@ -160,6 +166,9 @@ Draft가 이 파이프라인을 통과해야만 Accepted로 계상된다.
 # 7. NEXT ACTION
 
 Eligible next action:
-**v3 EP003 manuscript execution** — requires a new explicit user instruction.
+**v3 EP004 manuscript execution** — requires a new explicit user instruction.
 
-# `IN PROGRESS / 2 of 410`
+House length band across EP001~003: **5,410~5,539자** (Python `len`, body only —
+**never measure Korean length with `wc -c` / `wc -m`**, they report bytes).
+
+# `IN PROGRESS / 3 of 410`

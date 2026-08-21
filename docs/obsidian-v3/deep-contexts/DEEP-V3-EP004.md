@@ -32,6 +32,17 @@ Router: [[../contexts/CTX-V3-EP004]] · Episode: [[../episodes/EP-V3-004]]
 - router_ancestry_ref: `VOL-V3-01 / SA-V3-1A / BEAT-V3-B01`.
 
 ## Projected Incoming
+- **ACTUAL previous-episode continuity (JIT, from accepted EP003 — supersedes the forecast below):**
+  - the reroute notice **has already been issued by this office** and C01 received it at home: `내일 06:00~14:00 벨트 남측 보행 통로 화물 우선 운용 / 올드웍스 접근자는 미드링 4번 환승 후 북측 통로 이용 / 예상 추가 이동 17분`;
+  - it traces back through C01's signed 재개 조건 → belt change table → worker movement window. **EP004 must show Mira making that call on her own terms**, with her own constraints and her own counterparties — not reconstructing his chain;
+  - `absolute_forbid`: Mira is **not** the protagonist's helper and not his messenger. C01 need not appear;
+  - C01 is a passenger in her outcome, not a party to her decision. He never contacted her.
+- **QA carry-forward that binds EP004** (`docs/manuscript/qa/V3-EP003-QA.md` §8):
+  - **the closing kit has narrowed to two components across EP001–003** — *live external state* and *dialogue punch*. EP001 = state-last, EP003 = punch-last, an A-B-A rotation. **EP004 must close on neither.** M8 types still unused: 선택 / 대가 / 관계 전환 / 반전;
+  - **M9 policy is open**: EP003 ran 9 ironic / 4 sincere speakers against a cap of 2. Do not replicate a crowd of deadpan wits by default; a POV switch is the natural place to reset voice;
+  - narrator aphorism cap 1, negation-reversal cap 2 (EP003 left headroom at 1);
+  - the enclosed-world texture debt was cleared in EP003 — **hold the level, do not re-explain the ship**;
+  - open thread: the damper-owner field is still blank. Not EP004's to close, but do not contradict it.
 - previous_episode_forecast: reroute notice exists; protagonist feels consequences but did not make decision.
 - previous_beat_carry: ordinary logistics knock-on.
 - subact_entry_condition: no mystery pressure.

@@ -6,7 +6,7 @@
 
 # **OFFICIAL ACTIVE CANON = v3 — 9 Acts / 410 episodes. PROMOTED 2026-08-21.**
 # **PROTAGONIST = 루카스 켈러 / Lukas Keller — call-name `루카스`. APPROVED.**
-# **ACTIVE v3 MANUSCRIPT = 2 / 410 — EP001~002 ACCEPTED.**
+# **ACTIVE v3 MANUSCRIPT = 3 / 410 — EP001~003 ACCEPTED.**
 # **HISTORICAL v2 MANUSCRIPT = 10 / 230 — FROZEN, PRESERVED, CLOSED.**
 
 Do not rebuild anything. Do not re-derive design. Do not ask the user to repaste state.
@@ -41,9 +41,9 @@ For an episode: `exact Blueprint → CTX router → Deep sidecar → max-5 paylo
 | audit I-01 (P1) EP280~290 반복 공식 | **해소** — EP288 / EP290 재배치 |
 | audit J-01 (P2) Act9 임신 시계 | **해소** — LOCKED, Timeline gate CLOSED |
 
-**Next: EP003 — 퇴근은 이동이다, on explicit user instruction.**
+**Next: EP004 — 한 노선 덜 쓰기 (POV: 미라, 첫 비주인공 시점), on explicit user instruction.**
 
-Before EP003 read `docs/manuscript/qa/V3-EP002-QA.md` §7. Four items bind EP003: clear the enclosed-world texture debt; do NOT close on a passing cargo/vehicle (EP001 and EP002 both did); land 루카스's personal stake earlier than ~90% through; negation-reversal narration is at 2/2 with zero headroom.
+Before EP004 read `docs/manuscript/qa/V3-EP003-QA.md` §8. Binding: the closing kit has narrowed to *live external state* / *dialogue punch* across EP001~003 — **EP004 must close on neither**. Mira decides on her own terms and is not the protagonist's helper; 루카스 need not appear. Hold the enclosed-world level, do not re-explain the ship. **Open thread: the damper-owner field is blank — fill or reassign by EP006.** House length band 5,410~5,539자 (Python `len`, never `wc`).
 
 ---
 
