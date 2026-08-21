@@ -40,6 +40,20 @@ REQUIRED_HEADINGS = [
     "## Dynamic Actual Placeholder",
     "## Retrieval Compile Map",
 ]
+# v3 act boundaries, used to locate an episode's accepted-prose file.
+ACT_RANGES = [
+    (1, 1, 42), (2, 43, 94), (3, 95, 136), (4, 137, 181), (5, 182, 228),
+    (6, 229, 279), (7, 280, 327), (8, 328, 370), (9, 371, 410),
+]
+
+
+def act_of_ep(ep: int) -> int:
+    for act, lo, hi in ACT_RANGES:
+        if lo <= ep <= hi:
+            return act
+    raise ValueError(f"episode {ep} outside EP001~410")
+
+
 REALIZED_KEYS = [
     "realized_relationship_delta",
     "realized_knowledge_delta",
@@ -107,14 +121,35 @@ def validate_one(ep: int, path: Path) -> tuple[list[str], list[str]]:
         "type": "deep_projected_context",
         "schema": "DEEP-CONTEXT-SCHEMA-v1",
         "context_kind": "DEEP_PROJECTED",
-        "projection_semantics": "FORECAST_NOT_ACTUAL",
-        "dynamic_actual": "PENDING",
         "cross_branch_inheritance": "BLOCKED_UNLESS_EXPLICIT",
         "microbundle_compile_cap": "5",
     }
     for key, value in checks.items():
         if fm.get(key) != value:
             errors.append(f"{path}: {key}={fm.get(key)!r}, expected {value!r}")
+
+    # A node is in one of exactly two states, and the frontmatter must declare which.
+    # This is the guard that keeps a forecast from silently becoming actual continuity.
+    realized_state = fm.get("dynamic_actual") == "REALIZED"
+    if realized_state:
+        if fm.get("projection_semantics") != "REALIZED_FROM_ACCEPTED_PROSE":
+            errors.append(
+                f"{path}: dynamic_actual=REALIZED requires "
+                f"projection_semantics=REALIZED_FROM_ACCEPTED_PROSE, "
+                f"got {fm.get('projection_semantics')!r}"
+            )
+        accepted = ROOT / "manuscript" / "v3" / "accepted" / f"act{act_of_ep(ep):02d}" / f"EP{expected}.md"
+        if not accepted.exists():
+            errors.append(
+                f"{path}: dynamic_actual=REALIZED but no accepted prose at {accepted}"
+            )
+    else:
+        for key, value in (
+            ("projection_semantics", "FORECAST_NOT_ACTUAL"),
+            ("dynamic_actual", "PENDING"),
+        ):
+            if fm.get(key) != value:
+                errors.append(f"{path}: {key}={fm.get(key)!r}, expected {value!r}")
 
     try:
         rm = router_meta(ep)
@@ -139,6 +174,12 @@ def validate_one(ep: int, path: Path) -> tuple[list[str], list[str]]:
         matches = re.findall(rf"(?m)^{re.escape(key)}:\s*(.+)$", text)
         if len(matches) != 1:
             errors.append(f"{path}: {key} must appear exactly once; found {len(matches)}")
+        elif realized_state:
+            # JIT-realized node: every field must carry an actual value.
+            if matches[0].strip() == "PENDING":
+                errors.append(
+                    f"{path}: {key} is still PENDING but node is dynamic_actual=REALIZED"
+                )
         elif matches[0].strip() != "PENDING":
             errors.append(f"{path}: {key} must remain PENDING, got {matches[0]!r}")
 

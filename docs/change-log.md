@@ -359,6 +359,43 @@
 
 ---
 
+## CHG-057 — Deep Context JIT 실현 상태 도입 (스키마 명확화 + 검증기)
+- Date: 2026-08-21
+- Change Location:
+  - `docs/prewriting-v3/DEEP-CONTEXT-SCHEMA-v1.md` §1 — 2-state 계약 명문화
+  - `tools/deep_context_integrity.py` — 상태별 검증 + act 매핑 헬퍼
+  - `docs/obsidian-v3/deep-contexts/DEEP-V3-EP001.md` — REALIZED 전환 + 6개 필드 실현
+  - `docs/obsidian-v3/deep-contexts/DEEP-V3-EP002.md` — lane 2에 EP001 실제 연속성 주입
+- Trigger:
+  EP001 원고가 승인되면서 설계상 예정돼 있던 **JIT Dynamic Actual 단계가 처음으로 발동**.
+  그런데 `deep_context_integrity.py`가 `realized_*` 6개 필드를 **무조건** `PENDING`으로 강제해서
+  실현을 기록하면 검증이 깨졌다. 검증기는 승인 원고가 0편이던 시점에 작성된 것이다.
+- 판단:
+  스키마 §1은 원래 `PENDING`을 "**until JIT pre-draft freeze**"로 규정했고, §0은 `5. future JIT
+  Dynamic Actual state`를 계층으로 열거한다. 즉 실현은 설계된 전이이며, 검증기가 과도했다.
+  다만 전 시리즈 Red Team이 닫은 P0 `Forecast silently becomes Actual continuity`를 되열면 안 된다.
+- New:
+  노드는 **정확히 두 상태 중 하나**이고 frontmatter가 어느 쪽인지 **선언**해야 한다.
+  - Forecast: `FORECAST_NOT_ACTUAL` + `PENDING` → 6필드 전부 `PENDING` 강제
+  - Realized: `REALIZED_FROM_ACCEPTED_PROSE` + `REALIZED` → 6필드 전부 실값 강제,
+    **그리고 `manuscript/v3/accepted/actXX/EPxxx.md`가 실제로 존재해야 한다**
+  선언 자체가 P0 가드다. forecast가 조용히 actual이 되는 경로가 없다.
+- 음성 테스트 2건 통과:
+  ① forecast 노드에 실값 주입 → ERROR. ② 승인 원고 없이 REALIZED 선언 → ERROR.
+- 적용: EP001 REALIZED 전환, EP002 lane 2에 실제 연속성 주입(장비 스레드 = EP002, 배차 스레드는 열린 채).
+- Canon / Blueprint / POV / Reveal 변경: **0**. 410/410 무결성 유지, errors 0 / warnings 0.
+- 함께 처리: **CHG-055 미실행 4차 검증(위생)** — Codex 한도 복구 후 실행, `HYGIENE FAIL`.
+  1~3차가 놓친 승격 잔여 4건 발견(해당 파일들을 아무도 열어보지 않았기 때문):
+  `V3-CORE-CAST-ACT-ROLE-MATRIX`(Protagonist TBD, authority map에서 라우팅됨),
+  `V3-C2-ACT-SURFACE-LANGUAGE-OVERLAY`(루카스 미승인 취급 + `주인공/TBD` 허용),
+  `CURRENT-GRAPH-STATUS` / `contexts/V3-410-PROJECTED-CONTEXT-MANIFEST`(공식 Canon = v2 주장).
+  전부 수정. 재스윕 결과 잔여는 `SUPERSEDED` 명시 또는 라우팅 0인 역사 기록뿐.
+  실질 내용(47화 POV 목록 272+47=319, D2 Act1 일정, Act9 38주, v2 원고 바이트 동일)은 무손상 재확인.
+  Codex의 FAIL 1건(`942dfbe`가 `CANON_STATUS.md` 수정)은 **기각** — 원고 진척 반영은 정상 동작이며 질문 표현이 부정확했다.
+- Status: **`JIT REALIZATION ACTIVE / P0 FORECAST-VS-ACTUAL GUARD PRESERVED / CHG-055 HYGIENE GAP CLOSED`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character/narrative authority (**v3, promoted 2026-08-21**):

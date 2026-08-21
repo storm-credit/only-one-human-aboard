@@ -199,13 +199,24 @@ before the substantive content passed.** What Codex caught, in order:
 | 1 | REJECTED | Active authority files still claimed v2 official / v3 not canon; promoted Bibles still said protagonist TBD; authority map still used `베르너` family names; active C2 docs still worded as candidate; **EP022 labelled `REINFORCE`, violating the ledger's `REINFORCE — Act3/4` window**; Act9 QA gate both closed and still listed unresolved. |
 | 2 | REJECTED | EP022 fixed but its sidecar still said `first soft anomaly`; EP007/EP012 sidecars gained D05 while keeping stale `no clue/collectible` retrieval lanes and a `mystery hint` FORBID; EP014/EP028 `local bounded payoff` wording readable as a ledger-window violation; several pre-promotion phrases still live in `ACT_BIBLE-v3.2`, `CHARACTER_BIBLE-v3.1`, authority map, asset roster, `ENTITY-C01`, density map. |
 | 3 | REJECTED | Remaining stale wording in the C2 closure doc, asset overlay, language addendum, authority map gate line, and **all nine active v3 World addenda still carrying `NOT CANON` status headers**. |
-| 4 | **NOT RUN** | Codex hit its account usage limit before the fourth pass could execute. |
+| 4 | **RUN 2026-08-21 — `HYGIENE FAIL`, then fixed** | Quota recovered. Found **four genuine leftovers** that rounds 1~3 missed because none of us had opened those files: `V3-CORE-CAST-ACT-ROLE-MATRIX-v0.1.md` still listed `Protagonist TBD` (and it *is* routed from the authority map); `V3-C2-ACT-SURFACE-LANGUAGE-OVERLAY-v0.1.md` still treated `루카스` as pending approval and explicitly permitted `주인공/TBD`; `CURRENT-GRAPH-STATUS.md` and `contexts/V3-410-PROJECTED-CONTEXT-MANIFEST.md` still declared official Canon to be v2. All four corrected. |
 
-## Honest limitation
-Round 3's fixes — status-header and wording corrections only, listed above — were verified by the
-orchestrator with the same mechanical checks Codex used, **not by an independent adversarial pass.**
-The substantive content (the D2 design, the 47-episode POV set, D05 ledger-window compatibility,
-Deep sidecar/card consistency, graph integrity, scope containment) *was* Codex-verified in rounds 1~3.
+## Round 4 outcome — the gap is now closed
+The deferred pass ran on 2026-08-21 and **failed**, which is the useful result: it proved the
+self-verification in round 3 was genuinely weaker than an adversarial pass. Four authority-routed
+documents still carried pre-promotion state. They were fixed and re-swept; the only remaining hits are
+in files that are explicitly `SUPERSEDED / NOT ACTIVE AUTHORITY` or carry zero active routing
+(`V3-CURRENT-DESIGN-STATUS`, `V3-DEEP-COMPLETION-WORKFLOW-v0.1`, `V3-CANDIDATE-FREEZE-PACKAGE-v0.1`),
+which is correct for historical records.
+
+Round 4 also re-confirmed the substantive content was intact: the 47-episode POV list still reconciles
+`272 + 47 = 319`, the D2 Act1 schedule (EP007 / EP012 / EP014 / EP022) is in place, the Act9 gestation
+clock is locked at `8 + 12 + 18 = 38` weeks, the ten accepted v2 episodes are byte-identical to their
+`53b74c1` baseline, and no blueprint or deep-context file was touched by the manuscript commit.
+
+One reported FAIL was **rejected**: round 4 flagged that commit `942dfbe` modified `canon/CANON_STATUS.md`.
+That is correct behaviour, not a violation — updating the status table to record manuscript progress is
+required. The orchestrator's question had been phrased imprecisely.
 
 Self-verified results at merge time:
 - previously-open items 1~5: all clear;
