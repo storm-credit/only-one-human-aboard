@@ -32,6 +32,19 @@ Router: [[../contexts/CTX-V3-EP005]] · Episode: [[../episodes/EP-V3-005]]
 - router_ancestry_ref: `VOL-V3-01 / SA-V3-1A / BEAT-V3-B01`.
 
 ## Projected Incoming
+- **ACTUAL previous-episode continuity (JIT, from accepted EP004 — supersedes the forecast below):**
+  - Mira's reroute is **locked and in force** from 06:00: 올드웍스 접근자는 미드링 4번 환승 후 북측, 추가 17분. C01 eats it this morning;
+  - **she made the call on her own terms and he was not in it.** He must not learn her reasoning from her — `absolute_forbid` on Mira as helper stands;
+  - **a readable object is already planted where he will stand**: the `현장 권한 없음` sentence is posted on the 미드링 4번 환승 게시 화면. EP005's card requires him to see why the allocation was rational; this is the concrete route to it, and it ties back to the placard EP001~003 already established;
+  - the cost is exact and known: 북측 시간당 520명, 06:00~14:00, **4,200명이 17분씩**. Do not re-derive it — he is one of the 4,200;
+  - the damper is still not recalibrated and the owner field is still blank.
+- **QA carry-forward that binds EP005** (`docs/manuscript/qa/V3-EP004-QA.md` §8):
+  - **length: floor 5,500, NO ceiling** (`MANUSCRIPT-PIPELINE-v1` §2.1). Never cut a scene for length;
+  - **standing revision rule**: during repair add dialogue or a completed action — never an evaluative narrator sentence;
+  - narrator aphorism cap 1, 일반화 cap 1, negation-reversal cap 2. EP004 passed all seven for the first time — hold it;
+  - soft-negation field sat at 8 and was excused as characterization. **If it clusters again here it reverts to a defect**;
+  - three name-refusal beats is the ceiling — do not add a fourth;
+  - **damper-owner blank field: fill or reassign by EP006.**
 - previous_episode_forecast: alternate route creates Old Works commuter inconvenience.
 - previous_beat_carry: Mira owns logistics decision.
 - subact_entry_condition: no mystery.

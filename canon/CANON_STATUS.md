@@ -17,7 +17,7 @@ Authorizing audit: `docs/qa/V3-FINAL-PRE-MANUSCRIPT-BLIND-SPOT-AUDIT-v1.md`.
 
 Protagonist final name: **루카스 켈러 / Lukas Keller** — APPROVED 2026-08-21.
 
-Active v3 manuscript: **3 / 410** — IN PROGRESS (EP001~003 accepted; CHG-056, 058, 059).
+Active v3 manuscript: **4 / 410** — IN PROGRESS (EP001~004 accepted; CHG-056, 058, 059, 060).
 Historical v2 manuscript: **10 / 230** — preserved, frozen, not part of the v3 line.
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
@@ -36,7 +36,7 @@ Historical v2 manuscript: **10 / 230** — preserved, frozen, not part of the v3
 - `FINAL PRE-MANUSCRIPT BLIND-SPOT AUDIT = PATCH → 해소`
 - **`V3 CANON PROMOTION = EXECUTED — 2026-08-21`**
 - **`PROTAGONIST FINAL NAME = APPROVED — 루카스 켈러`**
-- **`MANUSCRIPT = IN PROGRESS (3 / 410)`**
+- **`MANUSCRIPT = IN PROGRESS (4 / 410)`**
 
 All gates are closed. Each further episode still requires an explicit user drafting instruction.
 
