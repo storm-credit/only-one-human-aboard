@@ -5,8 +5,8 @@ episode: EP004
 router: CTX-V3-EP004
 schema: DEEP-CONTEXT-SCHEMA-v1
 context_kind: DEEP_PROJECTED
-projection_semantics: FORECAST_NOT_ACTUAL
-dynamic_actual: PENDING
+projection_semantics: REALIZED_FROM_ACCEPTED_PROSE
+dynamic_actual: REALIZED
 branch_state_namespace: H-A
 cross_branch_inheritance: BLOCKED_UNLESS_EXPLICIT
 microbundle_compile_cap: 5
@@ -123,12 +123,15 @@ Router: [[../contexts/CTX-V3-EP004]] · Episode: [[../episodes/EP-V3-004]]
 - next_episode_carry: protagonist encounters the consequence, not the decision-making scene.
 
 ## Dynamic Actual Placeholder
-realized_relationship_delta: PENDING
-realized_knowledge_delta: PENDING
-realized_material_delta: PENDING
-realized_world_institution_delta: PENDING
-realized_asset_lifecycle_delta: PENDING
-actual_next_episode_carry: PENDING
+State: **REALIZED 2026-08-22** (JIT from accepted prose).
+Source: `manuscript/v3/accepted/act01/EP004.md`. QA: `docs/manuscript/qa/V3-EP004-QA.md`.
+
+realized_relationship_delta: **C02↔C09 working edge established through a refusal, not a favor.** Juno asked for a name-level exception for the 야간 식당 person; Mira refused (`"한 사람 창을 확정으로 잡으면 그 줄에 이름이 붙습니다."`), Juno reframed to a universal (`"열둘을 다 살리는 표는 됩니까?"`), Mira committed and delivered. Juno is causally wired to the outcome. Record left: `수량 제공 유효` — this source is usable again. C02↔manager: she refused his administratively-clean one-window dump and **spent credibility she needs for her own 3구역 재설계**. C01↔C02: zero contact; `루카스` 0 occurrences.
+realized_knowledge_delta: reader learns the network allocates without the protagonist and that **every solution has a named loser**. Mira's operating rules are now on record: no names in the table (`이름을 받으면 제가 더 착해진 척하게 됩니다`), costs get logged not absorbed (`초과 기록`), and losses get locked visible not hidden (`숨김 처리하지 않고 잠금만 걸었다`).
+realized_material_delta: **P04 루트 태그 FOREGROUND achieved** — used four times as ordinary habit (`의료`/`생활권`/`통근`/`빈 화물 터그`), admired zero times, no magic framing. L01 벨트 / M03 화물 터그 BACKGROUND. Enclosed-world held via the belt's visible curve through the corridor glass. New stable labels: **0**.
+realized_world_institution_delta: 배분실 established as an authority that **reallocates but cannot create capacity**. Manager characterized as a real counterparty with a sound audit argument, not a strawman. **Notice recipient-segmentation is now canon**: 통근 접근 수신자 got two lines, 의료·생활권 목록 got a third — this is what reconciles EP004 with accepted EP003. `현장 권한 없음` boilerplate deployed to the 미드링 4번 환승 게시 화면, tying to EP003's placard.
+realized_asset_lifecycle_delta: P04 `INTRODUCE → FOREGROUND` ✓. L01/M03 `PERSIST / BACKGROUND` ✓. Watch: `생활권` at high density as a category noun.
+actual_next_episode_carry: **the reroute is locked and Lukas eats it tomorrow.** `+17` fixed at the north corridor; 4,200 commuters pay 17 minutes each between 06:00 and 14:00. **EP005 opportunity: the 현장 권한 없음 sentence is now physically posted at 미드링 4번 환승 게시 화면** — exactly where EP005's card needs Lukas to see why the allocation was rational even though it inconveniences him. Mira does not appear in EP005; he meets her decision, not her.
 
 ## Retrieval Compile Map
 1 EP004 Blueprint. 2 reroute continuity. 3 Mira/Juno relationship. 4 dispatch/network/P04. 5 P04 only; no reveal device.

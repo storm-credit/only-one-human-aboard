@@ -12,7 +12,7 @@ Only `manuscript/accepted/` + this ledger count as completed manuscript.
 # 0. TWO LINES — DO NOT MIX
 
 ## Active line — v3 (9 Acts / 410 episodes)
-# **3 / 410 — IN PROGRESS**
+# **4 / 410 — IN PROGRESS**
 
 Paths: `manuscript/v3/_work/actXX/` → `manuscript/v3/accepted/actXX/`.
 The v2 tree at `manuscript/_work/` + `manuscript/accepted/` is **frozen — never write into it.**
@@ -47,7 +47,7 @@ A generic `이어서/진행` still does **not** authorize the next episode.
 
 # 2. CURRENT SUMMARY — v3 ACTIVE LINE
 
-- Accepted: **3 / 410**
+- Accepted: **4 / 410**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -69,14 +69,18 @@ A generic `이어서/진행` still does **not** authorize the next episode.
   - **Both binding structural risks retired**: the 메리디언 enclosed-world debt cleared through use,
     and the personal stake landed in sentence 1 after two episodes of deferring it to the final page.
 
-Next eligible v3 episode:
-# **EP004 — 한 노선 덜 쓰기** (POV: **Mira** — first non-protagonist POV)
+- **EP004 — 한 노선 덜 쓰기** — **미라 POV (첫 비주인공 시점)** — QA `PASS` (`docs/manuscript/qa/V3-EP004-QA.md`) — 2026-08-22
+  - Drafted by Codex. r1 `REPAIR`(P0×4, P1×9) → r2 `REPAIR`(9) → r3 `REPAIR`(1) → r4 `PASS`.
+  - **첫 7종 정량 전부 통과.** 루카스 0회. 종결 장치 `대가` 확보로 EP001~003 A-B-A 회전 탈출.
+  - **"비주인공이 한 화를 감당하는가" = YES.** 410화 중 91화가 비주인공 POV라 구조적으로 중요.
 
-**Before drafting EP004 read `docs/manuscript/qa/V3-EP003-QA.md` §8.** Binding:
-the closing kit has narrowed to *live external state* / *dialogue punch* across EP001~003 —
-**EP004 must close on neither**. Mira decides on her own terms; she is not the protagonist's helper
-and 루카스 need not appear. Hold the enclosed-world level, do not re-explain the ship.
-**Open thread:** the damper-owner field is still blank — fill or reassign by EP006.
+Next eligible v3 episode:
+# **EP005 — 남의 결정도 내 하루가 된다**
+
+**Before drafting EP005 read `docs/manuscript/qa/V3-EP004-QA.md` §8.** 미라는 등장하지 않는다 —
+루카스는 그녀가 아니라 **그녀의 결정**을 만난다. EP004가 `미드링 4번 환승 게시 화면`에
+`현장 권한 없음` 문장을 심어 뒀다. 비용은 이미 확정돼 있다: **4,200명 × 17분.**
+**미결: 댐퍼 담당 칸 공란 — EP006까지 채우거나 재배정.**
 
 ---
 
@@ -84,7 +88,7 @@ and 루카스 need not appear. Hold the enclosed-world level, do not re-explain 
 
 | Act | Episodes | Count | Accepted | State |
 |---|---|---:|---:|---|
-| Act1 우리가 살던 메리디언 | EP001~042 | 42 | **3** | IN_PROGRESS |
+| Act1 우리가 살던 메리디언 | EP001~042 | 42 | **4** | IN_PROGRESS |
 | Act2 닫힌 구획 | EP043~094 | 52 | 0 | LOCKED_FUTURE |
 | Act3 같은 아침이 아니다 | EP095~136 | 42 | 0 | LOCKED_FUTURE |
 | Act4 미래를 안다고 믿는 사람들 | EP137~181 | 45 | 0 | LOCKED_FUTURE |
@@ -93,7 +97,7 @@ and 루카스 need not appear. Hold the enclosed-world level, do not re-explain 
 | Act7 셀 수 없는 삶 | EP280~327 | 48 | 0 | LOCKED_FUTURE |
 | Act8 한 명과 수많은 사람 | EP328~370 | 43 | 0 | LOCKED_FUTURE |
 | Act9 처음 가는 곳 | EP371~410 | 40 | 0 | LOCKED_FUTURE |
-| **Total** | **EP001~410** | **410** | **3** | |
+| **Total** | **EP001~410** | **410** | **4** | |
 
 `LOCKED_FUTURE` = designed and Canon-locked, but not the next manuscript episode.
 
@@ -166,9 +170,26 @@ Draft가 이 파이프라인을 통과해야만 Accepted로 계상된다.
 # 7. NEXT ACTION
 
 Eligible next action:
-**v3 EP004 manuscript execution** — requires a new explicit user instruction.
+**v3 EP005 manuscript execution** — requires a new explicit user instruction.
 
-House length band across EP001~003: **5,410~5,539자** (Python `len`, body only —
-**never measure Korean length with `wc -c` / `wc -m`**, they report bytes).
+# 회차 분량 규정 — 하한만 있고 상한은 없다 (작가 결정, 2026-08-22)
 
-# `IN PROGRESS / 3 of 410`
+# **하한 5,500자. 상한 없음.**
+
+측정은 Python `len()`, 본문만. **`wc -c` / `wc -m` 금지** — 여기서는 바이트를 보고하므로 약 2.4배로 오도한다.
+
+근거와 경위:
+- 유일하게 문서화된 규정은 `docs/writing-ready/PROSE-EXECUTION-PROTOCOL-v1.1.md` §6
+  (`soft production band 5,500~8,000 / exact count is not Canon`)이며, 이는 **v2 시대 문서**로
+  v3 권위 목록에 없다. 즉 v3에는 분량 규정이 없었다.
+- 그 공백에서 오케스트레이터가 승인된 EP001~003으로부터 `5,410~5,539` 밴드를 **역산해 상한처럼 사용**했다.
+  이는 규정이 아니었고, 회차를 정당 범위의 바닥에 묶었다. **EP001~003은 전부 하한 5,500에 걸치거나 미달이다**
+  (5,512 / 5,410 / 5,539). EP002는 90자 부족.
+- 작가 결정으로 정정: **하한만 유지하고 상한은 두지 않는다.**
+
+운용:
+- 하한 미달은 결함이다. 초과는 결함이 아니다.
+- 길이를 이유로 장면을 자르지 마라. 자를 이유는 언제나 문장 수준의 결함이어야 한다.
+- 협상·다자 대화가 있는 화는 독백형 화보다 길어지는 것이 정상이다.
+
+# `IN PROGRESS / 4 of 410`

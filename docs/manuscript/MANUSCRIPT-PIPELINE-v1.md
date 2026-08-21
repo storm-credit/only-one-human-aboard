@@ -48,6 +48,14 @@ existing QA and change-record references. The v3 line simply gets its own subtre
 ## Status Ledger (shared, both lines)
 `docs/manuscript/MANUSCRIPT-STATUS.md`
 
+# 2.1 회차 분량 — 하한만 (2026-08-22 작가 결정)
+
+# **하한 5,500자 · 상한 없음.**
+
+Python `len()`, 본문만. **`wc -c` / `wc -m`은 바이트를 보고하므로 쓰지 마라.**
+하한 미달은 결함, 초과는 결함이 아니다. **길이를 이유로 장면을 자르지 마라.**
+정본 규정은 `docs/manuscript/MANUSCRIPT-STATUS.md` 상단 참조.
+
 ## Batch QA
 `docs/manuscript/qa/BATCH-EPXXX-XXX.md`
 
