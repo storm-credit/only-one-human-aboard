@@ -5,8 +5,8 @@ episode: EP002
 router: CTX-V3-EP002
 schema: DEEP-CONTEXT-SCHEMA-v1
 context_kind: DEEP_PROJECTED
-projection_semantics: FORECAST_NOT_ACTUAL
-dynamic_actual: PENDING
+projection_semantics: REALIZED_FROM_ACCEPTED_PROSE
+dynamic_actual: REALIZED
 branch_state_namespace: H-A
 cross_branch_inheritance: BLOCKED_UNLESS_EXPLICIT
 microbundle_compile_cap: 5
@@ -113,12 +113,15 @@ Router: [[../contexts/CTX-V3-EP002]] · Episode: [[../episodes/EP-V3-002]]
 - next_episode_carry: logistics consequence should affect commute rather than become new mystery.
 
 ## Dynamic Actual Placeholder
-realized_relationship_delta: PENDING
-realized_knowledge_delta: PENDING
-realized_material_delta: PENDING
-realized_world_institution_delta: PENDING
-realized_asset_lifecycle_delta: PENDING
-actual_next_episode_carry: PENDING
+State: **REALIZED 2026-08-22** (JIT from accepted prose).
+Source: `manuscript/v3/accepted/act01/EP002.md`. QA: `docs/manuscript/qa/V3-EP002-QA.md`.
+
+realized_relationship_delta: C01↔C08 boundary sharpened and made explicit — the refusal moved from **자격** (EP001) to **접근 사유** (`"저번엔 자격이 부족했고, 오늘은 접근 사유가 부족해."`), and C01 himself opens the gate once observations accumulate (`"이제 넣을 수 있어."`). Niko's route was never wrong. **The EP007 credit debt is now larger and visible on-page**: Niko asserts standing (`"선배, 저 어제부터 이거 하고 있어요."`) and C01 answers with silence, lowering the light only after verifying the frame himself. C01↔C07 — Gideon set a field condition by comm and it closed four minutes after the footage went up; he is characterized by response latency, not dialogue.
+realized_knowledge_delta: first case **closed**. Chain proven and signed: two-month freight-interval change → repeated shock through a **miscalibrated transfer damper** whose calibration mark still sits at the old spacing → load path shift → 3-4 joint loosening → crack. `균열은 맨 뒤에 온 증상`. EP001's step-change question is answered by **approved paperwork**, not by anything hidden. C01 also corrected his own EP001 hypothesis out loud: not one hard event but a daily one (`"매일이었네."`). **Open**: the damper is not yet recalibrated — that needs a separate owner.
+realized_material_delta: 진단 베이스 staged on-page for the first time (scratched metal plate, shared screen, three abandoned paper cups) with a recurring somatic anchor — the cold plate against his wrist. White marking pen this episode vs EP001's yellow; yesterday's yellow marks still referenced on site. 필드케이스 opens and closes the episode again. 매핑 드론 carries the inspection; 구조 크롤러 deliberately absent.
+realized_world_institution_delta: repair crews / contract workers / co-op / signoff chain all shown with independent motives (대기 비용, 저녁 당번표). **자격표식 credential gate operated in the real direction**: the upper service run was opened on the repair crew's marker, not C01's — his name went in the `판단 근거 제공자` column. Belt dispatch established as a live counterparty with its own reply, which accepted his condition and added two measures he never specified (경량 화물 선행, 작업자 이동 창 조정).
+realized_asset_lifecycle_delta: P01/P02 `PERSIST / BACKGROUND` with the closing latch beat retained. M02 매핑 드론 `RECOGNIZE / FOREGROUND-functional`. M01 `HELD OFFSTAGE` by design. L05 `PERSIST`. P05 자격표식 `REINFORCE` — used as an access gate rather than introduced. New stable labels: **0**. Watch: `진단 베이스` (3 uses) and `트랜스퍼 댐퍼` need ledger decisions before recurrence.
+actual_next_episode_carry: **the condition C01 signed has left his hands and is rewriting other people's timetables** — freight bundle moved a slot down, a light cargo inserted ahead of it, and the worker movement window narrowed and turned red. His own commute is caught in it. Niko asked `"괜찮아요?"` and **C01 did not answer** — that question is EP003's to dramatize, not to joke away. The dispatch-room thread from EP001 remains open and is now a working relationship rather than a mystery.
 
 ## Retrieval Compile Map
 1. Episode Card → EP002 Blueprint. 2. Immediate Continuity → EP001 actual/JIT + forecast. 3. POV/Relationship → C01/C08. 4. World/Material → service corridor + damper/signoff. 5. Device/Collectibility → M01 only if foregrounded; no clue chain.

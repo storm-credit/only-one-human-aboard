@@ -6,7 +6,7 @@
 
 # **OFFICIAL ACTIVE CANON = v3 — 9 Acts / 410 episodes. PROMOTED 2026-08-21.**
 # **PROTAGONIST = 루카스 켈러 / Lukas Keller — call-name `루카스`. APPROVED.**
-# **ACTIVE v3 MANUSCRIPT = 1 / 410 — EP001 ACCEPTED.**
+# **ACTIVE v3 MANUSCRIPT = 2 / 410 — EP001~002 ACCEPTED.**
 # **HISTORICAL v2 MANUSCRIPT = 10 / 230 — FROZEN, PRESERVED, CLOSED.**
 
 Do not rebuild anything. Do not re-derive design. Do not ask the user to repaste state.
@@ -41,9 +41,9 @@ For an episode: `exact Blueprint → CTX router → Deep sidecar → max-5 paylo
 | audit I-01 (P1) EP280~290 반복 공식 | **해소** — EP288 / EP290 재배치 |
 | audit J-01 (P2) Act9 임신 시계 | **해소** — LOCKED, Timeline gate CLOSED |
 
-**Manuscript Start executed 2026-08-21. Next: EP002, on explicit user instruction.**
+**Next: EP003 — 퇴근은 이동이다, on explicit user instruction.**
 
-Before EP002 read `docs/manuscript/qa/V3-EP001-QA.md` §7 (nine carry-forward items).
+Before EP003 read `docs/manuscript/qa/V3-EP002-QA.md` §7. Four items bind EP003: clear the enclosed-world texture debt; do NOT close on a passing cargo/vehicle (EP001 and EP002 both did); land 루카스's personal stake earlier than ~90% through; negation-reversal narration is at 2/2 with zero headroom.
 
 ---
 

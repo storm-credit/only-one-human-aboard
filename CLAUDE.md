@@ -56,13 +56,13 @@ Current manuscript state:
 **`IN PROGRESS`**
 
 Active v3 manuscript:
-**1 / 410** — EP001 accepted 2026-08-21 (CHG-056)
+**2 / 410** — EP001~002 accepted (CHG-056, CHG-058)
 
 Historical v2 manuscript (frozen, preserved):
 **10 / 230** — `manuscript/accepted/` EP001~010. v3 라인으로 끌어오지 마라.
 
 Next eligible v3 episode:
-**EP002**
+**EP003**
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 

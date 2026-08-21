@@ -396,6 +396,38 @@
 
 ---
 
+## CHG-058 — v3 EP002 승인 (2 / 410) + Codex 집필 파이프라인 첫 운용
+- Date: 2026-08-22
+- Change Location:
+  - `manuscript/v3/{_work,accepted}/act01/EP002.md` 신설
+  - `docs/manuscript/qa/V3-EP002-QA.md` 신설
+  - `docs/manuscript/MANUSCRIPT-STATUS.md` 1/410 → **2/410**
+  - `DEEP-V3-EP002` → `REALIZED`, `DEEP-V3-EP003` lane 2에 실제 연속성 주입
+- 집필: **Codex CLI**. 심사: 읽기 전용 `episode-qa` 2회 독립 심사. 최종 판정: 오케스트레이터.
+- **오케스트레이터 오류 기록**: 초고가 12,008자로 정본 길이의 2.2배였다.
+  원인은 집필 지시서에 `EP001 = 12,862자`라고 준 것 — 그건 **문자 수가 아니라 바이트 수**였다.
+  한국어 UTF-8은 문자당 약 3바이트이므로 실제 정본 길이는 ~5,500자다.
+  Codex는 지시를 정확히 따랐다. 목표 정정 후 압축으로 품질 손실 없이 복구.
+  **교훈: 한국어 분량은 문자로 재라. `wc -c` / `wc -m` 금지.**
+- QA r1 `REPAIR` 9건 (High 3):
+  - **R1** 승인된 EP001과 모순 — EP001은 `"고쳤네요."`로 끝나는데 EP002는 볼트가 안 조여진 채 열림.
+    → EP001의 `0.11`이 *3구획을 비워둔 값*이었다는 한 문장으로 화해. **승인 원고 수정 없이 해결.**
+  - **R2** 서술자 격언 4/1 — EP001 핵심 교훈("서술자가 제일 약한 인물") 부분 퇴행. 3건 행동으로 전환.
+  - **R3** 종결 장치가 EP001과 중복(구성요소 동일, 순서만 반전, 화자쌍도 동일).
+    → `조용한 비가역 파급 + 물리 상태`로 교체.
+  - R4~R8: 기디언 조건 필드 미종결 / EP001이 두 번 심은 배차실 마찰을 한 문장으로 지불 /
+    프레팅 몇 달 vs 두 달 계단 논리 공백 / 3장면 행정 전용 / EP001의 수치 축 단절.
+  - **R9 (설계급)** `flaw_pressure` 미달 — 루카스가 모든 응수를 이기고 아무도 그에게 착지하지 않음.
+    게다가 기디언의 EP001 교정을 완벽히 수행해서, **9막에 걸쳐 그를 부술 결함이 2화에 벌써 나아 보임.**
+    → 통제가 대가를 치르는 비트 추가.
+- r2 `PASS`. 계량 7종 전부 상한 내(격언 1/1, 부정-반전 2/2, 금지 3종 0). conditional-gnomic 상습화 해소(3→1).
+- r3에서 P2 3건 반영. 그중 하나는 **심사자가 자기가 쓴 문장을 스스로 감사해서** 지적한 것.
+- 오케스트레이터가 요청 없이 추가한 밀폐세계 질감 1줄은 심사자에게 명시적으로 판단을 맡겼고, **유지 판정**.
+- Canon / Blueprint / POV / Reveal 변경: **0**. v2 트리 변경: **0**. 무결성 410/410.
+- Status: **`EP002 ACCEPTED / v3 2 of 410 / EP003 대기(사용자 지시 필요)`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character/narrative authority (**v3, promoted 2026-08-21**):
@@ -421,6 +453,6 @@ C2 refinement inside frozen ranges is allowed, but recurring/clue-bearing/causal
 promoted/logged before manuscript acceptance.
 
 Current manuscript state:
-**`IN PROGRESS`** — active v3 **1 / 410** (EP001 accepted); historical v2 **10 / 230** frozen.
+**`IN PROGRESS`** — active v3 **2 / 410** (EP001~002 accepted); historical v2 **10 / 230** frozen.
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
