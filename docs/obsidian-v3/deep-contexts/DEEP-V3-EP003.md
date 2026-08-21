@@ -32,6 +32,18 @@ Router: [[../contexts/CTX-V3-EP003]] · Episode: [[../episodes/EP-V3-003]]
 - router_ancestry_ref: `VOL-V3-01 / SA-V3-1A / BEAT-V3-B01`.
 
 ## Projected Incoming
+- **ACTUAL previous-episode continuity (JIT, from accepted EP002 — supersedes the forecast below):**
+  - the first case is **closed**: miscalibrated transfer damper, signed off, crack confirmed as the last symptom. Nothing about it is unresolved or mysterious;
+  - but C01's signed re-open condition **propagated**: freight bundle moved down a slot, light cargo inserted ahead, worker movement window narrowed and red. He is personally caught in it — this is the commute EP003 dramatizes;
+  - Niko asked `"괜찮아요?"` at the end of EP002 and **C01 did not answer.** EP003 should dramatize that, not resolve it with a quip;
+  - the damper is not yet recalibrated; a separate owner is needed. Do not let EP003 turn that into a mystery — it is ordinary scheduling;
+  - belt dispatch is now a working counterparty, not an unknown. The EP001 dispatch thread stays open as a *relationship*;
+  - the EP007 credit debt is **larger and now visible to the reader**. Do not pay it here.
+- **QA carry-forward that binds EP003** (`docs/manuscript/qa/V3-EP002-QA.md` §7):
+  - **must clear the `메리디언` / enclosed-world texture debt** — two episodes deep, becomes structural if deferred again;
+  - **must not close on a passing cargo or vehicle** — EP001 and EP002 both did;
+  - C01's personal stake landed ~90% through in both prior episodes; **land it earlier here** or it is structural;
+  - negation-reversal narration is at **2/2 with zero headroom**; narrator aphorism cap 1.
 - previous_episode_forecast: freight timing change가 통근에 작은 파장을 준다.
 - previous_beat_carry: 주인공은 업무를 닫아도 도시 전체를 통제하지 못함.
 - subact_entry_condition: ordinary consequences cross departments.

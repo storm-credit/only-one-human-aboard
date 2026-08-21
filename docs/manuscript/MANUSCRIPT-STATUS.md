@@ -12,7 +12,7 @@ Only `manuscript/accepted/` + this ledger count as completed manuscript.
 # 0. TWO LINES — DO NOT MIX
 
 ## Active line — v3 (9 Acts / 410 episodes)
-# **1 / 410 — IN PROGRESS**
+# **2 / 410 — IN PROGRESS**
 
 Paths: `manuscript/v3/_work/actXX/` → `manuscript/v3/accepted/actXX/`.
 The v2 tree at `manuscript/_work/` + `manuscript/accepted/` is **frozen — never write into it.**
@@ -47,7 +47,7 @@ A generic `이어서/진행` still does **not** authorize the next episode.
 
 # 2. CURRENT SUMMARY — v3 ACTIVE LINE
 
-- Accepted: **1 / 410**
+- Accepted: **2 / 410**
 - Work Draft: **0**
 - QA Review: **0**
 - Revision Required: **0**
@@ -59,9 +59,18 @@ A generic `이어서/진행` still does **not** authorize the next episode.
 - **EP001 — 오래된 진동** — 루카스 POV — QA `PASS` (`docs/manuscript/qa/V3-EP001-QA.md`) — 2026-08-21
   - r1 `REPAIR` (10 required repairs) → r2 `PASS` → r3 staging/register fixes at promotion.
   - Clue `NONE` honored; 0 new stable terminology labels; all 9 blueprint card fields delivered.
+- **EP002 — 원인은 한 칸 앞에 있다** — 루카스 POV — QA `PASS` (`docs/manuscript/qa/V3-EP002-QA.md`) — 2026-08-22
+  - Drafted by Codex. r1 over-length (12,008자, orchestrator gave a byte count as a char count)
+    → compressed → `REPAIR` (9 items, 3 High) → r2 `PASS` → r3 three optional planes.
+  - Clue `NONE`; 0 new stable labels; 9/9 card fields; EP007 credit debt unspent and **enlarged**.
 
 Next eligible v3 episode:
-# **EP002 — 원인은 한 칸 앞에 있다**
+# **EP003 — 퇴근은 이동이다**
+
+**Before drafting EP003 read `docs/manuscript/qa/V3-EP002-QA.md` §7.** Four items bind:
+enclosed-world texture debt must clear here; must NOT close on a passing cargo/vehicle
+(EP001 and EP002 both did); land 루카스's personal stake earlier than ~90% through;
+negation-reversal narration is at 2/2 with zero headroom.
 
 ---
 
@@ -69,7 +78,7 @@ Next eligible v3 episode:
 
 | Act | Episodes | Count | Accepted | State |
 |---|---|---:|---:|---|
-| Act1 우리가 살던 메리디언 | EP001~042 | 42 | **1** | IN_PROGRESS |
+| Act1 우리가 살던 메리디언 | EP001~042 | 42 | **2** | IN_PROGRESS |
 | Act2 닫힌 구획 | EP043~094 | 52 | 0 | LOCKED_FUTURE |
 | Act3 같은 아침이 아니다 | EP095~136 | 42 | 0 | LOCKED_FUTURE |
 | Act4 미래를 안다고 믿는 사람들 | EP137~181 | 45 | 0 | LOCKED_FUTURE |
@@ -78,7 +87,7 @@ Next eligible v3 episode:
 | Act7 셀 수 없는 삶 | EP280~327 | 48 | 0 | LOCKED_FUTURE |
 | Act8 한 명과 수많은 사람 | EP328~370 | 43 | 0 | LOCKED_FUTURE |
 | Act9 처음 가는 곳 | EP371~410 | 40 | 0 | LOCKED_FUTURE |
-| **Total** | **EP001~410** | **410** | **1** | |
+| **Total** | **EP001~410** | **410** | **2** | |
 
 `LOCKED_FUTURE` = designed and Canon-locked, but not the next manuscript episode.
 
@@ -151,10 +160,6 @@ Draft가 이 파이프라인을 통과해야만 Accepted로 계상된다.
 # 7. NEXT ACTION
 
 Eligible next action:
-**v3 EP002 manuscript execution** — requires a new explicit user instruction.
+**v3 EP003 manuscript execution** — requires a new explicit user instruction.
 
-Before drafting EP002, read `docs/manuscript/qa/V3-EP001-QA.md` §7 — nine carry-forward P2 items,
-including three hard ones: do **not** open on the not-X-but-Y cadence, use a **different** ending
-device, and stage the Old Works diagnostics base that EP001 left unrealized.
-
-# `IN PROGRESS / 1 of 410`
+# `IN PROGRESS / 2 of 410`
