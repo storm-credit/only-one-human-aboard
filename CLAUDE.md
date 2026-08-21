@@ -56,13 +56,13 @@ Current manuscript state:
 **`IN PROGRESS`**
 
 Active v3 manuscript:
-**2 / 410** — EP001~002 accepted (CHG-056, CHG-058)
+**3 / 410** — EP001~003 accepted (CHG-056, 058, 059)
 
 Historical v2 manuscript (frozen, preserved):
 **10 / 230** — `manuscript/accepted/` EP001~010. v3 라인으로 끌어오지 마라.
 
 Next eligible v3 episode:
-**EP003**
+**EP004** — 미라 POV (첫 비주인공 시점)
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.
 

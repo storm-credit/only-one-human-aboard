@@ -428,6 +428,39 @@
 
 ---
 
+## CHG-059 — v3 EP003 승인 (3 / 410) + 구조적 위험 2건 상환
+- Date: 2026-08-22
+- Change Location:
+  - `manuscript/v3/{_work,accepted}/act01/EP003.md` 신설
+  - `docs/manuscript/qa/V3-EP003-QA.md` 신설
+  - `docs/manuscript/MANUSCRIPT-STATUS.md` 2/410 → **3/410**
+  - `DEEP-V3-EP003` → `REALIZED`, `DEEP-V3-EP004` lane 2에 실제 연속성 주입
+- 집필: Codex CLI. 심사: 읽기 전용 `episode-qa` **3회 독립 심사**. 판정: 오케스트레이터.
+- **이 화가 증명해야 했던 구조적 위험 2건, 둘 다 상환:**
+  - **밀폐 세계 질감 부채** — 두 화 동안 독자가 여기가 우주선인 줄 몰랐다. 설명 없이 이동·감각으로 청산.
+    부채를 갚은 문장: `미드링이라는 표시는 길이 아니라 몸의 높이를 먼저 바꿨다. 귀가 한 번 먹먹해졌다가 풀렸다.`
+  - **개인 이해관계 착지 시점** — 두 화 연속 90% 지점이었다. 이번엔 1번 문장, 4% 지점에서 가격까지 매김.
+- 수정 **16건 / 3차 개정**. r1 REPAIR(9) → r2 REPAIR(5+선택2) → r3 PASS.
+  - 무거운 것: 서술자 격언 5/1(EP002와 같은 퇴행) · M9 반어 화자 10:1 · 가족에게 삶이 없음 ·
+    `agency_requirement` 미이행(일이 1페이지에서 끝나 그를 다시 당기는 게 없음).
+  - 오케스트레이터가 지목한 서술자 개입 `제도 유머를 노린 문장이라면 실패한 쪽이었다` — 심사자 확인 후 통째 삭제.
+- **심사자 자기 수정 2건** (기록 가치 있음):
+  - r1의 "S5 과분할" 판정을 r2에서 **철회**. S5에 1번 문장에서 세운 욕망의 죽음이 있어 합치면 둘 다 무뎌진다.
+  - r2의 "R16이 훅을 EP003 원인으로 승격시킨다"를 r3에서 **과장이었다고 정정**.
+    실제로는 결과의 *시작*이 아니라 *지속*에 공동책임을 지우는 것(duration link).
+- **오케스트레이터 판단 3건**: R9를 Option A(같은 날)로 선택 → 심사자가 자기 기본안보다 낫다고 재평가
+  (EP002의 `"퇴근 통로도 조금 밀리겠는데요"` 가 Day 3이면 미지급, 같은 날이면 80줄 뒤 지불).
+  R15/R16 선택 채택. R2·R9 결합으로 생긴 시점 모순은 직접 발견해 조정 후 검증 요청.
+- **M9 정책 문제 발생(결함 아님)**: 반어 화자 9 대 진심 4, 상한 2. framing test(`모두가 같은 재치로 말하면 실패`)는
+  **통과**. 더 깎으면 M4 전달 기제와 C1 장면 펀치를 잃는다. 심사자 판단: **M9 상한 2는 인물극용이며 군중극에는
+  맞지 않는다.** 정당한 초과로 기록하고 **배치 QA에서 정책 결정** — 한 줄짜리 단역에도 상한이 걸리는가?
+- 정량 7종 전부 상한 내. 부정-반전은 EP001 이후 처음으로 여유 확보(1/2).
+- Canon / Blueprint / POV / Reveal 변경: **0**. v2 트리 변경: **0**. 무결성 410/410.
+- 미결 스레드: **댐퍼 재교정 담당 칸 공란** — EP006까지 한 문장으로 채우거나 재배정할 것.
+- Status: **`EP003 ACCEPTED / v3 3 of 410 / EP004(미라 POV) 대기`**.
+
+---
+
 # Current Change-Control Rule
 
 Current official world/character/narrative authority (**v3, promoted 2026-08-21**):
@@ -453,6 +486,6 @@ C2 refinement inside frozen ranges is allowed, but recurring/clue-bearing/causal
 promoted/logged before manuscript acceptance.
 
 Current manuscript state:
-**`IN PROGRESS`** — active v3 **2 / 410** (EP001~002 accepted); historical v2 **10 / 230** frozen.
+**`IN PROGRESS`** — active v3 **3 / 410** (EP001~003 accepted); historical v2 **10 / 230** frozen.
 
 원고 진척 수치의 정본은 `docs/manuscript/MANUSCRIPT-STATUS.md`.

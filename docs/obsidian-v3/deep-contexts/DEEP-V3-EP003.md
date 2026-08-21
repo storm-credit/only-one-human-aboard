@@ -5,8 +5,8 @@ episode: EP003
 router: CTX-V3-EP003
 schema: DEEP-CONTEXT-SCHEMA-v1
 context_kind: DEEP_PROJECTED
-projection_semantics: FORECAST_NOT_ACTUAL
-dynamic_actual: PENDING
+projection_semantics: REALIZED_FROM_ACCEPTED_PROSE
+dynamic_actual: REALIZED
 branch_state_namespace: H-A
 cross_branch_inheritance: BLOCKED_UNLESS_EXPLICIT
 microbundle_compile_cap: 5
@@ -122,12 +122,15 @@ Router: [[../contexts/CTX-V3-EP003]] · Episode: [[../episodes/EP-V3-003]]
 - next_episode_carry: switch causal ownership to Mira so her decision is shown independently.
 
 ## Dynamic Actual Placeholder
-realized_relationship_delta: PENDING
-realized_knowledge_delta: PENDING
-realized_material_delta: PENDING
-realized_world_institution_delta: PENDING
-realized_asset_lifecycle_delta: PENDING
-actual_next_episode_carry: PENDING
+State: **REALIZED 2026-08-22** (JIT from accepted prose).
+Source: `manuscript/v3/accepted/act01/EP003.md`. QA: `docs/manuscript/qa/V3-EP003-QA.md`.
+
+realized_relationship_delta: family baseline established as **lives, not just behavior** — 클라라(여섯 시 반 예약 두 팀), 나디아(학사일정), 마르틴(의자 다리), 사미르(아홉 시 시설 마감), 에바(9세). They ate without him and decided without him. The complaint register is fixed and non-melodramatic: `"네가 숫자를 말하면 늘 더 늦더라."` `보류` is now the household's own word for deferral (나디아 → 마르틴), deliberately NOT his workplace `제한 재개`. C01's EP002 unanswered `"괜찮아요?"` is carried and answered by consequence, not quip — he then deflects his mother and sister the same way, establishing a pattern.
+realized_knowledge_delta: reader now knows work/home separation, transit dependence, and that **city systems produce independent consequences that reach him before people do**. C01 learns nothing new about the case; the case is closed. What he learns is positional: `오늘은 작게 닫힌 쪽에 그가 서 있었다.`
+realized_material_delta: **L01 벨트 FOREGROUND achieved** — two durable spatial memories, the door closing at `00:09` and the ear-popping curve at the Midring radius change. M03 화물 터그 introduced BACKGROUND (the driver's child's hairpin is what is memorable, not the vehicle — `collectibility_job=NONE` honest). P01 필드케이스 HOLD, carried but never set down indoors. **Enclosed-world texture debt CLEARED** — 메리디언 named once, ceiling/pipes/lighting-panels, transparent wall curve, recirculated air, the `창이라고 부르는 좁은 화면`.
+realized_world_institution_delta: transit/logistics shown as an institution C01 cannot argue with — `현장 직원은 물류 우선순위 변경 권한 없음` posted on the wall, `그는 승객이었다` as his status. Belt dispatch and Mira's office both operate on their own authority. **무뇨스 established as a cross-shift contact** who messages him off-site. 공용식당 reservation-and-release system introduced (식권 계정, 할인권).
+realized_asset_lifecycle_delta: L01 `INTRODUCE → FOREGROUND` ✓. M03 `INTRODUCE / BACKGROUND` (3 uses — at the edge, hold down next). P01 `PERSIST / HOLD` ✓. **`댐퍼` shorthand adopted** as the normalization of EP002's `트랜스퍼 댐퍼` — natural in-house usage, no ledger slot consumed. New stable labels: **0**. Watch: 공용식당 ×2, 식권 계정 ×1, 간편식 판매대 ×2.
+actual_next_episode_carry: **the reroute is now in force** — `내일 06:00~14:00 벨트 남측 보행 통로 화물 우선 운용. 올드웍스 접근자는 미드링 4번 환승 후 북측 통로 이용. 예상 추가 이동 17분.` Issued by Mira's office; **EP004 switches causal ownership to her and must show that decision being made on its own terms.** **OPEN THREAD — `댐퍼 재교정 담당 칸은 여전히 비어 있었다.`** C01 was asked to nominate an owner and did not. Neither EP004 nor EP005 schedules a close; **fill or reassign in one sentence by EP006** or it becomes a reader-tracked thread, which `Clue: NONE` cannot afford.
 
 ## Retrieval Compile Map
 1 EP003 Blueprint. 2 commute/family continuity. 3 C01 + family/Mira influence. 4 L01/Midring/transit. 5 L01 only foreground; no clue chain.
