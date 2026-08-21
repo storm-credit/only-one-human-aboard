@@ -297,5 +297,5 @@ Family architecture: **PASS from prior closure**.
 Family surface names/details: **PASS CANDIDATE AFTER AUDITORY PATCH**.
 Protagonist hobby: **LEADING CANDIDATE — Rebound spectator/amateur**.
 
-Protagonist and household names are frozen (CHG-055); remaining minor labels stay replaceable C2 surface values until protagonist final-name approval.
+Protagonist and household names are frozen (CHG-055). Remaining minor labels — the hobby line above, district shorthand — stay replaceable C2 surface values.
 This document performs no Canon promotion by itself; v3 was promoted by CHG-055.

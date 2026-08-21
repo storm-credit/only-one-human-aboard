@@ -57,10 +57,29 @@ stale_if_changed:
 ```
 
 Hard:
-- `dynamic_actual` is always `PENDING` until JIT pre-draft freeze.
 - `PENDING` means unknown future realized state.
 - `NONE_AUTHORIZED` means intentionally no active item.
 - never use `NONE` when a realized fact is merely unknown.
+
+## Two node states (CHG-057)
+
+A node is in exactly one of two states, and the **frontmatter must declare which**.
+This declaration is the guard that prevents a forecast from silently becoming actual continuity.
+
+| State | `projection_semantics` | `dynamic_actual` | six `realized_*` fields |
+|---|---|---|---|
+| Forecast (default) | `FORECAST_NOT_ACTUAL` | `PENDING` | all six **must** be `PENDING` |
+| Realized (post-acceptance) | `REALIZED_FROM_ACCEPTED_PROSE` | `REALIZED` | all six **must** carry actual values |
+
+Transition happens **only after** the episode's prose is accepted. A node may declare
+`REALIZED` only if `manuscript/v3/accepted/actXX/EPxxx.md` actually exists — `tools/deep_context_integrity.py`
+enforces this, so the claim cannot be made on an undrafted episode.
+
+Realized content is compiled from the accepted prose, not from the forecast. Where the two
+disagree, **the prose is what happened** and the forecast was simply a projection.
+
+The next episode's node consumes this through Retrieval lane 2 (`Immediate Continuity`), which is
+why lane 2 is specified as `actual/JIT + forecast` rather than forecast alone.
 
 ---
 

@@ -67,5 +67,5 @@ Hard:
 - Deep Projected = 410/410
 - future Dynamic / Actual = intentionally PENDING / JIT
 
-Official Canon remains **v2 + Amendment A** until explicit v3 promotion.
+Official Canon = **v3**, promoted 2026-08-21 (CHG-055). v2 + Amendment A = frozen historical edition.
 No prose has been authorized by this materialization.

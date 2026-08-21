@@ -35,9 +35,9 @@ Hard:
 - no author-only ontology vocabulary before its reveal gate,
 - no surname/given-name alternation for stylistic variety.
 
-Current leading protagonist call-name if approved later:
-`루카스`.
-Until approval, episode documents may continue to use `주인공/TBD` internally.
+Protagonist reader-facing call-name:
+`루카스` — **APPROVED / FROZEN 2026-08-21 (CHG-055)**.
+Full name 루카스 켈러. The `주인공/TBD` placeholder is retired; do not reintroduce it.
 
 ---
 

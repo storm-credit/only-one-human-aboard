@@ -32,6 +32,13 @@ Router: [[../contexts/CTX-V3-EP002]] · Episode: [[../episodes/EP-V3-002]]
 - router_ancestry_ref: `VOL-V3-01 / SA-V3-1A / BEAT-V3-B01`.
 
 ## Projected Incoming
+- **ACTUAL previous-episode continuity (JIT, from accepted EP001 — supersedes the forecast below):**
+  - crack proven to be consequence; fretting on 2 of 6 bolts at the 3-4 joint is the local mechanism;
+  - the real open question is a **step change in the amplitude curve ~2 months ago** that progressive loosening cannot explain;
+  - C01's own report already fences his judgement to the lower observation range (`상부 접합부 미확인`);
+  - C01 ended EP001 asking what changed on this line two months ago — `"배차든 장비든"`. **EP002 is the 장비 half.**
+  - Niko was refused the upper service run on **credential** grounds (자격표식), not competence — Gideon made C01 say so out loud. Niko has a belt-dispatch contact and knows they resent being asked.
+  - C01 withheld public credit from Niko in EP001 (recorded his initials privately). That debt is still unpaid and belongs to EP007 — do **not** pay it here.
 - previous_episode_forecast: 표면 균열은 결과일 가능성이 높고 upstream load source를 확인해야 함.
 - previous_beat_carry: work triangle + causal reconstruction method.
 - subact_entry_condition: routine work remains routine.

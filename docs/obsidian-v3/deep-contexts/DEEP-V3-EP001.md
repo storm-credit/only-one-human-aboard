@@ -5,8 +5,8 @@ episode: EP001
 router: CTX-V3-EP001
 schema: DEEP-CONTEXT-SCHEMA-v1
 context_kind: DEEP_PROJECTED
-projection_semantics: FORECAST_NOT_ACTUAL
-dynamic_actual: PENDING
+projection_semantics: REALIZED_FROM_ACCEPTED_PROSE
+dynamic_actual: REALIZED
 branch_state_namespace: H-A
 cross_branch_inheritance: BLOCKED_UNLESS_EXPLICIT
 microbundle_compile_cap: 5
@@ -114,12 +114,15 @@ Router: [[../contexts/CTX-V3-EP001]] · Episode: [[../episodes/EP-V3-001]]
 - next_episode_carry: continue one layer upstream without converting case into mystery.
 
 ## Dynamic Actual Placeholder
-realized_relationship_delta: PENDING
-realized_knowledge_delta: PENDING
-realized_material_delta: PENDING
-realized_world_institution_delta: PENDING
-realized_asset_lifecycle_delta: PENDING
-actual_next_episode_carry: PENDING
+State: **REALIZED 2026-08-21** (JIT from accepted prose).
+Source: `manuscript/v3/accepted/act01/EP001.md` (ACCEPTED). QA: `docs/manuscript/qa/V3-EP001-QA.md`.
+
+realized_relationship_delta: work triangle established on-page. C01↔C07 — Gideon refuses endorsement and demands argument (`"그건 논증이야. 아까 건 그냥 자신감이었고."`), and corrects C01's framing of the refusal: the reason is *authority*, not Niko's competence. C01↔C08 — overcontrol seed planted as **withheld credit**: C01 privately records Niko's initials beside the reconstruction and does not say it aloud (`니코는 못 봤다`). The public credit beat is deliberately **unspent** and still belongs to EP007.
+realized_knowledge_delta: crack confirmed as consequence, not cause. Fretting on 2 of 6 bolts at the 3-4 joint → loosening → load path shifted → two-directional load → crack tip bent 6° → instrument amplitude rose last. **Open**: the six-month amplitude curve contains a step change ~2 months ago that progressive loosening alone cannot produce. C01 explicitly states the limit in the report: `상부 접합부 미확인. 본 판단은 하부 관측 범위로 한정됨.`
+realized_material_delta: P01 필드케이스 + P02 손상 마킹 established as C01's work signature, closing on `딸깍, 두 번. 늘 두 번이다.` M01 구조 크롤러 and M02 매핑 드론 used functionally, no lore. L05 올드웍스 3구획 is the baseline worksite.
+realized_world_institution_delta: 무뇨스 감독관 (C2 walk-on, ops supervisor) established — schedule authority, signs off, has her own near-miss history. Shutdown scoped to 3구획 only; freight resumed from evening. Credential rule established on-page: the upper service run needs a 자격표식 that **neither** C01 nor Niko holds, and the qualified person is not on site (2-hour callout).
+realized_asset_lifecycle_delta: P01/P02 `INTRODUCE → FOREGROUND` as one unit. M01/M02 `INTRODUCE / BACKGROUND` (M01 trended slightly high — hold down next). L05 `RECOGNIZE / BACKGROUND`. **P05 자격표식 `INTRODUCE` — unplanned**, retained on merit because it carries the authority-limit MUST; log to the asset lifecycle matrix.
+actual_next_episode_carry: C01 will pursue **what changed on this line two months ago — `"배차든 장비든"`**. Two live threads: (a) equipment, (b) belt dispatch scheduling. Gideon's warning stands: `"배차실 사람들한테는 그 눈으로 보지 마. 걔넨 금 못 봐."` Niko has a personal contact in belt dispatch and says they hate being asked. **EP002 takes the equipment thread (transfer damper); the dispatch thread stays open.**
 ## Retrieval Compile Map
 1. Episode Card → exact EP001 Blueprint only.
 2. Immediate Continuity → Projected Incoming + JIT actual when available.

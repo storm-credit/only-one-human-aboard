@@ -42,7 +42,7 @@ Legend:
 
 | ID | Character | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 | A9 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| C01 | Protagonist TBD | P | P | P | P | P | P | P | P | P |
+| C01 | 루카스 켈러 | P | P | P | P | P | P | P | P | P |
 | C02 | Mira Solano | P | P | P | P | S | P | S | S | P |
 | C03 | Selene Adebayo | S | P | S | P | S | P | S | S | P |
 | C04 | Rafi Chen | S | P | L | S | S | P | S | S | P |
@@ -63,7 +63,7 @@ Hard:
 
 ---
 
-# 2. C01 — Protagonist TBD
+# 2. C01 — 루카스 켈러 / Lukas Keller
 
 Invariant:
 - hull/structural damage analyst,
